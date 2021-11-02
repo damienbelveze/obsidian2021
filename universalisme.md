@@ -16,7 +16,7 @@ Tour d'horizon...
 
 voir aussi ce qui concerne les [[politiques identitaires]]
 
-A l’origine, l’[[intersectionnalite]] est un procédé de sociologie "critique» utilisé pour rendre manifeste la situation particulière d’individus qui cumulent les discriminations (couleur/genre//classe, etc)
+A l’origine, l’[[intersectionnalite]] est un procédé de *sociologie critique* utilisé pour rendre manifeste la situation particulière d’individus qui cumulent les discriminations (couleur/genre//classe, etc)
 
 Issu de l’[[afrofeminisme]], il répond à un problème juridique : l’obligation de préciser en droit US la nature de la discrimination subie- le genre ou la couleur ? Les situations de discriminations conjointes (femme + noire) sont déboutées.
 Le concept fait florès dans les universités américaines, épouse d’autres mouvements jusqu’à métaboliser les groupes d’action collective contre les discriminations en communautés identitaires, fermées, "non-mixtes".

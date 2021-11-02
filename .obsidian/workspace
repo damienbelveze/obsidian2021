@@ -4,13 +4,47 @@
     "type": "split",
     "children": [
       {
+        "id": "2d8c79715842c76e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "universalisme.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "99cc38bc1bdaa153",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "universalisme.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
         "id": "127c5492ce66df90",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "universalisme.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "group": "45659daf84adb97d"
@@ -169,7 +203,7 @@
     "width": 272,
     "collapsed": true
   },
-  "active": "ae49554e96c1bb9e",
+  "active": "127c5492ce66df90",
   "lastOpenFiles": [
     "universalisme.md",
     "Conference de Henri Atlan.md",
