@@ -1,0 +1,20 @@
+---
+title: Solutionnisme technologique
+subtitle:
+author: Damien Belvèze
+date: 20210513
+link_citations: true
+aliases: [solutionnisme]
+---
+
+Concept développé par [[Evguéni Morosov]] pour désigner toute politique qui présente la technologie comme la solution à un problème social, sans prise en compte des effets réels (positifs ou négatifs) de cette technologie sur l'ensemble de la société.
+
+On peut citer par exemple les [[Caméras de surveillance|caméras de surveillance]] comme solution alléguée à la délinquance, la [[surveillance sous la peau]] ou l'[[informatique affective]] comme solutions pour repérer les personnes en hyptertension ou suicidaires,  l'application [[StopCovid|TousAntiCovid]] comme solution à la pandémie du [[COVID-19]] ou encore la croyance que de nouvelles technologies vont voir le jour qui vont nous permettre de régler la questions du [[changement climatique]] en nous faisant produire de l'énergie avec moins d'émissions de gaz à effet de serre. 
+
+> La technologie est la réponse. Mais quelle est la questiion ?
+
+(Cécil Price)
+
+La députée Paula Forteza a proposé une convention citoyenne, à l'instar de celle sur le climat pour juger la légalité, l'efficacité et l'acceptabilité sociale de chaque outil numérique proposé par le gouvernement à des fins de surveillance ou de contrôle (boîtes noires, algorithmes de surveillance, drones, [[reconnaissance faciale]], etc[[@ManachTroispistespour2021]]) 
+
+Une partie non négligeable des problèmes que la technologie prétend résoudre est issue de l'utilisation de ces technologies, or comme le disait Einstein "on ne résoud pas les problèmes avec les modes de pensée qui l'ont engendré". Il faut chercher la résolution du problème dans une mobilisation de tous les acteurs et sur un plan plus large que la simple innovation technologique. 

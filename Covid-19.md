@@ -1,0 +1,1 @@
+maladie causée par le Sars-Cov-2 et apparue dans le monde à Wuhan à l'automne 2019

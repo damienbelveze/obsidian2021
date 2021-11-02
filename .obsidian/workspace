@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "7031b6917e82a591",
+    "type": "split",
+    "children": [
+      {
+        "id": "127c5492ce66df90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "universalisme.md",
+            "mode": "preview"
+          }
+        },
+        "group": "45659daf84adb97d"
+      },
+      {
+        "id": "ae49554e96c1bb9e",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "universalisme.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "45659daf84adb97d"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9e8ccabff5d2646",
+    "type": "split",
+    "children": [
+      {
+        "id": "909953b1df91eeb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f1b4dafbdc3a34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d47f7e831437a746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "universalisme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 192
+  },
+  "right": {
+    "id": "7f36bb58d7e8a0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "474dfcbf5b59ecac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324663bba8d7c6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "universalisme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "964981640dee7bd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "88fd958b4cd16562",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "58253546e490378d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "4d91cc458a21b377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc48893f65508ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272,
+    "collapsed": true
+  },
+  "active": "ae49554e96c1bb9e",
+  "lastOpenFiles": [
+    "universalisme.md",
+    "Conference de Henri Atlan.md",
+    "théorie complotiste.md",
+    "manga.md",
+    "Assange, Julian.md",
+    "sites en onion.md",
+    "references/@SchepmanPollutionmonvoisin2021.md",
+    "principe de précaution.md",
+    "references/@BronnerPerceptionsrisqueprecautionnisme2012.md",
+    "biais d'intentionnalité.md"
+  ]
+}

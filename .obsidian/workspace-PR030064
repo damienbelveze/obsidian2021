@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "7031b6917e82a591",
+    "type": "split",
+    "children": [
+      {
+        "id": "4566fe64e9bd0273",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "théorie complotiste.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c558791a503bfe6f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "théorie complotiste.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8ad9772ca550781d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "théorie complotiste.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9e8ccabff5d2646",
+    "type": "split",
+    "children": [
+      {
+        "id": "909953b1df91eeb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f1b4dafbdc3a34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d47f7e831437a746",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 193.00000190734863
+  },
+  "right": {
+    "id": "7f36bb58d7e8a0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "474dfcbf5b59ecac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324663bba8d7c6ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "théorie complotiste.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "964981640dee7bd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "3e2de825a0027d68",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a13f6902ba2f923e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "88fd958b4cd16562",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "58253546e490378d",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "4d91cc458a21b377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc48893f65508ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272
+  },
+  "active": "8ad9772ca550781d",
+  "lastOpenFiles": [
+    "théorie complotiste.md",
+    "biais d'intentionnalité.md",
+    "references/@Mottadeferlantecomplotisteou2021.md",
+    "StopCovid.md",
+    "Empathie.md",
+    "Biais cognitifs.md",
+    "Biais de confirmation.md",
+    "Expérience de Wason.md",
+    "mdnotes/DelouveeRepeterestpas2015_note biblio.md",
+    "répéter n’est pas croire.md"
+  ]
+}

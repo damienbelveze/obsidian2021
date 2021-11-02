@@ -1,0 +1,15 @@
+{
+  "showCLICommands": true,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": null,
+  "pdflatex": null,
+  "outputFolder": null,
+  "extraArguments": "--metadata bibliography=D:\\Home\\dbelveze\\Desktop\\mylibrary.bib --citeproc",
+  "exportFrom": "html"
+}

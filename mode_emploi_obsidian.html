@@ -1,0 +1,344 @@
+<p>&lt;!doctype html&gt;</p>
+<h1 id="pourquoi-utiliser-obsidian-pour-prendre-des-notes">1. Pourquoi utiliser Obsidian pour prendre des notes ?</h1>
+<h2 id="avantages">1.1 avantages</h2>
+<ul>
+<li><p>hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF- sont dans un coffre (<em>Vault</em>, dans le langage d’Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement “Vault” par “coffre.”</p></li>
+<li><p>format ouvert des notes ([[markdown]] = format universel, contrairement à Evernote)</p></li>
+<li><p>Pas dépendant d’un éditeur (contrairement à Org-roam pour emacs)</p></li>
+<li><p>Nombreuses possibilités de recherche dans les notes (par fichier, par mot dans la note, par mot dans la section de la note, par tag…) (voir [<span class="citation" data-cites="CaseObsidiananswernotetaking2021">(Case 2021)</span>])</p></li>
+<li><p>Importance des rétroliens (combien de notes citent une même note). Cela permet de faire des associations d’idées et des graphes</p></li>
+<li><p>possibilité d’avoir dans un même endroit des notes et des fichiers divers (code, images, vidéos) et de pouvoir lier ces notes et ces fichiers entre eux.</p></li>
+</ul>
+<h2 id="limites">1.2 limites</h2>
+<ul>
+<li>pas encore d’app pour Android ou Iphone</li>
+<li>logiciel propriétaire, mais une bonne partie du code est en opensource et surtout la communauté des utilisateurs développe un grand nombre de codes en open source</li>
+</ul>
+<h2 id="intérêt-cognitif">1.3 intérêt cognitif</h2>
+<p>Le monde du web est celui de la réplication et du copier-coller. Pour autant copier-coller un texte lu est une facilité qui nous empêche de nous approprier son contenu.</p>
+<p>Plutôt que de copier-coller un texte qui nous intéresse dans un un outil comme Obsidian, il est nettement préférable de le reformuler avec ses propres mots, comme si on voulait l’expliquer à une personne qui ne dispose pas de la source. On s’assure ainsi qu’on a bien compris soi-même le sens du texte en reliant la nouveauté que constitue pour nous l’énoncé du texte avec ce qu’on sait déjà et avec notre contexte d’apprentissage.</p>
+<p>Le passage par l’écriture facilite non seulement l’apprentissage mais aussi la réflexion et la conscientisation, y compris de ses émotions (<a href="https://www.reddit.com/r/Zettelkasten/comments/ob6htk/tip_using_your_own_words/">voir cette discussion</a> sur reddit).</p>
+<p>Il est donc important de restreindre les citations aux passage où l’auteur résume sa pensée de manière particulièrement marquante.</p>
+<p>En reliant entre elles ces notes prises au fil de l’eau à la faveur de lectures, Obsidian permet de structurer sa pensée et peut éventuellement amener à des rapprochements inédits entre des concepts qui sont en relation au départ avec des contextes différents (valeur heuristique de ces graphes de notes)</p>
+<h1 id="la-méthode-de-prise-de-notes-zettelkasten">2. La méthode de prise de notes Zettelkasten</h1>
+<p>Voir [[zettelkasten (méthode)]]</p>
+<h1 id="rédiger-ses-notes-en-markdown">3. Rédiger ses notes en [[markdown]]</h1>
+<h2 id="titres">3.2 titres</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">MD</th>
+<th style="text-align: center;">niveau de titre</th>
+<th style="text-align: center;">HTML</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"># titre 1</td>
+<td style="text-align: center;">titre de niveau 1</td>
+<td style="text-align: center;">&lt;h1&gt;</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">## titre 2</td>
+<td style="text-align: center;">titre de niveau 2</td>
+<td style="text-align: center;">&lt;h2&gt;</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">### titre 3</td>
+<td style="text-align: center;">titre de niveau 3</td>
+<td style="text-align: center;">&lt;h3&gt;</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">#### titre 4</td>
+<td style="text-align: center;">titre de niveau 4</td>
+<td style="text-align: center;">&lt;h4&gt;</td>
+</tr>
+</tbody>
+</table>
+<h2 id="tableaux-et-indentation">3.3 tableaux et indentation</h2>
+<p><strong>Code :</strong></p>
+<p>| colonne A | colonne B | colonne C | |:---:|:---|---:| |centre|aligné gauche |aligné droite</p>
+<p>** résultat :**</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">colonne A</th>
+<th style="text-align: left;">colonne B</th>
+<th style="text-align: right;">colonne C</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">centre</td>
+<td style="text-align: left;">aligné gauche</td>
+<td style="text-align: right;">aligné droite</td>
+</tr>
+</tbody>
+</table>
+<p>Prendre en compte les espaces en début de phrase (pour une conversion en pdf avec Pandoc)</p>
+<p><strong>code :</strong></p>
+<figure>
+<img src="images/adonis.png" alt="respect des espaces en début de ligne" /><figcaption aria-hidden="true">respect des espaces en début de ligne</figcaption>
+</figure>
+<p><strong>résultat : </strong></p>
+<div class="line-block">Crépuscule<br />
+    La nature est en extase de crépuscule<br />
+Et son ode,<br />
+                             mon sang,<br />
+Un océan brûlant s’enroule, recommençant ses vagues<br />
+                 jusqu’à moi</div>
+<div class="line-block">                        (Adonis, <em>Ismaël</em>)</div>
+<h2 id="caractères">3.3 caractères</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;">MD</th>
+<th style="text-align: center;">niveau de titre</th>
+<th style="text-align: center;">HTML</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">*</td>
+<td style="text-align: center;"><em>italiques</em></td>
+<td style="text-align: center;">&lt;i&gt;</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">**</td>
+<td style="text-align: center;"><strong>gras</strong></td>
+<td style="text-align: center;">&lt;b&gt;</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">~~</td>
+<td style="text-align: center;"><del>barré</del></td>
+<td style="text-align: center;">&lt;s&gt;</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">`</td>
+<td style="text-align: center;"><code>code</code></td>
+<td style="text-align: center;">&lt;code&gt;</td>
+</tr>
+</tbody>
+</table>
+<h2 id="liens-images-tags">3.4 Liens, images, tags</h2>
+<p>[bibliothèque](https://bibliotheques.univ-rennes1.fr )</p>
+<p>-&gt; <a href="https://bibliotheques.univ-rennes1.fr">bibliothèque</a></p>
+<p>![bibliothèque](https://bibliotheques.univ-rennes1.fr/sites/bibliotheques.univ-rennes1.fr/files/styles/max_2600x2600/public/medias/images/Sante-web.jpg?itok=S0Ax1GSa)</p>
+<p>ou</p>
+<p>![bibliothèque](images/BUVS.jpg)</p>
+<p>-&gt; <img src="images/buvs.jpg" alt="bibliothèque" /></p>
+<p>possibilité, comme pour un PDF de faire un glisser déposer du document dans la note.</p>
+<p>#tag Le dièse sans espace après = tag Possibilité de faire une recherche sur les tags uniquement. Possibilité d’afficher le volet des tags à droite (plugin principal <em>tag pane</em> : mettre en on et choisir un raccourci clavier. Les tags y apparaissent par défaut rangés par ordre de fréquence d’apparition dans les notes) On peut aussi définir ces tags dans le pavé YAML (voir plus bas), ce qui a l’avantage de ne pas les laisser apparaître dans le document quand celui-ci est exporté dans un format de publication (wiki, html, pdf, etc. )</p>
+<h2 id="autres-langages-html-latex">3.5 autres langages (html, LaTeX)</h2>
+<p>Le markdown est une syntaxe très simple à apprendre et très versatile. Toutefois, ce n’est pas une syntaxe universelle. Pour éditer certains contenus, vous aurez besoin de faire appel à d’autres langages à l’intérieur de votre texte en markdown, notamment le Html ou le LaTeX (si vous avez téléchargé un éditeur LaTeX vous pourrez constater que le LaTeX et le Markdown font plutôt bon ménage dans Obsidian)</p>
+<h3 id="utilisation-du-latex">utilisation du LaTeX</h3>
+<p>On peut encapsuler du LaTeX entre deux <strong>$</strong></p>
+<p>$67\sqrt{\prod_{67}^{4}}\Rightarrow \mathrm{C}_{56}^{’}$</p>
+<p>donne :</p>
+<p><span class="math inline">$67\sqrt{\prod_{67}^{4}}\Rightarrow \mathrm{C}_{56}^{'}$</span></p>
+<p>Cette formule ne correspond à rien, elle a été créée à partir d’un <a href="https://latexeditor.lagrida.com/">éditeur de formules en LaTeX</a> disponible en ligne</p>
+<h3 id="utilisation-du-html">utilisation du HTML</h3>
+<p>Pour changer la couleur du texte, on peut recourir à du html, par exemple :</p>
+<p><code>`&lt;font color="#cc241d"&gt;Texte en couleur&lt;/font&gt;`</code></p>
+<p>donne :</p>
+<p><font color="#cc241d"> Texte en couleur</font></p>
+<p>faire un saut de page nécessité l’inclusion de html</p>
+<p><code>&lt;div style="page-break-after: always visibility: hidden"&gt; \pagebreak &lt;/div&gt;</code></p>
+<p>Le contenu qui suit se trouvera sur la page suivante.</p>
+<div style="page-break-after: always visibility: hidden">
+
+</div>
+<p>L’image peut prendre trop d’espace sur la page. Dans ce cas, il convient de déterminer sa dimension pour qu’elle s’insère sans problème sur la page. Cela se fait au moyen des attributs HTML width ou heigth exprimés en valeur absolue (nombre de pixels ou relatives (pourcentage par rapport à la largeur ou à la hauteur de l’image initiale).</p>
+<p><code>![bibliotheque](images/buvs.jpg){ width=20% }</code></p>
+<p>réduit à 20% la largeur initiale de l’image (on ne touche pas à la hauteur pour garder les proportions).</p>
+<figure>
+<img src="images/buvs.jpg" style="width:20.0%" alt="bibliotheque" /><figcaption aria-hidden="true">bibliotheque</figcaption>
+</figure>
+<p>on peut évidemment définir cette largeur en pixels :</p>
+<p><code>![bibliotheque](images/buvs.jpg){ width=250px }</code> réduit la largeur de l’image à 100 pixels</p>
+<figure>
+<img src="images/buvs.jpg" width="250" alt="bibliotheque" /><figcaption aria-hidden="true">bibliotheque</figcaption>
+</figure>
+<p>Quant à l’alignement du texte, cela peut se traiter avec des lignes de HTML insérées dans le document ou bien en renvoyant vers un fichier CSS, <a href="https://stackoverflow.com/questions/255170/markdown-and-image-alignment">comme le suggère cet internaute</a>.</p>
+<p><span> <img style="float: right;" src="images.buvs.jpg"> </span></p>
+<h1 id="les-plugins-dobsidian">4. Les plugins d’Obsidian</h1>
+<p>La richesse d’Obsidian tient au nombre en croissance rapide des plugins qui rendent cet outil adaptable à un grand nombre de tâches.</p>
+<p>Il existe deux types de plugins :</p>
+<ul>
+<li>Les plugins par défaut</li>
+<li>Les plugins communautaires</li>
+</ul>
+<p>Les premiers sont installés en même temps qu’Obsidian, il ne reste plus qu’à les activer si on souhaite s’en servir.</p>
+<p>Les seconds nécessitent la désactivation du mode sans échec (aller dans les paramètres &gt; plugins tiers &gt; désactiver le mode sans échec). A partir de là, pour trouver un plugin communautaire :</p>
+<ul>
+<li>soit on passe par le catalogue des plugins depuis Obsidian (parcourir la liste des plugins communautaires)</li>
+<li>soit on va chercher le plugin sur github, là où il a été déposé par le concepteur. C’est sur github, par exemple, qu’on doit aller chercher le plugin qui permet de faire un export d’une note depuis Obsidian en PDF à l’aide de Pandoc.</li>
+</ul>
+<p>Quelque soit le type de plugin, on peut paramétrer leur utilisation dans les paramètres une fois qu’il a été installé et activé (dans les Paramètres, descendre jusqu’au menu <em>option des plugins</em>)</p>
+<p>Il est très utile de paramétrer des <strong>raccourcis-clavier</strong> pour chaque fonctionnalité appartenant ou non à un plugin. Cela fait gagner beaucoup de temps au quotidien (paramètres &gt; options &gt; raccourcis-clavier ; chercher la fonctionnalité par son nom et lui associer une combinaison de touches ; par exemple créer un graphique local à partir de la note ouverte = shift+Ctrl+G).</p>
+<h2 id="les-plugins-par-défaut">4.1 Les plugins par défaut</h2>
+<p>Les plugins par défaut font partie du coeur d’Obsidian. Pour les activer les utiliser, aller dans les paramètres (icone roue) et sélectionner les <em>plugins principaux</em></p>
+<p>Seuls deux plugins correspondent à une option payante d’Obsidian : la publication des notes sur le serveur d’Obsidian et leur synchronisation avec les notes hébergées en local.</p>
+<p>Voici une revue de quelques plugins installés par défaut :</p>
+<h3 id="explorateur-de-fichiers">Explorateur de fichiers</h3>
+<p>L’explorateur de fichiers permet de naviguer dans les fichiers de votre coffre à l’endroit où celui-ci est hébergé.</p>
+<h3 id="vue-graphique">Vue graphique</h3>
+<p>La vue graphique vous permet de visualiser l’ensemble de vos notes et des liens qui les unissent sous la forme d’un graphe. Lorsque les notes ne sont pas liés à quelques projets, cette constellation devient vite illisible.</p>
+<figure>
+<img src="images/graphe_obsidian.png" alt="vue graphique globale" /><figcaption aria-hidden="true">vue graphique globale</figcaption>
+</figure>
+<p>Bien entendu, on peut zoomer sur telle ou telle partie, mais ça devient vite confus au bout d’un moment.</p>
+<p>pour visualiser les notes connexes à la note de son choix, il suffit de laisser la souris sur cette note</p>
+<figure>
+<img src="images/selection_graphe.png" alt="liens entre les notes" /><figcaption aria-hidden="true">liens entre les notes</figcaption>
+</figure>
+<p>Les points de couleur représentent le statut de la note :</p>
+<p>(couleurs par défaut) bleu : images marron : tags gris clairs : notes avec texte gris foncées : notes sans texte (seul le titre existe, créé dans une autre note par du texte mis entre accolades). Ces notes restent à rédiger. On peut assigner aux tags d’autres couleurs que la couleur marron qui est celle par défaut.</p>
+<p>Pour cela se positionner dans la vue graphique, cliquer sur la roue crantée et sélectionner nouveau groupe. Pour visualiser toutes les références (notes commençant par un @), on peut par exemple fixer une couleur particulière au groupe **file:<span class="citation" data-cites="*"></span>*</p>
+<figure>
+<img src="images/couleur_tags.png" alt="couleur des tags" /><figcaption aria-hidden="true">couleur des tags</figcaption>
+</figure>
+<p>Plus intéressante est la possibilité d’ouvrir un graphe local à partir de la note (aller dans les raccourcis clavier pour paramétrer la combinaison de touches qui vous conviendra pour faire apparaître ce graphe)</p>
+<figure>
+<img src="images/graphe_local.png" alt="graphe local à partir de la note affichée" /><figcaption aria-hidden="true">graphe local à partir de la note affichée</figcaption>
+</figure>
+<p>On peut régler la taille du graphe en choisissant le nombre de degrés à partir du noeud que constitue la note affichée (de 1 à 6 degrés - ci-dessus, le nombre de degrés est fixé à 3 : “démiurge” est distant de 3 degrés de “islam”)</p>
+<p>Comme dans les outils de visualisation sous forme de graphe (par exemple Gephi), on peut régler la force du graphe, la taille des noeuds, caractériser les liaisons au moyen de flèches (quelle note cite quelle autre note)…</p>
+<h3 id="les-rétroliens">Les rétroliens</h3>
+<p>les rétroliens ou <em>backlinks</em> constituent la grande force des applications comme Roam, org-roam ou Obsidian. Quelque soit la note que vous affichez, si vous activez ce plugin, vous pourrez vous rendre facilement aux notes qui font référence à celle-ci au moyen des rétroliens en bas de page.</p>
+<h3 id="modèles">Modèles</h3>
+<p>Activer ce plugin, vous permettre de constituer des templates (voir ci-dessous)</p>
+<h3 id="diapositives">Diapositives</h3>
+<p>Il est très simple grâce à ce plugin de constituer des diapositives et les présenter à la place d’un document impress ou powerpoint.</p>
+<p>chaque diapositive est séparée de la précédente par trois tirets (---)</p>
+<h1 id="créer-des-modèles-templates">5. Créer des modèles (templates)</h1>
+<p>Les templates se trouvent dans un répertoire particulier à la racine du coffre. Rédiger un template en markdown et l’enregistrer à cet endroit</p>
+<p>Paramétrer un raccourci clavier pour faire apparaître le menu de sélection des templates.</p>
+<h2 id="utilité-des-templates-et-des-champs-de-métadonnées">5.1 Utilité des templates et des champs de métadonnées</h2>
+<p>Un template peut avoir des champs pré-remplis à l’instar d’une fiche :</p>
+<p><em>lieu du rendez-vous ou lien de la visio : date du rendez-vous : heure du rendez-vous : participants : sujets :</em></p>
+<p>ou encore (par exemple pour une note de lecture)</p>
+<p><em>titre de l’ouvrage : auteur : année d’édition : résumé : mon appréciation personnelle sur l’ouvrage : intérêt par rapport à mon travail : </em></p>
+<p>Il peut s’agir aussi d’une configuration habituelle qu’on veut donner à nos notes, par exemple, cette configuration peut prendre en charge le pavé YAML</p>
+<h2 id="yaml">5.2 YAML</h2>
+<p>…n’est pas seulement un nouveau format de balises comme le veut son acronyme (yet another markup language). Il s’agit d’un espace qui va recueillir toutes les métadonnées importantes du document.</p>
+<p>Le YAML frontmatter (frontispice ou pavé YAML) se présente en tout début de document (ne rien entrer avant) et est délimité par deux séries de trois hyphens (tirets moyens)</p>
+<p>exemple de pavé YAML</p>
+<p>--- <strong>title:</strong> Mode d’emploi d’obsidian <strong>subtitle:</strong> Comment prendre efficacement des notes pour sa thèse <strong>date:</strong> 21/06/2021 <strong>author:</strong> Damien Belvèze <strong>affliliation:</strong> Université de Rennes 1 <strong>toc:</strong> true <strong>toc-title:</strong> table des matières <strong>link-citations:</strong> true <strong>bibliography:</strong> mabiblio.bib <strong>biblio-style:</strong> nature.csl <strong>tags:</strong>[tag1, tag2, tag3] <strong>aliases:</strong>[alias1, alias2, alias3] ---</p>
+<ul>
+<li><p>les valeurs inscrites en tant que titre, sous-titre, nom de l’auteur et date, vont au moment de la conversion avec Pandoc constituer la page de titre</p></li>
+<li><p>si toc (table of content) reçoit la valeur <em>true</em>, une table des matières sera générée.</p></li>
+<li><p>si <em>link-citations</em> reçoit la valeur <em>true</em>, les liens seront cliquables dans le format de sortie (html ou pdf)</p></li>
+<li><p>les champs bibliography et biblio-style règlent les aspects bibliographiques.</p></li>
+<li><p><em>bibliography</em>: spécifier le chemin absolu (C:/…./fichier.bib) ou relatif (references/fichier.bib) vers le document qui contient les références bibliographiques (un fichier .bib exporté de Zotero par exemple)</p></li>
+<li><p><em>biblio-style</em>: lien vers le fichier csl qui contient les règles de présentation de la bibliographie (par exemple <a href="https://www.zotero.org/styles/nature?source=1">nature.csl</a>)</p></li>
+<li><p><em>tags</em>: permet d’ajouter des tags à la note. Ceux-ci ne seront pas visibles dans le document issu de la conversion</p></li>
+<li><p><em>aliases</em>: cette fonctionnalité ajoutée à la version 0.9 est très importante : elle permet de lier les notes entre elles sans pour autant respecter exactement la forme sous laquelle se présente le titre de la note. Par exemple, dans une note intitulée “féminisme,” ajouter comme alias <em>féministe</em>, <em>féministes</em>, <em>féminismes</em> permettra de faire un lien vers cette note à partir d’autres notes où apparaîtront les noms <em>féminisme</em> (au singulier et au pluriel) et <em>féministe</em> (au singulier et au pluriel). Cela permet également de gérer la polysémie de certains termes dans l’organisation de ses notes.</p></li>
+</ul>
+<h1 id="inscrire-son-quotidien-dans-obsidian">6. Inscrire son quotidien dans Obsidian</h1>
+<p>Si l’on souhaite que sa bibliothèque de notes dans Obsidian ne reflète pas seulement les documents et concepts relatifs à sa thèse, mais qu’on veut y intégrer aussi des éléments de son organisation personnelle (todo list, notes journalières), Markdown permet de faire cela avec quelques plugins compémentaires.</p>
+<h2 id="todolists">6.1 Todolists</h2>
+<p>Obsidian n’est pas principalement conçu pour organiser ses tâches et gérer des <em>todo lists</em>, mais on peut néanmoins adapter cet outil à cette fin dans une certaine mesure.</p>
+<ul>
+<li>tâche à effectuer avant le 6 décembre 2021</li>
+</ul>
+<p>- [ ] tâche &gt; 2021-12-6</p>
+<ul>
+<li><p><input type="checkbox" disabled="" />
+tâche &gt; 2021-12-6</p></li>
+<li><p>tâche effectuée</p></li>
+</ul>
+<p>- [ x ] tâche &gt; 2021-12-6</p>
+<ul class="task-list">
+<li><input type="checkbox" disabled="" checked="" />
+tâche &gt; 2021-12-6</li>
+</ul>
+<p>chercher dans l’explorateur une tâche à faire :</p>
+<p>“- [*]”</p>
+<h2 id="calendars">6.2 calendars</h2>
+<p>On peut afficher un calendrier dans Obsidian au moyen du plugin communautaire Calendar. Si cela fait sens pour vous, activer dans les paramètres du plugin calendar le nombre des semaines car il est désactivé par défaut. Cliquer sur une journée permet de créer une note relative à cette journée. Il est possible de créer un template pour les notes quotidiennes en indiquant son chemin dans les paramètres du plugin.</p>
+<figure>
+<img src="images/calendar.png" alt="revue des activités de la semaine" /><figcaption aria-hidden="true">revue des activités de la semaine</figcaption>
+</figure>
+<p>Obsidian vous permet si vous le souhaitez de créer des notes quotidiennes.</p>
+<h1 id="utiliser-zotero-avec-obsidian">7. Utiliser Zotero avec Obsidian</h1>
+<p>Prérequis : disposer de Zotero avec le plugin BetterBibTeX chargé. Avoir téléchargé Pandoc et un éditeur LaTeX sur sa machine. Si la version de Pandoc dont on dispose n’inclue pas le plugin pandoc-citeproc, charger ce plugin.</p>
+<ol type="1">
+<li><p>Charger dans Obsidian le <a href="https://github.com/hans/obsidian-citation-plugin/tree/0.1.3">plugin</a> <strong>Citations</strong> qui permet d’importer des données dans Zotero</p></li>
+<li><p>Comment charger un plugin dans Obsidian ? -Paramètres &gt; Plugins Tiers &gt; désactiver le mode sans échec -Pour ce plugin, chercher avec “Citations” -installer ce plugin</p></li>
+<li><p>Créer dans Obsidian votre espace de travail</p>
+<ul>
+<li>créer un dossier (intitulé Article)</li>
+<li>créer une note (qui deviendra le futur article à publier)</li>
+</ul></li>
+<li><p>Dans Zotero exporter la collection qui correspond aux références de l’article en la tenant à jour (appelons ce fichier references.bib). Enregistrer le fichier dans le dossier article sous un répertoire qu’on crée à l’occasion (par exemple en l’intitulant ‘references’)</p></li>
+<li><p>Dans les options du plugin, indiquer le nom du répertoire (‘références’) qui contient le fichier .bib provenant de Zotero. Indiquer le chemin relatif vers le fichier bib : /espacedetravail/references/references.bib Si le chemin est le bon, le nombre d’enregistrements du fichier bib devrait apparaître.</p></li>
+<li><p>Dans les Paramètres d’Obsidian &gt; raccourcis clavier, paramétrer un raccourci clavier pour insérer une citation en format markdown (Citations: insert markdown citation). Saisissons à cet endroit par exemple la combinaison de chiffres suivante : <strong>Shift + Ctrl + M</strong></p></li>
+<li><p>Dans l’article, pour insérer une citation, utiliser le raccourci clavier indiqué plus haut.</p></li>
+<li><p>Une fois toutes les références ajoutées, ouvrir dans l’explorateur le répertoire où se trouve le fichier dans lequel on a inséré ces références.</p></li>
+<li><p>Ouvrir un shell, taper la commande permettant à Pandoc de convertir ce document markdown en document PDF en utilisant le filtre pandoc-citeproc</p></li>
+<li><p>On obtient le PDF souhaité avec les références correctement représentées (appels de citation et bibliographie) selon le style choisi dans la commande pandoc.</p></li>
+</ol>
+<h1 id="changer-le-css">8. changer le CSS</h1>
+<p>une feuille de style CSS va définir pour un document en markdown comment va se présenter un titre 1 (# titre1), un titre 2 (## titre2), comment une image va être alignée par rapport au texte, comment les citations vont être présentées.</p>
+<p>Ce CSS peut être pris en compte lorsqu’on exporte la note d’obsidian vers un fichier HTML ou bien lorsqu’on visualise une note (aperçu en mode preview ou publication sur les serveurs d’Obsidian avec le plugin payant Publish)</p>
+<p>Si aucun chemin vers un fichier CSS n’est spécifié dans les métadonnées (YAML), Obsidian va appliquer la feuille de style CSS qui se trouve à la base du répertoire : - dans les paramètres d’Obsidian (apparence), vérifier que l’option <em>appliquer un css personnalisé</em> est cochée - ouvrir un éditeur de texte (bloc-note, notepad++, etc.) et éditez le CSS dont vous avez besoin. - enregistrer le fichier à la racine du répertoire sous le nom <strong>obsidian.css</strong></p>
+<p>A titre d’exemple, le code…</p>
+<p><code>h1 { color: #fe801a; }   h2 { color: #d79920; } h3 { color: #689d6a; }</code> …règle la couleur des titres.</p>
+<p>Il n’est pas question ici de créer un guide d’apprentissage du CSS, mais on peut trouver <a href="https://forum.obsidian.md/t/meta-post-css-themes/76">ici</a> des thèmes tout faits pour les notes et <a href="https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/master/Snippets">là</a> des <em>snippets</em>, autrement dit des bouts de code en CSS qui permettent d’obtenir un affichage personnalisé de certains éléments. Ces exemples peuvent être repris pour constituer une feuille de style CSS qui nous soit propre.</p>
+<h1 id="conversion-de-la-note-en-pdf">9. Conversion de la note en PDF</h1>
+<p>On peut éditer une note en PDF en utilisant la fonctionnalité interne d’Obsidian (exporter en PDF). En revanche, pour gérer certains aspects comme la bibliographie, on aura besoin d’utiliser Pandoc en lien avec LaTeX</p>
+<h2 id="pandoc">9.1 pandoc</h2>
+<p>Pandoc est le couteau-suisse de l’édition numérique. Il ne dispose pas à ce jour d’une interface graphique, mais les manuels d’utilisation ne manquent pas pour apprendre à taper les lignes de commande qui vous permettront d’obtenir le résultat souhaité.</p>
+<h3 id="avec-le-plugin-obsidian-pandoc">avec le plugin obsidian-pandoc</h3>
+<p>L’export du document de son format en markdown vers un format html, wiki, odt, doc, etc. Peut se faire avec pandoc et le plugin obsidian pour pandoc seuls.</p>
+<p>En revanche, pour faire une conversion et un export d’un document en md vers un PDF, il faut en outre télécharger LaTeX, ce qui peut prendre du temps.</p>
+<p>On part du principe que LaTeX est installé sur la machine :</p>
+<ol type="1">
+<li>installer la dernière version de pandoc</li>
+</ol>
+<p>Il est recommandé d’aller prendre le fichier zip de la dernière version disponible sur <a href="https://github.com/jgm/pandoc/releases">github</a> dézipper le fichier sur le bureau Afficher dans l’explorateur les fichiers cachés pour faire apparaître <em>appdata</em> dans le répertoire de l’utilisateur aller à C:user/username/.appdata/local/ couper le dossier pandoc sur le bureau et copier le dans .appdata/local/ vérifier que pandoc.exe fait partie des fichiers collés ansi que pandoc-citeproc</p>
+<ol start="2" type="1">
+<li>Installer dans Obsidian le plugin</li>
+</ol>
+<p>Prendre le code source sur <a href="https://github.com/OliverBalfour/obsidian-pandoc/releases">github</a> dézipper l’archive le sur le bureau. Aller à l’intérieur du répertoire, copier le dossier et le coller dans le répertoire du coffre (obsidian &gt; plugins), couper et coller ici le dossier obsidian-pandoc. Le répertoire à coller à cet endroit contient directement les fichiers du plugin dont le fichier main.js Comme pour les autres plugins, ne pas oublier de l’activer dans Obsidian dans la liste des plugins communautaires.</p>
+<ol start="3" type="1">
+<li>Paramétrer le plugin</li>
+</ol>
+<p>Définir avec un chemin absolu (D:/…Vault/export_pdf) un dossier dans lequel vont aller tous les fichiers exportés et convertis dans le format voulu</p>
+<p>Attention : même si LaTeX est correctement chargé sur la machine, l’export en PDF ne fonctionnera pas avec une version de Pandoc antérieure à 2.7. Sous Linux avec la commande apt-get, ce n’est pas toujours la dernière version ni même une version récente qu’on charge. Avec la commande pandoc -V bien vérifier qu’on a chargé la dernière version de Pandoc.</p>
+<p>Définir des raccourcis clavier pour les différents formats d’export Par exemple Ctrl+Alt+P pour un export en PDF, Ctrl+Alt+W pour un export en .doc, etc.</p>
+<h2 id="directement-avec-pandoc">9.2 Directement avec Pandoc</h2>
+<p>Ouvrir dans le dossier où se trouve la note le menu contextuel qui permet d’accéder à Powershell (sous Windows : sshift + clic-droit) ou ouvrir le terminal à cet endroit sous Linux. Pour Windows. - Windows : ouvrir l’interface de commande powershell - Windows ou Linux : copier-coller la commande suivante après avoir remplacé document.md et document.pdf par le nom de votre document. cliquer sur entrée</p>
+<p><code>pandoc 'document.md' --from html --to pdf --pdf-engine=xelatex --citeproc -f markdown+smart -o document.pdf</code></p>
+<p><strong>–from html –to pdf</strong> : convertit le produit HTML de la note Obsidian en PDF. Cela permet de convertir les liens internes au coffre ([[lien]]) en texte, ce qui ne serait pas possible si on convertissait directement à partir du Markdown.</p>
+<p><strong>–pdf-engine=xelatex</strong> : utilise le programme LaTeX que vous avez installé sur votre machine pour convertir le document en PDF</p>
+<p><strong>–citeproc -f markdown+smart</strong> : gère les références bibliographiques</p>
+<p>(prévoir un titre 1 bibliographie à la fin du document)</p>
+<h1 id="faire-un-backup-de-ses-notes-sur-github">10. Faire un backup de ses notes sur Github</h1>
+<ol type="1">
+<li>installer Git sur sa machine</li>
+<li>Se créer un compte sur github</li>
+<li>ouvrir github desktop</li>
+<li>créer un repository (new) depuis github desktop</li>
+<li>cloner ce repository n’importe où (dans un endroit où on se souviendra qu’il est), fermer le desktop de github</li>
+<li>dans l’explorateur Windows, afficher les dossiers cachés</li>
+<li>dans le répertoire cloné, couper le dossier .git</li>
+<li>aller dans le coffre, coller le dossier .git à la racine du coffre</li>
+<li>rouvrir le desktop de github. Normalement celui-ci indique qu’il ne retrouve pas le dossier .git du répertoire cloner, cliquer sur locate et sélectionner le coffre d’obsidian (sous lequel se trouve dorénavant git)</li>
+<li>normalement, github desktop indexe tous les fichiers du coffre</li>
+<li>faire un premier commit (entrer juste un titre de commit) et envoyer le commit</li>
+<li>installer git obsidian depuis le catalogue des plugins tiers dans Obsidian</li>
+<li>activer ce plugin</li>
+<li>ouvrir la palette (Ctrl+P), taper Git, choisir l’option “Commit and push all changes”</li>
+<li>aller sur le repository en ligne sur github, vérifier que tous les fichiers du coffre ont bien été envoyés (vérifier que l’envoi a bien été effectué)</li>
+<li>définir un raccourci clavier pour l’option “commit and push all changes”</li>
+</ol>
+<p><a href="https://github.com/gitobsidiantutorial/obsidian-git-tut-windows/blob/main/README.md">Source</a></p>
+</body>
+<h1 class="unnumbered" id="bibliographie">Bibliographie</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-CaseObsidiananswernotetaking2021" class="csl-entry" role="doc-biblioentry">
+Case, Elizabeth. 2021. <span>“Obsidian, the Answer to Note-Taking for the <span>PhD</span>?”</span> <span>Elizabeth Case</span>. January 24, 2021. <a href="https://elizabethcase.github.io/tools/ObsidianForPhDs.html">https://elizabethcase.github.io/tools/ObsidianForPhDs.html</a>.
+</div>
+</div>

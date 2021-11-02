@@ -1,0 +1,15 @@
+/* _taille de l'image      */
+/*-------------------------------------*/
+
+.callout { float: center; } 
+
+h1 { color: #ff0000; }  
+h2 { color: #FF6600; }
+h3 { color: #FFCC00; }
+
+/* _tiret à la ligne et justification      */
+/*-------------------------------------*/
+.cm-s-obsidian, .markdown-preview-view {
+  text-align: justify;
+  hyphens: auto;
+}
