@@ -361,6 +361,10 @@ Supposons que l'on souhaite laisser des commentaires pour orienter le sens de l'
 
 voici le texte à commenter \<\!\-\- commentaire de ce texte \-\-\>
 
+## inclure des graphiques dans les notes
+
+la bibliothèque en javascript mermaid.js permet d'inclure des graphiques (camemberts, diagrammes, flow charts, etc) dans une note. 
+Il existe de nombreux tutos consacrés à cet outil qu'il n'est pas nécessaire d'installer dans Obsidian. Voir ce [guide](https://www.mishacreatrix.com/knowledge-management-flow-diagram-in-obsidian) entre autres. Pour s'essayer à la construction de ces graphiques, on peut utiliser le site très utile https://mermaid.live
 
 # 4. Les plugins d'Obsidian
 
@@ -740,6 +744,8 @@ plus d'info sur [l'aide en ligne de pandoc](https://pandoc.org/MANUAL.html#optio
 
 # 10. Faire un backup de ses notes sur Github
 
+## 10.1  d'Obsidian à Github ou Gitlab
+
 1. installer Git sur sa machine
 2. Se créer un compte sur github
 3. ouvrir github desktop
@@ -761,6 +767,12 @@ plus d'info sur [l'aide en ligne de pandoc](https://pandoc.org/MANUAL.html#optio
 
 </body>
 
+On peut bien sûr envoyer le contenu de sa bibliothèque de notes et des documents qui l'accompagnent en utilisant Git directement depuis le dossier racine. Ce plugin facilite juste ce processus (un raccourci-clavier par rapport à l'envoi de quelques commandes dans le terminal de Git)
+
+## 10.2 de github ou gitlab à la publication de ses notes en ligne
+
+En théorie, il est possible de créer un site statique à partir de Github en utilisant netlify ou Jekyll comme gestionnaire de sites statique. Toutes les notes en markdown envoyées depuis Obsidian vers Github vont être disponibles depuis ce site et liées les unes aux autres par des liens hypertexte. 
+Après plusieurs tentatives avec Netlify, et en suivant plusieurs tutos dont [celui-ci](https://www.starfallprojects.co.uk/posts/obsidian-monorepo/), je ne suis pas encore parvenu à réaliser cette opération. A priori, elle rend inutile le fait d'obtenir ce service en publiant à ses frais ses notes sur les serveurs d'Obsidian (plugin publish d'obsidian)
 
 # Où trouve t-on de l'aide le plus souvent à propos d'Obsidian
 

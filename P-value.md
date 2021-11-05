@@ -1,4 +1,7 @@
-#données_recherche 
+---
+tags: "données de recherche"
+aliases: p-value, valeur p
+---
 
 Pour qu'il soit jugé statistiquement significatif, un résultat doit être conforme à la règle suivante : 
 

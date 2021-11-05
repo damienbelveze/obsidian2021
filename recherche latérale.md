@@ -9,7 +9,7 @@ aliases: [lateral reading, recherche périphérique, rechercher latéralement]
 
 La recherche latérale consiste devant un document web à ne pas passer trop de temps à investiguer le document lui-même mais à faire une recherche périphérique autour de ce document pour savoir ce que d'autres sites disent de la source qui a produit le document. 
 
-Une étude de Stanford[[@WineburgLateralReadingReading2017]], restée à l'état de preprint à ce jour a montré que cette méthode était plus efficace qu'une investigation prolongée du document et limitée à ses caractéristiques intrinsèques. 
+Une étude de Stanford[[@WineburgLateralReadingReading2017]], restée à l'état de [[preprint]] à ce jour a montré que cette méthode était plus efficace qu'une investigation prolongée du document et limitée à ses caractéristiques intrinsèques. 
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SHNprb2hgzU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

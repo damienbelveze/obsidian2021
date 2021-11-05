@@ -13,7 +13,7 @@ toute donnée récoltée dans le cadre d'un projet de recherche. Définition de 
 
 > _enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider des résultats de recherche_
 
-ce terme exclue dont les [[cahiers numériques|carnets de laboratoire]], les analyses préliminaires, les preprints, les working papers, les objets matériels pouvant être échangés entre collègues.
+ce terme exclue dont les [[cahiers numériques|carnets de laboratoire]], les analyses préliminaires, les [[preprint|preprints]], les working papers, les objets matériels pouvant être échangés entre collègues.
 
 distinctions possibles entre les types de données : 
 

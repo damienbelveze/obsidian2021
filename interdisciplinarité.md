@@ -75,3 +75,5 @@ During the pandemic, I've seen people struggle with with the question of who is 
 This kind of long-form content takes extra work so if you like it and want to show support, like and retweet the thread, and give me a follow! 🙂
 
 • • •
+
+https://twitter.com/Damkyan_Omega/status/1455879994543120390?t=-iCmhXheQPoOqO97pjDUQQ&s=09

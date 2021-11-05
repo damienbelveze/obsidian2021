@@ -34,7 +34,7 @@ contradicteurs : Stéphane Foucart dans les Gardiens de la raison[[@Foucartgardi
 
 11.  identifier les documents sur lesquels ils s’appuient
 
-Etudes dans le champ de la psychologie cognitive dans le cas des anti-précautionnistes
+Etudes dans le champ de la [[psychologie cognitive]] dans le cas des anti-précautionnistes
 
 Etudes sur le coût réel des catastrophes naturelles dans le cas des précautionnistes.
 
