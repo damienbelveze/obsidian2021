@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "7031b6917e82a591",
+    "id": "e2401ebbf1bc84b0",
     "type": "split",
     "children": [
       {
-        "id": "b0645d15e645fae0",
+        "id": "c0171f5bb82405a9",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -21,7 +21,7 @@
         }
       },
       {
-        "id": "a68b44ad8e146da4",
+        "id": "706fa843607164f2",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -38,7 +38,7 @@
         }
       },
       {
-        "id": "127c5492ce66df90",
+        "id": "c6c6deed6cd86030",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -46,44 +46,7 @@
             "file": "Mode d'emploi d'Obsidian.md",
             "mode": "source"
           }
-        },
-        "group": "45659daf84adb97d"
-      },
-      {
-        "id": "ae49554e96c1bb9e",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 3,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": true
-            }
-          }
-        },
-        "group": "45659daf84adb97d"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mode d'emploi",
+                "query": "file:mode d'emploi ob",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -200,20 +163,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
-    "collapsed": true
+    "width": 272
   },
-  "active": "127c5492ce66df90",
+  "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
     "Mode d'emploi d'Obsidian.md",
-    "mondialisme.md",
-    "references/@CardonPourquoiavonsnoussi2019a.md",
-    "heuristique de disponibilité.md",
-    "psychologie cognitive.md",
-    "Enoncés flottants.md",
-    "paradoxe de la rationalité.md",
-    "P-value.md",
-    "p-hacking.md",
-    "preprint.md"
+    "l'industrie du mensonge.md",
+    "pensée powerpoint.md",
+    "Désintermédiation de l'accès à l'information.md",
+    "biais de disponibilité.md",
+    "references/@PinkerPlaidoyerpourrationalite2021.md",
+    "Entretien épistémique.md",
+    "architecture Von Neumann.md",
+    "Néo-libéralisme et COVID.md",
+    "seuil de pauvreté.md"
   ]
 }

@@ -19,7 +19,9 @@ L'éthique du [[libéralisme]], c'est une éthique du consentement. Dans une per
 
 # le consentement dans les relations sexuelles
 
+Certains critiquent le fait que la verbalisation du consentement puisse être perçu comme un obstacle au désir. Manon Garcia répond que cette hantise de la verbalisation ptovient du fait que nous ne sachions pas parler de sexe, en raison du puritanisme, elle ajoute que ce puritanisme sert justement l'aspect inégalitaire des relations sexuelles entretenu par le [[patriarcat]][[@LemonnierQuestceque2021]]
 
+![[verbalisation_consentement.jpg]]
 
 # consentement et données personnelles
 

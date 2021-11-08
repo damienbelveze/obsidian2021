@@ -19,13 +19,19 @@ aliases: [Obsidian, obsidian]
 
 ## 1.1 avantages
 
-- hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".
+Obsidian présente les avantages de la nouvelle génération d'outils de PKM (personal knowledge management / Gestion personnelle des connaissances)
 
+- des notes liées les unes aux autres par des liens **et des rétroliens** (backlinks)
+- des fichiers de notes pouvant contenir d'autres fichiers (par exemple des PDF ou des scripts) selon le principe de la [transclusion](https://forum.obsidian.md/t/transclusion-embedding-for-searches/3348/2)
+- une structure par défaut horizontale (les notes n'ont pas besoin d'être rangées dans des fichiers séparés cf. [[Zettelkasten]]). C'est possible de le faire si on le souhaite dans Obsidian, cela dit. 
+- des graphes de notes (cela plaît toujours, même si l'utilité réelle de ces graphes est un sujet débattu depuis que ces outils existent)
+- des modèles de note peuvent être produits par l'utilisateur et partagés avec d'autres. 
+- hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".
 - format ouvert des notes ([[markdown]] = format universel, contrairement à  Evernote)
 - les notes sont hébergées sur notre ordinateur : on en a la maîtrise.
 - Pas dépendant d'un éditeur (contrairement à Org-roam pour emacs). On peut éditer depuis Obsidian ou bien depuis n'importe quel éditeur qui supporte le markdown (emacs, atom, panwriter, etc.)
+- version disponible sur les différentes familles de systèmes d'exploitation (GNU/Linux, Windows, Mac)
 - Nombreuses possibilités de recherche dans les notes (par fichier, par mot dans la note, par mot dans la section de la note, par tag...) (voir [[@CaseObsidiananswernotetaking2021]])
-- le graphe de notes augmente la capacité de faire de nouvelles relations entre des concepts
 - Importance des rétroliens (combien de notes citent une même note). Cela permet de faire des associations d'idées et des graphes
 - possibilité d'avoir dans un même endroit des notes et des fichiers divers (code, images, vidéos) et de pouvoir lier ces notes et ces fichiers entre eux.
 - le nombre de plugins avec lesquels on peut étendre les capacités d'obsidian est en croissance constante.
@@ -33,7 +39,8 @@ aliases: [Obsidian, obsidian]
 ## 1.2 limites 
 
 - logiciel propriétaire, mais une bonne partie du code est en opensource et surtout la communauté des utilisateurs développe un grand nombre de codes en open source. Toutefois, si on veut se tourner vers une alternative entièrement libre comparable à Obsidian, le logiciel [Cosma](https://cosma.graphlab.fr/) mis au point par Arthur Perret (actuellement disponible sur Mac et Windows et bientôt sur Linux) offre une alternative très convaincante. 
-- l'affichage des images **dans** l'application n'est pas encore au point. Si la conversion avec pandoc fonctionne sur la taille des images, à l'intérieur d'Obsidian la taille de celles-ci est difficilement modulable. [[@Abd-ElsalamClinicalstudyevaluating2021]]
+- l'affichage des images **dans** l'application n'est pas encore au point. Si la conversion avec pandoc fonctionne sur la taille des images, à l'intérieur d'Obsidian la taille de celles-ci est difficilement modulable. [[@Abd-ElsalamClinicalstudyevaluating2021]]tt
+- Obsidian ne dispose pas de répétiteur (spaced repetition), c'est à dire qu'on ne peut pas programmer à l'avance l'apparition de notes à mémoriser (une fontion aléatoire d'affichage de notes existe pourtant sous la forme d'un plugin coeur). Pour l'apprentissage et la répétition, Obsidian peut cependant être connecté à Anki au moyen d'un plugin communautaire. 
 
 
 ## 1.3 intérêt cognitif
@@ -58,6 +65,11 @@ Afin de synchroniser ses fichiers avec ceux que contient son ordinateur,
 3. connectez votre app de synchronisation avec le dossier dans le cloud que vous utilisez qui contient vos notes
 4. synchronisez
 5. ouvrez l'app obsidian et choisissez le dossier synchronisé comme coffre. 
+
+## 1.5 une interface agréable
+
+Obsidian offre une interface agréable à l'utilisateur. On peut comme dans Emacs ouvrir plusieurs buffers (fenêtres en même temps) et les organiser. 
+Certaines curiosités existent pourtant qui peuvent être déroutantes pour un débutant. Par exemple pour zoomer et dézoomer sur une note (sur Windows, Ctrl+ permet de zoomer, c'est classique, Ctrl 0 permet de revenir à la taille par défaut)
 
 
 # 2. La méthode de prise de notes Zettelkasten

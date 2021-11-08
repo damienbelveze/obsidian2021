@@ -22,6 +22,8 @@ L'étude porte au final sur 12 202 articles pour lesquels la version déposée s
 
 Cette étude a tout de même quelques limitations: 
 
+[[biais de l'étude]]
+
 - incertitude quant au statut du preprint analysé (pas sûr qu'il s'agisse du texte soumis). par ailleurs ce preprint a pu déjà être modifié dans le cadre d'une révision par les pairs antérieure qui n'a pas abouti à une publication. 
 - limitation de l'échantillon (10 000 sur 1 500 000 disponibles sur ArXiv en 2015)
 - biais dans l'échantillon. Si ces preprints ont fini par être publiés, c'est qu'il n'étaient pas si mauvais que ça à la base et ne nécessitaient peut-être que peu d'interventions pour les rendre publiables. L'étude qui compare des textes publiés avec leurs versions prépublication ne prend pas en compte le travail de filtrage des preprints opéré par les reviewers qui écartent les textes qui ne sont pas au niveau d'une publication.
