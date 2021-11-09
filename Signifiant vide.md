@@ -17,6 +17,8 @@ Le terrorisme comme signifiant vide
 > Au Brésil, d’ailleurs, c’est plutôt la « [[sécurité publique]] » qui est utilisée comme un signifiant vide par Jair Bolsonaro, qui peut ainsi développer une rhétorique qui amalgame le trafic de drogue, les économies criminelles, la corruption et le « désordre du genre »
 [[@Gambettisavantepolitiqueconversation2021]]
 
+signifiant vide ou signifiant flottant ? En raison de son manque d'emprise sur la réalité, n'importe quel sens plaisant au locuteur peut prendre la place de ce signifiant vide, ce qui peut en faire en effet un signifiant flottant. 
 
+Le signifiant vide relève de ce qu'Aristote appelait la preuve artistique : lorsque l'habileté de l'orateur lui permet de faire exister dans l'esprit de son auditoire quelque chose qui n'existe pas dans la réalité [[@PerrinAndrewPerrinChristian2021]]. 
 
 

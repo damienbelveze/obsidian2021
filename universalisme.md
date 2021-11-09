@@ -1,4 +1,19 @@
-#universalisme
+---
+title: universalisme
+author: 
+date: 20211108
+aliases: [universaliste, universalistes, universalismes, universaliser]
+tags: [philosophie politique, universalisme]
+---
+
+# universalité de la morale
+
+règle d'or admise un peu partout, mais un peu partout menacée aussi par des positions de surplomb qui peuvent déchaîner de la violence : 
+
+"ne fais pas à autrui, ce que tu n'aimerai pas qu'on te fasse"
+
+# critiques au sujet de l'universalime
+
 
 [[https://twitter.com/vkokoszka/status/1335632433375563777][thread]] de Valérie Kokoszka sur Twitter
 

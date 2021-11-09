@@ -14,6 +14,10 @@ Du coup aucune partie n'a avancé dans sa réflexion à l'issue d'un tel débat.
 Le mérite de cette forme est toutefois d'éclaircir les points de désaccords et les valeurs qui sous-tendent les arguments, ce qui n'est pas rien. 
 Il convient néanmoins pour progresser en sagesse (et même en savoir) de prendre d'autres voies de discussion et de sortir de la forme souvent valorisée dans les rencontres privées parce qu'elle est la norme sur les plateaux de télévision, le [[débat télévisé]]. Lorsque les circonstances s'y prêtent (voir plus bas, l'entretien épistémique peut être un bon moyen de progresser.)
 
+> Au contraire, le débat, en démocratie, ne consiste pas seulement à mettre de l’ordre dans des faits – en convoquant la définition restrictive des faits données ci-dessus. Tout un tas d’effets secondaires s’invitent dans les débats, comme par exemple notre goût pour les situations tendues, pour les antagonismes… Dans la culture argumentative contemporaine nous trouvons un intérêt bien supérieur à maintenir des désaccords, à irriter ceux qu’on estime être nos ennemis, plutôt qu’à débusquer des vérités dans des faits, qu’à récolter des données pour l’amour d’en tirer de belles conclusions 
+
+([[@PerrinAndrewPerrinChristian2021]])
+
 ![sortir de la norme du débat télévisé](norme_débat.jpg)
 
 # Un dialogue équitable et constructif

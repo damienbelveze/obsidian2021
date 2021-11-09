@@ -24,3 +24,7 @@ Afin de contrôler les sources de cet article, on peut extraire la biblio de l'a
 Inversement certaines erreurs dans cette étude déposée sous forme de preprint en mai 2021 sont défavorables à l'invermectine en tant que traitement. 
 
 ![](ivermectin_preprint.png)
+
+# poids économique de la vente d'ivermectine et désinformation
+
+En dépit des revues systématiques qui donnent un effet non significatif à la prise d'ivermectine et par ailleurs des études qui montrent que la prise d'hydroxychloroquine peut tuer certains patients déjà affaiblis par le COVID sans soigner les autres davantage qu'un traitement standard, l'ivermectine et l'HCQ génèrent des profits importants, notamment sous la forme de recettes publicitaires au profit des compagnies d'assurance d'obédience trumpiste (American Frontline Doctors) comme l'a montré une enquête de The Intercept à partir de chiffres qui ont fait l'objet d'une fuite sur le net (vente d'ivermectine entre novembre 2020 et août 2021 par cette officine : 4,7 millions de dollars)[[@LeeHouseCoronavirusCommittee2021]]. L'invermectine, ainsi que d'autre pseudo-traitements contre le [[COVID-19]] se retrouvent occuper une place considérable en 2020 et 2021 dans [[l'industrie du mensonge]]

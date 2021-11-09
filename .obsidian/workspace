@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c0171f5bb82405a9",
+        "id": "3bbbfcdc690a772e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
+            "file": "Signifiant vide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "706fa843607164f2",
+        "id": "261abe6700acd911",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
+            "file": "Signifiant vide.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
+            "file": "Signifiant vide.md",
             "mode": "source"
           }
         }
@@ -73,11 +73,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mode d'emploi ob",
+                "query": "signifiant vide",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode d'emploi d'Obsidian.md",
+                "file": "Signifiant vide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,19 +163,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272
+    "width": 272,
+    "collapsed": true
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
-    "Mode d'emploi d'Obsidian.md",
-    "l'industrie du mensonge.md",
-    "pensée powerpoint.md",
-    "Désintermédiation de l'accès à l'information.md",
-    "biais de disponibilité.md",
-    "references/@PinkerPlaidoyerpourrationalite2021.md",
+    "Signifiant vide.md",
+    "Alt-right.md",
     "Entretien épistémique.md",
-    "architecture Von Neumann.md",
-    "Néo-libéralisme et COVID.md",
-    "seuil de pauvreté.md"
+    "débat télévisé.md",
+    "théorie de la disponibilité.md",
+    "démocratie.md",
+    "Elitisme épistémique.md",
+    "Conférence de Frédéric Worms.md",
+    "universalisme.md",
+    "agorathéisme.md"
   ]
 }
