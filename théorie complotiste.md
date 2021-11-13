@@ -7,7 +7,7 @@ link_citations: true
 aliases: [théorie du complot, théories conspirationnistes, théorie conspirationniste, théories du complot, complotisme, complotistes, conspirationnisme]
 ---
 
-Terme forgé à la fin des années 40 par Karl Popper pour désigner une tendance à attribuer la cause de phénomènes sociaux ou politiques à *certains individus ou groupes puissants* (Sages de Sion, impérialistes, [[Capitalisme|capitalistes]]). 
+Terme forgé en 1948 par Karl Popper pour désigner une tendance à attribuer la cause de phénomènes sociaux ou politiques à *certains individus ou groupes puissants* (Sages de Sion, impérialistes, [[Capitalisme|capitalistes]]), ce qui dénote selon Popper une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante
 
 Les caractéristiques du discours conspirationniste comporte les caractéristiques suivantes : 
 
@@ -15,6 +15,13 @@ Les caractéristiques du discours conspirationniste comporte les caractéristiqu
 - un discours réducteur sur les causes (la volonté occulte de quelques individus fait disparaître les contraintes liées aux structures sociales), une cause simple, une catégorie d'individus est responsable de tous les maux. 
 - un discours qui se prétend une alternative à une vérité officielle (déconsidérée en tant qu'officielle)
 - un discours qui présente un fort [[biais d'intentionnalité]] et néglige la part de hasard ou d'enchaînements non maîtrisés ou qui dépassent les volontés des agents individuels (cf Lordon : "il y a bien un système mais pas d'ingénieur-système ([source](https://www.youtube.com/watch?v=xDjKjxQpsuo))")
+
+D'après Richard Hofstadter (1964), la mentalité conspirationiste ne se définit pas par une croyance à tel ou tel complot mais à la vision de l'Histoire comme étant essentiellement menée sous la forme d'un complot
+
+> ce qui caractérise l’esprit paranoïaque n’est pas seulement la croyance dans telle ou telle théorie du complot, mais le fait de
+considérer l’histoire elle-même comme une vaste conspiration
+
+Hofstadter cité par Nicolas Guilhot [[@Guilhotchamanautretheories]]
 
 
 # Controverse sur la réalité d'une recrudescence du complotisme à l'âge d'internet. 

@@ -26,7 +26,7 @@ Les considérer comme fixes et uniques revient à faire preuve d'[[identitarisme
 
 # enfermement des politiques identitaires
 
-Dans l'émission La Grande Table, Brice Couturier revient sur le problème des impasses des politiques identitaires à partir de son livre OK, boomer, écrit pour répondre aux tenants de la culture [[Woke|culture Woke]]
+Dans l'émission La Grande Table, Brice Couturier revient sur le problème des impasses des politiques identitaires à partir de son livre OK, boomer, écrit pour répondre aux tenants de la [[culture Woke|culture woke]]
 
 > L'identité, ce n'est pas négociable. On peut négocier le fait d'être un capitaliste ou un prolétaire, d'être un socialiste ou un libéral. ça, ça peut donner lieu à une confrontation intéressante et productive, mais quand vous dites : je suis noir, je suis une femme ou je suis une femme homosexuelle noire, et vous ne pouvez pas me comprendre parce que mon expérience est tellement particulière que je ne peux pas discuter avec vous, la démocratie s'arrête. [[@CouturierWokeCancelCulture]]
 

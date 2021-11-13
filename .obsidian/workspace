@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbbfcdc690a772e",
+        "id": "c2dc67f10edf11e2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Signifiant vide.md",
+            "file": "Web of Science.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "261abe6700acd911",
+        "id": "4fe384425f1ada05",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Signifiant vide.md",
+            "file": "Web of Science.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Signifiant vide.md",
+            "file": "Web of Science.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "signifiant vide",
+                "query": "web of science",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signifiant vide.md",
+                "file": "Web of Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,15 +168,15 @@
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
-    "Signifiant vide.md",
-    "Alt-right.md",
-    "Entretien épistémique.md",
-    "débat télévisé.md",
-    "théorie de la disponibilité.md",
-    "démocratie.md",
-    "Elitisme épistémique.md",
-    "Conférence de Frédéric Worms.md",
-    "universalisme.md",
-    "agorathéisme.md"
+    "Web of Science.md",
+    "references/@Martin-MartinGoogleScholarMicrosoft2021.md",
+    "Compléter une revue de littérature.md",
+    "OpenCitations.md",
+    "solutionnisme technologique.md",
+    "identité.md",
+    "guerre culturelle.md",
+    "culture Woke.md",
+    "Woke.md",
+    "Cancel culture.md"
   ]
 }

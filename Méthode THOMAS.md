@@ -34,13 +34,13 @@ Quelle méthode utilise ce document. Quelles sont les sources sur lesquelles il 
 
 ## A(rgument)
 
-Le A de THOMAS est l'Argument, et c'est là-dessus que nous consacrons le plus de temps de la séance. Enoncer l'argument principal souvent n'apporte que peu d'information, on doit considérer au delà-de ça comme les réponses aux premières questions (THOM) dessinent l'argumentation 
+Le A de THOMAS est l'Argument, et c'est là-dessus que nous consacrons le plus de temps de la séance. Enoncer l'argument principal souvent n'apporte que peu d'information, on doit considérer au delà-de ça comment les réponses aux premières questions (THOM) dessinent l'argumentation 
 
 
 ## S(o what)
 
-Le S de THOMAS signifie "So what" (et alors ?). On désigne ici les enjeux ou l'importance du document. 
-Pour les lecteurs qui ne s'intéressent pas aux spécificités du sujet ou même de l'argument, pourquoi lire ce document serait-il utile ? C'est là que la conversation devient généralement la plus intéressante
+Le S de THOMAS signifie "So what" (et alors ?). On désigne ici les enjeux ou l'importance du document pour soi-même. 
+Pour les lecteurs non spécialistes qui ne s'intéressent pas depuis longtemps aux spécificités du sujet ou même de l'argument, pourquoi lire ce document serait-il utile, pourquoi cela m'a été utile à moi ? C'est là que la conversation devient généralement la plus intéressante
 
 
 
