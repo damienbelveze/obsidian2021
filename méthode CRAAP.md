@@ -1,6 +1,6 @@
 - Currency (l'information est-elle à jour)
 - Revelance (l'information est-elle pertinente par rapport à mon besoin)
-- Authority (l'information provient-elle d'une personne qui a une expertise sur le sujet)
+- Authority (l'information provient-elle d'une personne qui a une [[expertise]] sur le sujet)
 - Accuracy (l'information est-elle exacte)
 - Purpose (dans quel but l'information est-elle publiée, diffusée)
 
@@ -16,7 +16,7 @@ Cette méthode a montré certaines limites qui sont détaillées dans les articl
 
 **authority**([[autorité]]): possible méprise due au [[biais d'autorité]]
 
-**Accuracy**: Comment évaluer les écrits de quelqu'un qui soutient qu'il est expert quand on ne l'est pas soi-même ? (=[[paradoxe de l'expertise]])
+**Accuracy**: Comment évaluer les écrits de quelqu'un qui soutient qu'il est expert quand on ne l'est pas soi-même ? (=[[paradoxe de l'expertise]]) voir la note consacrée à l'[[expertise]]
 
 **Purpose**: (à compléter, l'explication de Wilkinson n'apparaît pas très convaincante)
 

@@ -26,7 +26,7 @@ La désintermédiation est encouragée par une vision libérale de l'individu co
 Aux USA, le rapport au médecin est différent. Le recours à la médecine coûte cher. En France aussi, avec la difficulté de recourir à un médecin (pour des questions de disponibilité des professionnels dans certaines zones), on a de plus en plus tendance à chercher des infos sur Internet. La recherche individuelle sur le web donne un sentiment d'empowerment, de contrôle. Ce sentiment est évidemment pernicieux, car sans réelles compétences on reste le jeu des algorithmes et on en est réduit à tourner dans une chambre d'écho.
 
 
-L'expérience compte plus que l'expertise. La parole de l'expert est en partie déconsidérée, sauf quand l'expert s'éloigne de la figure traditionnelle de l'expert (cf. Didier Raoult et surtout des standards de sa profession)
+L'expérience compte plus que l'[[expertise]]. La parole de l'expert est en partie déconsidérée, sauf quand l'expert s'éloigne de la figure traditionnelle de l'expert (cf. Didier Raoult et surtout des standards de sa profession)
 
 Avez-vous rencontré à la bibliothèque des promoteurs de théories conspirationnistes (par ex. grand remplacement) ?. Non, ils ne viennent pas à la bibliothèque - ou en tout cas se passent de nos services, parce que la bibliothèque est un intermédiaire, et ils ne veulent pas d'intermédiaire entre eux et l'information qu'ils estiment intéressantes pour eux. Par ailleurs, la bibliothèque est une institution, et en période de crise toutes les institutions sont discréditées.
 

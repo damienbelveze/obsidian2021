@@ -15,7 +15,7 @@ du latin "auctoritas", celui qui ajoute quelque chose à l'état de la société
 # l'autorité dans le domaine de l'*information literacy*
 
 Le référentiel de l'ACRL (ACRL framework) indique que l'autorité est construite et contextuelle. 
-contextuelle : cela exprimer l'idée que l'autorité d'une personne ne devrait pas pouvoir s'éendre au delà d'une zone d'expertise (éviter l'[[ultracrépidarianisme]])
+contextuelle : cela exprimer l'idée que l'autorité d'une personne ne devrait pas pouvoir s'éendre au delà d'une zone d'[[expertise]] (éviter l'[[ultracrépidarianisme]])
 
 construite : l'autorité s'édifie à partir d'un cumul de preuves (travaux universitaires notamment). Une autorité peut se perdre aussi suite à des déviances par rapport aux normes académiques (ex. médaillés du Nobel qui commencent à dire n'importe quoi sur les virus, éminents virologues qui se livrent à des essais cliniques de façon opaque et sans respecter le protocole)
 

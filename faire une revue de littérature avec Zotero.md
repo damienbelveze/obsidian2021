@@ -107,7 +107,10 @@ Dans la collection "revue de littérature", chercher les items qui répondent au
 Collection de Zotero contient *nom de la collection*
 Créateur ne contient pas %
 
+![recherche des références sans auteur](recherche_sans_auteur.png)
+
 Ajouter les noms là où ils manquent. 
+Pour repérer les dates manquantes, voir [cette discussion](https://forums.zotero.org/discussion/comment/353243/)
 
 # se fixer des critères d'exclusion
 

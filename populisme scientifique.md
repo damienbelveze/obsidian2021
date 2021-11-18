@@ -12,7 +12,7 @@ tags: [désinformation]
 
 Certains penseurs parlent de [[populisme]] scientifique afin de caractériser un certain glissement du scientifique vers le politique, la science étant sommée d'apporter sa caution à des modes de vie ou des choix politiques conservateurs (affirmation de l'individu-tyran) et anti-écologiques. 
 
-On entend aussi parler de populisme scientifique quand des personnes qui se sont distinguées dans la pratique d'une science quittent la méthode scientifique pour investir le terrain politique sur lequel ils n'ont pas d'expertise (cas du professeur [[Didier Raoult]] par exemple qui n'a eu de cesse de s'affranchir depuis 2020 de la méthode des essais cliniques qui pourtant fait consensus dans sa discipline) : 
+On entend aussi parler de populisme scientifique quand des personnes qui se sont distinguées dans la pratique d'une science quittent la méthode scientifique pour investir le terrain politique sur lequel ils n'ont pas d'[[expertise]] (cas du professeur [[Didier Raoult]] par exemple qui n'a eu de cesse de s'affranchir depuis 2020 de la méthode des essais cliniques qui pourtant fait consensus dans sa discipline) : 
 
 >on peut espérer que toute la lumière sera faite sur ces pratiques qui, si elles étaient avérées, seraient contraires à l’éthique et à la déontologie les plus élémentaires. S’en affranchir, c’est retomber dans la médecine du XIXe siècle, quand l’intuition d’un médecin à partir d’observations sur une poignée de patients pouvait conduire au recours à des molécules inopérantes, voire délétères pour les malades.
 

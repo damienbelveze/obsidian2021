@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c2dc67f10edf11e2",
+        "id": "0dcd961b6202ea2d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Web of Science.md",
+            "file": "Git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "4fe384425f1ada05",
+        "id": "8055bd5db41d83af",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Web of Science.md",
+            "file": "Git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web of Science.md",
+            "file": "Git.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "web of science",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web of Science.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,15 +168,15 @@
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
-    "Web of Science.md",
-    "references/@Martin-MartinGoogleScholarMicrosoft2021.md",
-    "Compléter une revue de littérature.md",
-    "OpenCitations.md",
-    "solutionnisme technologique.md",
-    "identité.md",
-    "guerre culturelle.md",
-    "culture Woke.md",
-    "Woke.md",
-    "Cancel culture.md"
+    "Git.md",
+    "expertise.md",
+    "ultracrépidarianisme.md",
+    "science réglementaire.md",
+    "populisme scientifique.md",
+    "Méthode THOMAS.md",
+    "méthode CRAAP.md",
+    "interdisciplinarité.md",
+    "information literacy.md",
+    "Fibe11.md"
   ]
 }

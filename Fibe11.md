@@ -131,7 +131,7 @@ Volonté de s'abstraire d'un discours de pouvoir déguisé en discours de savoir
 Désintermédiation : vous seuls sans l'aide de personne êtes capables de démêler tout seul la véritable information de la fausse.
 
 La désintermédiation est encouragée par une vision libérale de l'individu comme seul responsable de ses succès et de ses erreurs. Cette vision est particulièrement présente aux Etats-Unis.
-Aux USA toujours et plus qu'en France, l'expertise a un prix élevé : le rapport au médecin est différent. Le recours à la médecine coûte cher pour qui n'a pas une assurance suffisante à couvrir ces frais.
+Aux USA toujours et plus qu'en France, l'[[expertise]] a un prix élevé : le rapport au médecin est différent. Le recours à la médecine coûte cher pour qui n'a pas une assurance suffisante à couvrir ces frais.
  En France aussi, avec la difficulté de recourir à un médecin (pour des questions de disponibilité des professionnels dans certaines zones), on a de plus en plus tendance à chercher des infos seul sur Internet. La recherche individuelle sur le web donne un sentiment d'*empowerment*, de contrôle sur sa vie. Ce sentiment est évidemment pernicieux, car sans réelles compétences en matière de recherche et de sélection de l'information, on reste le jeu des algorithmes et on en est réduit à tourner dans une chambre d'écho.
 
 L'expérience compte plus que l'expertise. La parole de l'expert est en partie déconsidérée, sauf quand l'expert s'éloigne de la figure traditionnelle de l'expert et des standards de sa profession en matière d'administration de la preuve et se rapporoche de celle de l'homme providentiel.

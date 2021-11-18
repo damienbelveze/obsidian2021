@@ -17,7 +17,7 @@ Source : https://twitter.com/DannaAgmon/status/984087841813811200
 ## T(opic) - le sujet
 quel est le sujet du document
 dans quel contexte a t-il été produit
-qui l'a écrit ? quelle est son expertise, quelles sont ses qualifications ? Qui l'a publié ?
+qui l'a écrit ? quelle est son [[expertise]], quelles sont ses qualifications ? Qui l'a publié ?
 
 ## H(istoriography) - contexte de la discussion
 

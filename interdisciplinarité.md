@@ -12,7 +12,7 @@ aliases: [interdisciplinaire, interdisciplinaires]
 ![multiplication ou division](cellules_division.jpg)
 
 
-L'interdisciplinarité consiste pour un chercheur à quitter pour un temps son domaine d'expertise et à faire un lien avec des concepts, des théories ou des observations empruntées à une autre science. 
+L'interdisciplinarité consiste pour un chercheur à quitter pour un temps son domaine d'[[expertise]] et à faire un lien avec des concepts, des théories ou des observations empruntées à une autre science. 
 Cette tentative d'unifier les différentes sciences si elle est réalisée avec succès est riche renouvelle les perspectives des différentes disciplines convoquées. C'est ainsi qu'on peut croiser avec profit l'éthologie et la sociologie par exemple pour expliquer en quoi les rapports entre sexes chez les humains peuvent être différents de ce qu'ils sont chez les autres espèces. 
 Toutefois, le risque est grand pour le chercheur qui cherche à faire ces ponts vers des énoncés scientifiques qu'il ne maîtrise pas d'engager la cohérence de son discours, sa crédibilité et de tomber dans une forme d'[[ultracrépidarianisme]]
 

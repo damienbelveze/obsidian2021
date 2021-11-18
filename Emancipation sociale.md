@@ -16,7 +16,7 @@ Elle a pour contraires et ennemis :
 
 - le capitalisme
 - les différents modes de [[domination]] (racisme, sexisme, hétérosexisme, [[identitarisme]])
-- la prolétarisation des savoirs (le transfert des savoirs des individus vers les machines)
+- la [[prolétarisation]] des savoirs (le transfert des savoirs des individus vers les machines)
 
 
 # lutter contre la prolétarisation des savoirs. 

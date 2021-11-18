@@ -7,7 +7,7 @@ link_citations: true
 aliases: [alt right, alternative right]
 ---
 
-Alternative Right, mouvement politique destiné à cristalliser les différents mouvements d'extrême droite aux Etats-Unis sur la base d'une réfutation de la politique comme reposant sur une vérité partagée et une expertise. 
+Alternative Right, mouvement politique destiné à cristalliser les différents mouvements d'extrême droite aux Etats-Unis sur la base d'une réfutation de la politique comme reposant sur une vérité partagée et une [[expertise]]. 
 Ce mouvement incarne la forme prise par l'extrême droite aux Etats-Unis, notamment celle que lui a donné Steve Bannon, responsable de la communication de la campagne présidentielle américaine qui a permis la victoire de Donald Trump en 2016. 
 
 L'alt-right considère que les émotions, non les [[factualité|faits]] guident l'action politique. Elle n'hésite pas à utiliser les émotions comme des marchandises à vendre à partir des données personnelles recueillies sur les réseaux sociaux (cf. Affaire [[Cambridge Analytica]]). Elle est donc adepte d'une théorie relativiste de la [[vérité et vérifiabilité]] connue sous le terme de [[Post-vérité|post-truth]] et bâtie à partir de faits alternatifs ([[alternative facts]])

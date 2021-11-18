@@ -14,7 +14,7 @@ mot remis au goût du jour par [[Etienne Klein]] dans [[@Kleingoutvrai2020]]
 
 Référence au peintre Appelle qui aurait demandé conseil à un cordonnier pour peindre la semelle d'un de ses personnages. Quand ce dernier a commencé à commenter la manière dont le peintre avait traité les habits de ce même personnage, Appelle lui aurait dit : "cordonnier, pas de commentaire au delà de la semelle (nec ultra crepidam)"
 
-l'ultracrépidarianisme pour un expert consiste à l'aventurer sur un terrain étranger au domaine de l'expertise qui lui est reconnu tout en prétendant continuer de porter une parole d'expert. 
+l'ultracrépidarianisme pour un expert consiste à l'aventurer sur un terrain étranger au domaine de l'[[expertise]] qui lui est reconnu tout en prétendant continuer de porter une parole d'expert. 
 Un bon exemple, serait le cas de [[Laurent Mucchielli]]], directeur du CNRS en sociologie qui a commis pendant le COVID-19 des articles en apparence scientifique, signés à la manière académique (nom et affiliation) sur des sujets médicaux (remise en cause de la stratégie de vaccination, et promotion de traitements médicaux pour la guérison du COVID-19)
 
 Le CNRS a rappelé à cette occasion et de manière générale (sans citer Mucchielli) qu'un chercheur relevant de son organisation devait prendre soin d'indiquer à son auditoire quand il traite d'un sujet étranger à la compétence qui lui a été reconnue par ses pairs de bien afficher auprès de son public qu'il s'exprime en tant que citoyen et non en tant que scientifique, et qu'il n'a pas de compétence scientifique sur le sujet. 

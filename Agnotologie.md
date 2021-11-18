@@ -1,3 +1,5 @@
+# l'agnotologie : la science qui étudie les différentes manières par lesquelles les industriels font en sorte d'empêcher les scientifiques de conclure
+
 l'agnotologie est une discipline ouverte au début des années 2000 qui étudie la manière dont on fabrique de l'ignorance ou dont on nous empêche de savoir (ou dont on s'empêche soi-même de savoir)
 
 Les travaux de Naomi Oreskes et [[Stephan Lewandovski]] ont dessiné les premiers contours de cette science paradoxal qui étudie l'ignorance et ses causes. 
@@ -16,3 +18,18 @@ Ces derniers n'ont eu de cesse dans les décennies suivantes que de ralentir de 
 L'agnotologie vise dont à disqualifier la science mercenaire et la [[recherche de diversion]] qui empêche les chercheurs de progresser dans l'établissement des causes véritables aux phénomènes sociaux, médicaux ou environnementaux que nous observons (mortalité des abeilles, impact du tabac, effet du bisphénol A, etc.)
 
 L'agnotologie a également pour objet l'étude des [[biais cognitifs]] et idéologiques qui consistent à s'illusionner avec une théorie pour échapper au consensus scientifique lorsque ce met en jeu notre mode de vie et nous met en situation de [[Dissonance cognitive]]
+
+# agnotogénèse et méthode scientifique
+
+Inspirés par la doctrine de la falsifiabilité ou [[réfutabilité]] ([[Karl Popper]]), beaucoup d'enseignants réduisent les conclusions de la science à ce qui résiste au test de la falsifiabilité (test négatif d'une hypothèse donnée, ou bien possibilité de rejet de [[Null hypothesis|l'hypothèse nulle]]
+
+Cette vision est restrictive selon Carl T. Bergstrom. 
+D'après lui elle permet d'invalider des études qui montrent pourtant qu'il y a de fortes chances pour que la réglementation ne soit plus suffisante sur un sujet donné : 
+
+>Half-baked thought: In high school and even college science classes, teachers often inaccurately portray the scientific practice as a cartoon version of falsificationism: "Science proceeds only by rejecting wrong hypotheses" / "Science proceeds by rejecting null hypotheses." 1/3
+>Agnotogenesis—the deliberate creation of doubt or uncertainty to save off regulation—thrives on this misconception: “If the capital-S Science isn’t settled until the Null Hypothesis is Rejected, we can't regulate yet, not in the absence of any scientific evidence....." 2/3
+>This argument collapses under any reasonable view of scientific practice as encompassing multiple sources of indirect evidence, competing models, intermediate degrees of belief, etc. It's an immediate practical reason why we need to update how we teach the nature of science. 3/3
+
+source : [twitter](https://twitter.com/CT_Bergstrom/status/1460150333569581060)
+
+

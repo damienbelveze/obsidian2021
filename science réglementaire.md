@@ -17,7 +17,7 @@ La Science réglementaire ne produit pas seulement des connaissances, elle produ
 
 Voici comme un article paru dans la Revue de Sociologie résume - à propos d'une question comme le clonage animal - la différence d'approche entre la science de laboratoire (entendre celle qui se fait dans les universités) et la science réglementaire ([[@JolySciencereglementaireinternationalisation2016]]) : 
 
-> Dans le premier cas, une expertise scientifique cadrée étroitement, s’appuyant sur les standards d’analyse de la science réglementaire et sur un raisonnement axiomatique pour réduire l’incertitude et qui conclut de façon ferme et définitive ; dans le second, une expertise scientifique ouverte, attentive à l’incertitude, prenant en compte la diversité des savoirs (notamment avec la référence explicite au bien-être animal) et qui s’abstient de conclure
+> Dans le premier cas, une [[expertise]] scientifique cadrée étroitement, s’appuyant sur les standards d’analyse de la science réglementaire et sur un raisonnement axiomatique pour réduire l’incertitude et qui conclut de façon ferme et définitive ; dans le second, une expertise scientifique ouverte, attentive à l’incertitude, prenant en compte la diversité des savoirs (notamment avec la référence explicite au bien-être animal) et qui s’abstient de conclure
 
 On observe aussi que la science qui étudie les principes fondamentaux de la matière ne connaît pas de variation importante dans ses conclusions selon les pays, alors que la réglementation provenant des agences chargées de l'établir à partir des données de la science, produisent des réglements très différents d'une agence à l'autre, d'un pays à l'autre. 
 

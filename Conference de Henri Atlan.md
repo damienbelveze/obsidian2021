@@ -208,7 +208,7 @@ la rencontre entre chercheurs et journalistes s'est traduite trop
 souvent par une sorte de connivence dont tout le monde tirait profit.
 Ethique de l'information scientifique. 1995 : colloque journalistes et
 scientifiques : qui utilise qui ? Transformer de l'information en
-communication. Création de nouvelles professions de la communication.
+communication. Création de nouvelles professions de la [[communication]].
 [[http://www.sudoc.fr/082283966][L'industrie du mensonge]] Edward
 Bernays ([[http://www.sudoc.fr/014399245][propaganda]]) : convaincre les
 femmes de fumer en faisant passer cela pour un signe de libération.
