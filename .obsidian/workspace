@@ -9,7 +9,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Git.md",
+            "file": "pycnogonida.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -26,7 +26,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Git.md",
+            "file": "pycnogonida.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,8 +43,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
-            "mode": "source"
+            "file": "pycnogonida.md",
+            "mode": "preview"
           }
         }
       }
@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "pycnogonida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,6 +167,7 @@
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
+    "pycnogonida.md",
     "Git.md",
     "expertise.md",
     "ultracrépidarianisme.md",
@@ -176,7 +176,6 @@
     "Méthode THOMAS.md",
     "méthode CRAAP.md",
     "interdisciplinarité.md",
-    "information literacy.md",
-    "Fibe11.md"
+    "information literacy.md"
   ]
 }
