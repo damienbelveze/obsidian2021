@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0dcd961b6202ea2d",
+        "id": "4e06222d1aa90f32",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pycnogonida.md",
+            "file": "croissance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "8055bd5db41d83af",
+        "id": "1f4c6bb992415455",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "pycnogonida.md",
+            "file": "croissance.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,10 +43,47 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pycnogonida.md",
-            "mode": "preview"
+            "file": "croissance.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "36f2a96f78210f3f"
+      },
+      {
+        "id": "8f204278f848ad3d",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "croissance.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "36f2a96f78210f3f"
       }
     ],
     "direction": "vertical"
@@ -73,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:crois",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +119,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pycnogonida.md",
+                "file": "croissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,15 +205,15 @@
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
-    "pycnogonida.md",
-    "Git.md",
-    "expertise.md",
-    "ultracrépidarianisme.md",
-    "science réglementaire.md",
-    "populisme scientifique.md",
-    "Méthode THOMAS.md",
-    "méthode CRAAP.md",
-    "interdisciplinarité.md",
-    "information literacy.md"
+    "croissance.md",
+    "pantouflage.md",
+    "LOLF.md",
+    "productivisme.md",
+    "intersectionnalite.md",
+    "féminisme.md",
+    "mesure de Levenshtein.md",
+    "Jupyter.md",
+    "faire une revue de littérature avec Zotero.md",
+    "cahiers numériques.md"
   ]
 }

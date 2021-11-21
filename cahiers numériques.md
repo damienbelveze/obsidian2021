@@ -68,7 +68,7 @@ Sélection de 150 cahiers connectés à des expériences scientifiques. Entretie
 
 ## structuration des cahiers
 
-plusieurs cellules : titre, texte (markdown) dont headers, code (python par exemple), sortie graphique
+plusieurs cellules : titre, texte (markdown) dont headers, code ([[Python]] par exemple), sortie graphique
 La plupart des cahiers en 2017 avaient entre 10 et 50 cellules. 
 
 La plupart des cahiers avaient 100 lignes de code.

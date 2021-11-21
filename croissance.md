@@ -38,7 +38,11 @@ La perte de capital social (qui facilitait autrefois par exemple les rencontres 
 
 > en conclusion, nos dirigeants pourraient tranquillement nous amener à la catastrophe sans jamais en avoir conscience puisque la croissance économique, seule et unique boussole offerte par la doctrine [[agorathéisme|agorathéiste]] pourrait toujours être orientée à la hausse, quand bien même le monde deviendrait progressivement invivable.
 
+# Un besoin de croissance inégalement réparti
 
+Lorsque la population stage ou décroît comme au Japon, la croissance n'est plus nécessaire, et une décroissance du PIB est même envisageable selon Georges Ugeux sans que le pouvoir d'achat des Japonais ne s'en ressente[[@ThinkerviewFinancedestructricedemocratie2021]]. 
+
+Dans les pays en voie de développement la croissance est nécessaire pour satisfaire des besoins qui ne sont pas encore satisfaits, mais dans les pays développés, ce n'est pas la croissance (ou le manque de croissance le problème) mais le fait que les biens matériels et les richesses sont inégalement réparties. Il faut donc être capable de voir le problème de redistribution qui est souvent occulté dans le discours politique par le problème de croissance.
 
 
 # bibliographie

@@ -20,7 +20,7 @@ Présentation de François Schnell sur les Jupyter Notebooks (informaticien, Uni
 
 attitude par rapport à l'apprentissage de la programmation : *Can you fly this thing ? Not yet*(Matrix)
 
-*JuPyteR* : utiliser l'interopérabilité du HTML avec le langage Julia (datasciences), le langage Python et le langage de R
+*JuPyteR* : utiliser l'interopérabilité du HTML avec le langage Julia (datasciences), le langage [[Python]] et le langage de R
 
 ne pas laisser les Jupyter Notebooks aux data scientists : utile à tous. 
 

@@ -15,6 +15,7 @@ La révision par les pairs fait partie des méthodes scientifiques qui permetten
 
 La coopération amicalement hostile de la communauté du savoir s'exprime d'abord sous la forme d'une révision par les pairs (peer-reviewing)
 
+![journal of universal rejection](universal_rejection.png)
 
 # temps de révision par les pairs
 

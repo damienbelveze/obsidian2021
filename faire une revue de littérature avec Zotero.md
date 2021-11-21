@@ -52,7 +52,7 @@ Pour l'export d'un fichier RIS, procéder ainsi dans Pubmed
 Comme pour quelques autres bases, il n'y a pas d'import possible dans Zotero au moyen du connecteur depuis la Cochrane Library. Il est nécessaire de faire un export en RIS pour importer la collection dans ce format dans Zotero. 
 
 L'export sous forme de fichier RIS ou bibtex risque de générer des tags indésirables dans les étapes suivantes. 
-Il faut supprimer ces tags au moyen du script Python suivant : 
+Il faut supprimer ces tags au moyen du script [[Python]] suivant : 
 
 ```python
 
