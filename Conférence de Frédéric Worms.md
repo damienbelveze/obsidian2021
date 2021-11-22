@@ -1,4 +1,4 @@
-Présentation de l'après-midi + présentation de [Frédéric Worms](https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Worms)
+Présentation de l'après-midi + [[conférence]] de [Frédéric Worms](https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Worms)
 Présentation et animation de la table-ronde de Mathieu Rouault (journaliste scientifique)
 
 Rennes 2 décembre 2020

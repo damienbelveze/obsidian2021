@@ -46,7 +46,7 @@ La Cancel Culture n'est pas le monopole de la gauche. La droite pro-israelienne 
 
 Lorsqu'un camp annule la participation d'un représentant de l'autre camp, par exemple sur un campus, on entre dans une spirale de censure qui renforce chaque camp dans sa victimisation et sa violence. 
 
->Ces deux camps sont pris dans une dynamique de rétro-alimentation. Pour prendre un exemple très simple, c’est le cas lorsque des étudiants élèvent des barricades pour empêcher une personne d’intervenir dans une université. Ils pourraient boycotter cette conférence, refuser d’être exposés à ces idées… Mais l’attitude qu’ils choisissent, dans les conditions d’aujourd’hui, alimente cette spirale continue qui permet aux gens de droite de se poser en victimes. Cette dynamique est très difficile à rompre, car sa violence ne cesse de s’accroitre à partir de cette [[polarisation]], c’est le thème central de la violence politique [[@Gambettisavantepolitiqueconversation2021]]
+>Ces deux camps sont pris dans une dynamique de rétro-alimentation. Pour prendre un exemple très simple, c’est le cas lorsque des étudiants élèvent des barricades pour empêcher une personne d’intervenir dans une université. Ils pourraient boycotter cette [[conférence]], refuser d’être exposés à ces idées… Mais l’attitude qu’ils choisissent, dans les conditions d’aujourd’hui, alimente cette spirale continue qui permet aux gens de droite de se poser en victimes. Cette dynamique est très difficile à rompre, car sa violence ne cesse de s’accroitre à partir de cette [[polarisation]], c’est le thème central de la violence politique [[@Gambettisavantepolitiqueconversation2021]]
 
 # inefficacité de la cancel culture
 

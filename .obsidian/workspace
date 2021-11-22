@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4e06222d1aa90f32",
+        "id": "2e9e851fbcbea2f8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "croissance.md",
+            "file": "conférence de François Canonne-Hergaux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "1f4c6bb992415455",
+        "id": "e40639d035d25955",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "croissance.md",
+            "file": "conférence de François Canonne-Hergaux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,47 +43,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "croissance.md",
+            "file": "conférence de François Canonne-Hergaux.md",
             "mode": "source"
           }
-        },
-        "group": "36f2a96f78210f3f"
-      },
-      {
-        "id": "8f204278f848ad3d",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "croissance.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 3,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": true
-            }
-          }
-        },
-        "group": "36f2a96f78210f3f"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:crois",
+                "query": "file:conférence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 220
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -140,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "croissance.md",
+                "file": "conférence de François Canonne-Hergaux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,15 +168,15 @@
   },
   "active": "c6c6deed6cd86030",
   "lastOpenFiles": [
-    "croissance.md",
-    "pantouflage.md",
-    "LOLF.md",
-    "productivisme.md",
-    "intersectionnalite.md",
-    "féminisme.md",
-    "mesure de Levenshtein.md",
-    "Jupyter.md",
-    "faire une revue de littérature avec Zotero.md",
-    "cahiers numériques.md"
+    "conférence de François Canonne-Hergaux.md",
+    "publish or perish.md",
+    "intégrité scientifique.md",
+    "Conférence de Frédéric Worms.md",
+    "recherche de diversion.md",
+    "conférence.md",
+    "Cancel culture.md",
+    "Plan de gestion des données.md",
+    "reproductibilité.md",
+    "reproductible.md"
   ]
 }
