@@ -20,6 +20,19 @@ intérêts des carnets de laboratoire :
 
 Induisent deux styles d'écriture différents
 
+# choisir le bon produit en matière de cahier numérique
+
+- bien définir le périmètre des utilisateurs de la solution : à quel niveau on installe l'outil pour que le maximum de chercheurs en dispose. 
+- ergonomie : le passage du papier au numérique doit se faire de manière très fluide. 
+- gouvernance des données : conservation locale des données. devrait nous détourner des solutions en ligne. [[Mbook]] et [[ElabFTW]] nous permet de mettre l"outil en local
+- modalités d'export en cas de migration de solution ou bien pour installer la solution en local ou changer de serveur
+- coût de la solution (par exemple : Mbook :120 euros par utilisateur/an) ; difficilement accessible pour de petites institutions qui n'ont pas la masse critique pour négocier
+
+Une solution libre [[ElabFTW]] installée par exemple sur un serveur de Lyon ([projet Datacc](https://datacc.elab.one))
+
+Le CNRS pourrait fournir des lignes budgétaires aux labos pour qu'ils puissent se doter de cahiers numériques. 
+Le CNRS fournira une liste de critères pour choisir sa solution mais ne fera pas de recommandation (chaque discipline a ses propres besoins) 
+
 # cahiers hybrides
 
 thèse d'Aurélien Tabard sur les carnets de labo (expérience de terrain auprès des biologistes entre 2005 et 2009)
@@ -102,6 +115,10 @@ Impression générale que ses cahiers sont bordéliques : inconfort entre ce qu'
 
 Ces moments de nettoyage des cahiers, ce sont aussi des moments réflexifs importants pour le chercheur.
 
+# difficultés d'usage
+
+La première génération d'outils n'était pas mature ce qui a découragé les premiers utilisateurs à s'en servir. Notamment les mises à jour de Java rendaient leur usage assez difficile. 
+
 # conclusion
 
 tensions entre les usages : 
@@ -123,5 +140,21 @@ La reproductibilité est-elle un idéal pour l'ensemble de la science ? Pour les
 On peut fabriquer de la fraude avec ses cahiers. 
 Ce thème de la reproductiblité  est très connecté à la concurrrence entre chercheurs. Le problème fondamental c'est ce problème de compétition. Le carnet de labo, en tant qu'artefact technique, n'est pas un rempart vraiment satisfaisant par rapport à la crise de la reproductibilité de la science qui a pour origine surtout un problème social que rencontrent les chercheurs aujourd'hui.
 
+
+# Le cas des cahiers numériques à Lyon 1
+
+Présentation de DATACC (2019-222)
+
+Les cahiers sont adossés à des outils de traitement de données plus performants qu'excel ou calc
+
+La bibliothèque propose trois logiciels 
+
+cahiers numériques propriétaires : Mbook et Sciformation 
+cahier numérique libre : eLabFtW (E-lab for the world)
+
+Data's shameful neglect
+
+Les chercheurs sont assez souvent livrés à eux-même pour la conservation ou la communication des données entre chercheurs
+La plupart des établissements de l'ESR en France n'ont pas de plan de gestion de données, la problématique ne survient qu'avec le dépôt d'un projet ANR
 
 # Bibliographie

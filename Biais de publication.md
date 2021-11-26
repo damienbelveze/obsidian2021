@@ -12,6 +12,12 @@ Même graphique que précédemment mais en ajoutant les études qui n'ont pas é
 
 Pour compléter une [[méta-analyse]] avec des études qui n'ont pas été publiées, on peut utiliser la base [alltrials](https://www.alltrials.net/), compléter également avec les [[preprint|preprints]].
 
+Pour lutter contre les biais de publication, les communautés scientifiques peuvent utiliser plusieurs leviers : 
+
+- des incitations
+- la création de journaux qui acceptent également les articles faisant état d'expériences non concluantes
+- mettre en place des entrepôts de données pour les [[negative data]] (un entrepôt de ce type a été mis en place en chimie par ACS)
+
 
 
 

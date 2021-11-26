@@ -15,6 +15,10 @@ Depuis l'entrée en vigueur de [[Horizon2020]], les agences de financement, comm
 
 (H2020 Programme Guidelines on FAIR Data Management in Horizon 2020)
 
+Les PGD sont nés dans les communautés scientifiques. 
+Dès les années 70, la NASA donnait des standards pour décrire, classer et conserver des images satellites (rapport technique de 1973)
+Aspect patrimonial : ces données coûtent très cher à produire et étaient volumineuses à conserver. 
+
 # Quelques chiffres sur les plans de gestion des données. 
 
 Ces chiffres montrent à quel point il est urgent de "convertir" les chercheurs à la rédaction de plans de gestion des données : 
@@ -52,3 +56,20 @@ D'une publication à l'autre les données peuvent avoir des stauts différents :
 ![data availibility statement](data_citation_advantage.png)
 
 Une étude de 2020, montre que les données accessibles depuis la publication avec un lien qui renvoie vers un répertoire de données ont un bénéfice de citation de l'ordre de 25% sur la moyenne des citations des articles appartenant aux autres groupes [[@Colavizzacitationadvantagelinking2020]]
+
+
+# structure d'un plan de gestion de données
+
+document structuré en 6 parties
+
+- Décrire le jeu de données
+- Documenter (fournir les info qui gravitent autour du jeu de données)
+- stockage : 3/2/1 trois back-ups sur 2 supports différents don 1 à distance
+- exigences légales et éthiques : licences, RGPD
+- Partage es données et conservation à long terme : ne pas confondre l'archivage et le stockage ([[archivage]] = migration des formats) - identifier l'entrepôt de données en fonction de la découvrabilité (un entrepôt disciplinaire est plus riche en métadonnées pertinentes)
+- responsabilités
+
+Cette structure va légèrement changer. 
+Opidor : machine actionable DMP : export du PGD en Json (en complément de la version en ligne du plan de gestion)
+
+

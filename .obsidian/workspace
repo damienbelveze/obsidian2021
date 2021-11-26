@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "e2401ebbf1bc84b0",
+    "id": "4033634c0fad267c",
     "type": "split",
     "children": [
       {
-        "id": "2e9e851fbcbea2f8",
+        "id": "488718b82904e992",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conférence de François Canonne-Hergaux.md",
+            "file": "ElabFTW.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "e40639d035d25955",
+        "id": "780a3118bc5e2481",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conférence de François Canonne-Hergaux.md",
+            "file": "ElabFTW.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,15 +38,52 @@
         }
       },
       {
-        "id": "c6c6deed6cd86030",
+        "id": "907ca741ba771e4e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conférence de François Canonne-Hergaux.md",
+            "file": "ElabFTW.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "fdb324662fdb3200"
+      },
+      {
+        "id": "556013932e44072d",
+        "type": "leaf",
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "ElabFTW.md",
+            "options": {
+              "collapse-filter": false,
+              "search": "",
+              "localJumps": 3,
+              "localBacklinks": true,
+              "localForelinks": true,
+              "localInterlinks": false,
+              "showTags": false,
+              "showAttachments": false,
+              "hideUnresolved": false,
+              "collapse-color-groups": true,
+              "colorGroups": [],
+              "collapse-display": true,
+              "showArrow": false,
+              "textFadeMultiplier": 0,
+              "nodeSizeMultiplier": 1,
+              "lineSizeMultiplier": 1,
+              "collapse-forces": true,
+              "centerStrength": 0.518713248970312,
+              "repelStrength": 10,
+              "linkStrength": 1,
+              "linkDistance": 250,
+              "scale": 1,
+              "close": true
+            }
+          }
+        },
+        "group": "fdb324662fdb3200"
       }
     ],
     "direction": "vertical"
@@ -73,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:conférence",
+                "query": "file:ela",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conférence de François Canonne-Hergaux.md",
+                "file": "ElabFTW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +203,17 @@
     "width": 272,
     "collapsed": true
   },
-  "active": "c6c6deed6cd86030",
+  "active": "907ca741ba771e4e",
   "lastOpenFiles": [
-    "conférence de François Canonne-Hergaux.md",
-    "publish or perish.md",
-    "intégrité scientifique.md",
-    "Conférence de Frédéric Worms.md",
-    "recherche de diversion.md",
-    "conférence.md",
-    "Cancel culture.md",
+    "ElabFTW.md",
+    "cahiers numériques.md",
+    "faire une revue de littérature avec Zotero.md",
+    "Mbook.md",
+    "logiciel R.md",
+    "Editeurs prédateurs en open access.md",
+    "references/@Colavizzacitationadvantagelinking2020.md",
     "Plan de gestion des données.md",
-    "reproductibilité.md",
-    "reproductible.md"
+    "données de la recherche.md",
+    "FAIR.md"
   ]
 }

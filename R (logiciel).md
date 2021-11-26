@@ -331,4 +331,16 @@ Autres applications de R à travers Shiny qui offre une interface graphique plus
 shiny met à disposition ses serveurs pour 5 applications gratuites sur son serveur.
 
 
+# Faire son CV avec R
 
+utiliser le package Pagedown([[@DellaVedovaCommentfaireCV2020]])
+
+
+L'impression du document se fait avec la commande 
+
+``knit: pagedown::chrome_print``
+
+Il n'a pas été possible d'obtenir le PDF sans mettre à jour Rstudio (passage à la version 2021) et Rcpp (désinstaller Rcpp 1.06 et installer Rcpp 1.07)
+
+code  : ![[CV_Damien]]
+Résultat : ![[CV_Damien.pdf]]

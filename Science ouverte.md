@@ -2,3 +2,57 @@
 
 ([Ouvrir la science](https://www.ouvrirlascience.fr/plan-national-pour-la-science-ouverte/))
 
+diffusion sans entraves des résultats, des méthodes et des données de la science ouverte (c'est de la science fait correctement)
+ça s'applique à plein d'objets différents : méthodes, outils, différents produits de la recherche
+
+Important levier de croissance pour les Etats : c'est pourquoi la licence privilégiée est CC:by et non CC:by-nc
+
+Mots-clé :
+
+- accès ouvert
+- maîtrise
+- reproductibilité
+- démocratisation
+- intégrité scientifique
+
+## Les grands axes
+
+accès ouverte
+publication en open access
+structure, partage et ouverture des données
+ouverture du code source (mise à disposition de logiciels produits lors de la recherche, utilisation de logiciels libres)
+Open science by design
+
+## Science ouverte à l'échelle mondiale
+
+UNESCO recommendations on Open science
+International Science Council
+DORA
+Données : existence de la research data alliance (RDA), cf. Chemistry Interest Group
+
+## Science ouverte à l'échelle européenne
+
+Horizon Europe : Open Access immédiat ; une publication qui a été financées doit pouvoir être en open access au moment de sa publication
+
+Données : "aussi ouvertes que possible, aussi fermées que nécessaire"
+
+## Plan S
+Initiative de financeurs (dont ANR) pour un OA immédiat des publications
+refus des APC dans les revues hybrides
+Financement des APC dans les revues Full OA
+Obligation de dépôt en archive ouverte et stratégie de rétention des droits
+
+## A l'échelle française
+
+**Ministère de la recherche français:**
+- comité Science ouverte
+- Données [research data gouv](https://www.ouvrirlascience.fr) (avril 2022, opéré par l'INRAE, le "Hal des données")
+
+**ANR :**
+- OA immédiat aux publis via éligibilité des APC dans les revues full open access et diffusion sans embargo dans HAL (rétention des droits)
+- Plan de gestion obligatoire
+
+**CNRS :**
+- HAL
+- Opidor
+- Approches plus qualitatives dans l'évaluation que quantitatives

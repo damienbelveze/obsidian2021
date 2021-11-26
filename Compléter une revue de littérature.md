@@ -40,10 +40,20 @@ on part d'articles jugés importants et on va agrandir le cercles des articles i
 contrairement aux outils de recommandation d'articles, Citation Gecko vous permet de visualiser sous la forme de clusters les relations (citant/cités) entre articles.
 
 
-Exemple :
+Exemple1 :
 
 Chercher 5 articles sur l'obfuscation et les navigateurs. Sélectionner ces articles comme seed papers
 Citation Gecko va afficher les articles citant ou cités par ces articles séminaux.
+
+Exemple2 :
+
+utiliser le [fichier de citations sur le rôle des additifs colorants sur l'hyperactivité des enfants](demo_citation_gecko.bib)
+
+Le graphe des articles cités par les articles pivots (Papers cited by seeds) laisse voir un gros rond noir
+
+![](citation_gecko_additives.png)
+
+qui correspond à un article abondamment cité par ceux qu'on a déjà repérés : "Food additives and hyperactive behaviour in 3-year-old and 8/9-year-old children in the community: a randomised, double-blinded, placebo-controlled trial[](https://doi.org/10.1016/S0140-6736(07)61306-3)" paru dans le Lancet. On peut le juger non pertinent ou au contraire l'ajouter aux articles pivots.
 
 ### vue chronologique
 
