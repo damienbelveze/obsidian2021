@@ -7,6 +7,8 @@ link_citations: true
 aliases: []
 ---
 
+# la déjudiciarisation des procès de fous
+
 Statut d'une personne traduite en justice pour des délits ou des crimes commis sous l'effet d'un délire ou d'une maladie mentale. 
 
 Ce statut a été formalisé en droit pour la première fois par l'empereur [[Marc-Aurèle]] dont l'édit incitait à ne pas condamner un criminel par folie car il était assez puni lui-même par sa maladie mais à examiner si le crime avait été commis dans un épisode furieux ou bien dans un intervalle de lucidité. 
@@ -19,6 +21,13 @@ En 1810, l'article 64 du code pénal entérine cette habitude de ne pas punir le
 
 En 1905, la circulaire Chaumié, permet à un prévenu qui ne peut pas être entièrement considéré comme irresponsable, d'obtenir une atténuation de responsabilité. 
 En 2008, une circulaire associe le statut d'irresponsabilité à une rétention de sûreté permettant d'extraire le malade de la société au cas où celui-ci serait reconnu comme dangereux. 
+
+# affaire Moitoiret / Hégo : le retour du jugement des fous
+
+L'affaire Moitoiret / Hégo manifeste au sein de la justice les conséquences du [[populisme pénal]] qui fait pression pour juger les fous en réparation d'un crime ou d'un délit (en l'occurrence le meurtre du petit Valentin par Stéphane Moitoiret). En dépit de propos délirants tenus par l'accusé et sa compagne entendus tout au long du procès, 4 experts psychiatres sur 10 seulement ont conclu à une irresponsabilité pénale (abolition du discernement) au moment des faits (contre 6 qui ont indiqué une altération). Moitoiret a été condamné à perpétuité pour ce meurtre[[@Durand-DoufflandMissiondivine2021]].  
+Le verdict a surpris dans la mesure où la justice doit déterminer si l'accusé avait un discernement alteré ou aboli par la folie au moment du crime, or tout le monde a pu constater que son discernement était en permanence altéré (alors que ce n'est pas le cas dans l'affaire sur le meurtre de Sara Halimi)
+
+# meurtre de Sara Halimi
 
 Lors de l'[[affaire Sara Halimi]] -où un homme (Kobili Traoré) présentant des troubles mentaux avérés par les experts et ayant consommé du canabis avant son passage à l'acte a défenestré une femme en arguant du fait qu'elle était juive- une polémique est née pour savoir si cet acte n'était pas surtout motivé par l'[[antisémitisme]] de son auteur, ou bien si la consommation de cannabis chez cette personne, compte tenu de son état mental, n'impliquait pas une forme de responsabilité. 
 

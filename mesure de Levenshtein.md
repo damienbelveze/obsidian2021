@@ -18,7 +18,7 @@ py -m pip install levenshtein-python
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SqDjsZG3Mkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+[calculateur de Levenshtein en ligne](https://planetcalc.com/1721/)
 
 
 # bibliographie

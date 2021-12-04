@@ -27,7 +27,10 @@ voir critique de Brice Couturier (OK boomer)[[@CouturierWokeCancelCulture]]
 France Inter a publié en novembre 2021 une enquête dans laquelle on peut lire que des centaines de comptes "woke" ont été créés de toute pièce sur Twitter pour caricaturer les positions de la gauche et décrédibiliser les opinions progressistes [[@InterEnquetecesfaux2021]]. 
 
 
+Pour le philosophe Valentin Denis, dans un [texte paru sur AOC](aoc_wokisme.pdf) en novembre 2021 le wokisme, un néologisme créé à partir de l'adjectif *woke* (*wokism* n'est pas usité au USA) est une caricature faite par la droite des idées progressistes, dans laquelle les militants anti-discrimination qui sont en réalité la cible de cette attaque ne  peuvent pas se reconnaître. 
+Le wokisme ne disposerait d'aucun écrit fédérateur, d'aucun porte-parole, d'aucun corpus idéologique homogène et par conséquent ne serait d'un point de vue rhétorique qu'un "[[homme de paille]]" mis en place pour nourrir les obsessions des milieux conservateurs en butte à une revendication d'égalité émanant des minorités[[@Denisagitationchimerewokisme2021]]. 
 
+>« Wokisme » est un mot qui ne se caractérise pas par son _contenu_, mais par sa _fonction_ : stigmatiser des courants politiques souvent incommensurables tout en évitant de se demander ce qu’ils ont à dire.
 
 
 

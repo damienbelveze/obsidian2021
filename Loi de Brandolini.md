@@ -1,11 +1,15 @@
 # La loi de Brandolini ou le principe d'asymétrie du baratin : un défi pour les scientifiques
 
+loi formulée en 2013 par un programmeur italien Alberto Brandolini
+
 > la quantité d'énergie nécessaire pour réfuter des foutaises est  supérieure d'un ordre de grandeur à celle nécessaire pour les produire
 
 
 Celui qui porte une nouvelle jugée étonnante mais prouvée comme fausse aura toujours plus de charisme que celui qui prouve que cette nouvelle est fausse et met en évidence une vérité qui n'a en fait rien d'étonnant. 
 
 # asymétrie et motivation
+
+asymétrie de l'onction
 
 >Les "anti-science" ont un avantage : leur marginalité alimente une motivation qui fait leur grande force sur les réseaux sociaux où quelques-uns peuvent donner l'illusion d'une multitude. Ce n'est que l'une des nombreuses asymétries qui favorisent les balivernes. 
 
@@ -17,6 +21,11 @@ Celui qui porte une nouvelle jugée étonnante mais prouvée comme fausse aura t
 
 Voir l'article [[Croyance versus connaissance]]
 
+Le caractère désespérant ou démotivant de la loi de Brandolini, c'est que les mêmes fausses informations reviennent incessamment quelque soit le travail de réfutation préalable. On Pourrait être tenté de croire que la situation n'aurait guère été différente si ce travail de réfutation des premières instances de la fausse information n'avait pas été fait. 
+
+> _Pertness and ignorance may ask a question in three lines, which it will cost learning and ingenuity thirty pages to answer. When this is done, the same question shall be triumphantly asked again the next year, as if nothing had ever been written upon the subject_
+
+(George Horne, 1786)
 # communication scientifique
 
 Les chercheurs sont d'autant plus réticents à communiquer sur leurs travaux dans les grands médias qu'ils voient ceux-ci déformés et exagérés par la presse.

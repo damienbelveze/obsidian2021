@@ -55,6 +55,8 @@ Il est donc important de restreindre les citations aux passage où l'auteur rés
 
 En reliant entre elles ces notes prises au fil de l'eau à la faveur de lectures, Obsidian permet de structurer sa pensée et peut éventuellement amener à des rapprochements inédits entre des concepts qui sont en relation au départ avec des contextes différents (valeur heuristique de ces graphes de notes) 
 
+Obsidian est un outil qui favorise le *jardinage* des notes[[@CollignonIntegratinghypothesishighlights2021]]. En écrivant une note, on se rend compte qu'on peut faire un lien depuis cette note vers une note plus ancienne. Lorsque le lien est fait, on s'aperçoit qu'on peut ajouter un autre aspect à la note plus ancienne avec le savoir supplémentaire obtenu au moment de l'écriture de la première note. Cette activité aide non seulement à mémoriser, mais à créer de nouveaux liens, à appuyer les connaissances nouvelles sur un socle de connaissances anciennes et à enrichir ces connaissances plus anciennes de nouveaux aperçus. 
+
 ## 1.4 Obsidian sur son smartphone
 
 Depuis juillet 2021, Obsidian est disponible sur Ios et Android ([source](https://www.igen.fr/app-store/2021/07/gestion-de-notes-obsidian-est-desormais-disponible-sur-ios-et-android-123911))
@@ -170,6 +172,17 @@ Si on veut lier sur un bloc plutôt qu'un header, remplacer le \# par un \^
 première note de bas de page[^1]
 
 [^1]: cette note de bas de page peut être placée n'importe où, elle apparaîtra forcément à la fin du document.
+
+### transclusion
+
+Avec Obsidian, on la possibilité de faire un lien vers un document de la base de notes (une image, un PDF) de telle sorte qu'en mode lecture, si on passe la souris sur le lien, une prévisualisation du document s'affiche (pour y accéder, il suffit de cliquer) ou bien on peut aussi inclure le document dans la note, de telle sorte que celui-ci soit visible et déroulable. 
+On peut le faire notamment pour un PDF : 
+
+!\[\[document.pdf\]\]
+
+pour afficher une version ancienne de ce guides en PDF à l'intérieur de la présente note : 
+
+![[mode_emploi_obsidian.pdf]]
 
 
 ### liens externes
@@ -412,7 +425,7 @@ Voici une revue de quelques plugins installés par défaut :
 
 L'explorateur de fichiers permet de naviguer dans les fichiers de votre coffre à l'endroit où celui-ci est hébergé. 
 
-### Vue graphique
+### Vue graphique globale
 
 La vue graphique vous permet de visualiser l'ensemble de vos notes et des liens qui les unissent sous la forme d'un graphe. Lorsque les notes ne sont pas liés à quelques projets, cette constellation devient vite illisible. 
 
@@ -437,6 +450,17 @@ Pour cela se positionner dans la vue graphique, cliquer sur la roue crantée et 
 
 ![couleur des tags](images/couleur_tags.png)
 
+### prendre conscience de l'importance des notes au moyen de la vue graphique
+
+On l'a vu, Obsidian propose une mise à plat des notes, sans structure hiérarchique (pas de dossiers, ni de sous-dossiers) et cela pour mimer la façon dont notre cerveau traite l'information (le concept orange peut être lié à des objets de couleur orange, un crépuscule, une marque de téléphone, un feu de signalisation, mais également à des fruits puisque l'orange est un fruit. Il n'y a pas de lien de hiérarchie possible entre des choses très différentes comme un feu de circulation et une pomme par exemple). Toutefois, le graphe nous permet d'observer que certaines notes occupent une plus grande centralité que d'autres (et peuvent donc passer pour plus importantes que d'autres pour l'esprit qui a collationné ces notes). Il existe trois types de centralité : 
+
+la centralité de degré : la note qui a le plus de liens avec des notes qui ont elles-mêmes beaucoup de liens
+la centralité de proximité : la note à partir de laquelle les chemins sont les plus courts vers l'ensemble des notes du graphe
+la centralité d'intermédiarité : la note qui relie  entre elles le plus de pôles (ypiquement une note orange pourrait relier un pôle de notes fruits et un pôle de notes objets de couleur orange)
+
+![cerf-volant de Krackhardt ](graph_theory.png)
+
+### vue graphique locale
 
 Plus intéressante est la possibilité d'ouvrir un graphe local à partir de la note (aller dans les raccourcis clavier pour paramétrer la combinaison de touches qui vous conviendra pour faire apparaître ce graphe)
 
@@ -624,8 +648,43 @@ Si la version de Pandoc dont on dispose n'inclue pas le plugin pandoc-citeproc, 
 
 10. On obtient le PDF souhaité avec les références correctement représentées (appels de citation et bibliographie) selon le style choisi dans la commande pandoc. 
 
+# 8. importer des notes créées ailleurs dans Obsidian
 
-# 8. changer le CSS
+## MDnotes (plugin de Zotero)
+
+il est possible d'importer des notes créées dans Zotero avec le plugin MDnotes
+1. Charger le [plugin MDnotes](https://github.com/argenos/zotero-mdnotes) dans Zotero
+2. paramétrer le plugin
+
+![](mdnotes1.png)
+
+3. Indiquer un répertoire d'export dans Obsidian (par exemple un répertoire intitulé MDnotes)
+4. Dans ce répertoire, MDnotes cherchera les fichiers suivants : 
+
+.
+├── Mdnotes Default Template.md
+├── Standalone Note Template.md
+├── Zotero Metadata Template.md
+└── Zotero Note Template.md
+
+pour paramétrer l'affichage de la note de la façon souhaitée, pour une note fille, éditer le document MDnotes Default Template.md, si c'est une note parente Standalone Note Template.md
+
+Pour exporter une note, clic droit sur la référence > MDnotes > export to markdown
+
+Le fichier sera exporté en markdown à l'endroit spécifié dans le menu du plugin
+
+## hypothesis
+
+Si on utilise hypothes.is pour annoter le web (plugin actuellement accessible sur Chrome), il existe un plugin d'Obsidian qui permet de synchroniser ses notes sur hypothes.is avec un répertoire d'Obsidian. 
+
+1. Charger le plugin hypothesis (disponible dans les plugins communautaires)
+2. activer-le (ne pas oublier cette étape !)
+3. dans hypothesis, aller sur developer, générer un token
+4. dans le plugin d'Obsidian, spécifier le répertoire où doivent aller les notes et entrer le token
+
+Dès lors que le plugin est chargé, un bouton dans le menu latéral permet de synchroniser les notes prises dans Hypothes.is avec Obsidian
+
+# 9. changer le CSS
 
 une feuille de style CSS va définir pour un document en markdown comment va se présenter un titre 1 (# titre1), un titre 2 (## titre2), comment une image va être alignée par rapport au texte, comment les citations vont être présentées. 
 
@@ -648,12 +707,12 @@ h3 { color: #689d6a; }
 Il n'est pas question ici de créer un guide d'apprentissage du CSS, mais on peut trouver [ici](https://forum.obsidian.md/t/meta-post-css-themes/76) des thèmes tout faits pour les notes et [là](https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/master/Snippets) des *snippets*, autrement dit des bouts de code en CSS qui permettent d'obtenir un affichage personnalisé de certains éléments. Ces exemples peuvent être repris pour constituer une feuille de style CSS qui nous soit propre.
 
 
-# 9. Conversion de la note en PDF ou dans un autre format de sortie
+# 10. Conversion de la note en PDF ou dans un autre format de sortie
 
 On peut éditer une note en PDF en utilisant la fonctionnalité interne d'Obsidian (exporter en PDF). 
 En revanche, pour gérer certains aspects comme la bibliographie, on aura besoin d'utiliser Pandoc en lien avec LaTeX 
 
-## 9.1 pandoc
+## 10.1 pandoc
 
 Pandoc est le couteau-suisse de l'édition numérique. Il ne dispose pas à ce jour d'une interface graphique, mais les manuels d'utilisation ne manquent pas pour apprendre à taper les lignes de commande qui vous permettront d'obtenir le résultat souhaité.
 
@@ -690,7 +749,7 @@ Attention : même si LaTeX est correctement chargé sur la machine, l'export en 
 Définir des raccourcis clavier pour les différents formats d'export
 Par exemple Ctrl+Alt+P pour un export en PDF, Ctrl+Alt+W pour un export en .doc, etc.
 
-## 9.2 Directement avec Pandoc
+## 10.2 Directement avec Pandoc
 
 Ouvrir dans le dossier où se trouve la note le menu contextuel qui permet d'accéder à Powershell (sous Windows : sshift + clic-droit) ou ouvrir le terminal à cet endroit sous Linux. Pour Windows. 
 - Windows : ouvrir l'interface de commande powershell
@@ -728,7 +787,7 @@ pandoc 'document.md' --from html --to pdf --pdf-engine=xelatex --citeproc -f mar
 
 (prévoir un titre 1 bibliographie à la fin du document)
 
-## 9.3 utiliser une feuille de style
+## 10.3 utiliser une feuille de style
 
 On l'a vu, Markdown évacue complètement la question des styles (police, taille des caractères, couleur des caractères) pour ne s'occuper que de la structure du document. C'est la raison pour laquelle, beaucoup de personnes trouvent qu'il est plus simple d'écrire dans cette syntaxe. Toutefois, lorsqu'on travaille en vue de rendre un rapport ou bien lorsqu'on produit des documents formatés d'une certaine manière pour une entreprise, la production doit au final avoir une certaine forme, respecter une certaine feuille de style. 
 Avec pandoc, il est aisé de créer un modèle adapté à ses besoins. 
@@ -754,9 +813,9 @@ Faire de même avec un template en format open document :
 plus d'info sur [l'aide en ligne de pandoc](https://pandoc.org/MANUAL.html#option--reference-doc)
 
 
-# 10. Faire un backup de ses notes sur Github
+# 11. Faire un backup de ses notes sur Github
 
-## 10.1  d'Obsidian à Github ou Gitlab
+## 11.1  d'Obsidian à Github ou Gitlab
 
 1. installer Git sur sa machine
 2. Se créer un compte sur github
@@ -781,12 +840,12 @@ plus d'info sur [l'aide en ligne de pandoc](https://pandoc.org/MANUAL.html#optio
 
 On peut bien sûr envoyer le contenu de sa bibliothèque de notes et des documents qui l'accompagnent en utilisant Git directement depuis le dossier racine. Ce plugin facilite juste ce processus (un raccourci-clavier par rapport à l'envoi de quelques commandes dans le terminal de Git)
 
-## 10.2 de github ou gitlab à la publication de ses notes en ligne
+## 11.2 de github ou gitlab à la publication de ses notes en ligne
 
 En théorie, il est possible de créer un site statique à partir de Github en utilisant netlify ou Jekyll comme gestionnaire de sites statique. Toutes les notes en markdown envoyées depuis Obsidian vers Github vont être disponibles depuis ce site et liées les unes aux autres par des liens hypertexte. 
 Après plusieurs tentatives avec Netlify, et en suivant plusieurs tutos dont [celui-ci](https://www.starfallprojects.co.uk/posts/obsidian-monorepo/), je ne suis pas encore parvenu à réaliser cette opération. A priori, elle rend inutile le fait d'obtenir ce service en publiant à ses frais ses notes sur les serveurs d'Obsidian (plugin publish d'obsidian)
 
-# Où trouve t-on de l'aide le plus souvent à propos d'Obsidian
+# 12. Où trouve t-on de l'aide le plus souvent à propos d'Obsidian
 
 Quand on travaille avec Obisidian, assez fréquemment on est amené à chercher de l'information sur la syntaxe markdown, LaTeX ou Pandoc. Mais en ce qui concerne Obsidian lui-même, les deux sources d'information qui reviennent le plus souvent (hormis les tutos très nombreux et très utiles sur Youtube) sont : 
 

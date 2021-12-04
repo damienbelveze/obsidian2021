@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "4033634c0fad267c",
+    "id": "34f4a5c14f64fbae",
     "type": "split",
     "children": [
       {
-        "id": "488718b82904e992",
+        "id": "37041f1947fee7e8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ElabFTW.md",
+            "file": "Liberté vs égalité.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "780a3118bc5e2481",
+        "id": "cc841ad6c2efbdfc",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ElabFTW.md",
+            "file": "Liberté vs égalité.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,52 +38,15 @@
         }
       },
       {
-        "id": "907ca741ba771e4e",
+        "id": "9af9e6017292992d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ElabFTW.md",
+            "file": "Liberté vs égalité.md",
             "mode": "source"
           }
-        },
-        "group": "fdb324662fdb3200"
-      },
-      {
-        "id": "556013932e44072d",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "ElabFTW.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 3,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": false,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": true,
-              "colorGroups": [],
-              "collapse-display": true,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": true,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1,
-              "close": true
-            }
-          }
-        },
-        "group": "fdb324662fdb3200"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ela",
+                "query": "liberté",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -140,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ElabFTW.md",
+                "file": "Liberté vs égalité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,20 +162,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272,
+    "width": 100,
     "collapsed": true
   },
-  "active": "907ca741ba771e4e",
+  "active": "9af9e6017292992d",
   "lastOpenFiles": [
-    "ElabFTW.md",
-    "cahiers numériques.md",
-    "faire une revue de littérature avec Zotero.md",
-    "Mbook.md",
-    "logiciel R.md",
-    "Editeurs prédateurs en open access.md",
-    "references/@Colavizzacitationadvantagelinking2020.md",
-    "Plan de gestion des données.md",
-    "données de la recherche.md",
-    "FAIR.md"
+    "Liberté vs égalité.md",
+    "institutionnalisation de l'EMI.md",
+    "Carrefours de l'information.md",
+    "apprendre le web.md",
+    "bibliothèque Gulbenkian.md",
+    "théorie complotiste.md",
+    "commande Pandoc.md",
+    "Loi de Brandolini.md",
+    "references/@CardonPourquoiavonsnoussi2019.md",
+    "Bulle de filtre.md"
   ]
 }

@@ -8,5 +8,6 @@
   "obsidian-pandoc-plugin",
   "obsidian-pandoc",
   "obsidian-citation-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-hypothesis-plugin"
 ]
