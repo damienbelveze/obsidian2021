@@ -22,7 +22,7 @@ A l'inverse, une autre tentation des sciences est l'ultraspécialisation. Cette 
 
 La nécessité d'une synthèse pour mettre en valeur les différents acquis des sous-disciplines et des recherches restées jusqu'à alors confinées à quelques groupes de chercheurs, ne doit pas s'arrêter aux frontières de la discipline telle que l'institution les dessine. Et même si institutionnnellement, les différentes disciplines ne sont pas toutes mises au même niveau et que certaines dominent certaines autres (comme la biologie évolutionniste domine la sociologie) : 
 
-> e fait d’être dominé, par exemple, par la biologie évolutionniste ne devrait pas empêcher les chercheurs en sciences sociales de prendre acte de l’évolution des espèces et des conséquences que cette évolution a eu sur ce qui constitue centralement leurs objets : les comportements humains et les formes proprement humaines de vie sociale. Les sciences sociales gagneraient à tirer toutes les conséquences des travaux portant sur des questions comportementales, cognitives et organisationnelles de la vie en société, produits par des disciplines issues en partie des sciences de la vie 
+> Le fait d’être dominé, par exemple, par la biologie évolutionniste ne devrait pas empêcher les chercheurs en sciences sociales de prendre acte de l’évolution des espèces et des conséquences que cette évolution a eu sur ce qui constitue centralement leurs objets : les comportements humains et les formes proprement humaines de vie sociale. Les sciences sociales gagneraient à tirer toutes les conséquences des travaux portant sur des questions comportementales, cognitives et organisationnelles de la vie en société, produits par des disciplines issues en partie des sciences de la vie 
 
 (([[@LahireManifestepourscience2021]])
 

@@ -37,7 +37,15 @@ fact-checker les propos d'un bullshiteur professionnel est contreproductif, dans
 
 ![## Ce n’est pas la désinformation qui pousse à se soustraire à la vaccination](fakenews_vaccination.pdf)
 
+# politisation et dépolitisation des faits
 
+Le fait qu'il pleuve peut être ramené à l'acceptation ou non de la théorie des bouleverments climatiques induits par l'activité humaine. Tout fait est susceptible d'être directement lié à son interprétation, car aujourd'hui "[[Tout est politique]]"
+
+Si l'on veut rompre avec cette tendance, l'erreur inverse consiste à dépolitiser le réel.
+
+> Bien entendu, on ne peut que s’inquiéter, tout comme G. Bronner, de l’érosion d’un monde commun dans lequel ce ne sont pas les interprétations des mêmes faits qui entrent en conflit mais les faits eux-mêmes qui se désagrègent, notamment sous le poids des populistes, de Trump à Zemmour en passant par Chavez ou Bolsonaro. La raison de cette désagrégation est que tout, à commencer par la réalité factuelle elle-même, est devenu de part en part politique. Même et surtout des faits apparemment neutres, tel le temps qu’il fait, sont devenus, à l’ère du dérèglement climatique, des signes d’affiliation, des indices d’appartenance. Mais répondre à cette désagrégation épistémique, à cette politisation tous azimuts de la factualité par son extrême opposé, à savoir la dépolitisation et la réification des faits, ne permet guère, me semble-t-il, de retisser un monde commun
+
+(source[[@Kuafmanngeometriepolitiqueretour2021]])
 
 
 # bibliographie

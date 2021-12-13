@@ -34,7 +34,7 @@ L'antisémitisme facilite au même titre que l'homophobie la collusion entre ass
 # antisémitisme et complotisme
 
 l'antisémitisme est une composante très répandue de la pensée complotiste. 
-Une étude réalisée par Antoine Bristielle auprès de 1000 comptes abonnés à des pages anti-masques sur Facebook montre que dans 57% des cas, ces abonnés croient à un complot sioniste à l'échelle mondiale ([[@Corcuffgrandeconfusioncomment2021]] ,p223).
+Une étude réalisée par Antoine Bristielle auprès de 1000 comptes abonnés à des pages anti-masques sur [[Facebook]] montre que dans 57% des cas, ces abonnés croient à un complot sioniste à l'échelle mondiale ([[@Corcuffgrandeconfusioncomment2021]] ,p223).
 
 
 

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [philosophie politique]
+tags: [philosophie politique, sciences politiques]
 ---
 
 régime politique né à l'époque antique (Athènes 5ème siècle avant JC bien que sous une forme non universelle (femmes, esclaves et métèques exclus des règles du droit commun))

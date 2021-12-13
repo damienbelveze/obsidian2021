@@ -48,7 +48,7 @@ Faire une recherche inverse d'images relève bien d'un savoir procédural, mais 
 
 ## une pédagogie qui n'élude pas la question de la concentration des médias
 
-Ne pas éluder les aspects économiques de la production de l'information, non seulement ceux relatifs aux réseaux sociaux (on a vu récemment qu'entre le pognon et la qualité de l'information échangée, Facebook optera toujours pour le pognon), mais aussi aux médias du XXème siècle (Zuckerberg ne doit pas effacer Citoyen Kane, Hearst, Murdoch ou Bolloré dans nos représentations)[[@Solarieducationauxmedias2010]].  Rappeler qu'Orange continue de financer par la publicité un grand nombre de sites notoirement connus comme étant des sites de désinformation[[@Fricnewsqui2021]].
+Ne pas éluder les aspects économiques de la production de l'information, non seulement ceux relatifs aux réseaux sociaux (on a vu récemment qu'entre le pognon et la qualité de l'information échangée, [[Facebook]] optera toujours pour le pognon), mais aussi aux médias du XXème siècle (Zuckerberg ne doit pas effacer Citoyen Kane, Hearst, Murdoch ou Bolloré dans nos représentations)[[@Solarieducationauxmedias2010]].  Rappeler qu'Orange continue de financer par la publicité un grand nombre de sites notoirement connus comme étant des sites de désinformation[[@Fricnewsqui2021]].
 
 ### ne pas focaliser sur les biais cognitifs
 

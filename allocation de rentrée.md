@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [études scientifiques]
 ---
 
 L'un des mythes sociaux en vogue dans la bourgeoisie consiste à prétendre que les allocations de rentrée versées par le gouvernement aux familles modestes servent à équiper les parents en objets high-tech ("écran plat") au détriment des dépenses destinées à améliorer le sort de leurs enfants. 

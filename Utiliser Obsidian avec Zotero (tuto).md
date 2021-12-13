@@ -1,3 +1,8 @@
+---
+tags: [obsidian]
+---
+
+
 Prérequis : disposer de Zotero avec le plugin BetterBibTeX chargé. 
 Avoir téléchargé Pandoc et un éditeur LaTeX sur sa machine.
 Si la version de Pandoc dont on dispose n'inclue pas le plugin pandoc-citeproc, charger ce plugin. 

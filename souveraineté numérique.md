@@ -22,7 +22,7 @@ Faute de cette stratégie d'indépendance numérique la France et les autres pay
 en autres exemples...
 
 
-Les révéléations de Snowden et [[Cambridge Analytica]] manifestent très clairement ce manque de souveraineté dans la mesure où dans les deux cas, les données privées d'européens ont été exploitées à des fins politiques par des acteurs extra-européens, en utilisant pour cela des services numériques américains (Google et Facebook en particulier) sur lesquels les Etats Européens n'ont aucune prise.
+Les révéléations de Snowden et [[Cambridge Analytica]] manifestent très clairement ce manque de souveraineté dans la mesure où dans les deux cas, les données privées d'européens ont été exploitées à des fins politiques par des acteurs extra-européens, en utilisant pour cela des services numériques américains (Google et [[Facebook]] en particulier) sur lesquels les Etats Européens n'ont aucune prise.
 
 Le [[RGPD]] est une tentative pour retrouver un peu de souveraineté numérique européenne dans la mesure où les prestataires du monde entier doivent l'appliquer aux données d'européens qu'ils détiennent depuis 2018. 
 Le rejet du [[privacy shield]] , après celui du Sage Harbor, appartient également à ces actes que l'Europe a posés pour tenter de sortir de l'emprise américaine en matière de gestion des données privées.

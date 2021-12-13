@@ -9,6 +9,7 @@ affiliation:
 link-citation: true
 bibliography: mylibrary.bib
 biblio-style: csl\ieee.csl
+tags: [obsidian]
 ---
 
 #KnowledgeManagement

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [droit]
+tags: [droit, personnalité juridique]
 ---
 
 doctrine juridique permettant de doter des objets non-humains (des forêts, des fleuves, des espèces) de droits (mais pas de devoirs)

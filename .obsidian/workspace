@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "37041f1947fee7e8",
+        "id": "2e7ecb60246de9d2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Liberté vs égalité.md",
+            "file": "évaluation d'une formation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "cc841ad6c2efbdfc",
+        "id": "4a10c579f38408b6",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Liberté vs égalité.md",
+            "file": "évaluation d'une formation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "9af9e6017292992d",
+        "id": "e0a5259ae4d64f14",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Liberté vs égalité.md",
+            "file": "évaluation d'une formation.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "liberté",
+                "query": "beudon",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220
+    "width": 227
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Liberté vs égalité.md",
+                "file": "évaluation d'une formation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +165,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "9af9e6017292992d",
+  "active": "e0a5259ae4d64f14",
   "lastOpenFiles": [
-    "Liberté vs égalité.md",
-    "institutionnalisation de l'EMI.md",
-    "Carrefours de l'information.md",
-    "apprendre le web.md",
-    "bibliothèque Gulbenkian.md",
-    "théorie complotiste.md",
-    "commande Pandoc.md",
-    "Loi de Brandolini.md",
-    "references/@CardonPourquoiavonsnoussi2019.md",
-    "Bulle de filtre.md"
+    "évaluation d'une formation.md",
+    "courbe rétrospective UX.md",
+    "fascisme.md",
+    "Dieu et vérité.md",
+    "Dialectique.md",
+    "démocratie.md",
+    "capitalisme cognitif.md",
+    "animisme juridique.md",
+    "Analyse textuelle.md",
+    "Git.md"
   ]
 }
