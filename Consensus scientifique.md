@@ -15,7 +15,7 @@ Dans le cas d'une étude clinique, le consensus scientifique peut prendre la for
 
 La [[Méthode SIFT]] est une méthode de vérification de l'information qui recommande de chercher un consensus sur le sujet investigué.
 
-# usage rhétorique du consensus
+# usage [[rhétorique]] du consensus
 
 Les groupes de pression font le plus souvent usage d'une étude pour faire valoir un point de vue, mettant de côté l'existence d'un consensus scientifique qui ne leur donne pas raison. Même des groupes rationalistes comme l'[[Agence Française pour l'Information Scientifique]] sont accusées de prendre appui sur des consensus scientifiques quand ceux-ci confirment leurs positions et de s'en éloigner quand ce n'est plus le cas (comme dans le cas de la supposée non nocivité du [[glyphosate]] [[@Foucartgardiensraisonenquete2020]])
 

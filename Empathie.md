@@ -33,7 +33,7 @@ Cet exercice permet en outre aux apprenants à prendre en compte trois limites d
 
 **entre-soi** : il est difficile de vouloir avoir quoi que ce soit en commun avec des personnes qui pensent différemment. Le désaccord sur des valeurs fondamentales est une expérience difficile à vivre
 
-**compétition**: un exercice de rhétorique qui se présente sous la forme d'une joute oratoire ne permet pas de susciter de l'empathie envers des personnes que l'on considère comme des concurrents.
+**compétition**: un exercice de [[rhétorique]] qui se présente sous la forme d'une joute oratoire ne permet pas de susciter de l'empathie envers des personnes que l'on considère comme des concurrents.
 
 Victor Ferry[[@FerryExercisingEmpathyAncient2017a]] propose une méthodologie pour enseigner l'empathie à travers la rhétorique en classe qui fonctionne en 4 temps : 
 

@@ -27,8 +27,16 @@ Camille Froidevaux-Metterie s'inspire d'une perspective phénoménologique pour 
 >Toute distinction, qu’elle soit fondée sur la couleur de la peau, la classe sociale, le genre ou la sexualité, fait figure d’argument insupportable nourrissant la catégorisation, le communautarisme, voire le séparatisme. Nul besoin de faire de longs développements pour démontrer que la diversité des conditions réelles dans lesquelles les femmes vivent l’abstraction juridique privent la majorité d’entre elles de la plupart des bénéfices associés aux droits démocratiques.
 
 
+# L'idéal d'une culture alternative
 
+Certains mouvements féministes affichent leur choix d'une forme de misandrie et leur volonté de construire une culture parallèle entièrement régie par les "valeurs" féministes, une culture d'où tout simplement les hommes seront absents (cf. refus d'Alice Coffin de lire, écouter, voir une oeuvre qui soit faite par un homme). 
 
+Cette manière de concevoir le féminisme a deux inconvénients majeurs : 
+- elle met la barre extrêmement haut pour des femmes qui souhaitent mettre fin au patriarcat et s'émanciper de relations avec les hommes basées sur la domination masculine. Leur objectif n'est pas de se couper des hommes, mais d'avoir des relations égalitaires avec celles-ci. 
+- Il y a un risque que le modèle dominant de la culture patriarcale trouve sa réplique (mais de façon inverse) dans une culture reposant entièrement sur des valeurs féministes ou bien des contributions de femmes. Ce qui empêche une culture de devenir dominante et permet aux autres cultures d'avoir leur part de visibilité, c'est le dialogue entre toutes. cf. Féminist Theory de Bells Hooks[[@hooksFeministTheoryMargin2014]]
 
+![](communauté_féministe.jpg)
+
+Le féminisme n'est pas une identité c'est un moyen de lutter contre l'oppression patriarcale et de nouer des rapports égalitaires entre genres.
 
 

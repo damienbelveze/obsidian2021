@@ -9,7 +9,7 @@ tag: normes du débat, épistémologie
 
 # sortir de la norme du débat en direct
 
-un débat en direct entre deux personnes n'a pas pour objet la manifestation de la vérité aux yeux de ceux qui y assistent mais la démonstration chez le vainqueur ou ressenti comme telle d'une supériorité rhétorique. 
+un débat en direct entre deux personnes n'a pas pour objet la manifestation de la vérité aux yeux de ceux qui y assistent mais la démonstration chez le vainqueur ou ressenti comme telle d'une supériorité [[rhétorique]]. 
 Du coup aucune partie n'a avancé dans sa réflexion à l'issue d'un tel débat. 
 Le mérite de cette forme est toutefois d'éclaircir les points de désaccords et les valeurs qui sous-tendent les arguments, ce qui n'est pas rien. 
 Il convient néanmoins pour progresser en sagesse (et même en savoir) de prendre d'autres voies de discussion et de sortir de la forme souvent valorisée dans les rencontres privées parce qu'elle est la norme sur les plateaux de télévision, le [[débat télévisé]]. Lorsque les circonstances s'y prêtent (voir plus bas, l'entretien épistémique peut être un bon moyen de progresser.)

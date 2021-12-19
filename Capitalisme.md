@@ -18,4 +18,11 @@ Le capitalisme au XXIème siècle est en mesure de dérégler le cimat au point 
 Et pourtant comme nous le fait remarquer Jean-Claude Michéa, on arrive davantage à se figurer la fin du monde que la fin du capitalisme.
 
 
+# Le capitalisme comme mode de coopération hiérarchique
+
+Le capitalisme ne serait qu'une variation d'une forme de coopération hiérarchique imposée aux Hommes depuis le Néolithique selon Charles Macdonald [[@Donaldsciencessocialessontelles2021]] : 
+
+> On a par exemple considéré que le capitalisme industriel était une forme nouvelle et radicalement autre de domination sociale. Il n’est en réalité qu’une modalité particulière de la forme hiérarchique qui s’est imposée à la quasi-totalité de la population humaine à partir du néolithique. Il n’a rien inventé de radicalement nouveau, parce qu’à partir du moment où l’on peut s’approprier les forces vives de la personne, comme dans l’esclavage, on peut tout aussi bien et sans grande différence en faire un prolétaire en lui déniant les moyens de vivre sans le travail en usine 
+
+
 # Bibliographie

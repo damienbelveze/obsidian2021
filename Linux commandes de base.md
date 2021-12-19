@@ -15,7 +15,14 @@ tags: [linux]
 
 ## Lister les fichiers
 
+lister les fichiers d'un répertoire
+
 `ls`
+
+lister tous les fichiers textes dans un répertoire
+
+`ls *.txt`
+
 lister les fichiers (également cachés)
 
 `ls -a`
@@ -30,6 +37,18 @@ afficher les dossier et les fichiers avec les droits sur ces fichiers
 
 ## naviguer dans les fichiers et les dossiers
 
+A noter : les slashs ne sont pas les mêmes dans un terminal Windows (MS-DOS ou powershell par exemple) ou un terminal Linux ou Git-Bash : 
+Accéder au répertoire sous Linux : 
+
+`cd /users/ianmilligan1/mallet-2.0.7`
+
+et sous Windows :
+
+`cd c:\mallet-2.0.7\`
+
+(le chemin change aussi /users/nomdelutilisateur/répertoire sous Linux, c:\\répertoire sous Windows
+
+Se positionner sur un dossier:
 
 ``cd dossier``
 
@@ -56,6 +75,12 @@ remonter à la racine :
 Afficher le dossier où l'on se trouve
 
 ``pwd``
+
+pwd = publication working directory : l'espace de travail
+
+pour revenir au Home avec CD : 
+
+`cd --`
 
 donne le chemin absolu du dossier dans lequel on se trouve. 
 

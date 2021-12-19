@@ -150,7 +150,7 @@ Avez-vous rencontré à la bibliothèque des promoteurs de théories conspiratio
 - mieux comprendre la manière dont les consensus se construisent
   enseigner les différentes manières dont la preuve est manifestée selon les disciplines.
 
-Sauf exception, l'Université n'aborde pas de manière cohérente la question de l'évaluation de l'information. Il faudrait articuler des apports en psychologie sociale, en méthode scientifique, en connaissances statistiques et en rhétorique (latine).
+Sauf exception, l'Université n'aborde pas de manière cohérente la question de l'évaluation de l'information. Il faudrait articuler des apports en psychologie sociale, en méthode scientifique, en connaissances statistiques et en [[rhétorique]] (latine).
 
 
 ## mieux percevoir les faiblesses de leurs jugements : leur permettre de prendre du recul par rapport à la manière dont ils traitent l'information

@@ -11,7 +11,8 @@ Au départ, il était difficile de faire reconnaître dans une deuxième entrepr
 
 # élargissement des publics bénéficiaires de la formation
 
-Ceux-ci sont traditionnellement les employés disposant de CDI et les cadres. Les Précaires et les chômeurs ont jusqu'alors peu bénéficié de la formation continue. Avec le recul du salariat et la montée de nouvelles précarités, les carrières intermittentes, la formation tout au long de la vie s'est donnée pour objectif de cibler les travailleurs les plus exposés et les chômeurs afin de leur permettre de se réintégrer à l'emploi. 
+Ceux-ci sont traditionnellement les employés disposant de CDI et les cadres. Les Précaires et les chômeurs ont jusqu'alors peu bénéficié de la formation continue. Avec le recul du salariat et la montée de nouvelles précarités, les carrières intermittentes, la formation tout au long de la vie s'est donnée pour objectif de cibler les travailleurs les plus exposés et les chômeurs afin de leur permettre de se réintégrer à l'emploi. Toutefois cet objectif est loin d'être atteint et on observe depuis la fin du XXème siècle une évolution plutôt contraire. 
+Si le CPF permet à chaque salarié de disposer de crédits de formation, elle personnalise aussi le recours à la formation professionnelle. Les salariés sont invités à compléter ces crédits par des financements personnels et à se former sur leur temps libre. La formation tend à devenir un produit de consommation qui s'achète directement sur son smartphone sans l'intermédiation des institutions publiques et paritaires[[@formationprofessionnellepeutelle2021]].
 
 # Nouvelles pédagogies (open badges et pédagogie par le faire)
 
@@ -22,3 +23,10 @@ L'acquisition de compétences dans le domaine numérique se fait par l'acquisiti
 Source : [[@Bureaumetamorphosesformationprofessionnelle2021]]
 
 ![[20210419_AOC formation professionnelle.pdf]]
+
+# adéquationisme et court-termisme
+
+Depuis la loi de 2018 (loi Pour la liberté de choisir son avenir professionnel) le gouvernement a ouvert un chantier de réfection de la formation professionnelle afin d'augmenter les embauches dans les secteurs sous-tension et de parvenir au plein emploi (passer de 9,5% de chômeurs à 7% et réduire surtout la part des chômeurs de longue durée). 
+Au lieu de permettre aux travailleurs de se reconvertir dans les secteurs prometteurs sur le temps long (intelligence artificielle, numérique, emplois liés à la transition écologique, ré-industrialisation), ces dispositifs visent à servir les objectifs à court-terme du patronat qui manque de routiers, de serveurs et de démarcheurs par téléphonie, et donc soit à compenser la baisse d'attractivité de métiers sous-payés ou bien mal encadrés (heures supplémentaires non payées, peu de congés) ou bien des métiers socialement peu utiles, et par ailleurs pénibles, mais qui demandent peu de temps de formation [[@Gelotformationprofessionnellepeutelle2021]]
+
+![[formation_professionnelle.pdf]]
