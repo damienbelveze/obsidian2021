@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0bf08ede6f6de8",
+        "id": "f13f1bc3b8d1e350",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "communication non-verbale.md",
+            "file": "Umap.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "acf46e7135ea4a7a",
+        "id": "f07fcb24528ddc8e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "communication non-verbale.md",
+            "file": "Umap.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "b54dd2669eabb1d4",
+        "id": "6947c864a5a1b7dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "communication non-verbale.md",
+            "file": "Umap.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "non-verbal",
+                "query": "umap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "communication non-verbale.md",
+                "file": "Umap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,17 +165,17 @@
     "direction": "horizontal",
     "width": 100
   },
-  "active": "b54dd2669eabb1d4",
+  "active": "6947c864a5a1b7dc",
   "lastOpenFiles": [
-    "communication non-verbale.md",
-    "Signifiant vide.md",
-    "rhétorique.md",
-    "Savoirs.md",
-    "sarkozysme.md",
-    "rhétoriques.md",
-    "Fibe11.md",
-    "factualité.md",
-    "Entretien épistémique.md",
-    "Empathie.md"
+    "Umap.md",
+    "Sparql.md",
+    "NFT.md",
+    "Révision par les pairs.md",
+    "Marx.md",
+    "récession économique.md",
+    "neutralité axiologique.md",
+    "division du travail.md",
+    "prolétarisation.md",
+    "Plan de gestion des données.md"
   ]
 }

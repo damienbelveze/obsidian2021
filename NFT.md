@@ -6,7 +6,7 @@ date: 26-11-2021
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [non fongible tokens]
+aliases: [non fongible tokens, jetons non fongibles]
 tags: [art numérique]
 ---
 
@@ -14,6 +14,9 @@ tags: [art numérique]
 jetons non fongibles reposant sur la [[blockchain]]
 Ce protocole permet de définir un propriétaire initial à un objet numérique (oeuvre d'art numérique par exemple) et d'attester ensuite les différentes opérations marchandes au sujet de cette oeuvre (ventes successives et changements de propriétaires)
 C'est une tentative pour l'art de contrer la reproductibilité infinie de l'oeuvre au moyen du numérique et d'internet et de retrouver de la rareté dans un monde marqué par l'abondance.
+![](NFT_tokens.png)
+
+
 Une tentative également de gonfler les ventes sur un marché de l'art saturé.
 Les NFT amorcent une tentative de sortie du paradigme de la rareté vers un retour à la propriété couplée au droit de représentation (le propriétaire de l'oeuvre peut limiter la représentation de l'oeuvre à qui il le veut) (cf. Hito Seyerl dans AOC :)
 
