@@ -537,6 +537,33 @@ exemple de pavé YAML
 **aliases:**\[alias1, alias2, alias3\]
 \-\-\-
 
+
+ajouter une affiliation en utilisant des packages de LaTeX : 
+
+\-\-\-
+**title:** Mode d'emploi d'obsidian 
+**subtitle:** Comment prendre efficacement des notes pour sa thèse
+**date:** 21/06/2021
+**author:** Damien Belvèze
+**affliliation:** Université de Rennes 1
+**toc:** true
+**toc-title:** table des matières
+**link-citations:** true
+**bibliography:** mabiblio.bib
+**biblio-style:** nature.csl
+**tags:**\[tag1, tag2, tag3\]
+**aliases:**\[alias1, alias2, alias3\]
+header-includes: |
+    \\usepackage{authblk}
+	\\author{John Doe \\thanks(john.doe@email.com) }
+	\\affil{University of Cambridge}
+\-\-\-
+
+[Source](https://youtu.be/nr5HA32GMFA)
+
+
+
+
 - les valeurs inscrites en tant que titre, sous-titre, nom de l'auteur et date, vont au moment de la conversion avec Pandoc constituer la page de titre
 
 - si toc (table of content) reçoit la valeur *true*, une table des matières sera générée. 

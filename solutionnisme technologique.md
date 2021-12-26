@@ -19,7 +19,20 @@ La députée Paula Forteza a proposé une convention citoyenne, à l'instar de c
 
 Une partie non négligeable des problèmes que la technologie prétend résoudre est issue de l'utilisation de ces technologies, or comme le disait Einstein "on ne résoud pas les problèmes avec les modes de pensée qui l'ont engendré". Il faut chercher la résolution du problème dans une mobilisation de tous les acteurs et sur un plan plus large que la simple innovation technologique. 
 
-# solutionnisme technologique et outils de contrôle
+
+# Le solutionnisme dans l'éducation
+
+Pendant des années, les pouvoirs publics ont doté les écoles en matériel informatique en pensant que cela allait suffire à réduire la fracture dans le domaine des compétences informationnelles. Or les résultats obtenus par les élèves montrent que ces afflux d'ordinateurs et de tablettes n'ont pas contribué à augmenter le niveau et que celui-ci demeure en dessous des objectifs et des enjeux démocratiques. 
+
+Pour reprendre une dialectique centre / périphérie, on a investi massivement dans la périphérie (achat de matériel informatique) en délaissant le centre (recours à des professionnels spécialisés dans l'enseignement de ces machines pour construire une pédagogie qui repose effectivement sur l'usage de ces machines)
+
+>Over the last decade, as a result, American higher education has created a doughnut IT  
+infrastructure: all periphery and no centre. We have invested in the machinery but not in the  
+teachers and the scholars to make that machinery worth while in the classroom and in  
+scholarship. The massive investment in networks and computers will not pay off until we fill  in the hole, until we work together to create content.
+
+
+## solutionnisme technologique et outils de contrôle
 
 plutôt la techno que l'éducation, tel semble être la préférence du mouvement LREM pour gérer l'addiction des jeunes enfants aux écrans. 
 

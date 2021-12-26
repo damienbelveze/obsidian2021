@@ -11,5 +11,7 @@
   "attachmentFolderPath": "Untitled",
   "foldHeading": true,
   "showFrontmatter": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "legacyEditor": false,
+  "livePreview": true
 }

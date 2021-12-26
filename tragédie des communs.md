@@ -10,6 +10,8 @@ aliases: []
 tags: [Communs]
 ---
 
+# Harding et la tragédie des communs
+
 La tragédie des communs est un terme forgé par le biologiste Garett Harding en 1968. 
 Lorsque deux bergers font paître sans limites ni restrictions leurs troupeaux dans un pré commun, ils risquent de provoquer la disparition de ce pré. 
 
@@ -24,6 +26,19 @@ Par ailleurs, les règles qui statuent sur le commun doivent avoir force de loi,
 (source : [[@Coriatbiencommunclimat2021]], p100)
 
 
+>For the magnitude of the sea is such, as to be suf-  
+ficient for the use of all nations, to allow them  
+without inconvenience and prejudice to each other  
+the right of fishing, sailing, or any other advantage  
+which that element affords
+
+En 1625, Grotius considérait que l'Océan avait suffisamment à offrir à chaque peuple. Il faisait donc de l'océran un Commun. Mais l'augementation de la population sur le globe et surtout l'amélioration continue des techniques de pêche font que la ressource vient à manquer si une instance externe ne régule pas l'usage de ce Commun. Cet exemple sert d'introduction à un article de Luciano Floridi sur la Tragédie des communs numériques. 
+
+# Internet en tant que commun soumis à la tragédie des communs
+
+Si l'on considère qu'Internet est un commun universel (ce qui doit être relativisé du fait que les infrastructures appartiennent à des entités privées, que l'accès au réseau est conditionné par un recours à ces entités sous forme d'abonnement et l'achat de terminaux, ce qui n'est toujours pas à la portée de tout le monde), Luciano Floridi en 2004 considérait que la multiplication des usagers de ce commun pouvait gravement peser sur la permanence de ce commun. La multiplication des usages d'Internet, selon lui accélère l'[[entropie informationnelle]].
+
+En l'absence de règles publiques universellement partagées (il n'y a pas de règles de censure universelle, seules les CGU et l'interprétation de celles-ci par les différentes firmes qui opèrent sur le marché de l'expression comptent lorsqu'il y a litige), le seul barrage à l'entropie informationnelle est représentée par les médiateurs numériques et les bibliothécaires qui apportent aux usagers une culture informationnelle (information literacy)[[@SpringerAvoidingTragedyInformation2009]]
 
 # bibliographie
 
