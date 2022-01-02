@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article ASTED.md",
+            "file": "patriarcat.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "epistemic hel",
+                "query": "patriarcat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article ASTED.md",
+                "file": "patriarcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +131,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 314
   },
   "active": "6947c864a5a1b7dc",
   "lastOpenFiles": [
+    "patriarcat.md",
+    "consentement.md",
+    "bots.md",
+    "Astroturfing.md",
+    "references/@meritecommestorytelling2021.md",
+    "méritocratie.md",
+    "StopCovid.md",
     "Article ASTED.md",
     "impuissance épistémique apprise.md",
-    "bâtonnage de dépêches.md",
-    "bibliothécaire polyvalent.md",
-    "solutionnisme technologique.md",
-    "secret des affaires.md",
-    "catastrophisme.md",
-    "references/@Larrerepireestpas2020.md",
-    "pédagogie par projets.md",
-    "approche par compétences.md"
+    "bâtonnage de dépêches.md"
   ]
 }

@@ -69,7 +69,7 @@ La députée Paula Forteza allait dans le même sens en rappelant qu'on n'avait 
 
 une tribune de Jean-Baptiste Soufron, ancien secrétaire du Conseil du Numérique, faisait le rapprochement entre cette application et le bracelet électronique naguère porté par le condamné à de la liberté surveillée et désormais applicable à tous les citoyens en temps de COVID
 
->Autrement dit, le projet de bracelet électronique virtuel que représente l’application StopCovid n’est pas une réponse au Covid-19 : c’est une démarche idéologique destinée à limiter les libertés des personnes selon une logique reposant à la fois sur la culpabilisation méritocratique des individus, et sur le fantasme d’une technologie permettant de les contraindre par la norme, la surveillance et la sanction [[@Soufroncontacttrackingou]]
+>Autrement dit, le projet de bracelet électronique virtuel que représente l’application StopCovid n’est pas une réponse au Covid-19 : c’est une démarche idéologique destinée à limiter les libertés des personnes selon une logique reposant à la fois sur la culpabilisation [[méritocratie|méritocratique]] des individus, et sur le fantasme d’une technologie permettant de les contraindre par la norme, la surveillance et la sanction [[@Soufroncontacttrackingou]]
 
 Le soupçon est accentué par le fait que des pays totalitaires comme la Chine mettent au même moment des applications de ce type pour contrôler les populations à la fois sous un angle sanitaire et sécuritaire (policier)
 
