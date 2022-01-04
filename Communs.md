@@ -17,7 +17,7 @@ L'Etat est donc responsable de la garde de ce commun (en tant que garant du resp
 si le bien peut faire l'objet d'une exploitation commerciale par dérogation, il doit être d'un accès universel (accès universel à l'eau par exemple : gratuit pour les nécessités de la vie (20 litres à Naples), payant pour les usages non nécessaires). 
 
 
-La ressource commune est exploitée par une communauté selon certaines règles qui sont fixées par cette communauté. 
+La ressource commune est exploitée par une [[communauté]] selon certaines règles qui sont fixées par cette communauté. 
 Ce n'est donc ni à la puissance publique représentée par l'Etat, ni au marché de fixer ces règles (faisceau de droits et de devoirs)
 Cette autogestion basée permet d'échapper à la [[tragédie des communs]] (quand la surexploitation d'un bien rendu commun, par quelques individus, appauvrit la communauté)
 

@@ -18,7 +18,7 @@ règle d'or admise un peu partout, mais un peu partout menacée aussi par des po
 [[https://twitter.com/vkokoszka/status/1335632433375563777][thread]] de Valérie Kokoszka sur Twitter
 
 Tour d'horizon...
-*1. Origine de l'intersectionnalité et communautés identitaires*
+*1. Origine de l'intersectionnalité et [[communauté|communautés]] identitaires*
 *2. L'universalisme?*
 *3. [[Décolonialisme-indigénisme]] et leurs emprunts*
 *4. L'usage du sentiment d'offense*

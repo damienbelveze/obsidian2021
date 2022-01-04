@@ -21,6 +21,13 @@ Si la surveillance est discontinue (les caméras ne fonctionnent pas toutes en m
 
 Elles se sont multipliées en France pour des raisons sécuritaires, sans qu'il soit possible de déterminer si elles ont contribué ne serait-ce qu'un peu à faire baisser la délinquance. Le sociologue [[Laurent Mucchielli]]  et le journaliste [[Jean-Marc Manach]] soutiennent depuis 2009 et 2010 que ce n'est pas le cas. 
 
+En juillet 2016, lors des attentats de Nice, aucune des 1836 caméras alors installées à Nice, la "ville la plus surveillée de France", n'avait permis de prévenir les attentats. 
+
+Une étude menée à la demande de la gendarmerie et parue dans Le Monde le 22 décembre 2021, montrait que dans la région de Grenoble sur 1939 affaires, seules 22 avaient été élucidées au moyen d'images captées par ces caméras. 
+Les auteurs de l'enquête concluaient pour leurs commanditaires par ces mots : 
+
+>L’exploitation des enregistrements de vidéoprotection constitue une ressource de preuves et d’indices peu rentable pour les enquêteurs.
+
 Leur contribution à l'élucidation des enquêtes serait quasiment nulle, d'après ces auteurs (de l'ordre de 3,5% sur le nombre total de réquisitions d'images, d'après Laurent Mucchielli [[@GuillaudVideosurveillanceparadigmetechnosolutionnisme2018]]).
 
 Leur prolifération est donc du à un usage politique : en installant des caméras partout, les édiles municipaux veulent montrer qu'ils sont actifs face à un problème qu'en réalité ils ne contrôlent pas, la délinquance. 

@@ -11,7 +11,7 @@ tags: [communs]
 ---
 
 
-concept élaboré par [[Elinor Ostrom]] pour qualifier le type de gouvernance nécessaire pour conserver les "grands communs" (atmosphère, océan) pour lesquels les communautés habituelles des communs ne peuvent suffire. 
+concept élaboré par [[Elinor Ostrom]] pour qualifier le type de gouvernance nécessaire pour conserver les "grands communs" (atmosphère, océan) pour lesquels les [[communauté|communautés]]habituelles des communs ne peuvent suffire. 
 Une gouvernance interétatique n'est pas suffisante et souvent peu efficace pour garder ces communs. Le marché à l'origine de la pollution des dégradations et des disparitions qui affectent ces grands communs (saturation en gaz à effets de serre de l'atmosphère, acidification de l'océan dues à l'augmentation de la production de marchandises) est également incapable de mener à bien cette tâche, contrairement à ce que prétendent des économistes comme [[Jean Tirole]] et les tenants de l'[[agorathéisme]].
 
 La gouvernance polycentrique est celle d'entités libres et autonomes mais qui reconnaissent entre elles un ensemble de règles. 

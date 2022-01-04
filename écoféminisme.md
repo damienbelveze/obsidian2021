@@ -4,7 +4,7 @@ Le thème de l'écoféminisme a connu un regain d'attention lorsque Sandrine Rou
 
 # écoféminisme et essentialisme
 
-L'une des objections avancés par les détracteurs de l'écoféminisme est que considérer que l'extractivisme a partie liée avec le patriarcat, c'est aussi considérer que la femme est du côté de la nature quand l'homme est du côté de l'émancipation vis à vis de cette nature, c'est renouer avec un cliché qui vise à naturaliser les femmes. 
+L'une des objections avancés par les détracteurs de l'écoféminisme est que considérer que l'extractivisme a partie liée avec le [[patriarcat]], c'est aussi considérer que la femme est du côté de la nature quand l'homme est du côté de l'émancipation vis à vis de cette nature, c'est renouer avec un cliché qui vise à naturaliser les femmes. 
 
 Catherine Larrère répond à cette objection en montrant que l'écoféminisme n'est pas un [[essentialisme]] et ne réduit pas la femme à une essence, celle d'un être plus proche de la nature que l'homme
 **L'écoféminisme ne désigne pas une nature féminine, il attaque un cadre de pensée où la femme est associée à la nature, l'homme à la culture et une vision mécaniste, héritée de Galilée et de Descartes, où la nature doit être exploitée et réduite à l'état d'objet, ainsi que la partie humaine qui lui est associée, à savoir le sexe féminin.**

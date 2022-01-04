@@ -28,7 +28,7 @@ Enseignement des compétences informationnelles pour rendre l'individu consommat
 
 4. Quatrième maillon : le social
 
->Les interventions sociales visent à donner aux communautés d'utilisateurs les moyens d'améliorer leur capacité à créer un sens collectif et à promouvoir des informations utiles
+>Les interventions sociales visent à donner aux [[communauté|communautés]] d'utilisateurs les moyens d'améliorer leur capacité à créer un sens collectif et à promouvoir des informations utiles
 
 
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "patriarcat.md",
+            "file": "additifs.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "patriarcat",
+                "query": "additifs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 239
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "patriarcat.md",
+                "file": "additifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,19 +131,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314
+    "width": 314,
+    "collapsed": true
   },
   "active": "6947c864a5a1b7dc",
   "lastOpenFiles": [
-    "patriarcat.md",
-    "consentement.md",
-    "bots.md",
-    "Astroturfing.md",
-    "references/@meritecommestorytelling2021.md",
-    "méritocratie.md",
-    "StopCovid.md",
+    "additifs.md",
+    "Compléter une revue de littérature.md",
+    "Google translate vs Deepl.md",
+    "utopie.md",
+    "collapsologie.md",
+    "catastrophisme.md",
+    "civilisation.md",
+    "Capitalisme.md",
     "Article ASTED.md",
-    "impuissance épistémique apprise.md",
-    "bâtonnage de dépêches.md"
+    "héros Jacksonien.md"
   ]
 }

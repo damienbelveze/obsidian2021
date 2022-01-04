@@ -45,7 +45,7 @@ Exemple1 :
 Chercher 5 articles sur l'obfuscation et les navigateurs. Sélectionner ces articles comme seed papers
 Citation Gecko va afficher les articles citant ou cités par ces articles séminaux.
 
-Exemple2 :
+Exemple2 (revue de littérature sur les [[additifs]] :
 
 utiliser le [fichier de citations sur le rôle des additifs colorants sur l'hyperactivité des enfants](demo_citation_gecko.bib)
 

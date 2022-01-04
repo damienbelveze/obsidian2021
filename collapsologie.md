@@ -12,12 +12,12 @@ tags: [déréglement climatique, écologie]
 
 De collapsus (latin : effondrement) et logos : raison, discours
 
-Discours sur l'effondrement de la civilisation. 
+Discours sur l'effondrement de la [[civilisation]]. 
 
 Pablo Servigne et Cyril Dion sont deux théoriciens de cette théorie qui prétend que : 
 - l'effondrement est proche et inéluctable, quelque que soient les décisions prises par nos sociétés
 - l'effondrement proviendra de l'épuisement d'une ressource sur laquelle se base notre société ou bien l'impossibilité de l'utiliser pour modérer l'émission de gaz à effets de serre. Cette ressource est généralement le pétrole. 
-- en attendant l'effondrement, les populations sont invitées à s'y préparer en développant des liens de solidarité proche, en développant l'entraide et l'apprentissage et en se constituant en petites communautés autonomes. 
+- en attendant l'effondrement, les populations sont invitées à s'y préparer en développant des liens de solidarité proche, en développant l'entraide et l'apprentissage et en se constituant en petites [[communauté|communautés]] autonomes. 
 
 # critique de la collapsologie
 
