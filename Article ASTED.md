@@ -21,7 +21,45 @@ Du côté des bibliothécaires : recherche d'information, usage de l'information
 
 Du côté des producteurs de l'information scienitifique : révision par les pairs
 
-# Résumé :
+
+# Introduction
+
+## qu'est-ce que l'entropie informationnelle
+
+[[Entropie informationnelle]] : les réseaux sociaux nous rendent bêtes (cf. Stiegler)
+
+> L'entropie informationnelle on en voit très bien les effets, c'est l'augmentation de la stupidité de masse à laquelle ni vous ni moi nous n'échappons, parce que comme vous ou comme moi sans doute, en sortant d'ici, je vais regarder probablement mon smartphone ; nous sommes sous le contrôle d'un système informationnel qui nous empêche de plus en plus de penser par nous-mêmes, de réfléchir, de faire fonctionner notre noèse
+
+Le réflexe mentionné par Stiegler pour décrire ce système informationnel qui crée de l'entropie fait d'abord penser aux réseaux sociaux. Sur Instagram ou Twitter, assez souvent des messages à l'origine dont nous connaissons la complexité apparaissent tronqués ou dénaturés. Du point de vue de l'émetteur la rédaction de brèves en 280 caractères même sous forme de salves (threads) est peu propices à la nuance ;  chez le destinataire, l'économie de l'attention fait le reste. L'article est retweeté sans même être lu. 
+
+Au delà des réseaux sociaux, le capitalisme de la surveillance est également visé qui fait que le flux de l'information s'inverse du client vers le serveur et non plus du serveur vers le client : Ce n'est plus tant moi qui lis le journal que le journal "qui me lit" (et ses partenaires commerciaux). Ce profilage de tous renforce aussi l'idée qu'Internet, que Luciano Floridi décrivait encore comme un Commun en 2004, et le web qu'il soutient devient  peu à peu un trou de serrure par lequel nous regardons le monde tout en perdant de vue qu'il ne s'agit pas du vaste monde, mais d'un monde pour soi servi par des marchands de contenus. 
+Dans ce système, l'information est aussitôt consommée, c'est-à-dire assimilée à du connu (et même à du *convenu*, en vertu du biais de confirmation) et dans le même temps amplifié de façon parfois virale. Même lorsque le message est simplifié à l'extrême pour parler à tous, comme le montre de façon grinçante le film Don't look up, il se perd dans une audience saturée de clash entre people, de remarques sexistes et de considération sur le sex-appel des hommes et femmes de science. Cette fiction porte à son paroxysme le mécanisme entropique appliqué à l'information. On vous annonce que toute vie va disparaître, mais vous demandez sur Twitter si cette annonce est bien compatible avec votre style de vie. 
+
+
+Pour s'opposer à cette entropie, quelles atttitudes à valoriser chez nos étudiants (et à appliquer nous-mêmes) pourraient être qualifiées de néguentropiques. 
+
+En terme d'action néguentropique, Bernard Stiegler citait la vocation d'Ars Industrialis de travailler avec des philosophes, des ingénieurs mais aussi des professionnelles (assistantes maternelles, notamment) ou des malades pour créer du savoir en prenant pour base l'expérience et la réflexion sur cette expérience. 
+Pour revenir à l'expérience de nos étudiants, Wikipedia est un très bon exemple. Cette encyclopédie libre est un véritable commun que ses règles simples mettent non seulement à l'abri de la tragédie des communs mais de plus permettent à chacun.e de contribuer à un enrichissement continu de l'information par analyse, sélection, recoupements et mises à jour successives.
+
+Lutter contre l'entropie informationnelles par des procédés néguentropiques dans un cadre académique (notamment vis à vis d'étudiants de premier cycle) pourrait donc se traduire ainsi : nous partons du constat que nos étudiants (comme nous du reste, même si les plus âgés d'entre nous avons connu d'autres pratiques informationnelles) sont exposés d'abord à des informations tronquées, déformées ou détournées de leur contexte. Nous devons les sensibiliser à l'importance de recadrer l'information, de remonter à sa source et de restaurer ce qui s'est perdu ou a été travesti en cours de route. 
+Ce principe paraît simple à mettre en oeuvre, mais nos interventions sont pensées au départ d'une toute autre façon. 
+
+
+## Le cours BU
+Le cours BU dont il va être question est sans doute une caricature, mais combien de nos interventions illustrent au moins pour partie ce paradigme. Pour des raisons qui tiennent à leur surchage chronique de travail, il est difficile de parler "contenus" avec les enseignants-chercheurs au delà de quelques mots-clé (veille, visite de la bibliothèque, pubmed, Zotero, etc.). Ces derniers nous font confiance pour transmettre à leurs étudiants des techniques de recherche et nous reconnaissent une expertise dans ce domaine, une expertise dans laquelle ils avouent modestement qu'ils ne sont pas toujours à jour. 
+Depuis 2012, les référentiels des associations professionnelles tentent de définir le périmètre de notre action, mais historiquement, ce sont les sollicitations des enseignants qui ont tracé ces frontières entre leurs apports et les nôtres. Dans ce contexte, il n'est donc pas toujours évident de convaincre ses collègues de ne pas seulement mettre en avant leurs capacités à chercher de l'information mais de s'engager auprès d'étudiants sur la manière dont cette information peut-être utilisée à bon escient. Les outils de gestion de bibliographique et la mise en avant du problème du plagiat nous ont permis de sauter le pas. 
+
+Le cours BU, qui intéresse si peu nos étudiants, est donc constitué de démonstrations et exercices pour apprendre à se servir de Pubmed puis de démonstrations et exercices pour apprendre à se servir de Zotero à travers un traitement de texte.
+Les compétences qui sont mises en avant sont globalement procédurales. Les référentiels mentionnés plus haut et notamment [RECIF](https://referentiel.adbu.fr/referentiel) insistent souvent sur ces compétences exprimées sous la forme d'actions. Le cadre de travail de l'ACRL sur l'information literacy au contraire met en avant cinq axes qui nous permettent de sortir des procédure. Ces axes ne sont pas exprimées par des verbes mais par des prédicats (l'information a une valeur, l'autorité est contextuelle, le travail scientifique est une conversation). Cette façon de présenter notre sujet permet de sortir du réduit de la compétence "monnayable" sur le marché du travail (cf. "je sais faire de la veille") pour mettre en avant une culture de l'information, ou bien promouvoir l'acquisition de compétences comme un "art libéral" (Olivier Le Deuff) dans lequel on progresse en observant certains phénomènes comme la dégradation de l'information et en apprenant de ses erreurs.
+
+Montrer par conséquent que l'information a une valeur passe par la manifestation de la dégradation de cette valeur à partir de sa production. La chose est très claire pour une rumeur par exemple : si tant de personnes se dépèchent de la retweeter c'est pour capter un peu de l'onction de ceux, rares au tout début, de ceux qui savent. La rumeur perd de son attrait à mesure qu'elle devient populaire. 
+
+## Sortir du cours BU
+
+Repartons de la commande de l'enseignant qu'on peut résumer en deux mots : "Pubmed" et "Zotero"
+
+
+# Résumé 1 :
 
 L'une des promesses du web était de rendre la documentation scientifique plus accessible à tous. A mesure que l'open access rend cela possible, de nouveaux problèmes de médiation surviennent auxquels les bibliothécaires sont amené.e.s à se confronter.
 En tant que spécialistes de la recherche d'information, les formateurs et formatrices en bibliothèque sont sollicité.e.s par les enseignant.e.s pour apporter un savoir technique sur les outils de recherche d'information scientifique à leurs étudiant.e.s. La pandémie a fait découvrir à un large public comment la Recherche se constitue progressivement en Science par sédimentations successives (une conversation scientifique nourrie se transformant peu à peu en consensus). Au moment même où le grand public découvrait le contrôle qualité appliqué aux résultats de la recherche et les formes "amicalement hostiles" de cette conversation, il observait également une réduction drastique du temps pris par ce contrôle et une discussion intense, souvent polémique, autour de ses procédures, discussion suscitée par la nécessité d'adapter le temps long de l'administration de la preuve à l'urgence sanitaire.

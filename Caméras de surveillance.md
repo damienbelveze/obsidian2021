@@ -49,3 +49,9 @@ Si certaines villes comme San Francisco et Portland ont interdit les caméras à
 
 ([source](https://amnesty-crisis-evidence-lab.github.io/decode-surveillance-heatmap/))
 
+Surveillance des quartiers populaires
+
+Surveillance des populations dissidentes (Charlie-Hebdo, n°1536, janvier 2022)
+
+![[20220104_223232.jpg]]
+
