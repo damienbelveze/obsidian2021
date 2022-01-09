@@ -10,7 +10,7 @@ aliases: []
 tags: [culture numérique]
 ---
 
-Le [[numérique]] n'est pas un département de nos vies. L'ensemble de nos vies (réflexions, émotions, amitiés, habitudes) se présentent désormais sous une forme numérique. 
+Le [[numérique]] n'est pas un département de nos vies. L'ensemble de nos vies (réflexions, émotions, [[amitié|amitiés]], habitudes) se présentent désormais sous une forme numérique. 
 
 
 

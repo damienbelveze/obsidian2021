@@ -1,13 +1,16 @@
 [
-  "nldates-obsidian",
-  "obsidian-extract-pdf-highlights",
+  "obsidian-pandoc-plugin",
   "mrj-backlinks-in-document",
   "calendar",
-  "obsidian-git",
-  "obsidian-plugin-todo",
-  "obsidian-pandoc-plugin",
-  "obsidian-pandoc",
   "obsidian-citation-plugin",
-  "templater-obsidian",
-  "obsidian-hypothesis-plugin"
+  "cycle-through-panes",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-export-to-tex",
+  "obsidian-hypothesis-plugin",
+  "obsidian-mind-map",
+  "nldates-obsidian",
+  "obsidian-plugin-todo",
+  "obsidian-pandoc",
+  "obsidian-extract-pdf-highlights",
+  "templater-obsidian"
 ]

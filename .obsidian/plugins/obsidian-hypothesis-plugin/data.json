@@ -20,5 +20,14 @@
       "uri": "https%3A%2F%2Faoc.media%2Fanalyse%2F2021%2F11%2F23%2Fcovid-19-la-sante-publique-comme-laboratoire-du-controle-social%2F"
     }
   ],
-  "lastSyncDate": "2022-01-06T12:42:58.754Z"
+  "groups": [
+    {
+      "id": "__world__",
+      "name": "Public",
+      "public": true,
+      "type": "open",
+      "selected": true
+    }
+  ],
+  "lastSyncDate": "2022-01-09T16:07:17.062Z"
 }

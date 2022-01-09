@@ -9,7 +9,7 @@ source : [[@KerinecPourquoiadministrationsontelle2021]]
 
 # Critique du logiciel libre comme un alternumérisme
 
-Les mouvements hostiles au [[numérique]] (à l'informatisation ou à la numérisation du monde, citons par exemple les [[neo-luddites]] ou certains continuateurs de Gilles Simondon) critiquent le [[logiciel libre]] comme une forme d'[[alternumérisme]]qui échouerait à défendre la liberté humaine et la biodiversité tout en prétendant oeuvrer à des valeurs positives comme le partage de la connaissance et l'égalité entre les citoyens.
+Les mouvements hostiles au [[numérique]] (à l'informatisation ou à la numérisation du monde, citons par exemple les [[neo-luddites]] ou certains continuateurs de [[Gilbert Simondon]]) critiquent le [[logiciel libre]] comme une forme d'[[alternumérisme]]qui échouerait à défendre la liberté humaine et la biodiversité tout en prétendant oeuvrer à des valeurs positives comme le partage de la connaissance et l'égalité entre les citoyens.
 
 Une des critiques formulées est que tous les utilisateurs du logiciel libre ne sont pas égaux dans cet écosystème : les développeurs sont rares et constituent une forme d'aristocratie qui fixent les règles pour les autres (cf. la [[do-ocratie]] chez les hackers). La liberté d'adapter un logiciel à ses besoins requiert en faite une connaissance préalable du code qui est peu partagée (voir par exemple *Contre l'alternumérisme, de Julia Laïnae et de Nicolas Alep*[[@AlepContrealternumerismepourquoi2020]]. 
 

@@ -19,6 +19,7 @@ le salaire est la contrepartie d'un travail productif -il qualifie le travailleu
 
 droit d'être retenu comme contributeur : postuler que tout le monde est capable de contribuer au bien commun, droit lié à la personne et non pas au poste de travail occupé. Ce qui rend possible des arbitrages de son temps : le consacrer à telle occupation sociale plutôt qu'à telle autre que nous estimons nécessaires et que nous menons parce que nous les estimons nécessaires. 
 
+![[20220109_114136.jpg]]
 
 # bibliographie
 

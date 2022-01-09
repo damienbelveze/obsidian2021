@@ -15,4 +15,4 @@ Des auteurs veulent prouver que la question décoloniale ne pèse pour rien ou p
 Contestant cette vision, [[Nathalie Heinich]] cite un article d'Albin Wagener qui propose d'y ajoute les termes *genre* et *discriminatiion* et là cela touche 50% du corpus (OpenEditions, HAL, ) [[@HeinichCequemilitantisme2021]]. 
 
 Contestant à leur tour cette méthode, Arnaud Saint Martin et Antoine Hardy pointe dans les résultats les nombreuses occurrences de ce mot qui ne correspondent pas à la problématique (*genre* romanesque, *discrimination* entre la vérité et le mensonge)[[@HardyCequeNathalie2021]]
-On pourrait cependant arguer que ces emplois relèvent d'autres disciplines (Littérature et Philosophie) et qu'il faudrait savoir si le corpus choisi était uneiquement sociologique. 
+On pourrait cependant arguer que ces emplois relèvent d'autres disciplines ([[Littérature]] et Philosophie) et qu'il faudrait savoir si le corpus choisi était uneiquement sociologique. 

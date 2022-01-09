@@ -79,7 +79,7 @@ La vérité a besoin de la preuve objective mais aussi de l'oeil humain sur les 
 
 A l'inverse, cette activité est uniquement relationnelle. Il faut espérer qu'il y ait toujours ce supplément d'éthique qui est au-dessus de la loi.
 Fragilisation des normes internes de la police. Dans une [[démocratie]], la DL prend de plus en plus de place parce que les relations entre les humains prend de plus en plus de place en démocratie
-Il y a toujours une part de la déontologie qui restera toujours non liée à la loi : l'amour et l'amitié
+Il y a toujours une part de la déontologie qui restera toujours non liée à la loi : l'amour et l'[[amitié]]
 Le jour où on devra avoir une déontologie explicite de l'amitié ou de l'amour, on aura beaucoup perdu
 Souhaiter qu'il y ait une sorte d'apprentissage immanent des devoirs humains et qu'il ne faille pas tout expliciter dans la loi.
 

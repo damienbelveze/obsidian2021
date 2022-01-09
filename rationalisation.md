@@ -34,5 +34,6 @@ Selon cette théorie, toute démonstration de raison serait par définition une 
 ( [Source : Edgard Morin](https://twitter.com/edgarmorinparis/status/1435525877618683905)) 
 
 
+>D’autant plus que nombreux sont ceux qui dénoncent justement la perte d’esprit du capitalisme et particulièrement du capitalisme financier. Paul Valéry utilisait paradoxalement la métaphore de la bourse pour observer le déclin de la valeur esprit[24]. Ce déclin confine sans doute à une forme de banqueroute voire de dette croissante. Une dette qui a commencé avec le détournement des Lumières dans sa réduction à un processus de rationalisation au détriment de l’exercice de la raison
 
-
+(Olivier Le Deuff [[@LeDeuffRipostedigitalePour2021]])

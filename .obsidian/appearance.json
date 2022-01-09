@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "obsidian2",
     "obsidian"
-  ]
+  ],
+  "translucency": false
 }
