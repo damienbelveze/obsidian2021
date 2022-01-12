@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gérald Bronner.md",
-            "mode": "preview",
+            "file": "Article ASTED.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:bronner",
+                "query": "file:ASTED",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gérald Bronner.md",
+                "file": "Article ASTED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gérald Bronner.md",
+                "file": "Article ASTED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gérald Bronner.md"
+                "file": "Article ASTED.md"
               }
             }
           },
@@ -159,10 +159,10 @@
   },
   "active": "7bdc55717b48710e",
   "lastOpenFiles": [
+    "Article ASTED.md",
     "Gérald Bronner.md",
     "Patrimonialisation des données.md",
     "Bulle de filtre.md",
-    "Article ASTED.md",
     "StopCovid.md",
     "revues népotiques.md",
     "Consensus scientifique.md",
