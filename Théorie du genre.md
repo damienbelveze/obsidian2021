@@ -1,0 +1,2 @@
+Concept d'invention conservatrice et catholique forgé pour stigmatiser les [[études de genre]] au nom d'une prétendue division sexuelle des rôles jugée naturelle.
+La théorie du genre est depuis 2010, l'un des thèmes phares de l'antiféminisme. 

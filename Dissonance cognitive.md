@@ -1,0 +1,1 @@
+situation inconfortable dans laquelle on se trouve lorsque des [[factualité|faits]] entrent en contradiction avec les opinions qu'on tient pour vraie. La [[rationalisation]] permet de sortir de cet inconfort mais souvent au détriment d'une prise en compte de la réalité

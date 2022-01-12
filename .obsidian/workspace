@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "34f4a5c14f64fbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bdc55717b48710e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gérald Bronner.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9e8ccabff5d2646",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e39e7d1f14ed1e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c93123f31157fa1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:bronner",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22145539dcf08d9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c395055205b795dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240
+  },
+  "right": {
+    "id": "7f36bb58d7e8a0b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d91cc458a21b377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afc48893f65508ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1d4a5927add58d64",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gérald Bronner.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0496586a1f919e8a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gérald Bronner.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0da780de178efc06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b28d7ff9d2896e33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gérald Bronner.md"
+              }
+            }
+          },
+          {
+            "id": "433ea943bf80db04",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "82b36dff856edb97",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 626,
+    "collapsed": true
+  },
+  "active": "7bdc55717b48710e",
+  "lastOpenFiles": [
+    "Gérald Bronner.md",
+    "Patrimonialisation des données.md",
+    "Bulle de filtre.md",
+    "Article ASTED.md",
+    "StopCovid.md",
+    "revues népotiques.md",
+    "Consensus scientifique.md",
+    "bêtise.md",
+    "droitisation.md",
+    "zététique.md"
+  ]
+}
