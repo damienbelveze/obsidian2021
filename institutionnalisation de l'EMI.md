@@ -61,7 +61,7 @@ Cette critique est toujours plus verbale que celles qui pourraient amener par ex
 
 Commission intitulée "Les Lumières à l'ère numérique" présidée par Gérald Bronner, fondée le 29 septembre 2021
 
-rôle des algorithmes
+rôle des [[algorithme|algorithmes]]
 financement des infox
 moyen de développer l'esprit critique
 liberté éditoriale des médias face aux groupes de pression

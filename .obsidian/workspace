@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:ASTED",
+                "query": "file:article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,14 +160,14 @@
   "active": "7bdc55717b48710e",
   "lastOpenFiles": [
     "Article ASTED.md",
-    "Gérald Bronner.md",
-    "Patrimonialisation des données.md",
-    "Bulle de filtre.md",
-    "StopCovid.md",
-    "revues népotiques.md",
-    "Consensus scientifique.md",
-    "bêtise.md",
-    "droitisation.md",
-    "zététique.md"
+    "document.md",
+    "apprendre le web.md",
+    "Covid-19.md",
+    "veracrypt.md",
+    "théorie complotiste.md",
+    "Spécificité vs sensibilité.md",
+    "solutionnisme technologique.md",
+    "Scandales liés à Facebook.md",
+    "retro-ingénierie.md"
   ]
 }

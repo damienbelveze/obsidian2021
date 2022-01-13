@@ -14,7 +14,7 @@ concept développé par Mike Caufield, pour désigner l'ensemble des interventio
 
 1. Premier maillon : la modération
 
-un réseau social peut décider d'amplifier ou diminuer la visibilité d'un post mensonger, en général en travaillant sur l'algorithme de présentation
+un réseau social peut décider d'amplifier ou diminuer la visibilité d'un post mensonger, en général en travaillant sur l'[[algorithme]] de présentation
 
 2. Deuxième maillon : l'interface
 

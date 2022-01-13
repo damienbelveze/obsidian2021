@@ -62,7 +62,7 @@ Source : https://guides.library.utoronto.ca/c.php?g=577919&p=4304403
 ## Débat sur l'utilité de Google Scholar pour faire une revue de littérature. 
 
 [[Google Scholar]] se positionne au départ non comme une base de données scientifique (disposant de son propre set de références scientifiques comme Medline pour Pubmed), mais comme un moteur de recherche scientifique. 
-Dans le cas de Google Scholar et contrairement à Pubmed, la réalisation de l'[[index]] est entièrement prise en charge un algorithme, tandis que dans le cas de Pubmed, la constitution de l'index des références est supervisée par des humains.
+Dans le cas de Google Scholar et contrairement à Pubmed, la réalisation de l'[[index]] est entièrement prise en charge un [[algorithme]], tandis que dans le cas de Pubmed, la constitution de l'index des références est supervisée par des humains.
 
 Entre 2008 et 2013, en partant de revues de littérature sur des sujets cliniques constituées avec des bases reconnues pour leur utilité dans la réalisation de revues de littérature dans ce domaine (Cochrane, Web Of Science, Embase), plusieurs études ont montré que Google Scholar avait une converture égale ou très proche à 100% ([[@Gehannocoveragegooglescholar2013]]) : toutes les études citées dans ces revues pouvaient être trouvées en interrogeant Google Scholar. 
 

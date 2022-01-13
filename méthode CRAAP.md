@@ -28,7 +28,7 @@ Cette méthode a montré certaines limites qui sont détaillées dans les articl
 
 ![Minsinformation Online](misinformation_online.pdf)
 
-2. L'autre problème a été manifesté par une étude de Marc Meola en 2004. La thèse de Meola est qu'on ne peut réduire l'esprit critique à l'application d'un modèle constitué de critères à vérifier. Cette façon de procéder est trop algorithmique et mécanique pour permettre de faire face aux enjeux liés à l'évaluation de l'information : 
+2. L'autre problème a été manifesté par une étude de Marc Meola en 2004. La thèse de Meola est qu'on ne peut réduire l'esprit critique à l'application d'un modèle constitué de critères à vérifier. Cette façon de procéder est trop [[algorithme|algorithmique]] et mécanique pour permettre de faire face aux enjeux liés à l'évaluation de l'information : 
 
 > the cheklist model  [...] can serve to promote a mechanical and algorithmmic way of evaluation that is at odds with the higher-level judgement and intuition that we presumably seek to cultivate as part of critical thinking[[@MeolaChuckingChecklistContextual2004]]
 

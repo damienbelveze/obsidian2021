@@ -29,7 +29,7 @@ Les bulles de filtre condamnent les citoyens à rester aveugles aux opinions et 
 
 # Nuancer la portée de la bulle de filtre
 
-Dans un article daté de 2015, des chercheurs ont montré toutefois que ce n'était pas tant les algorithmes des réseaux sociaux qui filtraient de manière complètement invisibles les informations en fonction du profil de l'utilisateur, mais plutôt l'utilisateur lui-même en sélectionnant des amis par affinités politiques qui assurait ce filtrage des opinions adverses[[@BakshyExposureideologicallydiverse2015]]. 
+Dans un article daté de 2015, des chercheurs ont montré toutefois que ce n'était pas tant les [[algorithme|algorithmes]] des réseaux sociaux qui filtraient de manière complètement invisibles les informations en fonction du profil de l'utilisateur, mais plutôt l'utilisateur lui-même en sélectionnant des amis par affinités politiques qui assurait ce filtrage des opinions adverses[[@BakshyExposureideologicallydiverse2015]]. 
 
 
 Il n'est pas nécessaire de se laisser enfermer dans un algorithme qui envoie du contenu en fonction de son comportement en ligne pour se fabriquer un monde complètement virtuel et étranger au monde réel. 

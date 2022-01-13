@@ -27,7 +27,7 @@ insérer le lien vers le volume caché (par exemple ~/dbelveze/Bureau/coffre_for
 
 indiquer ensuite la taille (292K minimum), pour 100 MB, taper 100[M]
 
-choisir ensuite l'algorithme de chiffrement et l'algorithme de hachage (AES + SHA 512)
+choisir ensuite l'[[algorithme]] de chiffrement et l'algorithme de hachage (AES + SHA 512)
 
 Choisir ensuite la fonction de formatage (FAT par exemple). Si le fichier choisi est déjà écrit, il sera effacé.
 

@@ -24,7 +24,7 @@ Au SCD, c'est grâce au travail d'Aaron Tay qui a parlé à plusieurs reprises d
 
 ## Comment ça marche
 
-L'algorithme de [CitationGecko](https://citationgecko.azurewebsites.net/) utilise les données bibliométriques de [[OpenCitations]], [[CrossRef]] et [[Microsoft Academic]] pour trouver un graphe de citation à partir des articles que nous lui fournissons (seed papers)
+L'[[algorithme]] de [CitationGecko](https://citationgecko.azurewebsites.net/) utilise les données bibliométriques de [[OpenCitations]], [[CrossRef]] et [[Microsoft Academic]] pour trouver un graphe de citation à partir des articles que nous lui fournissons (seed papers)
 
 Usages possibles :
 

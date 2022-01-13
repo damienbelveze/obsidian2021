@@ -8,7 +8,7 @@ Ce flou juridique peut aussi être une aubaine pour l'Etat qui va en profiter po
 
 # acclimation de technologies liberticides
 
-Le développement de technologies permettant d'assigner des places ou vérfier des usages (algorithmes de vérification d'identité ou de classement des dossiers de personnes) va créer des besoins qui susciteront d'autres technologies invasives lesquelles auraient été impensables socialement auparavant. L'effet de cliquet associé à ces nouveaux besoins issus d'une volonté générale de contrôle de la vie du citoyen par l'Etat fait qu'on ne peut plus revenir en arrière
+Le développement de technologies permettant d'assigner des places ou vérfier des usages ([[algorithme|algorithmes]] de vérification d'identité ou de classement des dossiers de personnes) va créer des besoins qui susciteront d'autres technologies invasives lesquelles auraient été impensables socialement auparavant. L'effet de cliquet associé à ces nouveaux besoins issus d'une volonté générale de contrôle de la vie du citoyen par l'Etat fait qu'on ne peut plus revenir en arrière
 
 > l’innovation technologique (dans le contrôle d’identité, le placement des bacheliers, etc.) tend systématiquement à créer un besoin, lequel se traduit tôt ou tard par des réformes visant à légaliser des usages qui paraissaient auparavant inenvisageables techniquement ou inacceptables socialement. 
 

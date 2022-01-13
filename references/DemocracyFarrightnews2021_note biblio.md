@@ -15,7 +15,7 @@ Other files:
 
 * Mdnotes File Name: DemocracyFarrightnews2021_note biblio
 
-Ce document tend à montrer que l'algorithme de [[Facebook]] défavorise les fausses informations sauf lorsque celles-ci proviennent de l'extrême doite ([[Alt-right]])
+Ce document tend à montrer que l'[[algorithme]] de [[Facebook]] défavorise les fausses informations sauf lorsque celles-ci proviennent de l'extrême doite ([[Alt-right]])
 
 
 

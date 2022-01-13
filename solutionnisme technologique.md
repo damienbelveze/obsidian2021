@@ -15,7 +15,7 @@ On peut citer par exemple les [[Caméras de surveillance|caméras de surveillanc
 
 (Cécil Price)
 
-La députée Paula Forteza a proposé une convention citoyenne, à l'instar de celle sur le climat pour juger la légalité, l'efficacité et l'acceptabilité sociale de chaque outil numérique proposé par le gouvernement à des fins de surveillance ou de contrôle (boîtes noires, algorithmes de surveillance, drones, [[reconnaissance faciale]], etc[[@ManachTroispistespour2021]]) 
+La députée Paula Forteza a proposé une convention citoyenne, à l'instar de celle sur le climat pour juger la légalité, l'efficacité et l'acceptabilité sociale de chaque outil numérique proposé par le gouvernement à des fins de surveillance ou de contrôle (boîtes noires, [[algorithme|algorithmes]] de surveillance, drones, [[reconnaissance faciale]], etc[[@ManachTroispistespour2021]]) 
 
 Une partie non négligeable des problèmes que la technologie prétend résoudre est issue de l'utilisation de ces technologies, or comme le disait Einstein "on ne résoud pas les problèmes avec les modes de pensée qui l'ont engendré". Il faut chercher la résolution du problème dans une mobilisation de tous les acteurs et sur un plan plus large que la simple innovation technologique. 
 

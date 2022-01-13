@@ -46,7 +46,7 @@ La touche windows flèche gauche et droite permet sur Linux et Windows de compar
 
 # apprendre à utiliser le web dans une perspective académique
 
-Pour les étudiants, le web se présente sous la forme d'un immense hypertexte, un réseau de documents, où tout à tendance à se valoir où les genres d'écriture ne se distinguent pas ou peu. 
+Pour les étudiants, le web se présente sous la forme d'un immense hypertexte, un réseau de [[document|documents]], où tout à tendance à se valoir où les genres d'écriture ne se distinguent pas ou peu. 
 Un premier travail va consister à rétablir une typologie de ces documents pour en mesurer la fiabilité et la portée. 
 Un second travail va consister à réutiliser cette matière en contrôlant le reyclage (propriété intellectuelle)
 

@@ -18,7 +18,7 @@ tags: [réseaux sociaux, désinformation]
 
 [[Facebook]] décide de ne pas révéler la liste de ses financeurs et [se protège contre des chercheurs de New-York](https://www.numerama.com/tech/731030-tout-notre-travail-a-ete-stoppe-facebook-a-coupe-lacces-a-des-chercheurs-qui-etudiaient-ses-publicites-ciblees.html) qui essaient d'analyser qui sont ces financeurs en leur coupant l'accès à la plateforme 
 
-De manière générale, Olivier Ertzscheid observe qu'il n'existe aucuune recherche qui ne soit pas affiliée à Facebook sur le comportement des algorithmes de la firme : 
+De manière générale, Olivier Ertzscheid observe qu'il n'existe aucuune recherche qui ne soit pas affiliée à Facebook sur le comportement des [[algorithme|algorithmes]]de la firme : 
 
 >Il n’existe absolument aucune étude scientifique indépendante (c’est à dire dont aucun des auteurs ne soit affilié ou directement salarié de Facebook), établie à partir des données anonymisées et/ou randomisées de la firme, sur le cœur du fonctionnement d’un média qui touche mensuellement près de 2,8 milliards d’êtres humains…
 

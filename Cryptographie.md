@@ -7,7 +7,7 @@ link_citations: true
 aliases: [cryptographique, cryptographiques]
 ---
 
-Procédé algorithmique permettant d'obtenir pour un document donné: 
+Procédé [[algorithme|algorithmique]] permettant d'obtenir pour un document donné: 
 
 - **[[authentification]]** : on doit pouvoir s'assurer que le message n'a pas été envoyé par une autre personne que celle qui est supposée l'avoir envoyée - afin d'éviter les attaques par l'[[homme du milieu]])
 - **[[intégrité]]** le message ne doit pas être modifié dans le cours de la transmission) - cf. procédé de vérification de la signature cryptographique comme dans le cas de la [[Signature électronique]] et de [[PGP]]

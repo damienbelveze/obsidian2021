@@ -23,7 +23,7 @@ conditionnement par les écrans
 
 néguentropie :
 art de vivre ensemble
-production de savoirs non algorithmiques
+production de savoirs non [[algorithme|algorithmiques]]
 production de biens générant peu de gaz à effets de serre
 participation des citoyens à la politique
 
