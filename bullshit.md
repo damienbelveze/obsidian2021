@@ -26,6 +26,10 @@ Le menteur nous ment non seulement sur les [[factualité|faits]] (il nous sert u
 le bullshiteur étend le mensonge à notre perception : il nous fait croire que son discours est profond, alors qu'il est incohérent ou complètement creux..
 
 
+# Weasel wording
+
+phrases qui semblent lourdes de sens et décisives alors que lorsqu'on les analyse elles ne disent rien ou presque (jeu avec les [[implicature communicationnelle|implicatures]].
+Le weaseling est utilisé souvent pour dilluer les responsabiités d'une situation dommageable
 
 # Bibliographie
 

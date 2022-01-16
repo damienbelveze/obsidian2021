@@ -11,6 +11,8 @@ tags: []
 ---
 
 Intellectuel total : en raison d'une idéologie transversale (communisme dans les années 60 à 80), prend la parole sur tous les sujets, y compris ceux ne relevant pas de sa compétence (cf. Sartre à Billancourt)
+Dans un contexte où la droite semble gagner la bataille culturelle (cf le Gramcisme de droite théorisé par Alain de Benoît), certains à gauche appellent  à nouveau les intellectuels à reprendre le flambeau de l'universalisme et à s'engager au delà de leur domaine de spécialité[[@BelighIntellectuelstrahisonou2022]]
+
 
 Intellectuel spécifique : n'aborde que les sujets de son champ de compétence, évite ainsi l'[[ultracrépidarianisme]], on peut penser à Foucault par exemple (voir Frédérique Matonti [[@MatontiZemmourreactionnaire2021]]).
 

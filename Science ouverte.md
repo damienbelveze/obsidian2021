@@ -56,3 +56,9 @@ Obligation de dépôt en archive ouverte et stratégie de rétention des droits
 - HAL
 - Opidor
 - Approches plus qualitatives dans l'évaluation que quantitatives
+
+# compétences requises par la Science Ouverte
+
+Côté responsable de gestions numériques
+
+![SO](competences_SO.jpg)

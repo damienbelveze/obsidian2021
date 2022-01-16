@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Mode d'emploi d'Obsidian",
+      "path": "Mode d'emploi d'Obsidian.md"
+    },
+    {
+      "type": "file",
+      "title": "Article ASTED",
+      "path": "Article ASTED.md"
+    }
+  ]
+}

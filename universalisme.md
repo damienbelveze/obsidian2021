@@ -79,7 +79,11 @@ Ce deuxième temps des conquêtes féministes est pour elle forcément marquée 
 
 
 
+# désidéologiser l'universel
 
+Dans son plaidoyer pour l'Universel, François Wolff tente de séparer ce que les souffrances du passé ont de spécifiques et en même temps d'universellement partageables tout en distinguant cette promesse de partage des usagers partiaux du concept d'universalisme pour couvrir des discours en faveur d'un statut quoi qui avantage certains au détriment d'autres. 
+
+>il est vrai que toute expérience est particulière, notamment toute expérience d’oppression : la Shoah, l’esclavage, le colonialisme, la domination des femmes, etc. Cependant, au contraire de ce que supposent les dénonciateurs de l’“appropriation culturelle”, ce type de souffrance comporte nécessairement une dimension communicable – donc universalisable – sous peine de demeurer singulière, confinée à la sidération muette des victimes, et de perdre ainsi toute portée collective – ce qui serait le comble pour un projet de libération ou même pour un programme de transmission mémorielle
 
 
 

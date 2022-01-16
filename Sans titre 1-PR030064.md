@@ -2,7 +2,7 @@
 title: 
 subtitle:
 author: Damien Belvèze
-date: {{date}}
+date: 14-01-2022
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
@@ -10,7 +10,9 @@ aliases: []
 tags: []
 ---
 
-{{date:YYYYMMDDHHmm}}
+
+
+
 
 
 

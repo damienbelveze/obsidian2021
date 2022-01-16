@@ -18,6 +18,23 @@ Lorsque la représentation ne peut pas être interdite, à l'instar des groupes 
 
 La cancel culture comme toute censure venue d'extrême droite s'attaque à des oeuvres médiatisées, non seulement pour les invisibiliser, mais aussi pour gagner à travers elles cette visibilité médiatique qui manque à la cause. 
 
+# Une lutte contre la narrativité dominante
+
+Pour Thomas Franck ce qui fait l'objet des attaques contre la cancel culture est un ensemble de discours historiques qui remettent en cause la version de l'histoire mise en avant par le groupe dominant[[@FranckBrosserhistoirerebroussepoil2022]], de brosser l'histoire à rebrousse-poil comme le disait Walter Benjamin cité par Thomas Franck : 
+
+>« Tout vainqueur des temps passés a sa place dans le cortège triomphal qui, guidé par les dominateurs du jour, foule aux pieds ceux qui gisent sur le sol. Comme cela a toujours été le cas, ce cortège charrie le butin. On appelle celui-ci “patrimoine culturel”. […] Et pas plus que du témoignage lui-même, la barbarie n’est absente du processus qui l’a transmis de l’un à l’autre »
+
+Cette contre-narrativité attire inévitablement l'agressivité des groupes qui ont intérêt à conserver leur approche de l'histoire, celle que des siècles de domination ethnique, sociale ou patriarcale ont permis d'établir comme l'histoire officielle : 
+
+>La posture victimaire de ce courant « anti-cancel », posture par ailleurs récurrente lorsqu’un groupe dominant se sent menacé, est fondée sur le postulat très classique d’une conservation patrimoniale figée en réaction à de prétendues stratégies d’effacement.
+
+Thomas Franck ne nie pas qu'au sein de ces mouvements de contestation il y ait une remise en cause de la visibilité de certains oeuvres liées à telle ou telle exploitation (assez souvent en rapport avec les traites négrières), mais plaide non pour la suppression de ces symboles mais pour leur déplacement depuis les places publiques vers des lieux (musées) qui remettent en perspective leur contexte d'apparition, ce qui est arrivé finalement à la statue de Colston marchand esclavagiste dont la statue se trouvait sur une place publique à Galway avant d'être jetée à la mer par des militants antiracistes puis récupérée par les autorités qui l'ont envoyée au musée[[@ThomasStatuesdonembody2020]] . 
+
+>On ne nie pas l’existence d’un discours dogmatique réclamant, sans grande cohérence historique ni idéologique, l’effacement de productions et de traces portant la marque d’une domination. Ces productions et ces traces sont précisément fondamentales en ce qu’elles sont la clef d’une compréhension et d’une mémoire des rapports de subalternité, mais elles ne peuvent préserver l’évidence de leur place dans un espace public oppositionnel, parcouru de tensions relatives à ce qui est visible et valorisé
+
+(Thomas Franck [[@FranckBrosserhistoirerebroussepoil2022]])
+
+
 # Négation du débat
 
 Cette forme de contestation remet en cause le principe du débat démocratique et la méthode qui consiste à constater par soi-même pour se faire un jugement puisque les promoteurs de cette méthode de censure ne regardent pas, ne prennent pas la peine de connaître les oeuvres auxquelles ils/ elles s'attaquent. 

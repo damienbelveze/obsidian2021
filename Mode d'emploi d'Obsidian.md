@@ -605,8 +605,31 @@ A titre d'exemple, la fonction
 
 \<\% tp.file.creation_date("DD-MM-YYYY") \%\> 
 
-inscrit la date du jour dans la note. 
-C'est une commande très utile à insérer dans un template afin de permettre à toutes les notes créées à partir de ce template de contenir la date du jour. 
+inscrit la date du jour dans la note.  C'est une commande très utile à insérer dans un template afin de permettre à toutes les notes créées à partir de ce template de contenir la date du jour. 
+
+La fonction 
+
+\<\% tp.file.title \%\>
+
+Plus de fonctions [ici](https://silentvoid13.github.io/Templater/internal-functions/internal-modules/file-module.html#tpfiletitle)
+
+reprend le nom du fichier à l'endroite souhaité (par exemple devant l'attribut title dans le bloc YAML) comme dans l'exemple ci-dessous : 
+
+`````
+---
+title: <% tp.file.title %>
+subtitle:
+author: Damien Belvèze
+date: <% tp.file.creation_date("DD-MM-YYYY") %>
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: []
+---
+``````
+
+
 
 # 6. Inscrire son quotidien dans Obsidian
 

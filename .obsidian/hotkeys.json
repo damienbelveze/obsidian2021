@@ -242,5 +242,21 @@
       ],
       "key": "O"
     }
+  ],
+  "templater-obsidian:modeles/template A.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "PageUp"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Key226"
+    }
   ]
 }
