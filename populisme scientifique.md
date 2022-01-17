@@ -18,6 +18,13 @@ On entend aussi parler de populisme scientifique quand des personnes qui se sont
 
 Dans le cas de Didier Raoult, le populisme scientifique s'accompagne d'une forme d'évergétisme puisque chacune de ses publications enrichit les caisses d'un institut (l'IHU)[[@SystemeDidierRaoult2021]]
 
+La crise a obligé les scientifiques à partager très vite leurs hypothèses (avant même de pouvoir partager leurs résultats et mêmes leurs protocoles de validation). Comme l'indique Emmanuel André dans un [thread](https://twitter.com/Emmanuel_microb/status/1483021683850162178), on ne peut pas reprocher à Didier Raoult et aux autres cautions scientifiques des antivax d'avoir fait des hypothèses qui allaient à contre-courant, ni même d'y avoir cru, mais en revanche, ils n'auraient pas du nous y faire croire avant d'avoir des preuves tangibles et reconnues comme telles par la communauté dub bien-fondé de cette croyance. 
+Comme ces experts voyaient qu'ils n'auraient pas la validation scientifique, ils n'ont eu de cesse de recherche l'onction populaire. 
+
+> Mais au-delà des conséquences désastreuses pour la santé des personnes qu'ils ont convaincues, ils ont montré que le "succès populaire" pouvait survivre à la déroute scientifique.
+> Ces personnes se sont désormais totalement détournées des méthodes de validation scientifique des hypothèses, et optent pour des méchanismes de survie/séduction identifiques à celles des personnalités politiques extrémistes: victimisation et mensonges séduisants.
+
+
 Pour Gérald Bronner, le populisme scientifique s'épanouit dans le cadre d'un [[Marché cognitif]] ou des opinions cohabitent au même niveau que des énoncés scientifiques ([[relativisme]])
 
 Pour [[Bruno Latour]], le [[populisme]] n'est rien d'autre qu'une demande de protection, notamment étatique, de populations qui ont été progressivement abandonnées par les élites gouvernantes au cours du processus couramment appelé globalisation. Le [[populisme]] est une réaction à la dérégulation en économie et à la financiarisation de tous les aspects de l'existence. 

@@ -33,4 +33,6 @@ Les chercheurs sont d'autant plus réticents à communiquer sur leurs travaux da
 >Nous avons nous-mêmes eu à plusieurs reprises des chercheurs inquiets de la manière dont leurs propos pourraient être interprétés lorsqu’ils répondent à nos questions. Mais à l'inverse, ce sont parfois les communiqués de presse des universités qui font des raccourcis ou du sensationnalisme… pour attirer la presse et ainsi occuper les médias.[[@GavoisPrincipeprecautioninfox2021]]
 
 
+Bergstrom[[@BergstromCallingBullshitArt2020]] prend les fraudes d'Andrew Wakefield pour établir que les vaccins causent l'autisme comme exemple d'application de la Loi de Brandolini : 
 
+>So here we have a hypothesis that has been as thoroughly discredited as anything in the scientific literature. It causes serious harm to public health. And yet it will not go away. Why has it been so hard to debunk the rumors of a connection between vaccines and autism? This is Brandolini’s principle at work. Researchers have to invest vastly more time to debunk Wakefield’s arguments than he did to produce them in the first place

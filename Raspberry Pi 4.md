@@ -35,7 +35,31 @@ ssh pi@IP
 IP : 192.168.1.34
 
 
+# chargement de logiciels
 
+## snap
+
+``````
+sudo apt-update
+sudo apt install snapd
+``````
+
+nécessité de rebooter le Rpi
+
+`````
+sudo reboot
+``````
+ installer Snap
+
+ ``````
+ sudo snap install core
+ ``````
+ Pour installer un logiciel présent dans Snap (Inkscape par exemple)
+
+ ``````
+ sudo snap install inkscape
+ ``````
+ [source](https://snapcraft.io/install/inkscape/raspbian)
 
 
 

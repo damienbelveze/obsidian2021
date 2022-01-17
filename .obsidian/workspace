@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3687301474aa4ded",
+        "id": "78b4de18202cccde",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bullshit.md",
+            "file": "bots.md",
             "mode": "source",
             "source": true
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bots",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bullshit.md",
+                "file": "bots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bullshit.md",
+                "file": "bots.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bullshit.md"
+                "file": "bots.md"
               }
             }
           },
@@ -158,17 +157,17 @@
     "width": 626,
     "collapsed": true
   },
-  "active": "3687301474aa4ded",
+  "active": "78b4de18202cccde",
   "lastOpenFiles": [
+    "bots.md",
     "bullshit.md",
-    "implicature communicationnelle.md",
+    "épistémologies tribales.md",
+    "polarisation.md",
+    "Cours médiation scientifique.md",
     "Article ASTED.md",
-    "Ordre mélien.md",
-    "Raspberry Pi 4.md",
-    "Raspberry Pi-PR030064.md",
-    "Technocratie.md",
-    "Sospeso.md",
-    "Cancel culture.md",
-    "enclosures.md"
+    "communication.md",
+    "Clientélisme médiatique.md",
+    "Sans titre 2.md",
+    "Jours heureux.md"
   ]
 }

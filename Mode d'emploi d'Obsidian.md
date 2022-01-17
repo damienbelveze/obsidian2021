@@ -45,6 +45,8 @@ Obsidian présente les avantages de la nouvelle génération d'outils de PKM (pe
 
 ## 1.3 intérêt cognitif
 
+### mémorisation, appropriation
+
 Le monde du web est celui de la réplication et du copier-coller. Pour autant copier-coller un texte lu est une facilité qui nous empêche de nous approprier son contenu. 
 
 Plutôt que de copier-coller un texte qui nous intéresse dans un un outil comme Obsidian, il est nettement préférable de le reformuler avec ses propres mots, comme si on voulait l'expliquer à une personne qui ne dispose pas de la source. On s'assure ainsi qu'on a bien compris soi-même le sens du texte en reliant la nouveauté que constitue pour nous l'énoncé du texte avec ce qu'on sait déjà et avec notre contexte d'apprentissage. 
@@ -55,7 +57,17 @@ Il est donc important de restreindre les citations aux passage où l'auteur rés
 
 En reliant entre elles ces notes prises au fil de l'eau à la faveur de lectures, Obsidian permet de structurer sa pensée et peut éventuellement amener à des rapprochements inédits entre des concepts qui sont en relation au départ avec des contextes différents (valeur heuristique de ces graphes de notes) 
 
+### productivité
+
 Obsidian est un outil qui favorise le *jardinage* des notes[[@CollignonIntegratinghypothesishighlights2021]]. En écrivant une note, on se rend compte qu'on peut faire un lien depuis cette note vers une note plus ancienne. Lorsque le lien est fait, on s'aperçoit qu'on peut ajouter un autre aspect à la note plus ancienne avec le savoir supplémentaire obtenu au moment de l'écriture de la première note. Cette activité aide non seulement à mémoriser, mais à créer de nouveaux liens, à appuyer les connaissances nouvelles sur un socle de connaissances anciennes et à enrichir ces connaissances plus anciennes de nouveaux aperçus. 
+
+Obsidian devient rapidement un outil personnel incontournable et nous développons au fur er à mesure que notre usage se déploit de nouvelles compétences pour le maintenir et le rendre encore plus productif
+
+![](khafagy.png)
+
+Certains utilisent Obsidian pour se lancer dans l'apprentissage du code par essai et erreur (puisqu'une note peut embarquer du code)[[@KhafagyTwitterPublish2022]]
+
+
 
 ## 1.4 Obsidian sur son smartphone
 

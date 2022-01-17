@@ -23,5 +23,7 @@ Même motif allégué pour la démission de la journaliste Bari Weiss:
 
 > Les histoires sont choisies et racontées de manière à satisfaire le public le plus restreint, plutôt que de permettre à un public curieux de lire sur le monde et de tirer ensuite ses propres conclusions [[@ShevshenkoPolitiquementcorrectquand2020]]
 
+![](news_polarisation.png)
 
-
+polarisation des médias extraites de Calling Bullshit [[@BergstromCallingBullshitArt2020]]
+(citation manquante)

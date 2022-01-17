@@ -30,6 +30,8 @@ Les auteurs de l'enquête concluaient pour leurs commanditaires par ces mots :
 
 Leur contribution à l'élucidation des enquêtes serait quasiment nulle, d'après ces auteurs (de l'ordre de 3,5% sur le nombre total de réquisitions d'images, d'après Laurent Mucchielli [[@GuillaudVideosurveillanceparadigmetechnosolutionnisme2018]]).
 
+Il est des cas pourtant où la présence de caméras permettent de mettre en évidence des violences policières et disqualifier des faux témoignages émanant des forces de l'ordre (cf. cas [Adnane Nassih](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-du-jeudi-06-janvier-2022), éborgné par un tir de LBD en février 2020 alors qu'il ne présentait aucune menace, bien que la légitime défense du tireur et de ses collègues ait été invoquée)
+
 Leur prolifération est donc du à un usage politique : en installant des caméras partout, les édiles municipaux veulent montrer qu'ils sont actifs face à un problème qu'en réalité ils ne contrôlent pas, la délinquance. 
 La caméra de surveillance urbaine relève donc du [[solutionnisme technologique]] technologique.
 

@@ -152,7 +152,7 @@ Ce qui aujourd'hui ferait presque figure d'exception représentait pourtant pour
 
 En fonction du temps dont dispose le formateur, du niveau des étudiant, on peut orienter les étudiants vers la recherche d'autres revues de littérature sur l'ivermectine et comparer leurs conclusions à celles de cet article. Cette manière de faire a aussi l'avantage de montrer que la recherche d'information prend tout son sens lorque des enjeux clairs y sont associés. La recherche et l'évaluation de d'information sont tournées vers l'action (ett comme dans ce cas, potentiellement vers la survie). Quant aux usages néguentropiques de l'information sur Twitter, on pourrait donner comme exemple à nos étudiants le tweet de The Politics of Health
 
-1. en effet le propriétaire de ce compte n'insulte pas son correspondant pour avoir fait une erreur d'attribution. Sur une question pourtant sensible ou la polarisation est importante, Il ne le traite d'inculte ou d'e-gnorant et donc ne pas à ajouter à la malveillance qui règne sur le réseau 
+1. en effet le propriétaire de ce compte n'insulte pas son correspondant pour avoir fait une erreur d'attribution. Sur une question pourtant sensible ou la [[polarisation]] est importante, Il ne le traite d'inculte ou d'e-gnorant et donc ne pas à ajouter à la malveillance qui règne sur le réseau 
 ("L’objectif ultime de la malveillance étant de parvenir à obtenir une réaction collective qui pousse le jugé fautif dans ses retranchements[[@LeDeuffRipostedigitalePour2021]]".)
 2. En outre cette personne restitue le cadre de l'information dit quoi, dans quel contexte et avec quel média, en somme contextualiser, ex-pliquer mais aussi défragmenter.
 

@@ -79,7 +79,7 @@ Les biais idéologiques ont une importance plus forte que la familiarité avec l
 
 ## les opinions marginales sur-représentées dans les médias
 
-La polarisation des débats plutôt que l'information du public constitue la boussole d'un grand nombre de médias.
+La [[polarisation]] des débats plutôt que l'information du public constitue la boussole d'un grand nombre de médias.
 
 Ce qui explique que la présence de thèses climatosceptiques reste encore pregnante dans les médias ajoutant à ce "consensus gap"
 
