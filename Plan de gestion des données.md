@@ -69,6 +69,8 @@ document structuré en 6 parties
 - Partage es données et conservation à long terme : ne pas confondre l'archivage et le stockage ([[archivage]] = migration des formats) - identifier l'entrepôt de données en fonction de la découvrabilité (un entrepôt disciplinaire est plus riche en métadonnées pertinentes)
 - responsabilités
 
+exemple de description de données, voir présentation de Cécile Arènes (DMP one tool with many applications[[@HuserDatamanagementplans2022]])
+
 Cette structure va légèrement changer. 
 Opidor : machine actionable DMP : export du PGD en Json (en complément de la version en ligne du plan de gestion)
 

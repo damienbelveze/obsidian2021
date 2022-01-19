@@ -1,5 +1,5 @@
 ---
-title: manipulation des citations
+title: citations académiques
 subtitle:
 author: Damien Belvèze
 date: 13-11-2021
@@ -9,6 +9,19 @@ biblio_style: csl\ieee.csl
 aliases: []
 tags: [intégrité scientifique]
 ---
+
+# aspect rhétorique de la citation
+
+Les personnes citées deviennent des alliés dans l'entreprise d'un auteur pour paraître compétente sur son sujet. 
+Si on remet en cause le bien fondé d'une assertion, la citation induit le lecteur à penser qu'il faudra en plus remettre en cause les travaux de toutes les personnes citées : 
+
+>Correct or not, an author can adopt a number of tactics to make her claims unassailable by her readers—who in turn strive not to be duped. For example, the author can line up a phalanx of allies by citing other writers who support her point, or whose work she builds upon. If you question me, she implies, you have to question all of us
+
+(Carl Bertrom[[@BergstromCallingBullshitArt2020]] citant un travail de Bruno Latour)
+
+
+
+# manipulation des citations
 
 Différentes manipulations peuvent affecter les citations d'un texte scientifique [[@KaraSimpleGuideEthical2021]] : 
 

@@ -19,6 +19,10 @@ Le menteur n'est pas indifférent à la [[vérité et vérifiabilité]], au cont
 
 Le bullshiteur est complètement indifférent à la vérité. Il nous dit n'importe quoi. Il se moque que confronté à la réalité son discours ne tienne pas, il est déjà en train d'inventer le bullshit suivant. le concept de bullshit est très lié au concept de [[Post-vérité|post-vérité]] qui lui est antérieur et illustré par le discours de Trump.
 
+>Harry Frankfurt, the philosopher we introduced in the preface, refined this notion a bit further. He described bullshit as what people create when they try to impress you or persuade you, without any concern for whether what they are saying is true or false, correct or incorrect 
+
+(Bergstrom [[@BergstromCallingBullshitArt2020]])
+
 # rapport à la subjectivité
 
 Le menteur nous ment non seulement sur les [[factualité|faits]] (il nous sert une version contraire  ou différente de la réalité), mais aussi sur ses intentions (il prétend être sincère)
@@ -34,6 +38,13 @@ Le weaseling est utilisé souvent pour dilluer les responsabiités d'une situati
 Voir[[@BergstromCallingBullshitArt2020]]  :
 
 >A 2019 NBC News report revealed that many global manufacturers were likely using materials produced by child labor in Madagascar. A spokesperson for Fiat Chrysler had this to say: Their company “engages in collaborative action with global stakeholders across industries and along the value chain to promote and develop our raw material supply chain.” Collaborative action? Global stakeholders? Value chain? We are talking about four-year-olds processing mica extracted from crude mines. Entire families are working in the blazing sun and sleeping outside all night for forty cents a day. This is bullshit that hides a horrible human toll behind the verbiage of corporate lingo.
+
+
+# discours ampoulés
+
+Les [[canulars]] académiques comme Social Text produit par Sokal et Bricmont dans les années 80 pour porter la critique contre un langage structuraliste abscons ou bien récemment les textes construits automatiquement avec [[Sci-gen]] relèvent d'un type de bullshit particulier. Les formulations sont tellement alambiquées qu'on peine à discerner un énoncé qu'on pourrait rapporter à la réalité pour voir s'il est vrai ou faux (cf. *unclarifiable unclarity* de G. A Cohen)
+
+Test de Cohen : si on met la phrase au négatif et que le sens ne change pas, alors c'est du bullshit.
 
 
 # stratégie du tuyau d'arrosage

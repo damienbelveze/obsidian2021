@@ -98,7 +98,7 @@ par contre la zone grise est très peuplée
 
 ![](hergaux7.png)
 
-bcp de problèmes avec les signatures : voir [[citations (manipulations)|manipulations des citations]]
+bcp de problèmes avec les signatures : voir [[citations académiques|manipulations des citations]]
 
 # principales causes de méconduites
 
