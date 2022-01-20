@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78b4de18202cccde",
+        "id": "de83dbb843a6c741",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pypandoc.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -32,7 +28,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pypandoc",
+                "query": "file:foo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -85,29 +80,11 @@
             }
           },
           {
-            "id": "1d4a5927add58d64",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "pypandoc.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "0496586a1f919e8a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pypandoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pypandoc.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,6 +124,22 @@
               "type": "online.larslockefeer.obsidian-plugin-todo",
               "state": {}
             }
+          },
+          {
+            "id": "d5efc0f6070be93a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -158,17 +149,17 @@
     "width": 626,
     "collapsed": true
   },
-  "active": "78b4de18202cccde",
+  "active": "de83dbb843a6c741",
   "lastOpenFiles": [
-    "pypandoc.md",
-    "Mode d'emploi d'Obsidian.md",
-    "Raspberry Pi 4.md",
-    "Linux commandes de base.md",
-    "gérer un serveur sous Linux.md",
-    "mesure de Levenshtein.md",
-    "Python.md",
-    "Plan de gestion des données.md",
-    "citations académiques.md",
-    "bullshit.md"
+    "foo.md",
+    "images/recherche_sans_auteur.PNG",
+    "Sans titre 1-PR030064.md",
+    "Sans titre.md",
+    "markdown.md",
+    "wysiwyg.md",
+    "méritocratie.md",
+    "théorie complotiste.md",
+    "Marché cognitif.md",
+    "Consommation médiatique.md"
   ]
 }

@@ -14,6 +14,6 @@ Ce droit à la sûreté n'implique aucunement comme on l'entend de plus en plus 
 
 Ainsi la prolifération de [[Caméras de surveillance]] n'a pas fait baisser le crime
 
-la présence policière sur le terrain qui se fait au détriment des tâches indues (entendre par là des procédures formalisées qui visent à respecter les droits des justiciables) n'a pas non plus d'effet sur la délinquance. 
+la présence policière sur le terrain qui se fait au détriment des tâches indues (entendre par là des procédures [[formaliser|formalisées]] qui visent à respecter les droits des justiciables) n'a pas non plus d'effet sur la délinquance. 
 
 D'après Anne-Laure Maduraux, considérer que la sécurité est la première des libertés revient à plaider pour une restriction sans fin des libertés individuelles au prétexte que cela permettrait d'en finir avec le terrorisme et la délinquance mais le véritable but recherché est d'ordre électoral et a pour corrolaire de faire taire toutes les voix dissidentes en les accusant de [[Faire le jeu]] des terroristes et des délinquants[[@Maduraudsecuriteestpremiere2018]].

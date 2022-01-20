@@ -24,5 +24,16 @@ voir également l'effet Matthieu (du nom de l'évangéliste) qui a écrit : "on 
 
 source: Paul Pasquali[[@meritecommestorytelling2021]]
 
+
+# dispositifs technocratiques renforçant la méritocratie
+
+## Parcoursup
+
+1/5 lycéen arrivent tout de suite à trouver leur affectation ; les autres patientent, parfois pendant très longtemps du fait de la dé-hiérarchisation des voeux qui permettait à APB de satisfaire immédiatement un lycéen sur 2. 
+Parcoursup assène dans la tête de lycéens le principe selon lequel "dominer, c'est faire attendre". Les lycées sont départis d'une partie de leur autonomie (qui permet de hiérarchiser ses choix, d'avoir un peu de contrôle sur leur stratégie) et même temps tenus responsables de leur succès ou de leur échec à Parcoursup, ceci afin de préserver la fiction méritocratique : 
+
+> Ces deux facettes de Parcoursup — déposséder les jeunes adultes de leur autonomie et simultanément les rendre responsables de leur position sociale — ne sont antagonistes qu’en apparence. Elles contribuent toutes deux à la fiction méritocratique, ce supplément d’âme dont “on” a doté la reproduction sociale. Plus précisément, Parcoursup (tout comme la loi Blanquer) s’inspire d’une supercherie : la théorie du capital humain. Cette “théorie” vise à naturaliser les inégalités économiques, en produisant un argumentaire à destination des classes moyennes faisant porter la responsabilité des hiérarchies sociales aux individus, et non à l’organisation de la société
+[[@LundiMatinToutcomprendreParcoursup2019]]
+
 # bibliographie
 

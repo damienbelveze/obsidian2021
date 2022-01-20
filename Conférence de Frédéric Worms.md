@@ -60,7 +60,7 @@ La confiance dont on dépend vitalement pour survivre est trahie. Déontologie p
 # Quelques remarques sur la situation contemporaine
 
 Aujourd'hui on a l'impression que cette normativité est attaquée de toute part. Chaque journal qui a sa charte de DL ; cela sonne comme un aveu d'un manque de ce côté.
-Formalisation défensive de la déontologie.
+[[formalisation]] défensive de la déontologie.
 **S'il y a besoin de créer une charte de bienveillance dans les hôpitaux, il n'est pas certain qu'on doive s'en réjouir.**
 Au moins ce que cela reconnaît, c'est la dimension relationnelle de toutes les activités humaines.
 **L'inflation de déontologie explicite traduit une perte de l'intériorisation de ces normes mais peut aussi traduire une élévation des exigences des citoyens pour conserver la qualité de ces relations**

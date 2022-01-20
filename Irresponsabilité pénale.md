@@ -11,7 +11,7 @@ aliases: []
 
 Statut d'une personne traduite en justice pour des délits ou des crimes commis sous l'effet d'un délire ou d'une maladie mentale. 
 
-Ce statut a été formalisé en droit pour la première fois par l'empereur [[Marc-Aurèle]] dont l'édit incitait à ne pas condamner un criminel par folie car il était assez puni lui-même par sa maladie mais à examiner si le crime avait été commis dans un épisode furieux ou bien dans un intervalle de lucidité. 
+Ce statut a été [[formalisation|formalisé]] en droit pour la première fois par l'empereur [[Marc-Aurèle]] dont l'édit incitait à ne pas condamner un criminel par folie car il était assez puni lui-même par sa maladie mais à examiner si le crime avait été commis dans un épisode furieux ou bien dans un intervalle de lucidité. 
 
 Ce statut a été conservé à travers les âges à l'exception du Moyen-âge où les malades mentaux, souvent associés à des [[sorcières]] ou des rebouteux, étaient mis à mort comme des criminels.
 

@@ -1,11 +1,15 @@
 ---
-title: astroturfing
+title: Astroturfing
 subtitle:
 author: Damien Belvèze
-date: 
+date: 22-07-2021
 link_citations: true
-aliases: [false flags, astroturfing]
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: [désinformation]
 ---
+
 Technique [[marketing]] mise en place (à l'origine par un vendeur de gazon, d'où le nom) consistant à déguiser la promotion de son produit en retours de clients qui n'existent pas. Le recours aux clients fictifs est une tentative courante de biaiser les jugements des plateformes comme TripAdvisor. 
 
 Dans le scandale [[Cambridge Analytica]], certains font le rapprochement entre l'envoi de messages à caractères politiques ciblés vers une [[communauté]] formée à partir de métadonnées laissées sur les réseaux ([[Facebook]]). Ces communautés reçoivent comme provenant d'une multitude de comptes individuels (en réalité des faux comptes ou des [[bots]]) ces messages qui sont en réalité émis par une agence de communication au service d'une puissance. 
@@ -25,7 +29,11 @@ Créer des comptes twitter et les doter d'expressions outrancières mais désign
 Cf. campagne Twitter faisant parler des pseudo-comptes tenants de l'idéologie [[culture Woke|woke]]
 
 
+# impact sur les élections
 
+D'après David Chavalarias, fondateur du Tweetoscope, la multiplication des faux comptes sur Twitter en période pré-electorale aurait un effet plus important que la circulation de fausses nouvelles entre des comptes authentiques([[@GiryPaniquemoraleElysee2022]]).
+
+voir le joué par le [[bots|bot]] aux 70 000 followers "Jane Abrams" pendant les élections US de 2016 
 
 
 

@@ -10,12 +10,23 @@ aliases: [Pandoc with Python, Pandoc avec Python]
 tags: [Python]
 ---
 
+# installation
+
+pré-requis : avoir installé Python
+Sur windows : 
+
+``````
+py -m pip install pypandoc
+``````
+
+# conversion simple
+
 ``````
 import pypandoc
 pypandoc.convert_file('D:/Home/dbelveze/Desktop/titre.odt', format='odt', to='md', outputfile='D:/Home/dbelveze/Desktop/titre.md')
 ``````
 
-convertit le fichier titre.odt en markdown et crée un fichier titre.md
+
 
 
 
