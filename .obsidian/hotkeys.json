@@ -258,5 +258,13 @@
       ],
       "key": "Key226"
     }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
   ]
 }

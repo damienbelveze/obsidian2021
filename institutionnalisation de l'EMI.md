@@ -26,7 +26,7 @@ Il y a près de nous d'excellentes initiatives, mais elles ne représentent pas 
 # En dépit de cela, il y a des initiatives concretes et un discours sur l'importance de l'EMI à l'école.
 
 Notamment depuis l'affaire des caricatures et ses suites tragiques : le massacre à la rédaction de Charlie Hebdo et l'assassinat de Samuel Paty. Cette préoccupation est à géométrie variable et s'est focalisée sur les quartiers sensibles.
-Il y a un discours sur la prolifération des Fake News dans la foulée de la panique morale qui est survenue en Grande Bretagne après le Brexit et aux USA après l'élection de Trump et qui cible particulièrement les réseaux sociaux. 
+Il y a un discours sur la prolifération des Fake News dans la foulée de la [[panique morale]] qui est survenue en Grande Bretagne après le Brexit et aux USA après l'élection de Trump et qui cible particulièrement les réseaux sociaux. 
 
 On a raison de s'inquiéter de l'usage des réseaux sociaux par les enfants, mais la propagation des fausses nouvelles ne devrait pas être la seule chose qui devrait nous inquiéter sur le sujet. 
 Cette propagation est aisément quantifiable sur Twitter ou Tik-Tok (même s'il faut payer cher pour avoir de l'information complète, voir Dominique Cardon[[@CardonPourquoiavonsnoussi2019]]), cela nourrit une littérature scientifique importante et a comme conséquence aussi d'éloigner les chercheurs d'autres sujets de préoccupation comme la déformation plus ou moins contrôlée de la vérité dans les "médias honorables" (ceux du XXème siècle). Cette critique reste le fait de journalistes engagés, les checheurs sont moins présents sur ce créneau. 
@@ -73,9 +73,11 @@ le terme obscurantisme a été et peut être appliqué à tout le monde et notam
 Face au marché dérégulé de l'information, les chercheurs Stéphane Horel, Stéphane Foucart et Sylvain Laurens voient s'ériger des gardiens de la raison qui sont surtout des gardiens de l'intérêt économique d'industries diverses dont les effets sur la nature et les gens est loin d'être négligeable. 
 On voit donc à la tête de cette commission un sociologue libéral qui instrumentalise les neurosciences pour dénoncer publication après publication les ravages sur l'économie du principe de précaution et en appelle à une sociologie viriliste fondée sur le goût du risque (du risque pour autrui s'entend : Le meilleur risque, ça reste celui que l'on fait courir aux autres)[[@Foucartgardiensraisonenquete2020]]. Je suis sûr que les gens qui visent à Saint-Nazaire à côté de l'usine YARA (deux articles l'un dans Les Jours, l'autre dans Charlie-Hebdo) apprécieront. 
 
-Par ailleurs, il y a des craintes sur ce que ça peut devenir quand on compare avec une commission équivalente en Grande-Bretagne (science media center)
+Par ailleurs, il y a des craintes sur ce que ça peut devenir quand on compare avec une commission équivalente en Grande-Bretagne (science media center). Le rapport Bronner rendu en janvier 2022 dessine en effet des pistes vers la construction d'un tel centre, devant permettre selon les auteurs, de choisir rationnellement les experts que les médias auront le plus de facilité à interroger sur tel ou tel sujet. Il y a des craintes pour que cette institution méconnaisse les règles qui régissent la controverse et le consensus scientifique et mette en avant des experts qui expriment leur point de vue (proche de celui du pouvoir ou des intérêts financiers des entreprises dominantes) plutôt que celui de la communauté scientifique.
 
+> La régulation de l’information s’entend ici comme une manière de délégitimer tout discours critique sur l’innovation, la technologie ou les orientations économiques et apparaît comme une volonté d’écarter, matériellement et symboliquement, toute alternative à la vision dominante de « l’intérêt général»
 
+(rapport Bronner cité par [[@GiryPaniquemoraleElysee2022]])
 
 
 

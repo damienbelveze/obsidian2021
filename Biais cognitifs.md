@@ -7,7 +7,19 @@ aliases: [ biais cognitifs, heuristiques, cognitive biases]
 ---
 
 
-# Nos biais cognitifs explications
+# Approches de la désinformation sous l'aspect des biais cognitifs
+
+## Comment les biais cognitif permettent de masquer certains enjeux économiques et politiques en matière d'éducation. 
+
+voir également [[institutionnalisation de l'EMI#ne pas focaliser sur les biais cognitifs]]
+
+La prégnance des biais cognitifs entre les mains de sociologues comme Gérald Bronner offrent l'occasion de ne pas voir certaines causes de désinformation liées à des enjeux politiques ou économiques : 
+
+- blanchiment des fausses informations par les grandes marques (Fric News[[@Fricnewsqui2021]])
+- fabrication du doute (Oreskes, Convway) provoquée par les industriels pour soutenir leurs intérêts financiers
+- rôle des lobbies qui inondent les décideurs d'information biaisée
+
+voir [[@GiryPaniquemoraleElysee2022]]
 
 
 ## réhabilitation des biais cognitifs

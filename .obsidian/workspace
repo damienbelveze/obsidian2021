@@ -7,8 +7,12 @@
         "id": "de83dbb843a6c741",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "anarcho-capitalisme.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -28,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:foo",
+                "query": "anarc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,6 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "anarcho-capitalisme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,7 +111,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "anarcho-capitalisme.md"
+              }
             }
           },
           {
@@ -131,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "anarcho-capitalisme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,15 +159,15 @@
   },
   "active": "de83dbb843a6c741",
   "lastOpenFiles": [
-    "foo.md",
-    "images/recherche_sans_auteur.PNG",
-    "Sans titre 1-PR030064.md",
-    "Sans titre.md",
-    "markdown.md",
-    "wysiwyg.md",
-    "méritocratie.md",
+    "anarcho-capitalisme.md",
+    "Disruption.md",
+    "Gérald Bronner.md",
     "théorie complotiste.md",
-    "Marché cognitif.md",
-    "Consommation médiatique.md"
+    "pouvoir et vérité.md",
+    "institutionnalisation de l'EMI.md",
+    "panique morale.md",
+    "Biais cognitifs.md",
+    "memes.md",
+    "Caméras de surveillance.md"
   ]
 }
