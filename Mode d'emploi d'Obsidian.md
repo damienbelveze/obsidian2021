@@ -820,6 +820,9 @@ Par exemple Ctrl+Alt+P pour un export en PDF, Ctrl+Alt+W pour un export en .doc,
 ## 10.2 Directement avec Pandoc
 
 Ouvrir dans le dossier où se trouve la note le menu contextuel qui permet d'accéder à Powershell (sous Windows : sshift + clic-droit) ou ouvrir le terminal à cet endroit sous Linux. Pour Windows. 
+
+### script avec Powershell
+
 - Windows : ouvrir l'interface de commande powershell
 
 Il peut être nécessaire avant de convertir le document md en pdf de supprimer les liens internes en markdown (liens vers d'autres notes), sinon le PDF comportera des \[\[\]\] indésirables dans le texte final. 
@@ -831,9 +834,9 @@ On peut utiliser powershell pour cela :
 Ajouter à cela la commande propre à pandoc. 
 Cela donne par exemple pour un fichier intitulé note.md
 
-``
+``````powershell
 (Get-content ./note.md -Raw).replace("[","").replace("]","") | Set-content ./note2.md | pandoc ./note2.md --bibliography C:\Users\dbelveze\Nextcloud\obsidiantest\biblio\mylibrary.bib --csl C:\Users\dbelveze\Nextcloud\obsidiantest\csl\nature.csl --pdf-engine=xelatex --citeproc -f markdown+smart -o note.pdf | Remove-Item ./note2.md
-``
+``````
 
 ce programme: 
 
@@ -854,6 +857,29 @@ pandoc 'document.md' --from html --to pdf --pdf-engine=xelatex --citeproc -f mar
 **--citeproc -f markdown+smart** : gère les références bibliographiques
 
 (prévoir un titre 1 bibliographie à la fin du document)
+
+### script avec Python
+
+possibilité de convertir des fichiers avec le package [[pypandoc]]
+
+``````python
+import os
+import pypandoc
+fichier = input("Quel fichier voulez-vous convertir ?")
+with open(fichier, 'r') as file :
+  filedata = file.read()
+
+# Replace the target string
+filedata = filedata.replace('[[', '').replace(']]','')
+
+# Write the file out again
+with open('file.txt', 'w') as file:
+  file.write(filedata)
+# convert modified file into open document file
+pypandoc.convert_file('file.txt', format='md', to='pdf', outputfile='new_file.pdf')
+# delete file text
+os.remove('file.txt')
+``````
 
 ## 10.3 utiliser une feuille de style
 

@@ -1,4 +1,16 @@
-#formation_internes
+---
+title: revue systématique
+subtitle:
+author: Damien Belvèze
+date: 02-02-2021
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: []
+---
+
+sous-genre de la [[revue de littérature]]
 
 Une revue systématique est une étude qui a pour ambition de répondre à une question en cumulant toute la littérature parue sur la question
 

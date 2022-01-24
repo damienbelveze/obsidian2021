@@ -7,6 +7,8 @@ link_citations: true
 aliases: [research data, données de recherche, données de la recherche, données issues de la recherche]
 ---
 
+
+
 # Hétérogénéité des données de la recherche
 
 toute donnée récoltée dans le cadre d'un projet de recherche. Définition de l'OCDE de 2007 ([[@Rebouillatpartagedonneesvu2021]]) :

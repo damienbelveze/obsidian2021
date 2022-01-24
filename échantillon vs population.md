@@ -18,7 +18,13 @@ Sur une étude qui vise à montrer comment les revues d'économie citent les rev
 
 ![échantillon](images/echantillon.png)
 
+# échantillons biaisés
 
+Des problèmes de collecte de données peuvent gravement affecter les résultats d'une étude, comme dans cet exemple donné par Carl Bergtrom sur une étude imaginaire qui tend à montrer que les propriétaires de chats ont des salaires plus élevés que les propriétaires de chiens :
+
+> RETURNING TO OUR CAT and dog example, instead of digging into the details of the statistical analysis, you might ask how the samples were collected. Maybe the study looked at pet ownership and merged data from people in living in New York City—where salaries are high and keeping a dog is difficult—with data from upstate New York, where salaries are lower and dogs are far more practical. Maybe dog-lover salaries are assumed to be the US average whereas cat-lover salaries were solicited from visitors to a website for startup founders who cohabitate with cats.
+
+(Calling Bullshit [[@BergstromCallingBullshitArt2020]])
 
 
 

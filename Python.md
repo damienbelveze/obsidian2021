@@ -28,6 +28,21 @@ print(contenu[0:40])
 
 ferme le fichier, imprime les premières lignes (de la première ligne à la ligne 40)
 
+# modifier des caractères dans un fichier
+
+``````
+# ouvre et lit le fichier titre.md
+with open('titre.md', 'r') as file :
+  filedata = file.read()
+
+# remplace dans ce fichier le e par un a
+filedata = filedata.replace('e', 'a')
+
+# écrit un fichier avec le texte modifié dont le nom est file.txt
+with open('file.txt', 'w') as file:
+  file.write(filedata)
+``````
+
 # bibliographie
 
 

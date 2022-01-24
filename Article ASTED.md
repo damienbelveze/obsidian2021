@@ -10,6 +10,8 @@ aliases: []
 tags: []
 ---
 
+<!--
+
 # concepts : 
 
 
@@ -21,42 +23,66 @@ tags: []
 
 ~~Du côté des producteurs de l'information scienitifique : révision par les pairs~~
 
+-->
+
 # résumé en anglais
 
 
 # qu'est-ce que l'entropie informationnelle
 
-Tandis qu'une attaque nucléaire se prépare contre une puissance infranationale qui a pris le contrôle d'un silo de missile, le sous-marin chargé de l'exécuter reçoit un message interrompu par la rupture de son câble-radio. Le message pouvait soit confirmer l'ordre d'attaque, soit l'invalider. Son interprétation divise l'équipage. Une mutinerie éclate. Tel est le scénario du film *Crimson Tide* qui ressemble et en même temps diffère de notre quotidien. Si nous sommes amenés nous-même à prendre des décisions parfois décisives sur la foi d'informations tronquées, il est rare que nous les considérions comme incomplètes pour ainsi dire "par défaut". L'absence d'une balise fermante n'est pas sensible à un humain comme elle l'est à un interpréteur de commandes. Avec le temps, l'humain s'apercevra peut-être que son code est enchâssé dans un code plus vaste et qui lui avait échappé, et ceci possiblement à l'infini. Mais s'il est vrai que nous réagissons en partant d'informations tronquées, il faut une certaine maturité pour supposer que ces informations sont incomplètes et devront être replacées dans un contexte plus large quand l'occasion se présentera.
+Tandis qu'une attaque nucléaire se prépare contre une puissance infranationale qui a pris le contrôle d'un silo de missile, le sous-marin chargé de l'exécuter reçoit un message interrompu par la rupture de son câble-radio. Le message pouvait soit confirmer l'ordre d'attaque, soit l'invalider. Son interprétation divise l'équipage. Une mutinerie éclate. Dans nos vies quotidiennes, bien éloignées de l'aspect dramatique du film *Crimson Tide* dont nous venons de résumer le scénario, il n'est pas rare que nous devions prendre des décisions sur la foi d'informations tronquées, et dans ce cas il est plus facile de se convaincre qu'elles se suffisent à elles-mêmes plutôt que de continuer d'attendre une confirmation de leur bien fondé. 
 
-Interrogé par la rédaction de Thinkerview sur les différentes formes d'entropie, Bernard Stiegler décrivait certains effets de l'entropie informationnelle : 
+
+<!--L'absence d'une balise fermante n'est pas sensible à un humain comme elle l'est à un interpréteur de commandes. Avec le temps, l'humain s'apercevra peut-être que son code est enchâssé dans un code plus vaste et qui lui avait échappé, et ceci possiblement à l'infini. Mais s'il est vrai que nous réagissons en partant d'informations tronquées, il faut une certaine maturité pour supposer que ces informations sont incomplètes et devront être replacées dans un contexte plus large quand l'occasion se présentera.
+-->
+
+Interrogé par la rédaction de Thinkerview , Bernard Stiegler décrivait un système informationnel générateur d'entropie : 
 
 [[Entropie informationnelle]] : les réseaux sociaux nous rendent bêtes (cf. Stiegler)
 
 > L'entropie informationnelle on en voit très bien les effets, c'est l'augmentation de la stupidité de masse à laquelle ni vous ni moi nous n'échappons, parce que comme vous ou comme moi sans doute, en sortant d'ici, je vais regarder probablement mon smartphone ; nous sommes sous le contrôle d'un système informationnel qui nous empêche de plus en plus de penser par nous-mêmes, de réfléchir, de faire fonctionner notre noèse
 
-Le réflexe mentionné par Stiegler et qui est associée à cette stupidité de masse peut sans grand risque de se tromper s'appliquer aux résultats sociaux. Ces réseaux sociaux fabriquent de l'entropie de trois manières différentes. 
-Tout d'abord, ils dégradent l'information en dissociant des éléments qui devraient être appréhendés comme un ensemble : l'auteur, le média cité, le contenu exprimé et la date de publication, en en effaçant certains aspects (date et éditeurs) et en ajoutant des éléments extrinsèques mais qui colorent notre interprétation du document : par quel "ami.e" cette information me parvient et que signifie t-elle pour elle ou pour lui. Comment cette personne interprétera le fait que je lui fasse écho...
+<!-- Le réflexe mentionné par Stiegler et qui est associée à cette stupidité de masse peut sans grand risque de se tromper s'appliquer aux résultats sociaux. Ces réseaux sociaux fabriquent de l'entropie de trois manières différentes.  -->
 
-Ensuite ils dégradent l'information en remplaçant des contenus factuels par des contenus expressifs faisant du message davantage un véhicule d'émotion (en général négative) qu'un support d'information. Le design des réseaux sociaux est en effet conçu pour encourager cette expressivité négative du côté de l'émetteur et la pulsion scopique du côté du destinataire. Il s'agit de voir (d'imprimer pour reprendre les statistiques de Twitter) et de changer rapidement de motif d'indignation d'un tweet à l'autre.
+Dans ce système informationnel générateur d'entropie, la référence au smartphone vise sans doute les réseaux sociaux et le zapping permanent qui caractérise leur usage. Outre la dégradation de la qualité de notre attention, les réseaux sociaux manifestent trois mécanismes entropiques : 
 
-En troisième lieu, ces réseaux malmènent l'information en privant les récepteurs d'en contrôler l'apparition. Dans ce dernier cas, l'entropie informationnelle consiste à inverser le flux d'information en l'orientant de l'usager (du "profilé" ) vers le serveur au moyen d'algorithmes de surveillance. 
-Sur Le Monde.fr ou Liberation.fr, comme en témoigne un simple outil comme CookieViz, ce n'est plus tant moi qui lis le journal que le journal "qui me lit" (et ses partenaires commerciaux). 
-Ainsi, à force de capter nos *data* (le terme *capta* serait peut-être ici plus juste), un moteur de recherche comme Google Search supposé indexer des contenus  devient un outil essentiel pour indexer les récepteurs de ces contenus.
+1. dégradation du document
+
+Les réseaux sociaux véhiculent une information dans laquelle les documents ont des contours flous :  les éléments qui devraient être appréhendés comme un ensemble dans le cadre d'un document. Particulièrement, pour un tweet citant un article de journal : l'auteur, le média cité, le contenu exprimé et la date de publication sont mis au second plan par rapport à certains éléments extrinsèques (qui tweete cela, quel est le degré de familiarité que j'ai avec cette personne, à qui répond t-elle, suite à quel message, en lien avec quel mot d'ordre (hashtag).  Ces éléments colorent notre interprétation du document cité dans un tweet bien plus que des éléments aussi essentiels que la date ou le media dans lequel est d'abord paru l'information citée.
+
+2. Confusion d'éléments factuels avec des éléments émotionnels
+
+Les réseaux sociaux dégradent l'information en remplaçant des contenus factuels par des contenus expressifs faisant du message davantage un véhicule d'émotion (en général négative) qu'un support d'information. Le design des réseaux sociaux est en effet conçu pour encourager cette expressivité négative du côté de l'émetteur et la pulsion scopique du côté du destinataire. Les plateformes sont conçues pour nous amener à faire défiler le plus rapidement possible les tweets et à proposer à notre indignation un nombre effréné d'objets. 
+
+3. Les réseaux sociaux inversent le flux d'information en profilant l'information servie au récepteur
+
+Cela n'est pas propre aux réseaux sociaux d'ailleurs, il suffit d'ouvrir une page du Monde ou de Devoir en ligne dans le navigateur CookieViz pour s'en convaincre : quand je lis mon journal, je suis aussi lu et catalogué (profilé) par lui pour son bénéfice et celui de ses partenaires commerciaux. Dans le cas des réseaux sociaux, ce profilage organise en dehors de tout contrôle de l'usager l'apparition des informations et constitue jour après jour ce trou de serrure par lequel nous regardons désormais le vaste monde, ce qui s'avère délétère pour la vie collective mais manque rarement de nous satisfaire en tant qu'individus, car comme l'écrit Musil dans l'Homme sans qualité : 
+.
+<!-- Le Devoir : 43 noms de domaine tiers, Le Monde : 41 noms de domaines tiers -->
+
+> "La vie, vue à travers une imagination et un trou de serrure, [prend] des proportions fabuleuses, inquiétantes" -->
+
+<!-- Ainsi, à force de capter nos *data* (le terme *capta* serait peut-être ici plus juste), un moteur de recherche comme Google Search supposé indexer des contenus  devient un outil essentiel pour indexer les récepteurs de ces contenus. -->
 
 <!--Sur Instagram ou Twitter, assez souvent des messages à l'origine dont nous connaissons la complexité apparaissent tronqués ou dénaturés. Du point de vue de l'émetteur la rédaction de brèves en 280 caractères même sous forme de salves (threads) est peu propices à la nuance ;  chez le destinataire, l'économie de l'attention fait le reste. L'article est retweeté sans même être lu. -->
 
 <!--Au delà des réseaux sociaux, le capitalisme de la surveillance est également visé qui fait que le flux de l'information s'inverse du client vers le serveur et non plus du serveur vers le client :
 Ce profilage de tous renforce aussi l'idée qu'Internet, que Luciano Floridi décrivait encore comme un Commun en 2004, et le web qu'il soutient devient  peu à peu un trou de serrure par lequel nous regardons le monde tout en perdant de vue qu'il ne s'agit pas du vaste monde, mais d'un monde pour soi servi par des marchands de contenus. -->
 
+Si pour Bernard Stiegler les réseaux sociaux ont marqué un tournant dans l'entropie informationnelle, il n'est pas évident de se représenter ce qu'était le système originel dont nous assistons à la désorganisation. Il n'y a pas eu un âge d'or de la communication sur le web où celle-ci était purement orientée vers l'édification d'un savoir. Depuis ses origines, le web est d'abord un outil conçu pour nous divertir avant même que de nous informer. La nouveauté la plus frappante réside peut-être dans le fait qu'aujourd'hui, à la faveur de la crise pandémique, l'information scientifique touche un public beaucoup plus vaste et bien souvent sous des formes dégradées. On assiste aujourd'hui sur Twitter aux tentatives croisées de scientifiques en manque de validation de leurs pairs rechercher celle du public et une partie de ce public tenter de trouver une caution scientifique à ses partis-pris anti-vaxx et anti-masques.
+
+<!--
+
 Toute entropie suppose à l'origine un système organisé qui va se désagréger. On est en droit de se demander ce que serait un web indemne de l'entropie informationnelle ou ce qu'était ce web originel antérieur aux réseaux sociaux qui captent aujoud'hui l'essentiel de notre attention en ligne. Si l'on excepte les trois premiers temps de sa fondation, au CERN, il n'y a guère d'âge d'or du web scientifique entièrement tourné vers l'information objective. En dehors des heures de bureau et parfois même pendant, le web était et reste un outil d'abord utilisé pour sa capacité à nous divertir. La recherche d'information y occupe une place assez minoritaire. 
 Pour Stiegler, c'est donc bien l'avènement des réseaux sociaux qui a marqué le tournant entropique de l'information sur le web. Les projets d'Ars Industrialis, où le philosophe occupait une place éminente, incluait la mise en place de plateformes collaboratives pour faire de la science et globalement prendre soin de la société. L'idée d'un récepteur qui soit aussi émetteur et porte-parole de sa propre expérience n'est donc pas au départ étranger à ce projet. Stiegler a invité des malades à parler de leur expérience de la maladie. Son groupe s'est associé avec des puéricultrices pour analyser et mesurer les dangers du smartphone sur la petite enfance. Son projet implique donc encore aujourd'hui une attention accrue au terrain et comporte beaucoup d'éléments de ce qu'on qualifie aujourd'hui de sciences participatives. Ce n'est donc pas l'expression d'expériences communes qui caractérise cette entropie mais l'exploitation de ces témoignages pour profiler des usages et constituer des bulles de filtres attentionelles.
+-->
 
 Une autre vision possible du système originel que le web rend accessible aujourd'hui est le consensus scientifique. Dans le domaine de la médecine au moins, en y consacrant du temps et en disposant des compétences adéquates, et pourvu que la question ne soit pas trop récente (cela fait quand même beaucoup de conditions), on peut aujourd'hui grâce au web accéder à l'état de l'art sur n'importe quel sujet. Dans cette mesure, la publication n'est qu'un élément venant informer ce consensus (en le confirmant ou en le nuançant). Ainsi, un schéma décrivant l'efficacité d'un masque FFP2, extrait d'une publication sur PNAS et véhiculé sans son contexte sur Twitter n'est que le fragment d'un fragment dont le tout est l'état de l'art sur la protection qu'assure le FFP2.  
 
 
 <!--Dans ce système, l'information est aussitôt consommée, c'est-à-dire assimilée à du connu (et même à du *convenu*, en vertu du biais de confirmation) et dans le même temps amplifié de façon parfois virale. Même lorsque le message est simplifié à l'extrême pour parler à tous, comme le montre de façon grinçante le film Don't look up, il se perd dans une audience saturée de clash entre people, de remarques sexistes et de considération sur le sex-appel des hommes et femmes de science. Cette fiction porte à son paroxysme le mécanisme entropique appliqué à l'information. On vous annonce que toute vie va disparaître, mais vous demandez sur Twitter si cette annonce est bien compatible avec votre style de vie. -->
 
-Après avoir décrit certaines formes d'entropie, notamment induites par le design des interfaces de réseaux sociaux, il nous faut nous demander ce que pourraient être les conduites visant à s'y opposer que nous pourrions transmettre aux étudiant.e.s qui nous sont confié.e.s.
+Après avoir mentionné les formes d'entropie induites par le design des interfaces de réseaux sociaux, il nous faut nous demander ce que pourraient être les conduites visant à s'y opposer que nous pourrions transmettre aux étudiant.e.s qui nous sont confié.e.s.
 Comment faire en sorte que nos interventions fassent la promotion de conduites néguentropiques ?
 Wikipédia pourrait être citée en exemple comme projet négentropique, en tant que ressource commune, protégée de la Tragédie des communs, par des règles simples mais interprétables par la communauté et une transmission de ces règles entre utilisateurs.
 
@@ -209,7 +235,10 @@ A l'occasion des premières manifestations contre le passe sanitaire, nous avons
 Ce type d'exercice est particulièrement utile pour comprendre comment est fait le web. Si la recherche en open source ouvre d'immenses perspectives quand il s'agit d'assembler des fragments pour reconstituer une histoire, ses techniques les plus utiles (qui relèvent autant du raisonnement que de la maîtrise technique) consistent à dater et à localiser par tout moyen adéquat (allant de la  recherche du code unix de la date le code-source jusqu'à la recherche d'éléments ayant une nature spatio-temporelle dans l'image)
 
 
+# Conclusion
 
+Présenter l'information "en pièces", telle qu'elle arrive à nos étudiants, telle qu'elle nous arrive sur Twitter ou Tiktok nous permet de parler de l'information et de sa dégradation accélérée par des plateformes dont le contenu et l'organisation nous échappe. 
+Cette manière de voir l'information permet d'ancrer le cours dans une situation réaliste, quotidienne et partagée. Nous y trouvons matière à dire que l'information ne se décrypte pas, comme on le dit souvent, elle se reconstruit. La recontextualisation (et la redocumentation de l'information) est un acte essentiel à l'acte de s'informer. Bien entendu, il faut vivre et décider, parfois dans le manque de consensus sur une décision, mais qui a conscience de l'aspect partiel de toute information qui lui parvient sera capable de revoir son jugement et de l'adapter aux nouvelles données. Quand un message tronqué semble donner un ordre de tir, il vaux mieux songer à réparer le câble radio plutôt qu'à armer les missiles.
 
 
 # proposition envoyée à l'ASTED :

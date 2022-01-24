@@ -17,7 +17,7 @@ Le féminisme est une lutte contre la société patriarcale qui exerce des viole
 
 # reconnaissance de la femme comme un corps-sujet
 
-Selon Camille Froidevaux-Mettrie, le féminisme ne saurait être une politique de rattrapage des inégalités de genre, il s'agit d'une révolution qui doit mettre fin définitivement au patriarcat en ajoutant aux libérations précédentes (droit de ne pas procréer et de vivre sa vie sexuelle librement), la liberté de se mouvoir dans l'espace sans plus être un corps-objet. 
+Selon Camille Froidevaux-Mettrie, le féminisme ne saurait être une politique de rattrapage des inégalités de genre, il s'agit d'une révolution qui doit mettre fin définitivement au [[patriarcat]] en ajoutant aux libérations précédentes (droit de ne pas procréer et de vivre sa vie sexuelle librement), la liberté de se mouvoir dans l'espace sans plus être un corps-objet. 
 
 Cette révolution passe par la reconnaissance d'une subjectivité incarnée (niée par une perspective féministe [[universalisme|universaliste]]). 
 Camille Froidevaux-Metterie s'inspire d'une perspective phénoménologique pour définir la condition féminine sous la forme d'expériences vécues et en rétablissant dans ces expériences la place qu'occupe le corps féminin. 
