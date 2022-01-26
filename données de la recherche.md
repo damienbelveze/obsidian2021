@@ -8,6 +8,12 @@ aliases: [research data, données de recherche, données de la recherche, donné
 ---
 
 
+# cycle de vie de la donnée
+
+- Gestion
+- Analyse
+- Diffusion
+- Archivage
 
 # Hétérogénéité des données de la recherche
 

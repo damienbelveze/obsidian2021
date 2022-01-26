@@ -70,7 +70,7 @@ Ce deuxième cas a permis d'accréditer le propos de FCH.
 toute la production de ce laboratoire a été revue à l'aune de ce type de trucage. 
 la chercheur auteur de cette publication publiait à un rythme de 5 articles par an ce qui est impossible dans ce domaine. 
 
-11 manipulations de ce type ont été découvertes + des plagiats
+11 manipulations de ce type ont été découvertes + des [[plagiat|plagiats]]
 
 ![](hergaux5.png)
 
@@ -91,7 +91,7 @@ Sur Pubpeer on peut aller voir ce qui est dit au sujet de Cao. Cao occupe pourta
 
 # méconduites
 
-FFP Fabrication, falsification, plagiat
+FFP Fabrication, falsification,[[plagiat]]
 La fraude majeure reste un faible pourcentage
 
 par contre la zone grise est très peuplée

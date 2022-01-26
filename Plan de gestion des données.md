@@ -5,8 +5,8 @@ author: Damien Belvèze
 date: 20210506
 link_citations: true
 aliases: [DMP, PGD, Plan de gestion de données, data management plan]
+tags: [données de la recherche]
 ---
-#données_recherche
 
 Document [[formaliser|formalisant]] la manière dont les [[données de la recherche|données de la recherche]] recueillies à la faveur d'un projet de recherche vont être décrites, conservées (traitées = curated), ([[Anonymat|anonymisation]]), diffusées ou protégées. 
 Depuis l'entrée en vigueur de [[Horizon2020]], les agences de financement, comme l'[[Agence Nationale pour la Recherche]] exige des chercheurs la fourniture de ce document 6 mois après la décision de financer le projet de recherche (et une version révisée à 24 mois)
@@ -14,6 +14,7 @@ Depuis l'entrée en vigueur de [[Horizon2020]], les agences de financement, comm
 > Les plans de gestion des données sont des éléments\-clé d'une bonne gestion des données. Un plan de gestion des données décrit le cycle de vie de la gestion des données qui seront recueillies, traitées et/ou générées \[...\].
 
 (H2020 Programme Guidelines on FAIR Data Management in Horizon 2020)
+
 
 Les PGD sont nés dans les communautés scientifiques. 
 Dès les années 70, la NASA donnait des standards pour décrire, classer et conserver des images satellites (rapport technique de 1973)
@@ -60,7 +61,12 @@ Une étude de 2020, montre que les données accessibles depuis la publication av
 
 # structure d'un plan de gestion de données
 
-document structuré en 6 parties
+## où trouver le template du document
+
+livrable demandé de manière fixe 6 mois après le début du projet et de manière variable en fin de parcours (date indiquée dans le premier document)
+possibilité de remplir les informations sur DMP Opidor et de télécharger le document
+
+## structure de base d'un DMP
 
 - Décrire le jeu de données
 - Documenter (fournir les info qui gravitent autour du jeu de données)
@@ -71,7 +77,60 @@ document structuré en 6 parties
 
 exemple de description de données, voir présentation de Cécile Arènes (DMP one tool with many applications[[@HuserDatamanagementplans2022]])
 
+## plan de gestion de données structuré pour une lecture artificielle
+
 Cette structure va légèrement changer. 
 Opidor : machine actionable DMP : export du PGD en Json (en complément de la version en ligne du plan de gestion)
 
+
+# Accompagner les chercheurs à la rédaction d'un PGD
+démystifier la création d'un DMP en mettant en pratique sa rédaction. 
+
+## ateliers de relecture de PGD
+
+(source: Café [Renatis](https://www.canal-u.tv/chaines/renatis/cfe-renatis-retours-d-experience-accompagner-a-la-redaction-de-pgd))
+
+relecture de plans publics.
+
+On ne peut pas demander à chaque chercheur d'apporter son plan ; partir sur une idée de relecture d'un PGD public sur Opidor. 
+Exemple avec le [Plan de gestion de données Atlas de Joseph Lamarange](https://dmp.opidor.fr/plans/3354/export.pdf)
+création sur cette base d'un faux DMP
+atelier de relecture de 2 heures (avec trois sous-groupes qui se répartissent le travail)
+
+Mise à disposition d'une grille de relecture de métadonnées. Cette grille détaille tous les contenus. cela permet aux apprenants de cocher au fur et à mesure la qualité des informations fournies. 
+
+chaque atelier réparti en 3 sous-groupes. Un animateur présent dans chaque sous-groupe. 
+période de restitution en fin d'atelier. 
+
+
+## formation en autoformation via Doranum
+
+[grille de relecture des PGD (modèle ANR)](https://doranum.fr/wp-content/uploads/Grille-relecture-PGD-Modele-ANR-V3.pdf)
+utiliser cette grille pour mettre en place des ateliers
+
+pouvoir accompagner les chercheurs sur des questions liées à des contenus spécifiques et pour lesquels ils ne vont pas trouver de réponses sur des modules d'auto-formation qui restent assez généraux.
+
+Faire ressentir que la rédaction d'un PGD n'est pas un acte adminstratif mais une pratique de chercheur/se
+
+## dispositifs de formation à destination des doctorants
+
+ - formations doctorales
+ - déplacements en labo
+ - formations lors d'événements sur les données de la recherche
+
+voir formation de l'université Toulouse Jaurès (formation en hybride, formation en présentiel à 6 et 24 mois + auto-formation sur Moodle)
+
+![](competences_PGD.png)
+
+en vue : parcours pour les porteurs de projet + parcours sensibilisation ouvert à l'ensemble des chercheurs de l'établissement.
+
+problème soulevé : données imprimées dans les thèses, dynamique lancée par le SCD pour résoudre ce problème. 
+Rencontre avec les informaticiens, le service valo, les juristes, l'archiviste, le DPO.
+Chaque corps de métier donne les formations qui le concerne. Tout ce qui est RGPD va être donné par le DPO, tout ce qui est légal par les juristes et tout ce qui est informatique par la DSI. Les facilitateurs et les coordinateurs sont les bibliothécaires.
+
+### jeux sérieux
+
+[GOpenDore](https://www.inist.fr/nos-actualites/jeu-gopendore-telechargement/)
+
+[Faut pas s'en FAIR](https://www.inist.fr/nos-actualites/faut-pas-sen-fair-sur-les-donnees-de-la-recherche/)
 

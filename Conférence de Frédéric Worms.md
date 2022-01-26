@@ -95,7 +95,7 @@ R: morale kantienne. Je dois commencer par les devoirs qui me lient à tout êtr
 Pour FW, les devoirs universels sont déduits de devoirs particuliers en relation avec des personnes particulières
 
 Q: y a t-il quelque chose de /situé/ dans la déontologie ?
-R. Le plagiat est largement reconnu comme un problème. La déontologie s'explicite progressivement dans tous les pays. Il n'y a pas de métier qui n'ait pas un corpus de règles universelles
+R. Le [[plagiat]] est largement reconnu comme un problème. La déontologie s'explicite progressivement dans tous les pays. Il n'y a pas de métier qui n'ait pas un corpus de règles universelles
 
 
 Q: avoir une déontologie personnelle cela peut avoir un sens ?

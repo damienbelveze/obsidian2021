@@ -116,8 +116,7 @@ formation. La difficulté qui attend le RIS c'est de qualifier ces
 pratiques en fonction de leur gravité et de leur intentionnalité
 
 Aux intervenants : quelles fraudes rencontrez vous le plus souvent ?
-Sylvie Hennion : c'est l'intentionnalité qui constitue le plus grave du
-plagiat Le fait de ne pas prendre les références dès le début : sloppy
+Sylvie Hennion : c'est l'intentionnalité qui constitue le plus grave du [[plagiat]] Le fait de ne pas prendre les références dès le début : sloppy
 note taking -> sloppy science usage de logiciels de détection de
 simillitudes
 

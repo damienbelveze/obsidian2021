@@ -17,7 +17,7 @@ je ne suis pas un scientifique pas un publiant.
 L'expérience dont je peux rendre compte est celle-ci : 
 
 - d'une part, je forme les étudiants à évaluer l'information (dont l'information scientifique) et je forme mes collègues bibliothécaires et professionnels de la documentation à faire de même
-- d'autre part, je participe à la formation des doctorants sur l'intégrité scientifique, un sujet dont Nathalie Théret, vous a déjà entretenu, particulièrement en rapport avec les publications (plagiat, accès aux données de la recherche)
+- d'autre part, je participe à la formation des doctorants sur l'intégrité scientifique, un sujet dont Nathalie Théret, vous a déjà entretenu, particulièrement en rapport avec les publications ([[plagiat]], accès aux données de la recherche)
 - l'expérience qui m'a le plus marqué ces derniers mois, comme pour la plupart est la difficulté de se positionner par rapport à la pandémie COVID-19. Actuellement, par exemple, je m'interroge beaucoup sur la nécessité ou la priorité (ou non) de faire vacciner mes enfants quand la chose sera proposée. 
 - Cette expérience concerne évidemment tout le monde, mais en ce qui me concerne, je l'analyse et la questionne en lien avec un corpus de lectures qui vont chercher du côté de la littérature scientifique sur la désinformation (psychologie sociale), du côté de la [[rhétorique]], du côté de la sociologie des croyances et du côté des sciences de l'information (comment les fausses informations et leurs correctifs voyagent sur le web). 
 

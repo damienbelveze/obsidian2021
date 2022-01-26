@@ -183,7 +183,7 @@ Si on veut lier sur un bloc plutôt qu'un header, remplacer le \# par un \^
 \[\^\1\] permet de créer une note de bas de page portant le numéro 1. Exemple: 
 première note de bas de page[^1]
 
-[^1]: cette note de bas de page peut être placée n'importe où, elle apparaîtra forcément à la fin du document.
+[^1]: cette note de bas de page peut être placée n'importe où, elle apparaîtra forcément à la fin du document. Attention : dans la note de bas de page, ne pas utiliser les deux points (:) après les crochets.
 
 ### transclusion
 

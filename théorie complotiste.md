@@ -15,7 +15,9 @@ Les caractéristiques du discours conspirationniste comporte les caractéristiqu
 
 - **un discours réducteur sur les causes** (la volonté occulte de quelques individus fait disparaître les contraintes liées aux structures sociales), une cause simple, une catégorie d'individus est responsable de tous les maux.
 
-- **un discours qui se prétend une alternative à une vérité officielle** (déconsidérée en tant qu'officielle)
+- **un discours qui se prétend une alternative à une vérité officielle** (déconsidérée en tant qu'officielle). En même temps la vérité officielle est tellement factive qu'il n'est pas difficile à une personne commune de découvrir la vérité sur Internet en faisant quelques recherches
+
+![](layperson.jpg)
 
 - **un discours qui présente un fort [[biais d'intentionnalité]]** et néglige la part de hasard ou d'enchaînements non maîtrisés ou qui dépassent les volontés des agents individuels (cf Lordon : "il y a bien un système mais pas d'ingénieur-système ([source](https://www.youtube.com/watch?v=xDjKjxQpsuo))")
 

@@ -28,6 +28,15 @@ Les auteurs de l'enquête concluaient pour leurs commanditaires par ces mots :
 
 >L’exploitation des enregistrements de vidéoprotection constitue une ressource de preuves et d’indices peu rentable pour les enquêteurs.
 
+Cette étude montre qu'au mieux, une enquête sur 20 est résolue en partie à l'aide d'une caméra de surveillance. 
+Loin des fantasmes propagés dans la population par des politiques en quête de visibilité, la vidéosurveillance est peu rentable pour élucider des affaires parce qu'elle mobilise trop de personnel sur un temps trop long. 
+
+>« Pour une grande commune de 200 000 habitants, ça serait des dizaines de milliers de caméras, ça n’est pas envisageable dans le cadre des finances publiques. Et même si cet argent est débloqué, il faut exploiter ces flux vidéos.
+
+>Imaginons 50 caméras à exploiter dans une zone, sur une plage horaire d’une heure autour du moment d’une infraction. C’est 50 heures de visionnage pour une affaire de cambriolage par exemple. C’est difficilement envisageable pour un gendarme quand il a plusieurs enquêtes à traiter en simultané. »
+
+(source : Jean-Marc Manach )
+
 Leur contribution à l'élucidation des enquêtes serait quasiment nulle, d'après ces auteurs (de l'ordre de 3,5% sur le nombre total de réquisitions d'images, d'après Laurent Mucchielli [[@GuillaudVideosurveillanceparadigmetechnosolutionnisme2018]]).
 
 
