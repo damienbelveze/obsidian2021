@@ -6,24 +6,10 @@
       {
         "id": "906b68b726128f3c",
         "type": "leaf",
-        "dimension": 58.3086053412463,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Article ASTED.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "cf6c66b801cbbeff",
-        "type": "leaf",
-        "dimension": 41.691394658753694,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "entropie informationnelle.md",
             "mode": "source",
             "source": true
           }
@@ -46,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:entropi",
+                "query": "brandolini",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,14 +160,14 @@
   "active": "906b68b726128f3c",
   "lastOpenFiles": [
     "Article ASTED.md",
+    "Loi de Brandolini.md",
+    "documenteur.md",
+    "Plan de gestion des données.md",
     "entropie informationnelle.md",
     "Mode d'emploi d'Obsidian.md",
     "théorie complotiste.md",
     "Stockage des données de la recherche.md",
     "données de la recherche.md",
-    "Plan de gestion des données.md",
-    "plagiat.md",
-    "Cours médiation scientifique.md",
-    "Conference de Henri Atlan.md"
+    "plagiat.md"
   ]
 }

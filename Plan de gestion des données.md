@@ -19,6 +19,9 @@ Depuis l'entrée en vigueur de [[Horizon2020]], les agences de financement, comm
 Les PGD sont nés dans les communautés scientifiques. 
 Dès les années 70, la NASA donnait des standards pour décrire, classer et conserver des images satellites (rapport technique de 1973)
 Aspect patrimonial : ces données coûtent très cher à produire et étaient volumineuses à conserver. 
+Aujourd'hui en France, le Plan de Gestion des Données est une étape nécessaire à tout projet de recherche comme l'indique le décret 2021-1572 (3 décembre[[@Decret20211572decembre2021]]) : 
+
+> Les établissements publics et fondations reconnues d'utilité publique mentionnés au troisième alinéa de l'article L. 211-2 du code de la recherche définissent une politique de conservation, de communication et de réutilisation des résultats bruts des travaux scientifiques menés en son sein. A cet effet, ils veillent à la mise en œuvre par leur personnel de plans de gestion de données et contribue aux infrastructures qui permettent la conservation, la communication et la réutilisation des données et des codes sources.
 
 # Quelques chiffres sur les plans de gestion des données. 
 
