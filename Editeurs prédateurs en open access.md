@@ -36,9 +36,18 @@ intérêt des gros éditeurs à élever le niveau de qualité d'un journal pour 
 
 # Les conséquences de cette prédation
 
-Conséquences pour le chercheur
-Conséquences pour les journaux qui exercent un vrai travail de peer reviewing
-Conséquences pour le public (perte de crédibilité de la science)
+## Conséquences pour le chercheur
+Les éditeurs prédateurs font signer des clauses du type cc-by (creative commons). Le droit d'auteur français prévoit un droit de rétractation inaliénable, quelque soit le type de convention sous laquelle on publie. Le droit français en théorie s'impose mais l'éditeur est susceptible de ne pas le reconnaître et peut considérer que le droit qui prévaut est celui de son contrat (CC:by)
+
+>Votre chercheur a accepté d'attribuer une licence "CC BY" sur sa publication qui est une licence considérée comme définitive et qui permet une exploitation commerciale de son article. Cependant, le droit français considère qu'on ne peut pas céder ses droits moraux, parmi lesquels le droit au repentir. La loi est supérieure à une licence mais le problème est que ce sera difficile à faire accepter par la revue, qui elle-même est localisée au Royaume-Uni et dépend donc d'un droit de copyright qui ne prévoit pas le repentir.
+
+>Bref, si la revue fait preuve de mauvaise volonté, ce sera difficile de retirer l'article
+
+[[@HannounPartageMailsediteurs2022]]
+
+## Conséquences pour les journaux qui exercent un vrai travail de peer reviewing
+
+## Conséquences pour le public (perte de crédibilité de la science)
 
 # Quelles questions on peut se poser pour déterminer si un éditeur est un éditeur prédateur.
 

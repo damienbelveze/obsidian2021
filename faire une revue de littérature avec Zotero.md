@@ -51,7 +51,7 @@ Pour l'export d'un fichier RIS, procéder ainsi dans Pubmed
 
 Comme pour quelques autres bases, il n'y a pas d'import possible dans Zotero au moyen du connecteur depuis la Cochrane Library. Il est nécessaire de faire un export en RIS pour importer la collection dans ce format dans Zotero. 
 
-L'export sous forme de fichier RIS ou bibtex risque de générer des tags indésirables dans les étapes suivantes. 
+L'export sous forme de fichier RIS ou [[bibtex]] risque de générer des tags indésirables dans les étapes suivantes. 
 Il faut supprimer ces tags au moyen du script [[Python]] suivant : 
 
 ```python
@@ -111,6 +111,14 @@ Créateur ne contient pas %
 
 Ajouter les noms là où ils manquent. 
 Pour repérer les dates manquantes, voir [cette discussion](https://forums.zotero.org/discussion/comment/353243/)
+La démarche consiste à sauvegarder la recherche suivante (appelons-la **last1000**) : 
+
+Collection is \[nom de  la collection\] AND date is in the last 1000 years
+
+Puis à exclure les résultats de cette recherche dans l'ensemble de la collection
+
+Collection is \[nom de  la collection\]  AND collection *is not* **last1000**
+
 
 # se fixer des critères d'exclusion
 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "906b68b726128f3c",
+        "id": "c5dd7ec133d4dfe2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Article ASTED.md",
+            "file": "Mode d'emploi d'Obsidian.md",
             "mode": "source",
             "source": true
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brandolini",
+                "query": "file:mode d'emploi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240
+    "width": 194.00680351257324
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Article ASTED.md",
+                "file": "Mode d'emploi d'Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Article ASTED.md"
+                "file": "Mode d'emploi d'Obsidian.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Article ASTED.md",
+                "file": "Mode d'emploi d'Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,24 +150,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 348.7356872558594,
+    "width": 100,
     "collapsed": true
   },
-  "active": "906b68b726128f3c",
+  "active": "c5dd7ec133d4dfe2",
   "lastOpenFiles": [
-    "Article ASTED.md",
-    "Loi de Brandolini.md",
-    "documenteur.md",
-    "Plan de gestion des données.md",
-    "entropie informationnelle.md",
     "Mode d'emploi d'Obsidian.md",
-    "théorie complotiste.md",
-    "Stockage des données de la recherche.md",
-    "données de la recherche.md",
-    "plagiat.md"
+    "Spécificité vs sensibilité.md",
+    "testez vos connaissances en information scientifique et technique.md",
+    "blockchain.md",
+    "NFT.md",
+    "chaîne de blocs.md",
+    "bitcoin.md",
+    "Astroturfing.md",
+    "LaTeX.md",
+    "bibtex.md"
   ]
 }

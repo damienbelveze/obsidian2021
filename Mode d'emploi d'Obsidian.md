@@ -17,6 +17,8 @@ aliases: [Obsidian, obsidian]
 
 ![[tweet_schaller.png|{width=50%}]]
 
+Obsidian n'est pas vraiment un second cerveau (cette phrase marketing [n'a guère de sens appliquée à une application](https://www.obsidianroundup.org/ite-not-second-brain/)), mais il nous fournit un excellent environnement de travail.
+
 ## 1.1 avantages
 
 Obsidian présente les avantages de la nouvelle génération d'outils de PKM (personal knowledge management / Gestion personnelle des connaissances)

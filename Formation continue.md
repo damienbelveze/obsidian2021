@@ -18,7 +18,7 @@ Si le CPF permet à chaque salarié de disposer de crédits de formation, elle p
 
 L'accent est mis sur la pédagogie par le faire et les nouvelles technologies. A ce titre, les [[fablabs]] sont utilisés, par convention avec la puissance publique, pour permettre à des salariés ou des artisans de se former à la programmation de machines. Les lieux où [[hackers]] et [[makers]] se retrouvent sont aussi des lieux d'échange de savoir-faires et des lieux de formation.
 
-L'acquisition de compétences dans le domaine numérique se fait par l'acquisition d'[[open badges]] par analogie avec le passage de différents niveaux dans les [[jeux vidéos]]. On voit ce système d'open badges arriver également dans les universités. Cela requiert cependant que ces badges soient reconnus dans le parcours professionnel, ce qui à ce jour est encore loin d'être le cas. 
+L'acquisition de compétences dans le domaine numérique se fait par l'acquisition d'[[open badges]] par analogie avec le passage de différents niveaux dans les [[jeux vidéo]]. On voit ce système d'open badges arriver également dans les universités. Cela requiert cependant que ces badges soient reconnus dans le parcours professionnel, ce qui à ce jour est encore loin d'être le cas. 
 
 Source : [[@Bureaumetamorphosesformationprofessionnelle2021]]
 

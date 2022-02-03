@@ -73,9 +73,10 @@
   "obsidian-mind-map:app:markmap-preview": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "Tab"
+      "key": "C"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -274,6 +275,22 @@
         "Shift"
       ],
       "key": "'"
+    }
+  ],
+  "obsidian-excalidraw-plugin:toggle-excalidraw-view": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "CapsLock"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-insert-transclusion": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Insert"
     }
   ]
 }

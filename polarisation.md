@@ -10,6 +10,15 @@ aliases: []
 tags: []
 ---
 
+# pôles et orientations politiques
+![](politiscales.png)
+[score]( https://politiscales.fr/results?bTE9NyZtMD04OCZwMD03OSZzMT01JnMwPTgzJmZlbWk9OTUmajA9NzQmYjA9NjAmYjE9MTImZTE9NyZlMD02NyZjMT01JmMwPTkwJnQwPTU3JnQxPTE3
+)
+source : Politiscales, voir article de Libération sur le sujet ci-dessous :
+![[politiscales.pdf]]
+
+# polarisation des débats et des modes de vie
+
 extrémisation des opinions dans une population donnée. 
 Aux USA, elle est mesurée avec la question : 
 
