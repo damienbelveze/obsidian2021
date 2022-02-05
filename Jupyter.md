@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Jupyter notebooks]
-tags: [méthode scientifique]
+tags: [méthode scientifique, programmation]
 ---
 
 Voir  la présentation d'Aurélien Tabart sur les [[cahiers numériques]]

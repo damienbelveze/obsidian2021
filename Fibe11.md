@@ -186,7 +186,7 @@ Les marchands du doute (Conway, Oreskes). Agnotologie.
 
 2ème cas : désinformation d'origine économique (fabricants de l'ignorance, agnotologie)
 
-Il n'y a pas la science d'un côté et les document populaires (vulgarisation de l'autre), il y a des méthodes scientifiques instituées pour minimiser les biais des chercheurs (la première étant le peer review)
+Il n'y a pas la science d'un côté et les document populaires (vulgarisation de l'autre), il y a des méthodes scientifiques instituées pour minimiser les biais des chercheurs (la première étant le [[Révision par les pairs|peer review]])
 On peut aussi parler de la sélection des données.
 Montrez-moi que l'économie du pays se porte beaucoup mieux avec des Républicains à sa tête :
 

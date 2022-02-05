@@ -1,9 +1,10 @@
 ---
-title: Pourquoi et comment utiliser Obsidian pour ma thèse ?
+title: Mode d{\'}emploi d{\'}Obsidian
 subtitle: "Projet de formation doctorale"
 author: Damien Belvèze
 date: 04/06/2021
 link_citations: true
+graphics: true
 bibliography: biblio/mylibrary.bib
 biblio_style: csl/ieee.csl
 toc: true
@@ -87,6 +88,14 @@ Afin de synchroniser ses fichiers avec ceux que contient son ordinateur,
 Obsidian offre une interface agréable à l'utilisateur. On peut comme dans Emacs ouvrir plusieurs buffers (fenêtres en même temps) et les organiser. 
 Certaines curiosités existent pourtant qui peuvent être déroutantes pour un débutant. Par exemple pour zoomer et dézoomer sur une note (sur Windows, Ctrl+ permet de zoomer, c'est classique, Ctrl 0 permet de revenir à la taille par défaut)
 
+## Les fichiers se trouvent par défaut sur sa machine
+
+Sous Windows, les fichiers de l'application se trouvent sous AppData
+(pour accéder à Appdata, afficher les fichiers masqués depuis l'explorateur Windows)
+
+Chaque coffre-fort peut-être hébergé à part. Les coffres se trouvent au même en droit que les plugins (là où on décide de les mettre : cela peut être le disque principal de l'utilisateur, une clé USB ou bien un serveur distant)
+
+Toutes les notes qu'on écrit se trouvent à l'endroit que l'on détermine et on garde la pleine maîtrise de ces notes.
 
 # 2. La méthode de prise de notes Zettelkasten
 
@@ -110,7 +119,7 @@ Si on configure un titre dans le pavé Yaml, celui-ci apparaîtra comme titre du
 | \#\#\# titre 3 | titre de niveau 3 | \<h3\> |
 | \#\#\#\# titre 4 | titre de niveau 4 | \<h4\> |
 
-## 3.3 tableaux et indentation
+## 3.3 tableaux, indentation, épigraphes
 
 
 ### éditer un tableau
@@ -149,6 +158,8 @@ Le *pipe* (\|) qui sert à faire des tableaux peut aussi permettre de prendre en
 |                  jusqu'à moi
 
 |                         (Adonis, *Ismaël*)
+
+
 
 
 ## 3.3 caractères
@@ -226,8 +237,17 @@ On peut aussi définir ces tags dans le pavé YAML (voir plus bas), ce qui a l'a
 Le markdown est une syntaxe très simple à apprendre et très versatile. Toutefois, ce n'est pas une syntaxe universelle. Pour éditer certains contenus, vous aurez besoin de faire appel à d'autres langages à l'intérieur de votre texte en markdown, notamment le Html ou le LaTeX (si vous avez téléchargé un éditeur LaTeX vous pourrez constater que le LaTeX et le Markdown font plutôt bon ménage dans Obsidian)
 
 ### utilisation du LaTeX
+Obsidian n'est pas un éditeur en LaTeX et ne se substitue pas à ce genre d'éditeur. 
+Toutefois, il est possible de rédiger des formules mathématiques et chimiques directement dans Obsidian, comme on le ferait dans un document en LaTeX, grâce à la bibliothèque Mathjax qui a été intégrée aux dernières versions d'Obsidian. 
 
-On peut encapsuler du LaTeX entre deux **\$**
+#### formules mathématiques
+
+Le package mathjax a été chargé dans le code d'Obsidian [en septembre 2021](https://forum.obsidian.md/t/support-for-additional-latex-packages/878/7). Ce package permet d'utiliser les fonctionnalités de la bibliothèque mathjax sur un document en markdown. Parmi ces fonctionnalités, on trouve également la [syntaxe de base du mhchem](https://mhchem.github.io/MathJax-mhchem/) pour les formules chimiques.  
+Une version étendue de mathjax est disponible [sous la forme d'un plugin](https://github.com/xldenis/obsidian-latex)
+
+Grâce à cela on peut encapsuler des équations lisibles en LaTeX en les encadrant par le signe **\$**
+
+$\pi$ s'écrit ainsi \$\pi\$
 
 \$67\\sqrt{\\prod_{67}^{4}}\\Rightarrow \\mathrm{C}_{56}^{'}\$
 
@@ -235,7 +255,27 @@ donne :
 
 $67\sqrt{\prod_{67}^{4}}\Rightarrow \mathrm{C}_{56}^{'}$
 
-Cette formule ne correspond à rien, elle a été créée à partir d'un [éditeur de formules en LaTeX](https://latexeditor.lagrida.com/) disponible en ligne
+Cette formule ne correspond à rien, elle a été créée à partir d'un [éditeur de formules en LaTeX](https://latexeditor.lagrida.com/) disponible en ligne. 
+
+Pour centrer l'équation (au lieu de l'insérer dans le texte, redoubler le $)
+
+\$\$67\\sqrt{\\prod_{67}^{4}}\\Rightarrow \\mathrm{C}_{56}^{'}\$\$
+
+donne : 
+
+$$67\sqrt{\prod_{67}^{4}}\Rightarrow \mathrm{C}_{56}^{'}$$
+
+Par rapport à la taille de défaut, les caractères présents dans ces formules issues de MathJax ont une taille augmentée. Cela a été réglé en ajoutant une instruction concernant tous les caractères édités avec MathJax dans le CSS de base ( pour les questions relatives au CSS, [[Mode d'emploi d'Obsidian#9 changer le CSS|voir plus bas]])
+Voici ce qui a été ajouté en l'occurrence :
+
+``````css
+.MJX-TEX {
+   font-size: 180%;
+}
+
+``````
+
+[source](https://www.reddit.com/r/ObsidianMD/comments/l4qdga/comprehensive_overview_latex_mathjax_equation_in/?utm_source=share&utm_medium=web2x&context=3)
 
 Utiliser LaTeX pour réaliser les exposants : 
 
@@ -247,11 +287,54 @@ donne :
 - le mebioctet ou Mi parfois écrit Mio correspond à $2^{20}$ octets 
 - le gibioctets ou Gi parfois écrit Gio correspond à   $2^{30}$ octets
 
+#### formules chimiques
+
+La formule de l'eau peut-être notée de la manière suivante : \$\ce\{H2O}\$ cela donne $\ce{H2O}$
+
+Etat d'oxidation :  \$\ce{Fe^{II}Fe^{III}2O4}\$ donne : $\ce{Fe^{II}Fe^{III}2O4}$
+
+([source](https://mhchem.github.io/MathJax-mhchem/))
+
+#### Mise en page
+
+Le markdown ne donne pas vraiment de solution lorsqu'on veut mettre deux images en regard (on ne peut pas encapsuler ces images dans un tableau). On est obligé pour réaliser cela de recourir au package graphicx de LaTeX. 
+
+\begin{figure}
+\begin{minipage}[t]{.4\linewidth}
+    \begin{center}
+       \includegraphics[width=6cm]{drake1.png}
+       \caption{pyramide ideale}
+    \end{center}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{.4\linewidth}
+    \begin{center}
+       \includegraphics[width=6cm]{drake2.png}
+       \caption{pyramide effective}
+    \end{center}
+\end{minipage}
+\end{figure}
+
 
 ### utilisation du HTML
 
 Lorsqu'on copie-colle du html dans Obsdian, généralement ce html est copié avec des balises supplémentaires (\`\`). 
 Pour copier-coller du HTML qui fonctionne correctement, préférer Ctrl+shift+V à Ctrl+V
+
+### faire un épigraphe
+
+Cela fonctionne en vue d'une conversion avec [[Mode d'emploi d'Obsidian#10 2 Directement avec Pandoc|pandoc]]
+
+### créer un épigraphe
+
+``````html
+<div class='epigraph'>
+
+*"All human things are subject to decay, and when fate summons, Monarchs
+must obey."* --- John Dryden.
+
+</div>
+``````
 
 #### pour faire des tableaux avec des colonnes ou des lignes fusionnées
 

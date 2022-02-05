@@ -45,25 +45,45 @@ Tous les marqueurs hérités de l'import de références dans Zotero (mots-clé 
 La première méthode pour extraire des références de Pubmed est d'utiliser le connecteur de Zotero. Il faut savoir que ce connecteur ne va conserver que les résultats qui s'affichent sur la première page de résultats. Mais celle-ci peut contenir jusqu'à 200 références. Si notre nombre de références à exporter excède ce nombre, on peut envisager la deuxième solution et faire un export des références en format RIS.
 
 Pour l'export d'un fichier RIS, procéder ainsi dans Pubmed
+
+Au dessus de la liste des résultats, cliquer sur *Send to* et sélectionner *Citation manager*
+
 ![sauvegarde d'un fichier de références obtenu dans Pubmed](pubmed_cite.png)
 
 ## import d'un fichier RIS
 
 Comme pour quelques autres bases, il n'y a pas d'import possible dans Zotero au moyen du connecteur depuis la Cochrane Library. Il est nécessaire de faire un export en RIS pour importer la collection dans ce format dans Zotero. 
 
-L'export sous forme de fichier RIS ou [[bibtex]] risque de générer des tags indésirables dans les étapes suivantes. 
-Il faut supprimer ces tags au moyen du script [[Python]] suivant : 
+Comme pour quelques autres bases, il n’y a pas d’import possible dans Zotero au moyen du connecteur depuis la Cochrane Library. Il est nécessaire de faire un export en RIS pour importer la collection dans ce format dans Zotero.
+
+L’export sous forme de fichier RIS ou bibtex risque de générer des tags indésirables dans les étapes suivantes.
+
+Ces tags ou descripteurs seront précédés dans les fichiers exportés par l'étiquette KW (pour Key words). Si on les laisse dans le fichier d'import, Zotero va générer les marqueurs correspondant ce qui va "polluer" la liste close des marqueurs procéduraux que nous avons décidé d'utiliser.
+
+Il faut donc supprimer ces lignes de manière automatisée. On propose ici deux manières de faire cette opération :
+
+### Avec Python
+
+Python est un langage de programmation très utile. Le programme qui permet de l'utiliser est fourni par défaut dans les distributions de Linux. Il faut en revanche installer ce programme sur Windows à partir de ce site.
+
+Si Python est installé sur votre machine, dans votre bloc-notes, copiez-collez les lignes suivantes en remplaçant input.txt par le nom de votre fichier de références exporté de la base.
 
 ```python
 
 with open('input.txt', 'r') as inp, open('output.txt', 'w') as out:
     for line in inp:
-        if '2021–07-13' not in line:
+        if 'KW  -' not in line:
             out.write(line)
 ```
-ou bien, comme en utilisant la fonction recherche par expression régulière dans un éditeur de texte (par exemple Notepad++) 
 
-Dans Notepad++
+sauvegardez ce fichier avec l'extension py (par exemple script.py) dans le même répertoire que l'endroit où vous avez téléchargé le fichier d'exporté. double-cliquez sur l'icone du fichier py. cela devrait générer un fichier de sortie output.txt que vous allez pouvoir importer dans Zotero car il contient les mêmes données que le fichier source à l'exception des lignes comportant "KW   -" qui ont été supprimées.
+
+(voir également [[Python#supprimer des lignes qui contiennent une suite de caractères]])
+
+### Avec  Notepad++
+
+...en utilisant la fonction recherche par expression régulière dans cet éditeur de texte qu'est Notepad++ 
+
 -ouvrez le fichier RIS / les lignes à supprimer comportent KW (=keywords). Ce sont ces lignes qui dans Zotero génèrent des marqueurs indésirables dans notre cas. 
 - menu rechercher > marquer > marquer les lignes. texte à entrer KW suivi de deux espaces (pour ne pas marquer les noms d'auteur qui commmencent par KW comme dans le document ci-dessous, ligne 12)
 

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Levenshtein, Levenshtein distance]
-tags: [Python]
+tags: [Python, programmation]
 ---
 
 calcul de la distance (en nombre d'éditions) entre deux chaînes de caractère. 

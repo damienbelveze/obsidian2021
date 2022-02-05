@@ -55,6 +55,12 @@ Quant à la quantification du phénomène sur les réseaux sociaux, les grands c
 
 (Dominique Cardon [[@CardonPourquoiavonsnoussi2019]])
 
+L'égalitarisme de façade des réseaux sociaux (ce sont surtout les personnes les plus mobilisées sur le plan politique qui y sont actives) et l'effet de masse que l'on ressent quand on y passe du temps survalorise, aux yeux de la presse, la pregnance de certaines opinions et de certains messages de désinformation : 
+
+>Alimentée par les métriques qui de toute part quantifient les centaines de reprises d’un tweet, les milliers de vues d’une vidéo YouTube, combinée avec l’égalitarisme apparent de plateformes où chacun est libre de s’exprimer, cette impression conduit de nombreux journalistes et commentateurs médiatiques à traiter l’espace public numérique comme une vue aérienne du corps social français, quand il n’en est en réalité qu’un zoom particulièrement spécifique. C’est ce qui rend délicate toute prédiction électorale basée sur l’expression en ligne 
+
+pour autant, bcp de rédactions se servent des *trending topics* sur Twitter (désinformation comprise) pour prioriser les informations qu'ils vont servir à leur public
+
 Si en nombre de visites, l'augmentation de l'audience des sites de désinformation a augmenté, c'est le cas aussi des sites web qui diffusent de l'information fiable. Par ailleurs l'étude de Grinberg, Joseph et Friedland montrent que 1% seulement des comptes Twitter ont été exposés pendant la campagne présidentielle américaine de 2016 à 80% des tweets publiés et pouvant être classés comme complotistes[[@GrinbergFakenewsTwitter2019]].  
 
 # Répéter n'est pas croire
@@ -71,7 +77,7 @@ A ce titre elles attirent même lorsqu'elles n'entraînent pas la conviction. On
 
 Les analystes des fausses théories contribuent d'ailleurs à les faire proliférer sur le web en les mentionnant seulement. Cela ne veut pas dire que ces théories gagnent de nouveaux adeptes, juste qu'il en est davantage question. Il n'est pas rare d'apprendre à un public donné l'existence d'une théorie conspirationniste comme les chemtrails et de renforcer ainsi sa visibilité sur les réseaux sociaux (voir travaux de Sylvain Delouvée à ce sujet) De même qu'on peut adhérer à une théorie conspirationniste sans la transmettre, de même on peut la transmettre sans y adhérer. 
 
-Le web n'est pas pour la plupart des gens d'abord un lieu où on s'informe, mais plutôt un outil avec lequel on se divertit. Le mix, mashup, [[memes]] à partir de ces théories fait partie de la créativité qu'on voit à l'oeuvre sur les réseaux. 
+Le web n'est pas pour la plupart des gens d'abord un lieu où on s'informe, mais plutôt un outil avec lequel on se divertit. Le mix, mashup, [[mèmes]] à partir de ces théories fait partie de la créativité qu'on voit à l'oeuvre sur les réseaux. 
 
 Répéter n'est donc pas forcément croire. 
 
@@ -124,6 +130,8 @@ le discours conspirationniste se présente comme un discours non-officiel par ra
 Pour Eric Sadin, la théorie du complot est une manière de se réapproprier un contrôle sur le monde fût-ce au moyen de théories simplistes et sans rapport avec la réalité : 
 
 > l'essor du complotisme, comme la sensation, illusoire, de reprendre les rênes de sa vie via des récits extravagants. 
+
+En butte à une accusation de conspirer contre les Etats-Unis pendant la guerre du Viet-Nam, Andy Warhol rappelait que l'étymologie du mot *conspiracy* était *cum-spirare* : respirer ensemble. D'après Peter Szendy, dans la Rome de Cicéron, le verbe conspirare pouvait aussi bien qualifier une aspiration générale (en l'occurrence à une libération collective) qu'une tentative de sédition. L'individu conspirationniste prétend agir pour libérer le collectif, même s'il commence par se désolidariser de collectif[[@SzendyPneumatopolitiqueceque2022]].
 
 # Références
 

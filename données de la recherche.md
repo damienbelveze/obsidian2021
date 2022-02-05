@@ -1,12 +1,18 @@
 ---
 title: Données de la recherche
+
 subtitle:
+graphics: yes
 author: Damien Belvèze
 date: 20210505
 link_citations: true
 aliases: [research data, données de recherche, données de la recherche, données issues de la recherche]
+tags: [données de recherche]
 ---
 
+<!-- header-includes : |
+   \usepackage{graphicx}
+-->
 
 # cycle de vie de la donnée
 
@@ -19,7 +25,7 @@ aliases: [research data, données de recherche, données de la recherche, donné
 
 toute donnée récoltée dans le cadre d'un projet de recherche. Définition de l'OCDE de 2007 ([[@Rebouillatpartagedonneesvu2021]]) :
 
-> _enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider des résultats de recherche_
+> enregistrements factuels (chiffres, textes, images et sons), qui sont utilisés comme sources principales pour la recherche scientifique et sont généralement reconnus par la communauté scientifique comme nécessaires pour valider des résultats de recherche
 
 ce terme exclue dont les [[cahiers numériques|carnets de laboratoire]], les analyses préliminaires, les [[preprint|preprints]], les working papers, les objets matériels pouvant être échangés entre collègues.
 
@@ -29,6 +35,13 @@ distinctions possibles entre les types de données :
 -  degré d'affinage (données brutes > données dérivées)
 -  données sources / données produites (Schöpfel)
 
+autre distinction, par type de collecte : 
+
+- données issues de l'observation
+- données issues de l'expérimentation
+- données issues d'une simulation
+- données issues d'une dérivation ou d'une compilation (cf. [[Fouille de texte]])
+
 Les données n'existent que par rapport à un contexte (notamment disciplinaire mais aussi en fonction d'un projet de recherche) et prennent sens en fonction de ce contexte ([[@Rebouillatpartagedonneesvu2021]])
 
 > Leonelli (2015), philosophe des sciences et spécialiste des données de la recherche, écrit qu’il n’existe pas de données en elles-mêmes. Elles ne sont pas définies selon leurs propriétés intrinsèques mais selon leur fonction au sein de processus de recherche particuliers. Leonelli propose ainsi de considérer les données comme des produits de la recherche collectés, enregistrés et diffusés dans la perspective d’être utilisés ensuite comme preuve d’une théorie scientifique au sujet d’un phénomène particulier
@@ -37,7 +50,7 @@ Les sciences de l'information ont la particularité de comprendre dans leur réf
 
 Les données de la recherche s'inscrivent dans la catégorie plus large des inscriptions ([[Bruno Latour]]) : objets intermédiaires des savoirs produits en amont de la publication.
 
-![](images/data_narrative.jpg)
+![](data_narrative.jpg)
 
 ## nettoyage des données
 
@@ -45,6 +58,26 @@ moins on maîtrise l'origine des données, et plus il faut passer du temps à le
 Nécessité de faire une vérification initiale des données pour ne pas se tromper de fichier ou de filtre.
 
 prendre en compte les limites des données, avant de les exploiter. 
+
+
+\begin{figure}
+\begin{minipage}[t]{.4\linewidth}
+    \begin{center}
+       \includegraphics[width=6cm]{data_pyramid1.png}
+       \caption{pyramide ideale}
+    \end{center}
+\end{minipage}
+\hfill
+\begin{minipage}[t]{.4\linewidth}
+    \begin{center}
+       \includegraphics[width=6cm]{data_pyramid2.png}
+       \caption{pyramide effective}
+    \end{center}
+\end{minipage}
+\end{figure}
+
+
+
 
 # Partage et valeur des données
 

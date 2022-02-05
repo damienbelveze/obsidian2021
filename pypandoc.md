@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Pandoc with Python, Pandoc avec Python]
-tags: [Python]
+tags: [Python, programmation]
 ---
 
 # installation

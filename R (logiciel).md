@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 20210208
 link_citations: true
 aliases: [R]
-tag: edition scientifique
+tags: [edition scientifique, programmation]
 ---
 
 # Philosophie du logiciel R

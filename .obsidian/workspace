@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
+            "file": "Git.md",
             "mode": "source",
             "source": true
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mode d'emploi",
+                "query": "file:git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 194.00680351257324
+    "width": 193.00385665893555
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mode d'emploi d'Obsidian.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mode d'emploi d'Obsidian.md"
+                "file": "Git.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode d'emploi d'Obsidian.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "c5dd7ec133d4dfe2",
   "lastOpenFiles": [
+    "Git.md",
+    "markdown.md",
+    "Markdown comme syntaxe universelle.md",
     "Mode d'emploi d'Obsidian.md",
-    "Spécificité vs sensibilité.md",
-    "testez vos connaissances en information scientifique et technique.md",
-    "blockchain.md",
-    "NFT.md",
-    "chaîne de blocs.md",
-    "bitcoin.md",
-    "Astroturfing.md",
-    "LaTeX.md",
-    "bibtex.md"
+    "Aligner des figures.md",
+    "données de la recherche.md",
+    "Obsidian to LaTeX.md",
+    "CSquotes.md",
+    "études cliniques.md",
+    "autorité.md"
   ]
 }

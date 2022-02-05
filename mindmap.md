@@ -8,7 +8,7 @@ M## tweet Nolan : le NIH recommande l'ivermectine
 
 ### le tweet ne fait pas référence au  site du Ministère mais à un article de Pubmed
 
-### il est recensé dans la base Pubmed en même temps que toutes les autres études cliniques sur l'ivermectine qui paraissent
+### il est recensé dans la base Pubmed en même temps que toutes les autres [[études cliniques|RCT]]  sur l'ivermectine qui paraissent
 
 #### Dans Pubmed, on peu trouver d'autres études cliniques qui disent le contraire
 

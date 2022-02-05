@@ -5,12 +5,12 @@
   "obsidian-citation-plugin",
   "cycle-through-panes",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-export-to-tex",
   "obsidian-mind-map",
   "nldates-obsidian",
   "obsidian-plugin-todo",
   "obsidian-pandoc",
   "obsidian-extract-pdf-highlights",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-environments"
 ]

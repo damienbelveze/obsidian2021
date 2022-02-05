@@ -39,7 +39,7 @@ L'éthique peut se discuter, mais l'intégrité scientifique ne se discute pas o
 
 ![slide2](hergaux2.png)
 
-En Chine, 107 articles ont été retirés par Springer tout simplement parce qu'on a demandé aux auteurs de fournir les adresses mails de leurs reviewers et ces adresses mails fournies étaient en fait celle des auteurs[[@GongFakepeerreview2017]]. 
+En Chine, 107 articles ont été retirés par Springer tout simplement parce qu'on a demandé aux auteurs de fournir les adresses mails de leurs [[Révision par les pairs|reviewers]] et ces adresses mails fournies étaient en fait celle des auteurs[[@GongFakepeerreview2017]]. 
 
 # exemples de fraudes scientifiques
 un papier sur la ferroportin et la ceruloplasmin

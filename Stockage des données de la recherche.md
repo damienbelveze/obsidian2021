@@ -36,5 +36,8 @@ code informatique : HAL (envoi du document vers Sotware heritage). Depuis 2018, 
 | Sciences Humaines | Nakala |
 | Mathématiques | pas d'entrepôt, voir avec le [groupe RNBM](https://www.rnbm.org/category/le-reseau/groupes-de-travail/donnees-maths/) |
 | environnement rennais | [Osuris](https://accueil.osuris.fr/) |
+| Sciences de la terre | [data terra](https://www.data-terra.org/) |
+| Sciences de la mer | [data ifremer](https://data.ifremer.fr/) |
+
 
 

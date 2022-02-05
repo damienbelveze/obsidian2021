@@ -1,6 +1,6 @@
 ---
 title: La markdown comme syntaxe universelle
-subtitle: Atelier dans le cadre du stretch
+subtitle: Atelier dans le cadre du stretching numérique
 author: Damien Belvèze
 date: 23/06/2021
 link_citations: true
@@ -11,6 +11,22 @@ tags: [programmation]
 ---
 
 # avantages du markdown
+<!--
+# Limites des traitements de texte
+
+Un traitement de texte peut-il vous convenir si :
+
+si vous voulez faire du code et du texte (usages scientifiques par exemple)
+
+si vous souhaitez inclure des formules mathématiques ou chimiques dans votre texte
+
+si vous souhaitez maîtriser toutes les étapes de la mise en page ? 
+
+si vous souhaitez convertir rapidement votre texte d'un format à un autre ? 
+
+NON
+-->
+
 
 syntaxe très simple à apprendre permettant d'éditer dans une grande variété de formats (wiki, odt, doc, pdf, html, [[LaTeX]], ce qu'on appelle la versatilité. 
 
@@ -38,6 +54,26 @@ L'une des raisons pour lesquelles écrire en markdown sur Obsidian peut être au
 
 voir également la frustration d'universitaires qui considèrent que les traitements de texte restent trop attachés à l'impression comme finalité[[@Vitali-RosatichercheursSHSsaventils2018]]
 
+
+# petite démonstration
+
+<!-- prérequis
+
+Dans Répertoire "Atelier Markdown", prévoir un répertoire images
+dans le répertoire images mettre les deux images drake1.png et drake2.png)
+Sous Atelier Markdown, placer [alignement_figures.md](aligner des figures.md)
+
+-->
+
+ouverture de alignement_figures.md avec Atom pour montrer birèvement à quoi ressemble le markdown
+
+conversions avec pandoc, d'abord en PDF
+
+``````powershell
+
+pandoc "D:\Home\dbelveze\Desktop\atelier markdown\document.md" -o document.pdf
+
+``````
 
 
 

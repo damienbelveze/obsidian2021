@@ -107,7 +107,7 @@ Il existe d'ailleurs une version de l'échelle de la preuve propre à la médeci
 
 ![[pyramide_preuve_medicale.jpg]]
 
-Mais l'administration de la preuve dépend de chaque discipline et le modèle médical fondé sur la compilation de RCT (randomised control trials ou études cliniques en double-aveugle) n'est pas extensible aux autres sciences. 
+Mais l'administration de la preuve dépend de chaque discipline et le modèle médical fondé sur la compilation de RCT (randomised control trials ou [[études cliniques]] en double-aveugle) n'est pas extensible aux autres sciences. 
 ![[pyramide_preuve_devoiement.PNG]]
 
 Charlotte Barbier a d'ailleurs vu récemment une amplitude du phénomène chez les Zététiciens (rationalistes) : 

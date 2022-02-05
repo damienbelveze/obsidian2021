@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 20210506
 link_citations: true
 aliases: [DMP, PGD, Plan de gestion de données, data management plan]
-tags: [données de la recherche]
+tags: [données de recherche]
 ---
 
 Document [[formaliser|formalisant]] la manière dont les [[données de la recherche|données de la recherche]] recueillies à la faveur d'un projet de recherche vont être décrites, conservées (traitées = curated), ([[Anonymat|anonymisation]]), diffusées ou protégées. 
@@ -69,6 +69,12 @@ Une étude de 2020, montre que les données accessibles depuis la publication av
 livrable demandé de manière fixe 6 mois après le début du projet et de manière variable en fin de parcours (date indiquée dans le premier document)
 possibilité de remplir les informations sur DMP Opidor et de télécharger le document
 
+outils pour rédiger des plans de gestion des données : 
+
+- [DSW](https://ds-wizard.org/)(Hollande + République Tchèque)
+- [DMP Opidor](https://dmp.opidor.fr/plans/new) France
+- [DMP tools](https://dmptool.org/) USA
+
 ## structure de base d'un DMP
 
 - Décrire le jeu de données
@@ -87,7 +93,22 @@ Opidor : machine actionable DMP : export du PGD en Json (en complément de la ve
 
 
 # Accompagner les chercheurs à la rédaction d'un PGD
+
+éviter le syndrôme du *congélateur de données* (il faut qu'il y ait une panne sur un entrepôt pour qu'on se pose la question de ce qui s'y trouve)
+
+
+L'incitation des financeurs est déterminante, mais les chercheurs peuvent venir de leur propre impulsion ou devancer cette injonction en posant ce type de questions :
+
+![](questions_donnees.png)
+(source[[@BraccoCommentmonterservice2021]])
+
 démystifier la création d'un DMP en mettant en pratique sa rédaction. 
+
+## relire les projets de financement à l'aune de la [[science ouverte]]
+
+nécessité une collaboration avec le service en charge du montage de ces projets.
+Vérifier que le projet de financement prévoit bien la conservation, la gestion et le partage des données
+Pour cette relecture, se service du [guide](https://zenodo.org/record/3769954) de Cécile Arènes et Laëtitia Bracco
 
 ## ateliers de relecture de PGD
 

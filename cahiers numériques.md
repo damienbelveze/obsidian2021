@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [carnets de laboratoire, cahiers de laboratoire, bloc-code, block-codes]
-tags: [méthode scientifique]
+tags: [méthode scientifique, programmation]
 ---
 
 A partir de la présentation d'Aurélien Tabard [[@TabardOSW2021Cahiersnumeriques2021]]
@@ -133,7 +133,7 @@ Tension entre exploration de données et explication, cette tension va freiner l
 
 **Est-ce qu'il s'agit de reproduire ça pour soi-même ou bien pour prouver le bien-fondé de la démarche ?** 
 
-**Est-ce qu'on le fait pour d'autres membres de son équipe ou bien pour les reviewers ?**
+**Est-ce qu'on le fait pour d'autres membres de son équipe ou bien pour les [[Révision par les pairs|reviewers]] ?**
 
 La reproductibilité est-elle un idéal pour l'ensemble de la science ? Pour les Sciences Humaines, ne vaut-il pas mieux insister sur l'esprit critique démontré par le chercheur au cours ?
 

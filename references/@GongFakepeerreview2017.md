@@ -1,5 +1,5 @@
 auteurs: Rong Gong, 
-titre: Fake peer review scandal shines spotlight on China
+titre: Fake [[Révision par les pairs|peer review]]scandal shines spotlight on China
 publication:CGTN.COM, 
 année: 2017, 
 p.,

@@ -45,7 +45,8 @@ Les éditeurs prédateurs font signer des clauses du type cc-by (creative common
 
 [[@HannounPartageMailsediteurs2022]]
 
-## Conséquences pour les journaux qui exercent un vrai travail de peer reviewing
+## Conséquences pour les journaux qui exercent un vrai travail de [[Révision par les pairs|peer reviewing]]
+
 
 ## Conséquences pour le public (perte de crédibilité de la science)
 

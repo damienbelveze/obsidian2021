@@ -292,5 +292,14 @@
       ],
       "key": "Insert"
     }
+  ],
+  "obsidian-latex-environments:delete-latex-env": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
   ]
 }

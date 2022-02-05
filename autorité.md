@@ -17,7 +17,8 @@ du latin "auctoritas", celui qui ajoute quelque chose à l'état de la société
 Le référentiel de l'ACRL (ACRL framework) indique que l'autorité est construite et contextuelle. 
 contextuelle : cela exprimer l'idée que l'autorité d'une personne ne devrait pas pouvoir s'éendre au delà d'une zone d'[[expertise]] (éviter l'[[ultracrépidarianisme]])
 
-construite : l'autorité s'édifie à partir d'un cumul de preuves (travaux universitaires notamment). Une autorité peut se perdre aussi suite à des déviances par rapport aux normes académiques (ex. médaillés du Nobel qui commencent à dire n'importe quoi sur les virus, éminents virologues qui se livrent à des essais cliniques de façon opaque et sans respecter le protocole)
+construite : l'autorité s'édifie à partir d'un cumul de preuves (travaux universitaires notamment). Une autorité peut se perdre aussi suite à des déviances par rapport aux normes académiques (ex. médaillés du Nobel qui commencent à dire n'importe quoi sur les virus, éminents virologues qui se livrent à des [[études cliniques|essais cliniques]]
+de façon opaque et sans respecter le protocole)
 
 Stéphanie R. Bluemle pointe un problème dans la conception de l'autorité telle que définie dans l'ACRL framework. 
 Si on part du principe que l'autorité est contextuelle dans la mesure ou bien que j'ai peu d'expertise d'un sujet, toutefois dans une [[communauté]] restreinte, je peux avoir de l'autorité sur ce sujet, on ne peut pas dire en même temps que l'autorité d'une personne dépend de qualités intrinsèques, comme la maitrise d'un savoir donné. 
