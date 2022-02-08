@@ -10,7 +10,7 @@ aliases: []
 tags: []
 ---
 
-une traduction française d'information literacy serait "compétences informationnelles"
+une traduction française d'information literacy serait "[[compétences informationnelles]]"
 Le terme a été forgé par Paul G. Zurkowski président de l'association américaine pour l'industrie médiatique en 1974 en réaction à une inflation des publications, première forme d'info-obésité, pré Internet, et qui mettait chaque citoyen dans l'impossibilité d'en évaluer correctement les différents produits. Zurkowski (cité par Joel Blechinger[[@BlechingerPoliticsLibrariesIII2021]])
 
 >overabundance of information that exceeds our capacity to evaluate it” (1), which, in turn, requires retraining of the whole  

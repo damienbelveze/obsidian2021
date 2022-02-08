@@ -24,7 +24,7 @@ le média social peut décider d'accompagner l'information d'informations compl�
 
 3. Troisième maillon : l'individu
 
-Enseignement des compétences informationnelles pour rendre l'individu consommateur d'informations capable de sélectionner l'information et de détecter les fausses informations ou les biais dans l'information qui lui est présentée. 
+Enseignement des [[compétences informationnelles]] pour rendre l'individu consommateur d'informations capable de sélectionner l'information et de détecter les fausses informations ou les biais dans l'information qui lui est présentée. 
 
 4. Quatrième maillon : le social
 

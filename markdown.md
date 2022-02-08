@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [MD]
-tags: [programmation]
+tags: [programmation, css, édition de texte, stretching numérique]
 ---
 
 # avantages du markdown
@@ -57,31 +57,205 @@ voir également la frustration d'universitaires qui considèrent que les traitem
 
 # petite démonstration
 
-<!-- prérequis
+## conversions de base
 
-Dans Répertoire "Atelier Markdown", prévoir un répertoire images
-dans le répertoire images mettre les deux images drake1.png et drake2.png)
-Sous Atelier Markdown, placer [alignement_figures.md](aligner des figures.md)
+Les fichiers qui seront utilisés au cours de l'atelier sont téléchargeables sur [github](https://github.com/damienbelveze/stretchnum)
 
--->
 
-ouverture de alignement_figures.md avec Atom pour montrer birèvement à quoi ressemble le markdown
+*instructions pour le formateur ou la formatrice : **
 
-conversions avec pandoc, d'abord en PDF
+- cloner le dossier sur le bureau de son ordi
+- ouvrir le fichier kanagawa.md
+- montrer la structure, à quoi correspond le markdown (éléments de syntaxe : headers, italique, titre, préambule, caractères gras italiques)
 
-``````powershell
+### conversion en PDF
 
-pandoc "D:\Home\dbelveze\Desktop\atelier markdown\document.md" -o document.pdf
+*Instructions pour le formateur ou la formatrice :**
+- montrer la versalité du markdown, faire d'abord une conversion en PDF avec [[pandoc]]
+
+``````shell
+
+pandoc kanagawa.md -o kanagawa.pdf
 
 ``````
 
+Note1 : pour la conversion en PDF, on a besoin d'une version de LaTeX sur son ordinateur. 
+Pandoc est installable sans besoin d'avoir les droits sur sa machine, en revanche pour installer une version de LateX (même légère TinyTeX, on doit avoir les droits sur sa machine)
+
+Note 2 : si beaucoup de conversions sont réversibles (de MD à ODT, de ODT à MD, de MD à DOC, de DOC à MD), ce n'est pas le cas de toutes : on ne peut pas convertir un fichier PDF en MD à moins d'utiliser des logiciels propriétaires comme ceux d'Adobe. 
+Par ailleurs toutes les conversions ne sont pas réversibles au même niveau. LaTeX et HTML étant potentiellement plus riches que Markdown, des éléments de mise en forme peuvent se perdre en route. 
+Les champs dans Word ou Writer dont les styles peuvent être modifiés ne sont pas toujours aisément appariables à la syntaxe Markdown.
+
+### conversion en open document avec un modèle
+
+[template](mypdf/lettre.odt)
+
+un modèle se constitue en travaillant les styles sur le traitement de texte (définir qu'un titre aura telle forme, telle police, un titre 2, telle taille, telle police, une image sera alignée, ancrée au texte, etc. )
+Quand le modèle est fait, la conversion est simple : 
+
+```````shell
+pandoc -s kanagawa.md --reference-doc lettre.odt -o kanagawa.odt
+
+```````
+
+###  conversion simple en html
+
+Conversion simple avec HTML
+
+``````shell
+
+pandoc -s kanagawa.md -o kanagawa.pdf
+
+``````
+
+l'argument -s(tandalone) permet de compiler le visuel et le document en html
+
+
+### conversion en HTML avec feuille de style
+
+On va appliquer la feuille de style ([[feuille de style|CSS]]) suivante (essai.css dans un dossier css) au document en markdown pour faire une page web avec la forme souhaitée : 
+
+```````css
+
+<style>
+
+/* le fait de mettre le css à l'interieur de balises <style> permettra d'utiliser la commande pandoc suivante :
+pandoc -s fichierdépart.md -H fichier.css -o fichier_destination.html
+
+l'argument -H encapsule tout le css dans le header du document créé, avant le body, ce qui fait que le Css qui s'y trouve va être utilisé pour présenter l'ensemble du document */
 
 
 
+/* dimensionnement de la page à la taille de l'écran
+couleur de fond */
+
+html, body{
+
+background-color: #11191f;
+width:100%;
+height: 100%;
+margin:0 auto;
+color: #ffffff;
+}
+
+/* couleur, taille et alignement du titre 1 = titre du document en markdown */
+
+h1{
+
+  text-align:center;
+  font-size: 2rem;
+  color: #edf0f3;
+}
+
+/* couleur, taille et alignement du titre 2 */
+
+h2 {
+  font-size: 1.75rem;
+  text-align:center;
+  color: #599fa6;
+}
+
+/* espace de la citation */
+
+blockquote.style {
+  font: 14px/20px italic Times, serif;
+  padding: 8px;
+  background-color: #141e26;
+  color: #a65980;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 5px;
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
+  }
+
+/* liste à puces, puces carrées */
+
+ul{
+   list-style: square;;
+}
+
+</style>
 
 
+````````
+
+Le script de conversion s'écrit de la manière suivante : 
+
+``````shell
+
+pandoc -s kanagawa.md -H css/essai.css -o kanagawa.html
+
+``````
+
+Envoyer avec [[Git|git]] la page vers le site github (ajouter, commettre, pousser)
+
+# créer son premier document en markdown avec l'éditeur en ligne Stylo
+
+## éditeurs en markdown
+
+On peut  écrire en markdown avec des éditeurs de toutes sortes : emacs, Atom, [[R (logiciel)]]) (on utilise alors une version de markdown qui s'appelle Rmarkdown). 
+Le bloc-note de Windows suffit même si pouvoir bénéficier de la coloration syntaxique d'un éditeur de texte un peu plus élaboré est une aide appréciable. 
+
+L'éditeur va interpréter comme du texte en markdown tous les fichiers qui ont l'extension .md
+
+Si dans un premier temps on ne souhaite pas télécharger d'éditeur de texte supplémentaire, ni pandoc, ni [[LaTeX|LaTeX]] et qu'on veut pouvoir utiliser ces logiciels en ligne, un éditeur en ligne a été conçu pour les chercheurs en SHS. Il s'agit de [Stylo](https://stylo.huma-num.fr/)
+
+Pour utiliser Stylo, il faut se créer un compte sur Huma-Num (infrastructure de recherche française dédiée aux humanités numériques). Ce compte vous permettra d'ailleurs d'avoir accès à d'autres services de cette infrastructure. On peut aussi se connecter avec son compte Twitter, ORCID ou HAL
+
+## Editer avec Stylo
+
+![](stylo1.png)
+
+créer un nouveau document
+Pour ouvrir la console d'édition, cliquer sur "open" (en grisé en haut à gauche), quand elle gêne, la refermer ("close")
+
+Mettre en forme le texte suivant en se basant sur la structure du document : 
+https://damienbelveze.github.io/stretchnum/kanagawa.html
+
+``````text
+[titre] la vague de Hokusai
+[date] 2022-03-14
+[sous-titre] atelier Markdown comme syntaxe universelle
 
 
+[Titre 2] La grande vague de Kanagawa
+
+[Citation] "les vagues
+lentement déferlent vers le rivage
+une lune à peine visible"
+
+Le peintre Hokusai a peint cette estampe en 1830 ou 1831 pendant la
+Période [Edo : mettre en italiques] Cette oeuvre est la plus connue du peintre. La couleur qui
+y domine est le bleu de Prusse
+
+Mettre ici une image de votre choix en suivant la syntaxe : 
+
+![légende de l'image](chemin vers le fichier de l'image)
+
+[Titre 2] signification de cette estampe
+
+Il s'agit d'une [scène réaliste : mettre en gras] mais avec un [aspect dramatique : mettre en gras].
+La signification de l'image varie d'ailleurs selon qu'on est occidental
+(sans de lecture : gauche à droite) ou japonais (sens de lecture
+vertical puis de droite à gauche)
+
+Pour un occidental, les barques se dirigent vers la droite et tentent de
+fuir la vague Pour un japonais, les barques dont les rameurs rament à
+contre-courant se précipitent vers le creux de la vague.
+
+[Titre 2] Préfecture de Kanagawa (principales villes)
+
+[liste à puces]
+- Atsugi
+- Ayase
+- Chigasaki
+- Ebina
+- Fujisawa
+``````
+
+Quand le texte a été mis en forme, faire un export en HTML5 et un export en PDF
 
 # Bibliographie
 

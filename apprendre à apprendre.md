@@ -3,7 +3,7 @@
 Ainsi, nous souhaiterions échanger ensemble pour vous présenter les ressources identifiées et vous proposer d'initier une collaboration pour réfléchir à cette offre en fonction des ressources développées par vos services. Nous vous proposons donc un evento pour un premier temps d'échange avec quelques dates dès la semaine prochaine. Si vous pensez à un.e collègue qui pourrait nous rejoindre n'hésitez pas à lui transférer ce message. 
 -->
 
-Les compétences informationnelles constituent l'un des piliers de l'apprentissage tout au long de la vie. Traiter ces compétences, c'est permettre aux étudiants d'apprendre à apprendre, y compris quand ils auront quitté l'université. 
+Les [[compétences informationnelles]] constituent l'un des piliers de l'apprentissage tout au long de la vie. Traiter ces compétences, c'est permettre aux étudiants d'apprendre à apprendre, y compris quand ils auront quitté l'université. 
 
 Au coeur de la bibliothèque, au sein même des équipes de bibliothécaires formateurs, on sent des tiraillements. Certains essaient de transmettre aux étudiants l'usage de ressources électroniques dont on estime qu'ils tireront profit (mais auxquelles ils n'auront plus accès après leurs études). Cette manière de faire tient en grande partie à un souci de valorisation des collections. Si ces collections sont constituées pour le bénéfice des étudiants, il n'empêche que leur valorisation reste centrée sur l'institution. Ces collections ne seront d'ailleurs plus accessibles quand l'étudiant aura quitté l'université.
 

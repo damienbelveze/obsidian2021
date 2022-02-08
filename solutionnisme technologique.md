@@ -22,7 +22,7 @@ Une partie non négligeable des problèmes que la technologie prétend résoudre
 
 # Le solutionnisme dans l'éducation
 
-Pendant des années, les pouvoirs publics ont doté les écoles en matériel informatique en pensant que cela allait suffire à réduire la fracture dans le domaine des compétences informationnelles. Or les résultats obtenus par les élèves montrent que ces afflux d'ordinateurs et de tablettes n'ont pas contribué à augmenter le niveau et que celui-ci demeure en dessous des objectifs et des enjeux démocratiques. 
+Pendant des années, les pouvoirs publics ont doté les écoles en matériel informatique en pensant que cela allait suffire à réduire la fracture dans le domaine des [[compétences informationnelles]]. Or les résultats obtenus par les élèves montrent que ces afflux d'ordinateurs et de tablettes n'ont pas contribué à augmenter le niveau et que celui-ci demeure en dessous des objectifs et des enjeux démocratiques. 
 
 Pour reprendre une dialectique centre / périphérie, on a investi massivement dans la périphérie (achat de matériel informatique) en délaissant le centre (recours à des professionnels spécialisés dans l'enseignement de ces machines pour construire une pédagogie qui repose effectivement sur l'usage de ces machines)
 

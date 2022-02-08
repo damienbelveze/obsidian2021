@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git.md",
+            "file": "markdown.md",
             "mode": "source",
             "source": true
           }
@@ -32,7 +32,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:git",
+                "query": "file:mark",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "markdown.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,15 +159,15 @@
   },
   "active": "c5dd7ec133d4dfe2",
   "lastOpenFiles": [
-    "Git.md",
     "markdown.md",
-    "Markdown comme syntaxe universelle.md",
-    "Mode d'emploi d'Obsidian.md",
-    "Aligner des figures.md",
-    "données de la recherche.md",
-    "Obsidian to LaTeX.md",
-    "CSquotes.md",
-    "études cliniques.md",
-    "autorité.md"
+    "procrastination.md",
+    "images/procrastination.jpg",
+    "Plan de gestion des données.md",
+    "exception pédagogique.md",
+    "Sans titre 1.md",
+    "compétences informationnelles.md",
+    "solutionnisme technologique.md",
+    "information literacy.md",
+    "chaîne d'intervention de l'information.md"
   ]
 }
