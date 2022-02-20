@@ -87,9 +87,24 @@ outils pour rédiger des plans de gestion des données :
 exemple de description de données, voir présentation de Cécile Arènes (DMP one tool with many applications[[@HuserDatamanagementplans2022]])
 
 ## plan de gestion de données structuré pour une lecture artificielle
+PGD structuré = machine actionable
+
+Intérêts du PDG structuré : 
+
+- facilite la réutilisation automatique de l'information (par exemple dans les projets ANR)
+- Encourage le recours aux identifiants pérennes (pour les contributeurs, les organisations et les partenaires, etc.)
+- propose des entrepôts où déposer ses données (et des thesaurus ou des vocabulaires pour les décrire)
+- identifie et liste les coûts relatifs à la gestion des données
+- simplifie l'échange et l'automatisation des informations entre les services qui interviennent dans la gestion des données
+- Permet de créer des DMP compatibles avec le format RDA DMP Common
+
 
 Cette structure va légèrement changer. 
 Opidor : machine actionable DMP : export du PGD en Json (en complément de la version en ligne du plan de gestion)
+
+[instructions pour trouver et remplir un DMP structuré](https://github.com/OPIDoR/DMPOPIDoR/blob/dmpopidor-master/public/files/DMPOPIDoR/DMPOPIDoRV3_Guide_Utilisateur.pdf)
+
+Voir [contenu d'une formation de l'INIST](https://www.inist.fr/wp-content/uploads/2022/01/Inist-CNRS_DMP-OPIDoR_Modele-plus-structure_2022-01-27_PDF.pdf) (février 2022) sur les DMP structurés
 
 
 # Accompagner les chercheurs à la rédaction d'un PGD

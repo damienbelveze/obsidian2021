@@ -67,7 +67,7 @@ Ce dernier point est précisément argumenté par Dan Kahan.
 
 Si les gens sous-estiment l'importance d'un consensus scientifique, quel en est la cause ? 
 
-- mauvaise communication scientifique (les journalistes ont plus intérêt à donner la parole à des opinions minoritaires)
+- mauvaise [[communication scientifique]] (les journalistes ont plus intérêt à donner la parole à des opinions minoritaires)
 - [[Biais de confirmation|biais de confirmation]]] qui fait qu'en présence du consensus ou d'une opinion très minoritaire mais qui va dans notre sens, on sous-estime le premier et survalorise le second. C'est ce que Kahan montre dans une publication de 2016 :  
 
 Les biais idéologiques ont une importance plus forte que la familiarité avec la science et ses méthodes. Il y a même une corrélation entre une certaine maîtrise rhétorique et la possibilité de s'aveugler soi-même. 
@@ -98,6 +98,7 @@ on s'aperçoit que la Stirling a fait des campagnes de terrain sur les ours pola
 ## Quand on arrive à un consensus, le sait-on ?
 
 vision cumulative de la science : une première découverte a besoin d'être confirmée par un nombre conséquent d'études. Plus la découverte remet en question ce que l'on croyait auparavant et plus le nombre d'études pour le confirmer doit être élevé. 
+
 
 Dans le domaine des sciences médicales, c'est la méta-analyse qui est l'expression la plus directe de ce consensus
 

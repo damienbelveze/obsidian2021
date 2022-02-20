@@ -1,3 +1,5 @@
+
+
 #capitalisme #écologie
 
 D'après une légende, les [[colibris]], plus petits oiseaux existant au monde sauvent une forêt (leur habitat) de l'incendie en portant tous une goutte d'eau dans leur bec et en la laissant tomber sur les flammes. La faiblesse des moyens pouvant être mis en place par chacun de ces agents n'a d'égal que La force de leur union qui vient à bout de la catastrophe. 

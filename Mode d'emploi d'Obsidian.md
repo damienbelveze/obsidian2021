@@ -27,7 +27,7 @@ Obsidian présente les avantages de la nouvelle génération d'outils de PKM (pe
 - des notes liées les unes aux autres par des liens **et des rétroliens** (backlinks)
 - des fichiers de notes pouvant contenir d'autres fichiers (par exemple des PDF ou des scripts) selon le principe de la [transclusion](https://forum.obsidian.md/t/transclusion-embedding-for-searches/3348/2)
 - une structure par défaut horizontale (les notes n'ont pas besoin d'être rangées dans des fichiers séparés cf. [[Zettelkasten]]). C'est possible de le faire si on le souhaite dans Obsidian, cela dit. 
-- des graphes de notes (cela plaît toujours, même si l'utilité réelle de ces graphes est un sujet débattu depuis que ces outils existent)
+- des graphes de notes (cela plaît toujours, même si l'utilité réelle de ces graphes est un sujet débattu depuis que ces outils existent, voir [[Mode d'emploi d'Obsidian#Vue graphique globale|la partie consacrée aux graphes]])
 - des modèles de note peuvent être produits par l'utilisateur et partagés avec d'autres. 
 - hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".
 - format ouvert des notes ([[markdown]] = format universel, contrairement à  Evernote)
@@ -524,13 +524,33 @@ Seuls deux plugins correspondent à une option payante d'Obsidian : la publicati
 
 Voici une revue de quelques plugins installés par défaut :
 
+### explorateur de notes
+
+Par défaut, trois plugins sont activés sur Obsidian pour faciliter la recherche : 
+
+- l'explorateur de fichier (volet latéral gauche qui permet de naviguer dans une arborescence de fichiers)
+
+- le plugin rechercher permet dans le même volet de rechercher par catégorie : file(), tag(), path()...
+
+- le selecteur rapide : la commande Ctrl+O (commande par défaut) permet d'accéder directement à tous les fichiers en tapant un élément de leur nom dans un champ. 
+
 ### Explorateur de fichiers
 
 L'explorateur de fichiers permet de naviguer dans les fichiers de votre coffre à l'endroit où celui-ci est hébergé. 
 
 ### Vue graphique globale
 
-La vue graphique vous permet de visualiser l'ensemble de vos notes et des liens qui les unissent sous la forme d'un graphe. Lorsque les notes ne sont pas liés à quelques projets, cette constellation devient vite illisible. 
+La vue graphique vous permet de visualiser l'ensemble de vos notes et des liens qui les unissent sous la forme d'un graphe.
+
+D'après Arthur Perret[[@PerretWhatpointgraph2022]], le bénéfice de ces visualisations qui passent aux yeux de certains comme des gadgets dont on peut se passer n'est pourtant pas à négliger : 
+
+- le graphe nous rappelle que notre mode d'écriture et de mémorisation est par défaut réticulaire. Ce que nous écrivons de nouveau s'ancre toujours dans un savoir déjà acquis et des notes déjà prises. Faire des liens avec ce savoir pré-existant permet de solidifier ses connaissances
+- le graphe nous permet de prendre conscience de sujets émergents dans notre prise de notes et de liens qui pourraient être faits entre ces sujets et d'autres plus anciens. 
+- le graphe nous permet de trouver de l'information reliée à la note que nous sommes en train d'écrire et que nous ne cherchions pas ([[sérendipité]]). Créer des liens entre des notes voisines permet de sortir la note de son isolement, cela empêche la pensée en silo :
+
+> A graph is a memory aid that prevents siloed thinking.
+
+Lorsque les notes ne sont pas liés à quelques projets, cette constellation devient vite illisible. 
 
 ![vue graphique globale](images/graphe_obsidian.png)
 

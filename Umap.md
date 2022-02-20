@@ -7,15 +7,60 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [cartographie]
+tags: [cartographie, stretching_numérique]
 ---
 
+![](images/logo_stretching_num.png)
 
-# Trouver des données sur Wikidata
+# Trouver des données sur Wikidata : les requêtes sparql
 
-![](cemetery.csv)
+Le SPARQL est un langage d'interrogation pour chercher des entités liées, ce langage d'interrogation a été mis au point par le consortium World Wide Web et sert de langage d'interrogation à [[Wikidata]]
 
-Ce fichier a été réalisé extrait de Wikidata (voir la requête sur [[Sparql#exemple de requête simple les cimetières de guerre allemands]]])
+Analyse d'une requête en Sparql sur Wikidata (https://query.wikidata.org)
+
+Nous allons utiliser comme exemple de requête simple une recherche sur les cimetières de guerre allemands répertoriés dans Wikidata :
+
+![](images/sparql_query.png)
+
+``````sparql
+\#cemeteries
+SELECT ?item ?itemLabel ?place ?coord
+WHERE
+{
+  ?item wdt:P31 wd:Q1241568 .
+  ?item wdt:P137 wd:Q708567 .
+  ?item wdt:P625 ?coord.
+
+   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+``````
+
+première ligne : commentaire (titre de la requête)
+
+SELECT : indique les informations issus des résultats à faire figurer en colonne, en l'occurrence le numéro de l'élément wikidata, son titre, l'endroit assigné à l'élément, et les coordonnées géographiques de l'endroit
+
+WHERE {} permet de donner les critères de recherche. 
+
+?item wdt:P31 wd:Q1241568 : on retrouve à cet endroit le triplet *item*, *propriété*, *valeur* : tous les items qui ont pour propriété (est une instance de) la valeur "cimetière militaire"
+
+Même chose à la ligne suivante : 
+
+?item wdt:P137 wd:Q708567 . 
+tout item qui a pour propriété (est opéré par) l'agence "Volksbund Deutsche Kriegsgräberfürsorge"
+  
+?item wdtP625 ?coord. 
+tout item qui dispose de coordonnées géographiques
+
+Les résultats sont téléchargeables
+
+![](images/sparql_results.png)
+
+Pour avoir en plus les images, on peut ajouter dans le Where {} la condition suivante : 
+
+  ?item wdt:P18 ?image.
+  
+  et ajouter ?image après SELECT
+
 
 # formater le fichier téléchargé de Wikidata
 
@@ -49,13 +94,10 @@ Pour notre fichier cela donne :
 
 Pour visualiser les changements, enregistrer les modifications et désactiver le mode édition
 
-![carte interactive](umap1.png)
+![carte interactive](images/umap1.png)
 
 # exercice. 
 
 Réaliser un calque supplémentaire avec des données sur les cimetières de guerre en Allemagne
 
-
-
-# bibliographie
 

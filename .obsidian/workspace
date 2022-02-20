@@ -4,14 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "c5dd7ec133d4dfe2",
+        "id": "ee54b00cf7629642",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "privilège blanc.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a0a41f07b99a62c7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "privilège blanc.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c4f717f6b801a77e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "markdown.md",
-            "mode": "source",
-            "source": true
+            "file": "privilège blanc.md",
+            "mode": "source"
           }
         }
       }
@@ -23,16 +56,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5e39e7d1f14ed1e5",
+        "id": "366f3578dd67a828",
         "type": "tabs",
         "children": [
           {
-            "id": "5c93123f31157fa1",
+            "id": "f40cd6c433ce80d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "350f15ddd2768d50",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mark",
+                "query": "file:privilège",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -42,22 +83,15 @@
             }
           },
           {
-            "id": "22145539dcf08d9d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "c395055205b795dc",
+            "id": "b40919b55102730c",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -79,24 +113,41 @@
               "state": {
                 "file": "todo.md",
                 "mode": "source",
-                "source": true
+                "backlinks": false
               }
             }
           },
           {
-            "id": "0496586a1f919e8a",
+            "id": "c436fc3a67b0e5da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "privilège blanc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "156ef011adecd04f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown.md",
+                "file": "privilège blanc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0da780de178efc06",
+            "id": "0934aa39ec1d3fd1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,67 +158,34 @@
             }
           },
           {
-            "id": "b28d7ff9d2896e33",
+            "id": "2477ec0c1dd8cd82",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "markdown.md"
-              }
-            }
-          },
-          {
-            "id": "433ea943bf80db04",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "82b36dff856edb97",
-            "type": "leaf",
-            "state": {
-              "type": "online.larslockefeer.obsidian-plugin-todo",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5efc0f6070be93a",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "markdown.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "privilège blanc.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 100,
     "collapsed": true
   },
-  "active": "c5dd7ec133d4dfe2",
+  "active": "c4f717f6b801a77e",
   "lastOpenFiles": [
-    "markdown.md",
-    "procrastination.md",
-    "images/procrastination.jpg",
-    "Plan de gestion des données.md",
-    "exception pédagogique.md",
-    "Sans titre 1.md",
-    "compétences informationnelles.md",
-    "solutionnisme technologique.md",
-    "information literacy.md",
-    "chaîne d'intervention de l'information.md"
+    "privilège blanc.md",
+    "plaisir vs désir.md",
+    "communication scientifique.md",
+    "revues népotiques.md",
+    "Révision par les pairs.md",
+    "preprint.md",
+    "Cours médiation scientifique.md",
+    "Article ASTED.md",
+    "délit de solidarité.md",
+    "démagogie.md"
   ]
 }

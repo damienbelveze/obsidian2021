@@ -26,7 +26,7 @@ Zotero n'est pas un outil conçu pour mener des [[revue de littérature|revues d
 
 créer une collection du nom de la revue systématique
 
-créer des sous-collections, une par base de donnée interrogée (Pubmed, Cochrane, Web Of Science, etc.)
+créer des sous-collections, une par base de donnée interrogée ([[Pubmed]], Cochrane, Web Of Science, etc.)
 Vérrifier que dans les préférences générales, les deux options sont paramétrées de la la manière suivante : 
 
 - ajouter automatiquement aux documents des marqueurs à partir des mot-clés fournis = décoché

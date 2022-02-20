@@ -20,7 +20,7 @@ Les contenus qui sont présentés lors de cet atelier ont été relus par le res
 
 C'est la raison pour laquelle, nous vous demandons dans le cadre de cette activité de ne pas utiliser le réseau de Rennes 1 mais celui de votre fournisseur d'accès à internet. Si vous êtes chez vous, vous n'avez rien à faire de particulier. Si vous êtes à l'Université, merci d'utiliser votre smartphone comme hotspot pour utiliser Internet et de ne pas utiliser le réseau local. 
 
-La bibliothèque de l'Université de Rennes 1 propose cet atelier, en même temps qu'un autre sur la gestion des mots de passe, dans la suite des ateliers du FDLN qui ont eu lieu entre 2018 et 2020.
+La bibliothèque de l'Université de Rennes 1 propose cet atelier, en même temps qu'un autre sur la [[gestion des mots de passe]], dans la suite des ateliers du FDLN qui ont eu lieu entre 2018 et 2020.
 Cette courte présentation de Tor a pour précédents à Rennes 1 les formations à cet outil d'étudiants qui se destinent au métier de journaliste, dans le cadre de la protection des sources. 
 En vertu de la [déclaration de l'IFLA](https://www.ifla.org/publications/node/10056) (réunion internationale des organisations professionnelles de bibliothécaires) d'août 2015, les bibliothécaires doivent contribuer à protéger la [[vie privée]] de leurs utilisateurs en leur proposant d'une part un environnement autant que possible indemne de la surveillance de masse et d'autre part des formations aux outils qui leur permettront de protéger leur [[Vie privée|vie privée]]. C'est dans ce dernier cadre que nous intervenons aujourd'hui. 
 

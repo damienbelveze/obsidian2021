@@ -12,9 +12,9 @@ Etude déposée sur un serveur de pré-publications en attente d'être [[Révisi
 
 Le premier serveur de prépublication est [Arxiv](https://arxiv.org) et a été mis en place à l'Université de Los alamos en 1990 pour recueillir des preprints dans les domaines des mathématiques et de la Physique.
 
-# statut et rôle du préprint dans la communication scientifique
+# statut et rôle du préprint dans la [[communication scientifique]]
 
-Déposer un preprint sur un serveur comme ArXiv, MedRxiv, BioRxiv, Cogprints, etc. permet d'accélérer la communication scientifique quand l'évaluation par les pairs organisée par les éditeurs scientifiques peut prendre plusieurs mois (en moyenne 6 mois en Sciences Dures).
+Déposer un preprint sur un serveur comme ArXiv, MedRxiv, BioRxiv, Cogprints, etc. permet d'accélérer la [[communication scientifique]]quand l'évaluation par les pairs organisée par les éditeurs scientifiques peut prendre plusieurs mois (en moyenne 6 mois en Sciences Dures).
 Le preprint peu à peu prend une place de plus importante à mesure que les réticences des éditeurs -au départ restrictives- cèdent (cf. politiques des éditeurs sur Sherpa Romeo) face aux besoins de communication rapide des résultats de la science qui nourrissent l'avancée de l'open access.
 Les éditeurs peuvent faire valoir le fait que ces copies des articles qui leur sont soumis n'ont pas été revus par les pairs et ne présentent pas les garanties suffisantes que donnent par exemple une étude revue et publiée. Toutefois, une étude de 2016 montre qu'en moyenne entre le texte soumis à l'éditeur et déposé sur un serveur de preprint et la version finale publiée, il y a très peu de changements ce qui revient à interroger et relativiser l'apport du peer-reviewing[[@KleinComparingPublishedScientific2016]]. 
 

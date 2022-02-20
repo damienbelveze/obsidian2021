@@ -50,5 +50,18 @@ Toutefois, cette pratique sociale, née sur les campus américains, est grevée 
 
 > les classes supérieures ont trouvé dans cet acte de contrition la parade pour faire oublier la nécessité d'agir contre les inégalités. Il suffirait de confesser son privilège et ensuite on peut passer à autre chose.[[@BovyPerilsPrivilegeWhy2017]]
 
+Michaël Foessel revient également dans le deuxième chapitre de son ouvrage sur la gauche et les plaisirs. S'il reconnaît le bénéfice individuel d'une pratique qui peut permettre de prendre conscience des difficultés rencontrées par les représentants de certaines minorités, en tant que pratique sociale, Foessel considère que l'exercice n'a pas d'issue dans la mesure où il faudrait postuler un corps absolument dénué de tout avantage à partir duquel on pourrait mesurer les privilèges des uns ou des autres, ce qui est impossible à trouver[[@Quartierrougeplaisir]] : 
+
+>Or un corps absolument dénué de privilèges n'existe que dans l'imaginaire. Qui plus est, dans un imaginaire doloriste en regard duquel, en cherchant bien, tous sont susceptibles de profiter de quelques avantages inaperçus. 
+
+Par ailleurs, en reprenant les critiques adressées à James Baldwin par des militants noirs pour son attrait pour les hommes blancs dont il témoignait dans ses oeuvres de fiction, checker ses privilèges donne l'illusion que notre conduite ne dépend que de ces privilèges, alors qu'en réalité, elle peut dépendre d'autres caractéristiques qui ne sont pas comptabilisés (check) comme des privilèges : 
+Chacun a droit à un usage pluriel de son corps et c'est ce qui a été refusé à James Baldwin : on lui reconnaît le droit de témoigner de sa condition de racisé, mais pas de prendre du plaisir avec des hommes blancs. 
+
+# L'abandon d'une émancipation collective au profit d'une morale individuelle
+
+Le rite social de la vérification des privilèges met l'accent sur la capacité de l'individu à se réformer lui-même, de même que le politiquement correct insiste sur le fait de châtier sa langue pour ne pas offenser autruit. Cette insistance sur le comportement individuel est indissociable d'une société dans laquelle on n'attend plus aucune perspective de libération collective, tout au plus une manière d'aménager le capitalisme pour le rendre compatible avec la survie de la planète. 
+Faute de cet horizon commun, les efforts militants se portent uniquement sur les comportements individuels et confinent à une sorte de morale ascétique : si tu ne peux pas changer le monde, change-toi toi-même([[@Quartierrougeplaisir]], p81). 
+
+> dans la mesure où la conscience des privilèges est individuelle, elle devient très facilement dépolitisante. Dire ses privilèges signifie au mieux "changer les règles du jeu, s'épuiser à vouloir jouer mieux, s'exténuer à jouer dans telle équipe, plutôt que dans telle autre". Cette réflexivité de tous les instants laisse inchangé le jeu lui-même.
 
 

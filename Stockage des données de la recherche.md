@@ -39,5 +39,10 @@ code informatique : HAL (envoi du document vers Sotware heritage). Depuis 2018, 
 | Sciences de la terre | [data terra](https://www.data-terra.org/) |
 | Sciences de la mer | [data ifremer](https://data.ifremer.fr/) |
 
+entrepôts institutionnels
+
+| institution | Pays | entrepôt | URL |
+|:---:|:---:|:---:|:---:|
+| Université de Lorraine | Lorraine | DOREL | https://factuel.univ-lorraine.fr/node/18396 |
 
 

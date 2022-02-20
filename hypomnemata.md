@@ -7,7 +7,7 @@ tags: [méthodes de travail, hypomnemèse]
 ---
 
 γπομνηματα : supports de mémoire
-supports de mémorisation (écriture en premier lieu) par extension outils avec lesquels nous externalisons nos souvrenirs, livres de comptes, agendas, carnets individuels, etc.
+supports de [[mémoire|mémorisation]] (écriture en premier lieu) par extension outils avec lesquels nous externalisons nos souvrenirs, livres de comptes, agendas, carnets individuels, etc.
 
 
 

@@ -7,11 +7,6 @@
     },
     {
       "type": "file",
-      "title": "Article ASTED",
-      "path": "Article ASTED.md"
-    },
-    {
-      "type": "file",
       "title": "markdown",
       "path": "markdown.md"
     }

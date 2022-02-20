@@ -12,7 +12,7 @@
   "foldHeading": true,
   "showFrontmatter": true,
   "foldIndent": true,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": false,
   "autoConvertHtml": false
 }

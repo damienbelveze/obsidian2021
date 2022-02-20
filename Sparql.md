@@ -7,10 +7,10 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [cartographie, opendata, Wikidata, langage_requête]
 ---
 
-langage d'interrogation pour chercher des entités liées, ce langage d'interrogation a été mis au point par le consortium World Wide Web et sert de langage d'interrogation à [[Wikidata]]
+Le SPARQL est un langage d'interrogation pour chercher des entités liées, ce langage d'interrogation a été mis au point par le consortium World Wide Web et sert de langage d'interrogation à [[Wikidata]]
 
 Analyse d'une requête en Sparql sur Wikidata (https://query.wikidata.org)
 
@@ -18,6 +18,7 @@ Analyse d'une requête en Sparql sur Wikidata (https://query.wikidata.org)
 
 ![](sparql_query.png)
 
+``````sparql
 \#cemeteries
 SELECT ?item ?itemLabel ?place ?coord
 WHERE
@@ -28,6 +29,7 @@ WHERE
 
    SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 }
+``````
 
 première ligne : commentaire (titre de la requête)
 
@@ -35,7 +37,7 @@ SELECT : indique les informations issus des résultats à faire figurer en colon
 
 WHERE {} permet de donner les critères de recherche. 
 
-?item wdt:P31 wd:Q1241568 : on retrouve à cet endroit le triplet item propriété valeur : tous les items qui ont pour propriété (est une instance de) la valeur "cimetière militaire"
+?item wdt:P31 wd:Q1241568 : on retrouve à cet endroit le triplet *item*, *propriété*, *valeur* : tous les items qui ont pour propriété (est une instance de) la valeur "cimetière militaire"
 
 Même chose à la ligne suivante : 
 

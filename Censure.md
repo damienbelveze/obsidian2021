@@ -33,5 +33,5 @@ Ce mécanisme a quelque chose à voir avec la [[réactance]]
 Jacques Julliard parle pour l'Université de trois glaciations successives. Chaque glaciation comporte un raidissement de la conversation scientifique notamment dans le domaine des sciences humaines avec des vagues d'affrontement idéologiques et des tentatives de censure.  
 - Années 50 : glaciation marxiste
 - Années 70 : glaciation maoïste
-- Années 2020 : glaciation de la [[Cancel culture]] ou du [[mouvement décolonial]]
+- Années 2020 : glaciation de la [[Cancel culture]] ou du [[Décolonialisme-indigénisme|décolonialisme]]
 La sociologue [[Nathalie Heinich]] dénonce cette troisième glaciation dans un petit opus (paru dans les tracts de Gallimard [[@HeinichCequemilitantisme2021]])

@@ -1,4 +1,15 @@
-#religion #islam
+---
+title: iconoclasme
+subtitle:
+author: Damien Belvèze
+date: 23-04-2021
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: [religion, islam]
+---
+
 
 Mouvement, en général religieux, visant soit à s'abstenir de créer des images soit à détruire celles qui existent. 
 
@@ -25,3 +36,4 @@ Mais de l'autre côté, les occidentaux qui pensent qu'en s'en prenant à Palmyr
 
 Même en détruisant des statues, il semble impossible au XXIème siècle de sortir de l'attraction des images. 
 
+# bibliographie

@@ -24,7 +24,7 @@ la pandémie de COVID a suscité un rythme de révision inédit sur les articles
 
 Ces articles ont été revus en moyenne en 6 jours seulement d'après un article paru dans Nature en juin 2020 ([[@PalayewPandemicpublishingposes2020]])
 
-Cette communication scientifique de crise nécessite de la part des éditeurs la mise en place de mesures particulières : 
+Cette [[communication scientifique]] de crise nécessite de la part des éditeurs la mise en place de mesures particulières : 
 
 - prévoir un circuit de publication d'urgence en cas d'urgence de santé (avec des listes de vérification spécifiques)
 - confier les révisions à des chercheurs qui sont déjà entraînés et expérimentés

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [fake science]
 ---
 
 Association "à but non lucratif" prétendant dénoncer les méfaits de "fake science" au nom d'une version rigoureuse de la science. 

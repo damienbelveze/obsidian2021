@@ -7,36 +7,20 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [MD]
-tags: [programmation, css, édition de texte, stretching numérique]
+tags: [programmation, css, édition de texte, stretching_numérique]
 ---
 
 # avantages du markdown
-<!--
-# Limites des traitements de texte
-
-Un traitement de texte peut-il vous convenir si :
-
-si vous voulez faire du code et du texte (usages scientifiques par exemple)
-
-si vous souhaitez inclure des formules mathématiques ou chimiques dans votre texte
-
-si vous souhaitez maîtriser toutes les étapes de la mise en page ? 
-
-si vous souhaitez convertir rapidement votre texte d'un format à un autre ? 
-
-NON
--->
-
 
 syntaxe très simple à apprendre permettant d'éditer dans une grande variété de formats (wiki, odt, doc, pdf, html, [[LaTeX]], ce qu'on appelle la versatilité. 
 
 Depuis 1984, ceux qui écrivent de la poésie et ceux qui écrivent du code, à quelques exceptions près, n'écrivent plus sur le même support numérique. (le traitement de texte Wordstar vendu avec la microinformatique de l'époque permettait auparavant d'écrire les deux avec le même logiciel)
 
-essor du traitement de texte qui ne permet plus d'écrire du code (maintien parallèle des éditeurs de texte pour les langages informatiques)
+essor du traitement de texte qui ne permet plus d'écrire du code / maintien parallèle des éditeurs de texte pour les langages informatiques ([[@DehutfiniravecWord2018]])
 
 >Nous avons donc perdu progressivement la capacité d’écrire dans un langage interprétable par la machine
 
-(Julien De Hut[[@DehutfiniravecWord2018]])
+
 
 Un traitement de texte est fait pour vous faciliter certaines mises en page en prenant en charge (et invisibilisant les opérations sous-jacentes), cela vous fait gagner du temps jusqu'à un certain point
 
@@ -45,14 +29,14 @@ le fait de recourir à ces traitements de texte opaques (parce que propriétaire
 LaTeX : découplage du texte et de sa mise en forme. Permet une finesse d'édition plus importante que les traitements de texte. 
 convient aux chercheurs en informatique pour qui l'édition est une affaire de programmation. 
 
-Aaron Swartz et John Gruber ont inventé le markdown plus simple à utiliser que la LaTeX (courbe d'apprentissage beaucoup moins grande)
+Aaron Swartz et John Gruber ont inventé le markdown plus simple à utiliser que la LaTeX (courbe d'apprentissage beaucoup moins grande)([[@DehutfiniravecWord2018]])
 
->Le HTML comprend un grand nombre de balises. La mise en page du texte peut être également enrichie au moyen du CSS. La force du Markdown résulte dans l’utilisation de balises peu nombreuses, simples à mettre en place et à mémoriser. Il devient aisé de réaliser un document dont on maîtrise la mise en page sur le Web, sans pour autant devoir apprendre le HTML. Plus encore, en conjonction de Pandoc qui est un moteur de conversion, il devient possible de produire aussi bien du HTML, que des pdf, des docx, des epub, et même des présentations de type PowerPoint. On ne produit alors ses données qu’une seule fois et on les exporte mises en forme automatiquement pour plusieurs supports. [[@DehutfiniravecWord2018]]
+>Le HTML comprend un grand nombre de balises. La mise en page du texte peut être également enrichie au moyen du CSS. La force du Markdown résulte dans l’utilisation de balises peu nombreuses, simples à mettre en place et à mémoriser. Il devient aisé de réaliser un document dont on maîtrise la mise en page sur le Web, sans pour autant devoir apprendre le HTML. Plus encore, en conjonction de Pandoc qui est un moteur de conversion, il devient possible de produire aussi bien du HTML, que des pdf, des docx, des epub, et même des présentations de type PowerPoint. On ne produit alors ses données qu’une seule fois et on les exporte mises en forme automatiquement pour plusieurs supports. 
 
 Au lieu d'apprendre à utiliser des interfaces qui changent régulièrement avec les changements de version et n'engendrent qu'un savoir restreint à l'éditeur de texte, apprenons plutôt le langage homme-machine pour compiler du texte avec des instructions de mise en forme. 
 L'une des raisons pour lesquelles écrire en markdown sur Obsidian peut être aussi une bonne introduction au code (de même que pour [[Twine]] fournit une introduction au langage Haskell)
 
-voir également la frustration d'universitaires qui considèrent que les traitements de texte restent trop attachés à l'impression comme finalité[[@Vitali-RosatichercheursSHSsaventils2018]]
+voir également la frustration d'universitaires qui considèrent que les traitements de texte restent trop attachés à l'impression comme finalité ([[@Vitali-RosatichercheursSHSsaventils2018]])
 
 
 # petite démonstration
@@ -62,7 +46,7 @@ voir également la frustration d'universitaires qui considèrent que les traitem
 Les fichiers qui seront utilisés au cours de l'atelier sont téléchargeables sur [github](https://github.com/damienbelveze/stretchnum)
 
 
-*instructions pour le formateur ou la formatrice : **
+**instructions pour le formateur ou la formatrice : **
 
 - cloner le dossier sur le bureau de son ordi
 - ouvrir le fichier kanagawa.md
@@ -70,7 +54,8 @@ Les fichiers qui seront utilisés au cours de l'atelier sont téléchargeables s
 
 ### conversion en PDF
 
-*Instructions pour le formateur ou la formatrice :**
+**Instructions pour le formateur ou la formatrice :**
+
 - montrer la versalité du markdown, faire d'abord une conversion en PDF avec [[pandoc]]
 
 ``````shell
@@ -119,10 +104,16 @@ On va appliquer la feuille de style ([[feuille de style|CSS]]) suivante (essai.c
 
 <style>
 
-/* le fait de mettre le css à l'interieur de balises <style> permettra d'utiliser la commande pandoc suivante :
+/* le fait de mettre le css à l'interieur de balises <style> permettra
+
+d'utiliser la commande pandoc suivante :
+
 pandoc -s fichierdépart.md -H fichier.css -o fichier_destination.html
 
-l'argument -H encapsule tout le css dans le header du document créé, avant le body, ce qui fait que le Css qui s'y trouve va être utilisé pour présenter l'ensemble du document */
+l'argument -H encapsule tout le css dans le header du document créé, avant le  
+body, ce qui fait que le Css qui s'y trouve va être utilisé pour présenter 
+
+l'ensemble du document */
 
 
 
@@ -173,7 +164,7 @@ blockquote.style {
 /* liste à puces, puces carrées */
 
 ul{
-   list-style: square;;
+   list-style: square;
 }
 
 </style>
@@ -206,7 +197,7 @@ Pour utiliser Stylo, il faut se créer un compte sur Huma-Num (infrastructure de
 
 ## Editer avec Stylo
 
-![](stylo1.png)
+![](images/stylo1.png)
 
 créer un nouveau document
 Pour ouvrir la console d'édition, cliquer sur "open" (en grisé en haut à gauche), quand elle gêne, la refermer ("close")

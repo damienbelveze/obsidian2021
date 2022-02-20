@@ -29,6 +29,21 @@ Bergstrom et West à titre d'exemple mentionnent l'envoi massif de mails au FCC 
 bots personnifiés : [Jenna Abrams](https://www.theguardian.com/technology/shortcuts/2017/nov/03/jenna-abrams-the-trump-loving-twitter-star-who-never-really-existed, influenceuse inexistante mais l'un des chevaux de Troie du Kremlin aux USA
 la capacité de personnifiier des bots avec des photos pour les rendre plus crédibles n'a fait qu'augmenter ces dernières années avec des sites comme [thispersondoesnotexist.com](https://thispersondoesnotexist.com/)
 Pour s'entraîner à les reconnaître, on peut se tester sur https://www.whichfaceisreal.com
+Quels trucs permettent d'identifier une photo de profil issue de ThisPersonDoesNotExist : https://twitter.com/_Le_Nain_/status/1491471922114220036
+
+Le visage est toujours :
+- en plan serré
+- de face
+- sans aucun élément qui le cache (pas de main sur la joue, de foulard, de masque...)
+- arrière-plan flou ou neutre
+- Un truc assez peu connu c'est que le générateur met toujours les yeux au même endroit. Exemple ici avec encore des fausses photos (les ronds rouges ne bougent pas) 
+ ![](bot2.png)
+ Les yeux sont toujours strictement alignés de façon horizontale
+ 
+-  les accessoires, lunettes, boucles d'oreille... sont rarement symétriques
+-  l'arrière-plan est souvent raté, surtout s'il y a un deuxième visage.
+- lunettes asymétriques
+- horizon pas cohérent à gauche et à droite, terrain dans une texture cheloue, épaules bizarres, ligne inidentifiable à gauche
 
 
 
