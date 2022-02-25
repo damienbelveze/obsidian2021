@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ee54b00cf7629642",
+        "id": "20102eae042fcf01",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "privilège blanc.md",
+            "file": "échanges de pratique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "a0a41f07b99a62c7",
+        "id": "f9338908ecd9378d",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "privilège blanc.md",
+            "file": "échanges de pratique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "privilège blanc.md",
+            "file": "échanges de pratique.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:privilège",
+                "query": "excalidraw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "privilège blanc.md",
+                "file": "échanges de pratique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "privilège blanc.md",
+                "file": "échanges de pratique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "privilège blanc.md"
+                "file": "échanges de pratique.md"
               }
             }
           }
@@ -177,15 +176,15 @@
   },
   "active": "c4f717f6b801a77e",
   "lastOpenFiles": [
-    "privilège blanc.md",
-    "plaisir vs désir.md",
-    "communication scientifique.md",
-    "revues népotiques.md",
-    "Révision par les pairs.md",
-    "preprint.md",
-    "Cours médiation scientifique.md",
-    "Article ASTED.md",
-    "délit de solidarité.md",
-    "démagogie.md"
+    "échanges de pratique.md",
+    "bibliothécaire _formateur2.md",
+    "Excalidraw/article_asted.excalidraw.md",
+    "excalidraw.md",
+    "Excalidraw/Drawing 2022-01-29 08.25.01.excalidraw.md",
+    "NFT.md",
+    "bibliométrie.md",
+    "Sujet.md",
+    "communication non-verbale.md",
+    "YAML.md"
   ]
 }

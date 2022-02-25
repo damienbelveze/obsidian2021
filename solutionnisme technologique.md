@@ -37,3 +37,7 @@ scholarship. The massive investment in networks and computers will not pay off u
 plutôt la techno que l'éducation, tel semble être la préférence du mouvement LREM pour gérer l'addiction des jeunes enfants aux écrans. 
 
 ![addiction des enfants aux écrans](addiction_ecrans.png)
+
+# Le solutionnisme dans les loisirs
+
+Après un accident de chasse entraînant la mort d'une randonneuse et impliquant une chasseuse de 17 ans le 21 février 2022, la réponse du gouvernement était [l'annonce d'une application à destination des randonneurs](https://www.nextinpact.com/lebrief/49896/apres-nouvel-accident-chasse-gouvernement-propose-application) permettant de s'informer en avance des lieux de chasse et de battues. Cette application fait porter la responsabilité des accidents sur les promeneurs (qui sans l'application seraient insuffisamment informés donc responsables de ce qui pourrait leur arriver) et épargne au gouvernemnet toute mesure visant à contrôler ou réguler davantage le déploiement de chasseurs dans les lieux de promenade. 

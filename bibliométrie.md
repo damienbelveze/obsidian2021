@@ -16,6 +16,13 @@ La bibliométrie qui préexistait a renforcé cette quantification du pilotage d
 Le [[facteur d'impact]] inventé par Eugène Garfield (aujourd'hui propriété de Clarivates) est longtemps resté le pivot de tout travail d'ordre bibliométrique. 
 Pour compléter les métriques citationnelles d'un article, des métriques liées à sa visibilité sur les réseaux sociaux ont été mises en place dans la décennie 2010-2020. Ces métriques alternatives ont été qualifiées d'alt-metrics (également écrit dans la forme [[altmetrics]])
 
+# facteurs d'impact
+
+# classements français
+
+[Le classement des revues du CNRS n'existe plus](https://twitter.com/Enroweb/status/1494085045254037506), mais des revues continuent de s'en prévaloir en 2022
+
+
 
 
 

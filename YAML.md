@@ -23,3 +23,12 @@ biblio-style: ieee.csl
 ---
 ```
 
+Pandoc traite l'entête Yaml notamment pour faire la page de titre. 
+Cet entête peut faire partie du document ou bien lui être associé sous la forme d'un document indépendant en format .yaml 
+
+Dans ce cas, la conversion peut se faire de la manière suivante : 
+
+````
+pandoc -s document1.md document2.md fichier.yaml -o book.html
+````
+(source : https://pandoc.org/MANUAL.html#pandocs-markdown)

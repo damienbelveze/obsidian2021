@@ -13,7 +13,7 @@ L'objet d'un [[Plan de gestion des données]] est de montrer comment ces princip
 
 ![fair data principe](FAIR1.jpg)
 
-# données FAIR en chimie
+# *Interoperable* : la question des formats ouverts
 
 Dès 1965 en cristallographie, des chercheurs ont commencé 
 format informatique interopérable (format CIF)

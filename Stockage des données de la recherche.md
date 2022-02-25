@@ -15,7 +15,12 @@ L'[[archivage]] de ces données consiste à rendre ces données accessibles et u
 
 ![[20210525_stockage_donnees_recherche.pdf]]
 
-# prescriptions d'entrepôts de données
+
+# Quelles vérifications faire avant de déposer un jeu de données
+
+![[diffusion_donnees.pdf]]
+
+# Quel entrepôt de données utiliser
 
 La question de l'entrepôt s'impose très vite, au moins au cours de la rédaction d'un [[Plan de gestion des données|Plan de gestion de données]]
 pratique des collègues de Doranum et de l'Université Toulouse-Jean Jaurès : 
@@ -37,12 +42,39 @@ code informatique : HAL (envoi du document vers Sotware heritage). Depuis 2018, 
 | Mathématiques | pas d'entrepôt, voir avec le [groupe RNBM](https://www.rnbm.org/category/le-reseau/groupes-de-travail/donnees-maths/) |
 | environnement rennais | [Osuris](https://accueil.osuris.fr/) |
 | Sciences de la terre | [data terra](https://www.data-terra.org/) |
-| Sciences de la mer | [data ifremer](https://data.ifremer.fr/) |
+| Sciences de la mer | [data ifremer](https://data.ifremer.fr/), [seanoe](https://www.seanoe.org/) |
 
 entrepôts institutionnels
 
 | institution | Pays | entrepôt | URL |
 |:---:|:---:|:---:|:---:|
 | Université de Lorraine | Lorraine | DOREL | https://factuel.univ-lorraine.fr/node/18396 |
+
+
+# dépôt du code-source des logiciels
+
+Software Heritage assure la conservation du code source des logiciels utilisés pour traiter les données à travers la plateforme HAL. 
+
+>par défaut, un logiciel sans licence n'autorise personne à l'utiliser.
+Une licence est donc essentielle pour permettre son usage, mais aussi à d'autres personnes de l'utiliser, le modifier et reverser à la communauté les évolutions 
+
+(Source : Philippe Gauron, mail du 22/02/2022 sur Accès Ouvert)
+
+Les licences recommandées par l'Etat français pour permettre la réutilisation du code produit par l'administration sont indiquées [sur le site data.gouv.fr](https://www.data.gouv.fr/fr/pages/legal/licences/)
+
+Pour comprendre à quoi correspondent licences permissives et licences à réciprocité : 
+
+   > **les licences permissives** qui ne protègent que la paternité des auteurs et limitent leur responsabilité. Elles autorisent la réutilisation, rediffusion, exploitation même commerciale ou modification de licence. Parmi celles-ci, on peut citer :
+     pour les logiciels : les licences BSDL, Apache, CeCILL-B et MIT. Voir sur ce site une liste des licences disponibles.
+
+
+   > **les licences avec obligation de réciprocité** qui obligent à conserver les conditions de la licence d’origine, et doivent la propager à toute œuvre dérivée. En particulier, elles peuvent restreindre l’utilisation commerciale des données et du code. Parmi celles-ci, on peut citer :
+     pour les logiciels : les licences Mozilla, GNU GPL et CeCILL (voir à nouveau ce site)
+ 
+
+(source: Céline Smith sur la liste Accès Ouvert, 21 février 2022, 17h15)
+
+Voir aussi le [niveau de propriété intellectuelle](https://hal.archives-ouvertes.fr/hal-02399517/file/20191202_plaquette_pi_licences_V1.1.pdf) du code en fonction du statut du créateur.
+Pour choisir une licence sous laquelle diffuser le logiciel, voir la présentation de Teresa Gomez-Diaz [[@Gomez-Diazlogicielsrechercheleurs2019]]
 
 

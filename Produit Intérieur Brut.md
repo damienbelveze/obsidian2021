@@ -23,7 +23,7 @@ Stéphane Foucart ( [[@FoucartCommenteconomieest2020]], p136) montre pourtant qu
 - taux d'obésité
 - incidences des différents cancers
 
-> Le PIB n'est donc pas une manière d'évaluer la richesse collective d'une nation, mais seulement les flux de biens et de services échangés sous les auspices des Marchés. Le capital - humain, naturel, indutriel- n'est pas pris en compte
+> Le PIB n'est donc pas une manière d'évaluer la richesse collective d'une [[nation]], mais seulement les flux de biens et de services échangés sous les auspices des Marchés. Le capital - humain, naturel, indutriel- n'est pas pris en compte
 
 (Foucart, op. cit. )
 

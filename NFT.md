@@ -27,6 +27,8 @@ Les NFT amorcent une tentative de sortie du paradigme de la rareté vers un reto
 
 # un escromarché ?
 
+![](NFT2.png)
+
 Le marché des NFT est avant tout un marché où le droit de propriété peut être usurpé sans qu'il y ait beaucoup de conséquences pour le vendeur (mais pour l'acheteur il en va tout autrement, ainsi que pour le vrai propriétaire)
 En effet, la seule chose que la [[blockchain]] certifie, c'est que vous être propriétaire d'un pointeur (une URL par exemple), mais ce que pointe ce pointeur peut disparaître ou devenir autre[[@SebsauvageproblemeavecNFT2022]] : 
 

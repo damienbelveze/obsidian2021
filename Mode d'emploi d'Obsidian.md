@@ -104,6 +104,27 @@ Voir  [[zettelkasten (méthode)]]
 
 # 3. Rédiger ses notes en [[markdown]]
 
+## 3.1 Qu'est-ce que Markdown ?
+
+### une syntaxe très représentée dans l'écriture web
+
+Markdown (avec une majuscule) est une syntaxe mise au point par John Gruber en 2004 et qui devait simplifier l'écriture web. Les développeurs l'utilisaient (et l'utilisent toujours) pour rédiger plus simplement du HTML en ayant recours à une syntaxe simplifiée par rapport au balisage du HTML. 
+L'usage du Markdown a fini par se répandre au delà du cercle des développeurs web, et des auteurs, notamment académiques, s'en sont emparés pour écrire des textes convertibles non seulement en HTML mais également dans d'autres formats comme LaTeX ou PDF. 
+Markdown permet d'utiliser des éditeurs de texte simple compatibles avec un nombre grandissant d'applications (Obsidian en fait partie). L'écriture en texte simple (plain text) a pour intérêt de pouvoir mêler du texte et du code et de se passer de formats propriétaires (par exemple word). 
+
+### différentes saveurs de Markdown
+
+John Gruber a fait en sorte de ne pas limiter l'usage de sa syntaxe, ce qui fait que beaucoup d'éditeurs se la sont appropriée pour monter leur propre éditeur Markdown. C'est pour cela que d'un outil à l'autre, on peut être confronté à des saveurs (flavors) différentes de Markdown. Par exemple, un lien ne se formate par exactement de la même manière sur Slackmarkdown et sur Atom. 
+
+Le principe de Gruber était d'inciter l'utilisateur à avoir recours directement au HTML chaque fois que rien n'était prévu dans Markdown pour éditer tel ou tel élément du texte (par exemple les notes de bas de page ou les tableaux): 
+
+>For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags.
+
+([John Gruber](https://daringfireball.net/projects/markdown/syntax#html))
+
+Pourtant, comme le rappelle Knut Malvaer, les éditeurs ont eu tendance à adapter Markdown et à augmenter ses capacités pour satisfaire leurs usagers parmi lesquels la proportion des auteurs non développeurs n'a cessé de croître, ce qui fait que la syntaxe Markdown n'est plus entièrement unifiée d'un éditeur à l'autre[[@MelvaerThoughtsMarkdown2022]]. 
+[Commonmark](https://commonmark.org/) a été créé pour fixer une syntaxe en markdown minimale, transposable d'un outil à l'autre, ce qui aide dans une certaine mesure les développeurs à gérer cette hétérogénéité dans le formatage en markdown (car le markdown est devenu depuis 2004 la *lingua franca* de l'écriture web). Cela n'empêche toujours pas un éditeur d'ajouter les fonctionnalités qu'il souhaite à cette base que constitue Commonmark. Ainsi Rmarkdown continue d'avoir une syntaxe markdown un peu différente de github sur des fonctions spécifiques même si à la base ces deux services utilisent Commonmark.
+
 ## 3.2 niveaux de titre
 
 Le titre de la note est distinct du nom du fichier. Le nom du fichier est la première chose qui est créée de la note. 
@@ -234,7 +255,7 @@ On peut aussi définir ces tags dans le pavé YAML (voir plus bas), ce qui a l'a
 
 ## 3.5  autres langages (html, LaTeX)
 
-Le markdown est une syntaxe très simple à apprendre et très versatile. Toutefois, ce n'est pas une syntaxe universelle. Pour éditer certains contenus, vous aurez besoin de faire appel à d'autres langages à l'intérieur de votre texte en markdown, notamment le Html ou le LaTeX (si vous avez téléchargé un éditeur LaTeX vous pourrez constater que le LaTeX et le Markdown font plutôt bon ménage dans Obsidian)
+Le markdown est une syntaxe très simple à apprendre et très versatile. Toutefois, il n'a pas été conçu comme une syntaxe universelle permettant d'éditer intégralement un ouvrage ou un diaporama. Comme l'indiquait John Gruber (voir plus haut [[Mode d'emploi d'Obsidian#différentes saveurs de Markdown]] pour obtenir la présentation souhaitée pour certains contenus, on aura besoin parfois de faire appel à d'autres langages dans son document, notamment le HTML ou LaTeX (si vous avez téléchargé un éditeur LaTeX vous pourrez constater que le LaTeX et le Markdown font plutôt bon ménage dans Obsidian)
 
 ### utilisation du LaTeX
 Obsidian n'est pas un éditeur en LaTeX et ne se substitue pas à ce genre d'éditeur. 
@@ -606,6 +627,12 @@ Activer ce plugin, vous permettre de constituer des templates (voir ci-dessous)
 Il est très simple grâce à ce plugin de constituer des diapositives et les présenter à la place d'un document impress ou powerpoint. 
 
 chaque diapositive est séparée de la précédente par trois tirets (\-\-\-)
+
+
+### Les plugins payants Sync et Publish
+
+Ces plugins sont payants parce qu'ils supposent un hébergement des données sur les serveurs d'Obsidian et une synchronisation avec entre ces serveurs et l'ordinateur qu'on utilise pour modifier les fichiers. 
+Leur recours peut-être intéressant pour constituer des tutoriels accessibles en ligne à partir de ses notes (voir par exemple ces [50 leçons et exercices pour apprendre le HTML, le Javascript et le CSS](https://publish.obsidian.md/yannhoury/Documentation/HTML-CSS/Cours+HTML+CSS+JS/Index))
 
 
 
