@@ -17,7 +17,7 @@ Other files:
 
 # première étape
 
-Les théories du complot et les rumeurs, comme formes de manifestation de la pensée sociale (Rouquette, 1973), partagent processus et fonctions. Le peu d’études s’intéressant spécifiquement à la question des croyances dans les rumeurs questionnait le lien entre adhésion et transmission (Allport & Lepkin, 1943 ; Rosnow, 1991 ; Guerin et Miyazaki, 2006).
+Les théories du complot et les rumeurs, comme formes de manifestation de la pensée sociale (Rouquette, 1973), partagent processus et fonctions. Le peu d’études s’intéressant spécifiquement à la question des [[croyances]] dans les rumeurs questionnait le lien entre adhésion et transmission (Allport & Lepkin, 1943 ; Rosnow, 1991 ; Guerin et Miyazaki, 2006).
 
  
 

@@ -10,7 +10,7 @@ aliases: [marché cognitif]
 ---
 
 
-Avec l'avènement du web et des réseaux sociaux, certains penseurs comme [[Gérald Bronner]] parlent d'une dérégulation du marché médiatique qui aurait libéré les puissances mauvaises des fake news loin du contrôle des émetteurs traditionnels d'information que sont les éditorialistes et les journalistes. 
+Avec l'avènement du web et des réseaux sociaux, certains penseurs comme [[Gérald Bronner]] parlent d'une dérégulation du marché médiatique qui aurait libéré les puissances mauvaises des fake news loin du contrôle des émetteurs traditionnels d'information que sont les [[éditorialistes|ligne éditoriale]] et les journalistes. 
 [[Dominique Cardon]] critique cette vision uniforme d'une dérégulation du marché cognitif qui nous fait croire que les individus vivent séparés les uns des autres mais connectés directement aux informations : 
 
 >Cet effet panique doit être analysé comme une conséquence de l’empire qu’exerce la grille d’interprétation individualisante que nous portons désormais sur tous les phénomènes relatifs à la société numérique. Là plus qu’ailleurs, s’est imposé l’idée d’une société en apesanteur d’individus atomisés ballottés en tous sens par des informations orphelines que le numérique auraient libérées du contrôle éditorial des médias.[[@CardonPourquoiavonsnoussi2019a]]

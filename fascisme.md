@@ -12,11 +12,9 @@ tags: [sciences politiques]
 
 Les 14 signes pour reconnaître un mouvement ou une proposition fasciste selon Umberto Eco
 
-![](facisme1.jpg)
+![](images/facisme1.jpg)
 
-![](facisme2.jpg)
-
-
+![](images/facisme2.jpg)
 
 
 

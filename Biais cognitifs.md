@@ -9,6 +9,14 @@ aliases: [ biais cognitifs, heuristiques, cognitive biases]
 
 # Approches de la désinformation sous l'aspect des biais cognitifs
 
+Dans la théorie classique de l'économie, l'information est inégalement partagée entre les agents et ceux qui ont besoin de cette information mettent en place des heuristiques qui ne sont pas optimales, dans la mesure où elles ne leur permettent pas d'obtenir une information susceptible de maximiser leurs bénéfices. 
+Les humains choisiraient des heuristiques peu coûteuses en effort pour obtenir des gains peu élevés car basés sur une information de piètre qualité (mais néanmoins satisfaisante en rapport avec le faible coût qui a été nécessaire pour l'obtenir)[[@Williamsmarketplacerationalizations2022]]
+
+> According to this influential body of work, human minds are not optimizing statistical inference mechanisms but flawed and constrained ‘satisficers’ dependent on fast and frugal – and thus frequently suboptimal – cognitive mechanisms (Simon Reference Simon1955, Reference Simon1956; Kahneman et al. Reference Kahneman, Slovic, Slovic and Tversky1982; Kahneman Reference Kahneman2003; Masatlioglu et al. Reference Masatlioglu, Nakajima and Ozbay2012).
+
+
+
+
 ## Comment les biais cognitif permettent de masquer certains enjeux économiques et politiques en matière d'éducation. 
 
 voir également [[institutionnalisation de l'EMI#ne pas focaliser sur les biais cognitifs]]

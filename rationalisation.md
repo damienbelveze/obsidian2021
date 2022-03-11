@@ -1,5 +1,10 @@
-en anglais [[motivated reasoning]]
-tendance à évaluer l'information de telle sorte que cette évaluation soit conforme à une opinion déjà existante, cette opinion fût-elle erronée et contredite par de nombreuses preuves. 
+en anglais *[[motivated reasoning]]* ou *rationalization*
+tendance à évaluer l'information de telle sorte que cette évaluation soit conforme à une opinion déjà existante, cette opinion fût-elle erronée et contredite par de nombreuses preuves.
+
+information créée pour apporter un soutien épistémique à une croyance qui a été choisie pour des raisons non-épistémiques[[@Williamsmarketplacerationalizations2022]]
+
+> namely, information created or selected to provide epistemic support for beliefs that agents want to hold for non-epistemic reasons
+
 La rationalisation nous permet d'échapper à la [[Dissonance cognitive]]
 
 >"L'information brute est dès lors souvent inutile pour infléchir l'opinion des personnes convaincues, parce que l'information brute ne tient pas compte de ce qui fait de nous des humains : nos émotions, nos désirs et surtout nos convictions préalables"[[@Gauvrittetesbienfaites2019]](p115)
@@ -37,3 +42,21 @@ Selon cette théorie, toute démonstration de raison serait par définition une 
 >D’autant plus que nombreux sont ceux qui dénoncent justement la perte d’esprit du capitalisme et particulièrement du capitalisme financier. Paul Valéry utilisait paradoxalement la métaphore de la bourse pour observer le déclin de la valeur esprit[24]. Ce déclin confine sans doute à une forme de banqueroute voire de dette croissante. Une dette qui a commencé avec le détournement des Lumières dans sa réduction à un processus de rationalisation au détriment de l’exercice de la raison
 
 (Olivier Le Deuff [[@LeDeuffRipostedigitalePour2021]])
+
+# Vers un marché de la rationalisation
+
+Nourrir une croyance même très éloignée de la vérité peut avoir une utilité subjective plus importante que d'avoir une connaissance exacte de la réalité. 
+La plupart des gens sont attirés par des croyances qui s'alignent sur les leurs, mais pour y adhérer, ils ont besoin de raisonnements qui en apparence seront rationnels. 
+C'est seulement à ce prix qu'ils pourront se convaincre eux-mêmes du bien-fondé de cette croyance. Pour trouver ces raisonnements, ils sont prêts à rémunérer ceux qui les leur fourniront, sur un marché de la rationalisation soit en argent (adhésion à des sites diffusant de la propagande anti-vaxx), soit en attention (les promoteurs de fausses informations seront rémunérés sur la base de likes et de follows)[[@Williamsmarketplacerationalizations2022]]
+
+>>belief ‘choice’ is subject to a rationalization constraint, such that individuals can only bring themselves to believe things for which they can find appropriate rationalizations. I argue that these facts give rise to a spontaneous market for rationalizations, a social structure in which agents compete to produce justifications of widely desired beliefs in exchange for money and social rewards such as attention and status
+
+Un marché de la rationalisation réunit : 
+- des demandeurs de rationalisation
+- des producteurs de rationalisation
+- une valeur économique affectée à la rationalisation
+- le média qui permet d'échanger ou d'acheter une rationalisation
+- le mécanisme d'ajustement des prix entre offre et demande qui permet l'achat de rationalisation
+
+La [[polarisation]] dans les sociétés démocratiques avancées augmentent la demande en matière de discours utiles à la rationalisation
+

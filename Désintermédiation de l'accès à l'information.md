@@ -29,7 +29,7 @@ Avez-vous rencontré à la bibliothèque des promoteurs de théories conspiratio
 La désintermédiation va de pair avec la désinstitutionnalisation
 
 Les gens adhèrent à de fausses théories parce qu'ils n'ont plus confiance dans les consensus. 
-Bcp de gens qui n'y connaissent rien en climat adhèrent au consensus du GIEC, mais beaucoup de climatologues patentés, refusent d'y adhérer parce que ce consensus va à rebours de leurs croyances ([[@PinkerPlaidoyerpourrationalite2021]]. Ils font porter le soupçon sur ces institutions en utilisant et en grossissant des failles réelles que présentent ces institutions ([[biais de publication]] ou [[biais de financement]] par exemple)
+Bcp de gens qui n'y connaissent rien en climat adhèrent au consensus du GIEC, mais beaucoup de climatologues patentés, refusent d'y adhérer parce que ce consensus va à rebours de leurs [[croyances]].([[@PinkerPlaidoyerpourrationalite2021]]. Ils font porter le soupçon sur ces institutions en utilisant et en grossissant des failles réelles que présentent ces institutions ([[biais de publication]] ou [[biais de financement]] par exemple)
 
 cf. [déclaration de cette personne](https://youtu.be/JajaQy8PWQs?t=457) à une "Université citoyenne" en juin 2021:
 

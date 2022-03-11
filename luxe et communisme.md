@@ -1,3 +1,27 @@
+---
+title: luxe et communisme
+subtitle:
+author: Damien Belvèze
+date: 16-05-2021
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: [luxe communal]
+tags: []
+---
+
+# Du luxe communal...
+
+Terme employé par Eugène Pottier (auteur de l'Internationale) pendant la Commune pour qualifier un luxe à la portée de tous, pour le plaisir des sens et de l'esthétique mais libéré de la fascination pour la hiérarchie et le sacré. 
+
+> A l'inverse, le luxe communal promeut un partage égalitaire effectif des beautés architecturales. Rompant avec la croyance ascétique selon laquelle la seule chose que les prolétaires ont en commun est leur misère, il propose l'édification d'un "monde où chacun aurait sa part du meilleur"
+
+([[@FoesselQuartierrougeplaisir2022]], p197)
+
+Le luxe communal devait au départ prendre pour socle une éducation gratuite, laïque et obligatoire pour tout.e.s (la Commune l'a institué avant la République) pour une éducation intégrale qui associe les travaux manuels, intellectuels et artistiques.
+
+# ...au luxe dans une société communiste
+
 a priori ces termes s'opposent. Le luxe promis aux apparatchiks dans les années 80 signaient aussi le déclin de l'[[Idéologie|idéologie]] communiste en Russie. 
 Le luxe va traditionnellement de pair avec le [[Capitalisme|capitalisme]]. Pourtant, si l'on change quelque peu la définition du mot "luxe", on peut sans diffficulté l'associer au communisme et en faire un élément de la vie de tout à chacun dans une société communiste. 
 

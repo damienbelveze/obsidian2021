@@ -15,7 +15,7 @@ asymétrie de l'onction
 
 (Tronche en biais)
 
->Les gens qui ont des croyances sont plus prosélytes que les gens qui ont des connaissances (Etienne Klein)
+>Les gens qui ont des [[croyances]] sont plus prosélytes que les gens qui ont des connaissances (Etienne Klein)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIwtT8cAAKI?start=810" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -5,7 +5,11 @@ author: Damien Belvèze
 date: 
 link_citations: true
 aliases: [fact-checkers, fact-check, vérification des faits]
+tags: [désinformation, journalisme]
 ---
+
+
+# sites de fact-checking
 
 Quelques sites de fact-checking politique : 
 
@@ -15,3 +19,9 @@ Quelques sites de fact-checking politique :
 Politifact.com
 
 
+# le fact-checking du fact-checking
+
+Paradoxe : qui custodient custodies / qui va checker les checkers ? 
+
+Arme de la désinformation (au service de la Russie ou de l'extrême droite). Emprunter les codes du fact-checking pour se donner une apparence de sérieux journalistique et s'attaquer au travail de vérification des vrais journalistes : 
+https://twitter.com/oliviertesquet/status/1501959092910370826

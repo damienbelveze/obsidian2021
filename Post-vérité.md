@@ -25,7 +25,7 @@ Ce mensonge ressort davantage du [[bullshit]] que de la duperie, dans la mesure 
 
 Pour [[Eric Sadin]], la post-vérité est un concept inexact pour désigner une ère où chacun a le loisir d'exprimer sa vérité en exprimant la souffrance qui la fonde au moyen d'outils d'expression non médiés (et peu modérés) comme Twitter : 
 
->Bien davantage que l'avènement d'une « post-vérité », ce à quoi nous avons assisté, c'est à une atomisation des croyances, chacun s'en remettant à sa propre perception des choses, rabattue à ses souffrances.[[@LeCorreEricSadinComment2021]]
+>Bien davantage que l'avènement d'une « post-vérité », ce à quoi nous avons assisté, c'est à une atomisation des [[croyances]], chacun s'en remettant à sa propre perception des choses, rabattue à ses souffrances.[[@LeCorreEricSadinComment2021]]
 
 
 

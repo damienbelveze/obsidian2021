@@ -19,7 +19,7 @@ Etienne Klein va dans ce sens lors d'un entretien donné à Thinkeriew en indiqu
 # La connaissance est une sensation
 
 Lorsqu'on prétend savoir quelque chose, ce n'est pas en vertu d'un savoir qu'on aurait édifié soi-même, d'une recherche qu'on aurait faite, d'une décision qu'on aurait prise, c'est en raison d'une émotion qui se déclenche parfois sur un socle cognitif très limité. 
-Cette sensation est la même que celle qui se déclenche chez le patient schizophrène, la différence est que dans la personne non schizophrène, l'objet de nos croyances est moins délirant.
+Cette sensation est la même que celle qui se déclenche chez le patient schizophrène, la différence est que dans la personne non schizophrène, l'objet de nos [[croyances]] est moins délirant.
 
 <p>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/zSRDgZCyEu0?start=181" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

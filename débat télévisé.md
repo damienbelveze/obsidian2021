@@ -23,7 +23,7 @@ Dans son ouvrage Sur la Télévision (1996), Bourdieu montrait en outre que les 
 
    > Quand on n'est pas un tout petit peu préparé, on répond à des questions qui ne se posent pas.
 
-- l'animateur (plus souvent que l'animatrice) est une personnalité mixte, plutôt issu du showbiz que journaliste. Il s'entoure de chroniqueurs, vedettes, écrivains éditorialistes qui se connaissent, sont en connivence (voir ci-dessus), et sauront parler de tout avec le même applomb. Face à eux, les invités plus experts de la question mais moins habitués au plateau et à ses rites, parfois moins à l'aise dans la prise de parole dans ce contexte se trouvent en position de dominés. 
+- l'animateur (plus souvent que l'animatrice) est une personnalité mixte, plutôt issu du showbiz que journaliste. Il s'entoure de chroniqueurs, vedettes, écrivains [[ligne éditoriale|éditorialistes]] qui se connaissent, sont en connivence (voir ci-dessus), et sauront parler de tout avec le même applomb. Face à eux, les invités plus experts de la question mais moins habitués au plateau et à ses rites, parfois moins à l'aise dans la prise de parole dans ce contexte se trouvent en position de dominés. 
 - rôle de l'animateur qui distribue de manière inégale la parole, assigne de manière inégale les marques d'importance, presse les intervenants d'arriver à la conclusion qu'il veut leur entendre dire
 - l'animateur réduit la construction d'un argument à un seul exemple
 

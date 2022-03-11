@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20102eae042fcf01",
+        "id": "ebb3e9f33dffa06f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "échanges de pratique.md",
+            "file": "Editeurs prédateurs en open access.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "f9338908ecd9378d",
+        "id": "abd90855d9a2519f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "échanges de pratique.md",
+            "file": "Editeurs prédateurs en open access.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "c4f717f6b801a77e",
+        "id": "65c448477df87f8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "échanges de pratique.md",
+            "file": "Editeurs prédateurs en open access.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "excalidraw",
+                "query": "éditeurs prédateurs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,11 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 193.00385665893555
+    "width": 287
   },
   "right": {
     "id": "7f36bb58d7e8a0b7",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "échanges de pratique.md",
+                "file": "Editeurs prédateurs en open access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "échanges de pratique.md",
+                "file": "Editeurs prédateurs en open access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "échanges de pratique.md"
+                "file": "Editeurs prédateurs en open access.md"
               }
             }
           }
@@ -174,17 +175,17 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "c4f717f6b801a77e",
+  "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "échanges de pratique.md",
-    "bibliothécaire _formateur2.md",
-    "Excalidraw/article_asted.excalidraw.md",
-    "excalidraw.md",
-    "Excalidraw/Drawing 2022-01-29 08.25.01.excalidraw.md",
-    "NFT.md",
-    "bibliométrie.md",
-    "Sujet.md",
-    "communication non-verbale.md",
-    "YAML.md"
+    "Editeurs prédateurs en open access.md",
+    "pseudonymat.md",
+    "Anonymat.md",
+    "illectronisme.md",
+    "Fact-checking.md",
+    "communauté.md",
+    "Argument du colibri.md",
+    "tiers-lieu.md",
+    "friction.md",
+    "Economie de l'attention.md"
   ]
 }

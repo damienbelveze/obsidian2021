@@ -23,7 +23,7 @@ D'autres souhaitent plutôt traiter avec les étudiants les questions qui en mat
 
 - savoir mesurer la fiabilité d'un média (par exemple, savoir quel contrôle qualité de l'information est fait dans ce média, si les rédacteurs sont des journalistes professionnels)
 - savoir mesurer l'expertise d'un auteur (par exemple : chercher les publications d'un auteur sur un sujet et vérifier qu'elles sont fréquemment citées)
-- être en mesure d'identifier des biais dans le traitement de l'information (ligne éditoriale et spectre politique, financement du site)
+- être en mesure d'identifier des biais dans le traitement de l'information ([[ligne éditoriale]] et spectre politique, financement du site)
 - Evaluer la qualité d'un article encyclopédique (wikipédia)
 - vérifier une information en consultant d'autres sources
 - retrouver le contexte de production d'une image

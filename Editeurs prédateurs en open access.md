@@ -4,7 +4,7 @@ subtitle:
 author: Damien Belvèze
 date: 20210211
 link_citations: true
-aliases: [predatory open access journals]
+aliases: [predatory open access journals, highjacking journals]
 ---
 
 #intégritéscientifique
@@ -36,7 +36,7 @@ intérêt des gros éditeurs à élever le niveau de qualité d'un journal pour 
 
 # Les conséquences de cette prédation
 
-## Conséquences pour le chercheur
+## Conséquences pour le chercheur et son équipe
 Les éditeurs prédateurs font signer des clauses du type cc-by (creative commons). Le droit d'auteur français prévoit un droit de rétractation inaliénable, quelque soit le type de convention sous laquelle on publie. Le droit français en théorie s'impose mais l'éditeur est susceptible de ne pas le reconnaître et peut considérer que le droit qui prévaut est celui de son contrat (CC:by)
 
 >Votre chercheur a accepté d'attribuer une licence "CC BY" sur sa publication qui est une licence considérée comme définitive et qui permet une exploitation commerciale de son article. Cependant, le droit français considère qu'on ne peut pas céder ses droits moraux, parmi lesquels le droit au repentir. La loi est supérieure à une licence mais le problème est que ce sera difficile à faire accepter par la revue, qui elle-même est localisée au Royaume-Uni et dépend donc d'un droit de copyright qui ne prévoit pas le repentir.
@@ -45,10 +45,14 @@ Les éditeurs prédateurs font signer des clauses du type cc-by (creative common
 
 [[@HannounPartageMailsediteurs2022]]
 
+Parfois une deuxième publication dans un journal sérieux est possible, mais dans ce cas, le coût de la première publication en terme d'argent et et de temps est une perte nette pour le chercheur et son équipe. 
+
 ## Conséquences pour les journaux qui exercent un vrai travail de [[Révision par les pairs|peer reviewing]]
 
 
 ## Conséquences pour le public (perte de crédibilité de la science)
+
+Les articles sont publiés comme des résultats validés alors qu'ils ne l'ont pas été et sont parfois cités comme articles validés par des journaux légitimes, cela fait baisser le niveau de la science publiée. 
 
 # Quelles questions on peut se poser pour déterminer si un éditeur est un éditeur prédateur.
 
@@ -71,6 +75,13 @@ Interroger les doctorants au moyen d'un klaxoon board sur les caractéristiques 
 demander aux doctorants d'analyser des journaux avec l'aide de COMPASS
 
 # de l'éditeur en mal d'organisation au pirate
+
+
+## Les détournements de marque
+
+Les journaux qui usurpent le titre et les caractéristiques d'une revue qui jouit d'une certaine notoriété ("highjacking journals") pour attirer les soumissions sont les plus susceptibles de tromper les publiants[[@SinghWhatyouneed2021]]. 
+
+
 
 ## des cas patents de prédation
 

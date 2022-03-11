@@ -32,7 +32,7 @@ De nouvelles pistes de monétisation émergent qui ne reposent plus forcément s
 
 - microtransactions avec de la monnaie virtuelle pour accéder à tel ou tel contenu
 
-- abonnement pour éviter un service sans friction et plus complet (freemium)
+- abonnement pour éviter un service sans [[friction]] et plus complet (freemium)
 
 - l'abonnement (à une plateforme de podcast par exemple)
 

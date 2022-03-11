@@ -86,7 +86,7 @@ Afin de synchroniser ses fichiers avec ceux que contient son ordinateur,
 ## 1.5 une interface agréable
 
 Obsidian offre une interface agréable à l'utilisateur. On peut comme dans Emacs ouvrir plusieurs buffers (fenêtres en même temps) et les organiser. 
-Certaines curiosités existent pourtant qui peuvent être déroutantes pour un débutant. Par exemple pour zoomer et dézoomer sur une note (sur Windows, Ctrl+ permet de zoomer, c'est classique, Ctrl 0 permet de revenir à la taille par défaut)
+Certaines curiosités existent pourtant qui peuvent être déroutantes pour un débutant. Par exemple pour zoomer et dézoomer sur une note (sur Windows, Ctrl+ permet de zoomer, c'est classique, **Ctrl 0 permet de revenir à la taille par défaut**)
 
 ## Les fichiers se trouvent par défaut sur sa machine
 

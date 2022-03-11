@@ -14,7 +14,7 @@ tags: []
 
 ## transmettre des informations
 
-## partager des croyances (et les renforcer en les partageant)
+## partager des [[croyances]] (et les renforcer en les partageant)
 
 >Communication is how we establish, reinforce, and celebrate a shared framework for thinking about the world. Think about a religious mass, or even the scripted, ordered regularity of the nightly news. Communication over social media does the same thing: It creates and structures social communities. When we send out a tweet or Facebook post or Instagram image, we are affirming our commitment to the values and beliefs of our particular online community. As the community responds, these common values are reaffirmed through likes, shares, comments, or retweets[[@BergstromCallingBullshitArt2020]]
 
