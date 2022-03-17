@@ -73,6 +73,7 @@ Colonne E : supprimer la parenthèse fermante
 
 # paramétrer l'affichage des données importées dans Umap
 
+Umap est un éditeur de cartes [[OpenStreetMap]]
 Si l'import du fichier ne se fait pas bien à partir du module d'import. Copier les valeurs avec leurs entêtes dans le module d'import, si c'est demandé, spécifiez qu'il s'agit d'un fichier en format CSV.
 
 Des marqueurs devraient apparaître pour indiquer les lieux figurant dans le jeu de données. 
@@ -99,5 +100,7 @@ Pour visualiser les changements, enregistrer les modifications et désactiver le
 # exercice. 
 
 Réaliser un calque supplémentaire avec des données sur les cimetières de guerre en Allemagne
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbm4b1-XBmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

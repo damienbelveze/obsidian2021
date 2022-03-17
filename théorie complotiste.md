@@ -131,7 +131,7 @@ Pour Eric Sadin, la théorie du complot est une manière de se réapproprier un 
 
 > l'essor du complotisme, comme la sensation, illusoire, de reprendre les rênes de sa vie via des récits extravagants. 
 
-En butte à une accusation de conspirer contre les Etats-Unis pendant la guerre du Viet-Nam, Andy Warhol rappelait que l'étymologie du mot *conspiracy* était *cum-spirare* : respirer ensemble. D'après Peter Szendy, dans la Rome de Cicéron, le verbe conspirare pouvait aussi bien qualifier une aspiration générale (en l'occurrence à une libération collective) qu'une tentative de sédition. L'individu conspirationniste prétend agir pour libérer le collectif, même s'il commence par se désolidariser de collectif[[@SzendyPneumatopolitiqueceque2022]].
+En butte à une accusation de conspirer contre les Etats-Unis pendant la [[guerre]] du Viet-Nam, Andy Warhol rappelait que l'étymologie du mot *conspiracy* était *cum-spirare* : respirer ensemble. D'après Peter Szendy, dans la Rome de Cicéron, le verbe conspirare pouvait aussi bien qualifier une aspiration générale (en l'occurrence à une libération collective) qu'une tentative de sédition. L'individu conspirationniste prétend agir pour libérer le collectif, même s'il commence par se désolidariser de collectif[[@SzendyPneumatopolitiqueceque2022]].
 
 # Références
 

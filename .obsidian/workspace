@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb3e9f33dffa06f",
+        "id": "0a47f36338514af2",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Editeurs prédateurs en open access.md",
+            "file": "gestion des mots de passe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "abd90855d9a2519f",
+        "id": "f02ad076a1e7cb5e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Editeurs prédateurs en open access.md",
+            "file": "gestion des mots de passe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Editeurs prédateurs en open access.md",
+            "file": "gestion des mots de passe.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "éditeurs prédateurs",
+                "query": "\"mots de passe\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Editeurs prédateurs en open access.md",
+                "file": "gestion des mots de passe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Editeurs prédateurs en open access.md",
+                "file": "gestion des mots de passe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Editeurs prédateurs en open access.md"
+                "file": "gestion des mots de passe.md"
               }
             }
           }
@@ -177,15 +177,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "Editeurs prédateurs en open access.md",
-    "pseudonymat.md",
-    "Anonymat.md",
-    "illectronisme.md",
-    "Fact-checking.md",
-    "communauté.md",
-    "Argument du colibri.md",
-    "tiers-lieu.md",
-    "friction.md",
-    "Economie de l'attention.md"
+    "gestion des mots de passe.md",
+    "Navigateur Tor.md",
+    "gérer un serveur sous Linux.md",
+    "Sparql.md",
+    "OpenStreetMap.md",
+    "Umap.md",
+    "Umap (stretching numérique).md",
+    "sobriété numérique.md",
+    "consommation énergitique du numérique.md",
+    "TOTP.md"
   ]
 }

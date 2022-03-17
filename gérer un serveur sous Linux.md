@@ -10,6 +10,11 @@ aliases: []
 tags: [linux]
 ---
 
+La très grande majorité des terminaux fonctionnent avec un système propriétaire, la très grande majorité des serveurs fonctionnent avec le système libre Linux : 
+
+![](linux_servers.png)
+
+
 # savoir de combien de mémoire on dispose sur le serveur : 
 
 `free -h`

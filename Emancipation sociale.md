@@ -42,7 +42,11 @@ Il indique que ce phénomène touche toutes les couches de la société, depuis 
 Lutter contre la prolétarisation des savoirs ou "déprolétariser" consiste à donc à redonner aux humains du contrôle et une compréhension des algorithmes qui ont prise sur leurs vies. Cela consiste aussi à repérer les biais induits dans ces algorithmes par leurs concepteurs. 
 
 
+# Ateliers de transition numérique
 
+Ateliers destinés à rendre les participants capables en matière informatique et numérique. Ces ateliers ont lieu souvent dans les bibliothèques à qui depuis peu les ateliers Google offrent une concurrence forte. 
+
+Ateliers numériques pour jeunes : posture [[HOMAGO]]
 
 
 

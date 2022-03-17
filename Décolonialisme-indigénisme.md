@@ -12,7 +12,7 @@ tags: []
 
 # Sortir de la posture du décolonisé
 
-> Le huis-clos du colonisé/colonisateur aboutit à un insondable malentendu qui voit ceux qui n’ont jamais colonisé un pays se faire juger par ceux qui n’ont jamais vécu la colonisation, refaisant dans l'absurde une guerre depuis longtemps finie.
+> Le huis-clos du colonisé/colonisateur aboutit à un insondable malentendu qui voit ceux qui n’ont jamais colonisé un pays se faire juger par ceux qui n’ont jamais vécu la colonisation, refaisant dans l'absurde une [[guerre]] depuis longtemps finie.
 
 (Kamel Daoud, [à propos d'une photo de Depardon](https://twitter.com/daoud_kamel/status/1491166148960079874))
 

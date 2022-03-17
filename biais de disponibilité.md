@@ -14,7 +14,7 @@ Lorsqu'on s'interroge sur le risque de prendre l'avion par rapport à celui d'au
 
 Un autre exemple proposé par Steven Pinker est le suivant, si on demande aux gens la quelle de ces deux probabilités est la plus grande[[@PinkerPlaidoyerpourrationalite2021]], 10min45 : 
 
-- l'irruption prochaine d'une nouvelle guerre mondiale
+- l'irruption prochaine d'une nouvelle [[guerre]] mondiale
 - l'invasion de Taïwan par la Chine déclenchant une guerre entre les USA et la Chine
 
 La plupart des gens répondent que c'est la deuxième option, parce que les médias en parlent comme étant une cause possible de déclenchement d'une nouvelle guerre mondiale. En réalité, la première option intégrant la seconde plus d'autres conflits ayant d'autres causes est la plus probable. 

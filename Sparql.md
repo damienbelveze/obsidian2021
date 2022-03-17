@@ -56,6 +56,66 @@ Pour avoir en plus les images, on peut ajouter dans le Where {} la condition sui
   ?item wdt:P18 ?image.
   
   et ajouter ?image après SELECT
+  
+  
+# autre exemple :   centrales nucléaires
+
+## les centrales nucléaires en Ukraine
+
+P17 : pays (country)
+  
+````sparql
+
+#nuclear plants in Ukraine
+SELECT ?item ?itemLabel ?place ?coord
+WHERE
+{
+  ?item wdt:P31 wd:Q134447 .
+  ?item wdt:P17 wd:Q212 .
+  ?item wdt:P625 ?coord.
+
+   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+````
+
+## les musées de la marine en France
+````sparql
+
+SELECT DISTINCT ?item ?itemLabel ?place ?coord 
+WHERE {
+      ?item wdt:P17 wd:Q142.
+      ?item wdt:P31 wd:Q1863818.
+      ?item wdt:P625 ?coord.
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+
+````
+
+
+## les musées de la marine en France et en Espagne
+
+définir une variable ?o dont les valeurs seront précisées à l'intérieur du champ VALUES { }
+en l'occurrence ici les valeurs se rapportant à la France et à l'Espagne.
+
+````sparql
+SELECT DISTINCT ?item ?itemLabel
+WHERE {
+
+      ?item wdt:P31 wd:Q1863818.
+      ?item wdt:17 ?o.
+    VALUES ?o{
+    wd:Q142
+    wd:Q29
+   }
+
+  
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+````
 
 # bibliographie
 

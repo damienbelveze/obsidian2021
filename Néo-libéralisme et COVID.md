@@ -36,7 +36,7 @@ Si on fait croire que la crise du COVID est exogène et circonscrite dans le tem
 
 >La détermination du temps de la crise, son ampleur, la comparaison (ou la réduction) de celle-ci à des crises antérieures (1928, par exemple) fait l’objet de disputes sur lesquelles les décisions relatives au gouvernement de la monnaie, de l’économie et de l’État sont directement indexées. Appeler au retour à la normale de ces techniques est une formule idéologique et le véhicule d’un agenda politique.
 
-Si la pandémie s'est apparentée à une guerre, il s'agit de faire oublier qu'à l'issue de la seconde guerre mondiale, un programme (celui du CNR) a été mis en place pour que justement plus rien ne soit jamais comme avant. 
+Si la pandémie s'est apparentée à une [[guerre]], il s'agit de faire oublier qu'à l'issue de la seconde guerre mondiale, un programme (celui du CNR) a été mis en place pour que justement plus rien ne soit jamais comme avant. 
 
 Les néo-libéraux s'attachent donc à insister sur l'exceptionnalité des mesures sociales prises pendant le confinement pour en souligner l'urgence purement temporaire. 
 
