@@ -20,3 +20,9 @@ Le respect de la vie privée est un droit garanti par la constitution, menacé a
 >Arguing that you don't care about the right to privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
 
 (Edward Snowden)
+
+# protéger sa vie privée dans l'usage de terminaux électroniques
+
+## Le smartphone : le rêve de Staline (Richard M. Stallman)
+
+Voir note [[vie privée et smartphone]]

@@ -18,6 +18,19 @@ Pour compléter les métriques citationnelles d'un article, des métriques liée
 
 # facteurs d'impact
 
+![](IF.png)
+
+Le facteur d’impact (FI) d’une revue à l’année N est calculé en divisant le nombre de citations cette année-là de ses articles publiés les deux années précédentes par le nombre d’articles publiés dans cette revue les années N-1 et N-2.
+
+exercice : 
+
+Si un journal a publié en 2019 120 articles et en 2020, 132 articles et que ces articles ont été cités en 2021 450 fois, quel est le facteur d’impact du journal ? 
+
+Réponse : 504/(120+132) =2
+
+Quel est le facteur d’impact de Plos medicine ? (faire une recherche sur wikipédia)
+
+
 # classements français
 
 [Le classement des revues du CNRS n'existe plus](https://twitter.com/Enroweb/status/1494085045254037506), mais des revues continuent de s'en prévaloir en 2022

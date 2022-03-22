@@ -70,6 +70,8 @@ Si en nombre de visites, l'augmentation de l'audience des sites de désinformati
 
 Une expérience a montré que lorsqu'on exposait à deux groupes (groupe A et groupe B) dans un cas une brochure expliquant l'avantage de la vaccination et les risques de la non-vaccination (groupe A) et dans l'autre groupe un exposé des vérités relatives à la vaccination et en regard des mythes qui circulent à son sujet (Groupe B), le groupe A avait tendance à opter plus facilement pour le vaccin que le groupe B. L'exposition à des théories présentées comme fausses peut avoir un effet contraire à celui qui était escompté. [[@MAZETAutodefenseintellectuelle2020]](p194)
 
+Cela rejoint le concept de [[biais d'exposition]]
+
 
 ## Difficulté à distinguer les types de citation de la théorie complotiste
 

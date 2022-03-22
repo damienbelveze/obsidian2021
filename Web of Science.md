@@ -127,7 +127,7 @@ un article a été rétracté
 
 # facteur d'impact d'une revue
 
-cliquer sur le nom d'une revue pour connaître son facteur d'impact
+cliquer sur le nom d'une revue pour connaître son [[bibliométrie#facteurs d'impact|facteur d'impact]]
 
 # Trouver des experts. 
 

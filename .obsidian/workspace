@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0a47f36338514af2",
+        "id": "20381bf15c4f796a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "gestion des mots de passe.md",
+            "file": "OSINT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "f02ad076a1e7cb5e",
+        "id": "f8bdf12f2db9d019",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "gestion des mots de passe.md",
+            "file": "OSINT.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,8 +43,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gestion des mots de passe.md",
-            "mode": "source"
+            "file": "OSINT.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"mots de passe\"",
+                "query": "file:OSINT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gestion des mots de passe.md",
+                "file": "OSINT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gestion des mots de passe.md",
+                "file": "OSINT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gestion des mots de passe.md"
+                "file": "OSINT.md"
               }
             }
           }
@@ -177,15 +177,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "gestion des mots de passe.md",
-    "Navigateur Tor.md",
-    "gérer un serveur sous Linux.md",
+    "OSINT.md",
     "Sparql.md",
-    "OpenStreetMap.md",
-    "Umap.md",
-    "Umap (stretching numérique).md",
-    "sobriété numérique.md",
-    "consommation énergitique du numérique.md",
-    "TOTP.md"
+    "bibliométrie.md",
+    "Web of Science.md",
+    "publish or perish.md",
+    "images/street.jpg",
+    "Corrélation et causalité.md",
+    "vie privée et smartphone.md",
+    "Vie privée.md",
+    "algorithme.md"
   ]
 }

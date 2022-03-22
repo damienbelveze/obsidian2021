@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [cartographie, opendata, Wikidata, langage_requête]
+tags: [cartographie, opendata, Wikidata, langage_requête, programmation]
 ---
 
 Le SPARQL est un langage d'interrogation pour chercher des entités liées, ce langage d'interrogation a été mis au point par le consortium World Wide Web et sert de langage d'interrogation à [[Wikidata]]
@@ -58,7 +58,7 @@ Pour avoir en plus les images, on peut ajouter dans le Where {} la condition sui
   et ajouter ?image après SELECT
   
   
-# autre exemple :   centrales nucléaires
+# exercices
 
 ## les centrales nucléaires en Ukraine
 
@@ -113,6 +113,31 @@ WHERE {
 
   
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}
+
+````
+
+## les ponts supportant des voies ferrées en Allemagne et en Autriche
+
+````sparql
+
+#railway bridges in Germany and Austria
+SELECT ?item ?itemLabel ?coord ?image
+WHERE
+{
+  ?item wdt:P31 wd:Q39486269 .
+  ?item wdt:P17 ?o .
+	
+  VALUES ?o{
+	  wd:Q183
+	  wd:Q40
+  }
+	
+  ?item wdt:P625 ?coord .
+  ?item wdt:P18 ?image .
+  
+
+   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
 }
 
 ````
