@@ -5,6 +5,7 @@ author: Damien Belvèze
 date: 20211201
 link_citations: true
 aliases: [théorie du complot, théories conspirationnistes, théorie conspirationniste, théories du complot, complotisme, complotistes, conspirationnisme]
+tags: [désinformation]
 ---
 
 Terme forgé en 1948 par Karl Popper pour désigner une tendance à attribuer la cause de phénomènes sociaux ou politiques à *certains individus ou groupes puissants* (Sages de Sion, impérialistes, [[Capitalisme|capitalistes]]), ce qui dénote selon Popper une incapacité à percevoir dans la réalité une multiplicité de phénomènes agissant de manière interdépendante
@@ -95,6 +96,9 @@ A propos du Coronavirus, tentative d'un scientifique (Peter Daszak) de faire pas
 
 Plusieurs scientifiques ont réagi à une tribune écartant cette hypothèse en répondant qu'elle n'était pas exclure, dans la mesure où la présence d'un site furine dans le spike de Sars-Cov-2 pouvait tout à fait provenir d'un gain de fonction réalisé en laboratoire (auparavant aucun coronavirus n'avait été découvert avec un tel élément dans sa structure). Voir ouvrage du journaliste Brice Perrier[[@PerrierCovidauxorigines2021]]
 
+De même, critiquer l'influence de cercles de pensée ou de think tanks conservateurs comme la Trilatérale ou Bildeberg sur les législateurs suffit à vous faire passer pour complotiste et à vous discréditer dans certains médias, comme Christophe Deloire, secrétaire général de Reporters Sans Frontières en a fait l'expérience : 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YHNxl8djy5Y?start=3151" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Les risques de censure induits par l'accusation de complotisme
  

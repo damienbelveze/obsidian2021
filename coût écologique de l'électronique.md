@@ -16,7 +16,7 @@ d'après l'OMS les déchets électroniques produits en 2020
 
 > représentaient l'équivalent en poids de 350 navires de croisière qui placés bout à bout formeraient une ligne de 125 km de long. 
 
-L'obsolescence programmée ou induite par la publicité devrait continuer de faire augmenter dans les prochaines années le poids de ces déchets. D'autant qu'aucune mesure firme de l'internet n'accepte d'aider les associations pour la protection de l'enfance qui s'alarment que ces déchets empoisonnent des enfants dont l'activité de subsistance consiste à fouiller dans les entraves de vieux ordinateurs pour récupérer des composants monneyables. Les adultes brûlent le plastique des cables pour récupérer le métal qui les constitue.
+L'obsolescence programmée ou induite par la publicité devrait continuer de faire augmenter dans les prochaines années le poids de ces déchets. D'autant qu'aucune mesure firme de l'[[internet]] n'accepte d'aider les associations pour la protection de l'enfance qui s'alarment que ces déchets empoisonnent des enfants dont l'activité de subsistance consiste à fouiller dans les entraves de vieux ordinateurs pour récupérer des composants monneyables. Les adultes brûlent le plastique des cables pour récupérer le métal qui les constitue.
 
 Fabrice Nicolino dans Charlie-Hebdo rappelle à ce titre que la mondialisation dans ce cas comme dans d'autres a séparé "les pays qui dégueulent et ceux sur lesquels on dégueule", mais en même temps ouvert un front, non plus seulement entre deux ennemis mais à l'intérieur de nous-mêmes, un sujet clivé entre le désir de matériel neuf suscité par la publicité et l'envie de minimiser ses déchets en achetant du reconditionné
 

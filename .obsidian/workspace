@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20381bf15c4f796a",
+        "id": "451fad8e1fbab556",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "OSINT.md",
+            "file": "théorie complotiste.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "f8bdf12f2db9d019",
+        "id": "8778195a575ffd09",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "OSINT.md",
+            "file": "théorie complotiste.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,8 +43,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "OSINT.md",
-            "mode": "preview"
+            "file": "théorie complotiste.md",
+            "mode": "source"
           }
         }
       }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:OSINT",
+                "query": "complotistes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +84,14 @@
           },
           {
             "id": "b40919b55102730c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "eab0f1ee7cf1579e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -109,12 +117,8 @@
             "id": "afc48893f65508ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "todo.md",
-                "mode": "source",
-                "backlinks": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -123,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT.md",
+                "file": "théorie complotiste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,16 +142,40 @@
             "id": "156ef011adecd04f",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0934aa39ec1d3fd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2477ec0c1dd8cd82",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "da90c0537e4eded4",
+            "type": "leaf",
+            "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT.md",
+                "file": "théorie complotiste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0934aa39ec1d3fd1",
+            "id": "d6ecb0e86c42c2dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,12 +186,12 @@
             }
           },
           {
-            "id": "2477ec0c1dd8cd82",
+            "id": "916e49b920a4e17a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT.md"
+                "file": "théorie complotiste.md"
               }
             }
           }
@@ -177,15 +205,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "OSINT.md",
-    "Sparql.md",
-    "bibliométrie.md",
-    "Web of Science.md",
-    "publish or perish.md",
-    "images/street.jpg",
-    "Corrélation et causalité.md",
-    "vie privée et smartphone.md",
-    "Vie privée.md",
-    "algorithme.md"
+    "théorie complotiste.md",
+    "soft power.md",
+    "mèmes.md",
+    "priming.md",
+    "bots.md",
+    "BGP.md",
+    "homme du milieu.md",
+    "Cryptographie.md",
+    "câbles sous-marins.md",
+    "internet.md"
   ]
 }

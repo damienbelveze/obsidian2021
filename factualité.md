@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [faits, fait]
-tags: [rhétorique, fake news]
+tags: [rhétorique, désinformation, fake news]
 ---
 
 La factualité concerne l'essence d'un fait. 

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [balivernes, sornettes]
-tags: [rhétorique, vérité]
+tags: [rhétorique, vérité, propagande]
 ---
 
 
@@ -55,6 +55,17 @@ cf. Gary Kasparov :
 >la propagande en 2016 n'est pas seulement de désinformer en vue d'un bénéfice politique, c'est d'épuiser votre esprit critique et d'annihiler toute vérité
 
 cité par Carl Bergstrom [[@BergstromCallingBullshitArt2020]]
+
+La stratégie du tuyau d'arrosage repose sur l'effet dit d'exposition ([[biais d'exposition]]. Plus souvent on est exposé à une histoire fausse dont on sait qu'elle est fausse et plus on tend à croire qu'elle contient quand même une part de vérité.
+
+La répétition incessante de fausses informations et de mensonges patents ne va pas créer de la conviction, mais de la confusion et une démobilisation de la population qui aura le réflexe de fuir un monde déformé par des nouvelles contradictoires ou biaisées pour se replier sur un monde tangible sur lequel on a réellement prise : c'est ce qui arrive aux Russes quand leurs chaînes d'information répétent à l'envi que les Ukrainiens sont responsables des ravages et des destructions subies par leurs populations.
+Pour Poutine, il ne s'agit pas tant de mobiliser la population en faveur de l'armée russe que de faire en sorte qu'elle ne se mobilise pas en faveur de l'Ukraine ni pour quelque revendication politique que ce soit. 
+
+>Authoritarians know this and Putin knows this. That's why we have to understand the goal of propaganda. It's not always to get people to wave Russian flags. It's to make people tired of the topic, confused about what's going on, to get people to justify turning away.
+
+(source [[@lytvinenkoTwitterPublish2022]])
+
+
 
 # Bibliographie
 

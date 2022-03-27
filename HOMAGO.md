@@ -15,6 +15,8 @@ Hanging Out (traîner dehors : chercher la société d'autres jeues)
 Messing Around (faire n'importe quoi : bidouiller en informatique)
 Geeking Out (être une référence pour d'autres utilisateurs de l'information)
 
+voir ouvrage de 2009 sur le sujet[[@itoHangingOutMessing2009]]
+
 
 
 

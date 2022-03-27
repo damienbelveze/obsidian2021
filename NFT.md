@@ -14,7 +14,7 @@ tags: [art numérique]
 
 jetons non fongibles reposant sur la [[blockchain]]
 Ce protocole permet de définir un propriétaire initial à un objet numérique (oeuvre d'art numérique par exemple) et d'attester ensuite les différentes opérations marchandes au sujet de cette oeuvre (ventes successives et changements de propriétaires)
-C'est une tentative pour l'art de contrer la reproductibilité infinie de l'oeuvre au moyen du numérique et d'internet et de retrouver de la rareté dans un monde marqué par l'abondance.
+C'est une tentative pour l'art de contrer la reproductibilité infinie de l'oeuvre au moyen du numérique et d'[[internet]] et de retrouver de la rareté dans un monde marqué par l'abondance.
 ![](NFT_tokens.png)
 
 

@@ -1,6 +1,6 @@
 ---
-title: L'approche par compétences : une belle rose mais avec des épines
-subtitle: conférence d'Yvan Pigeonnat (INP)
+title: approche par compétences
+subtitle: 
 author: Damien Belvèze
 date: 28-10-2021
 link_citations: true
@@ -10,7 +10,42 @@ aliases: [démarche compétences]
 tags: [pédagogie]
 ---
 
+
+# définition de la compétence
+
+ingrédients : savoirs acquis + savoir-êtres
+tour de main : savoir-faires
+
+On va se rendre compte de la compétence de quelqu'un par son savoir-faire (output)
+(Alain Le Boterf)
+
+
+Niveaux de compétence : 
+Notion, application, maîtrise, expert.
+
+L'expert, c'est celui qui est capable de transmettre ce qu'il sait (la maîtrise n'inclut pas la transmission)
+
+
+# le mantra "sortir de la zone de confort"
+
+
+axe Y : compétence peu utlisée -> compétence beaucoup utilisée
+axe X : compétence appréciée par l'agent -> compétence peu appréciée
+
+| | |
+|:---:|:---:|
+| zone de développement | zone de confort |
+| zone grise | zone d'effort |
+
+le but de la montée de compétence est de faire passer les gens de la zone de développement à la zone de confort. 
+
+Sur le mantra "sortir de sa zone de confort[[@wildingPleaseStopTelling2018]]"
+
+
+
 # Pourquoi les compétences dans l'enseignement supérieur
+
+"L'approche par compétences : une belle rose mais avec des épines"(conférence d'Yvan Pigeonnat (INP))
 
 pourquoi les compétences dans l'enseignement supérieur 
 - meilleure employabilité ? 

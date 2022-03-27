@@ -16,7 +16,7 @@ aliases: [Tor, tor browser, Tor Browser, Tor(navigateur)]
 
 ## cadre de l'intervention
 
-Les contenus qui sont présentés lors de cet atelier ont été relus par le responsable de la sécurité informatique de l'Université mais ne représentent ni son point de vue, ni le point de vue global de l'Université pour qui l'usage de Tor sur le réseau Rennes 1 reste toléré mais comporte des risques pour la sécurité informatique de l'établissement. L’usage d’OnionShare contourne des protections appliquées à la navigation sur internet par blocage de sites réputés dangeureux.
+Les contenus qui sont présentés lors de cet atelier ont été relus par le responsable de la sécurité informatique de l'Université mais ne représentent ni son point de vue, ni le point de vue global de l'Université pour qui l'usage de Tor sur le réseau Rennes 1 reste toléré mais comporte des risques pour la sécurité informatique de l'établissement. L’usage d’OnionShare contourne des protections appliquées à la navigation sur [[internet]] par blocage de sites réputés dangeureux.
 
 C'est la raison pour laquelle, nous vous demandons dans le cadre de cette activité de ne pas utiliser le réseau de Rennes 1 mais celui de votre fournisseur d'accès à internet. Si vous êtes chez vous, vous n'avez rien à faire de particulier. Si vous êtes à l'Université, merci d'utiliser votre smartphone comme hotspot pour utiliser Internet et de ne pas utiliser le réseau local. 
 

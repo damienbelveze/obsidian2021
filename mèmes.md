@@ -30,7 +30,7 @@ Dégradation sémantique des memes :
 
 source [[@PhillipsThisWhyWe2015]]
 
-massification du mème qui cimente des communautés à partir de références partagées sur des contenus politiques, mais ces références charrient elles-mêmes un contenu politique : l'extension du soft power américain[[@Waguenerpolitiquememe2022]] : 
+massification du mème qui cimente des communautés à partir de références partagées sur des contenus politiques, mais ces références charrient elles-mêmes un contenu politique : l'extension du [[soft power]] américain[[@Waguenerpolitiquememe2022]] : 
 
 >En effet, énormément de mèmes et de gifs mettent en lumière des scènes issues de films, de séries ou de dessins animés majoritairement issus de studios de production massivement nord-américains : qu’il s’agisse de Parks & Recreation, des franchises Marvel ou encore de BoJack Horseman, c’est l’ensemble du panthéon audio-visuel et du soft power culturel états-unien qui se retrouve très souvent mobilisé dans ces mèmes.
 

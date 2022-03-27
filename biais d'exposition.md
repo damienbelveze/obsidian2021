@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [illusory truth effect, biais de simple exposition]
-tags: [biais cognitifs]
+tags: [biais cognitifs, désinformation]
 ---
 
 Le fait d'exposer quelqu'un a une idée de façon répétée, même si la personne est prévenue contre cette idée, va avoir pour conséquence de la rendre plus acceptable. 

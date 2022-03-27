@@ -12,7 +12,7 @@ tags: [compétences informationnelles]
 
 # Fracture numérique : une question d'équipement ou de compétences
 
-Au départ cette fracture sépare les personnes équipées d'ordinateurs ou de smartphones (aujourd'hui et dans le contexte des classes COVID à distance, plutôt uniquement d'ordinateurs et de ligne internet) de ceux qui n'en sont pas équipés. 
+Au départ cette fracture sépare les personnes équipées d'ordinateurs ou de smartphones (aujourd'hui et dans le contexte des classes COVID à distance, plutôt uniquement d'ordinateurs et de ligne [[internet]]) de ceux qui n'en sont pas équipés. 
 
 Aujourd'hui, à mesure que cette fracture numérique matérielle s'estompe (pas partout ni dans toutes les couches de la société cela dit), une autre fracture tend à occuper le devant de la scène : une **fracture numérique compétencielle**
 
