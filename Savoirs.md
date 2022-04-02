@@ -39,6 +39,10 @@ La tradition ne doit pas figer les savoirs pour les faire évoluer et ainsi assu
 voir [[individuation]]
 Dans la perspective de [[Bernard Stiegler]] ces savoirs font partie des exo-organes que les humains fabriquent dans leur effort pour lutter contre l'entropie ([[néguentropie]]). Ce sont ces savoirs qui sont mis en danger par la [[prolétarisation]] des acteurs induites par l'[[intelligence artificielle]] et de manière générale l'extension du calcul à tous les aspects de la vie dans une dynamique d'extension indéfinie du capital. 
 
+Par la transmission du savoir, nous sommes transformés : 
+> un savoir n'est pas seulement une information, mais la transformation de celui qui sait parce qu'il apprend aux autres 
+
+(Bernard Stiegler)
 
 
 

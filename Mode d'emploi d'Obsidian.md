@@ -10,7 +10,7 @@ biblio_style: csl/ieee.csl
 toc: true
 toc-title: table des matières
 tags: [prise de notes, méthode de travail]
-aliases: [Obsidian, obsidian]
+aliases: [Obsidian, obsidian, programmation]
 ---
 
 
@@ -504,7 +504,7 @@ Supposons que l'on souhaite laisser des commentaires pour orienter le sens de l'
 
 voici le texte à commenter \<\!\-\- commentaire de ce texte \-\-\>
 
-## inclure des graphiques dans les notes
+### inclure des graphiques dans les notes
 
 la bibliothèque en javascript mermaid.js permet d'inclure des graphiques (camemberts, diagrammes, flow charts, etc) dans une note. 
 Il existe de nombreux tutos consacrés à cet outil qu'il n'est pas nécessaire d'installer dans Obsidian. Voir ce [guide](https://www.mishacreatrix.com/knowledge-management-flow-diagram-in-obsidian) entre autres. Pour s'essayer à la construction de ces graphiques, on peut utiliser le site très utile https://mermaid.live
@@ -512,6 +512,36 @@ Il existe de nombreux tutos consacrés à cet outil qu'il n'est pas nécessaire 
 exemple : [worklfow éditorial réalisé par @UjuBib](https://twitter.com/UjuBib/status/1480519081820397572) : 
 ![code](mermaid2.png)
 ![graphe](mermaid1.png)
+
+## 3.6 importer des notes écrites dans un autre format que Markdown
+
+Supposons que j'aie déjà accumulé avant de connaître Obsidian des notes en texte simple (format TXT) ou en format Word (traitement de texte LibreOffice ou Word), comment faire pour les convertir en masse depuis le répertoire où elles se trouvent. Les notes à importer dans Obsidian doivent être en markdown. Comment réaliser cette conversion de mes notes en TXT vers ce format markdown ?
+
+Il existe plusieurs manières de convertir  un ensemble de documents documents d'un format à l'autre. On peut utiliser un terminal de commandes (bash) pour ce faire. Par exemple sous Linux, si on ouvre un terminal dans le répertoire où se trouvent les notes à convertir, on entrera la commande suivante : 
+
+Sur Windows, on peut utiliser le terminal de commande Powershell pour réaliser cette conversion directement en bash, ou bien en combinant cette commande avec le convertisseur [Pandoc](https://pandoc.org/installing.html. La seconde option est détaillée ci-dessous:
+
+````bash
+for /r %i in (*.txt) do multimarkdown -b %i
+````
+
+Pour MacOs, on peut se contenter de [changer les extensions des fichiers](https://osxdaily.com/2016/11/08/batch-change-file-extensions-mac/)
+
+Il est toujours pratique d'avoir installé sur sa machine lorsqu'on utilise des documents en markdown qui peuvent être convertis dans une multitude de formats différents. Nous supposons que Pandoc est installé. Ouvrir un terminal Powershell dans le répertoire où se trouvent les notes et entrer la commande suivante : 
+
+````powershell
+Get-ChildItem . -Filter *.txt |
+ Foreach-Object {
+     pandoc $_ -o $_.Name.Replace('.txt', '.md')
+ }
+
+````
+Puis exporter toutes les notes en markdown dans le répertoire des notes sous Obsidian. 
+Les noms de fichiers deviendront les titres des notes. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lGe9Hm-3YUk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Reste à faire les liens entre les différentes notes ce qui est un travail bien plus long que la simple conversion que nous venons de faire. 
 
 
 

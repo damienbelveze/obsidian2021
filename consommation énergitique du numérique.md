@@ -47,7 +47,7 @@ On trouve en ligne (ou sur papier…) plein de ressources sur l'empreinte enviro
 -   Une [vidéo de M. Bidouille](https://video.monsieurbidouille.fr/w/b9029464-4ac8-4a1c-bf35-777fb19a0707).
 
 
-
+voir aussi [[Bilan carbone|bilan carbone]]
 
 # bibliographie
 

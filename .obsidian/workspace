@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "451fad8e1fbab556",
+        "id": "d89f34de4a23c815",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "théorie complotiste.md",
+            "file": "Savoirs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "8778195a575ffd09",
+        "id": "d4fbb521b2148caf",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "théorie complotiste.md",
+            "file": "Savoirs.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "théorie complotiste.md",
+            "file": "Savoirs.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "complotistes",
+                "query": "file:savoirs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "théorie complotiste.md",
+                "file": "Savoirs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "théorie complotiste.md",
+                "file": "Savoirs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "théorie complotiste.md"
+                "file": "Savoirs.md"
               }
             }
           }
@@ -205,15 +205,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "théorie complotiste.md",
-    "soft power.md",
-    "mèmes.md",
-    "priming.md",
-    "bots.md",
-    "BGP.md",
-    "homme du milieu.md",
-    "Cryptographie.md",
-    "câbles sous-marins.md",
-    "internet.md"
+    "Savoirs.md",
+    "Mode d'emploi d'Obsidian.md",
+    "Astroturfing.md",
+    "Installer Debian.md",
+    "texte simple.md",
+    "consignes formation URFIST.md",
+    "Argument du colibri.md",
+    "Bilan carbone.md",
+    "consommation énergitique du numérique.md",
+    "neutralité axiologique.md"
   ]
 }
