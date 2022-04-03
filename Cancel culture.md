@@ -54,6 +54,8 @@ publique.[[@TricoireCancelCulturecensure2021]]
 
 ![[cancel culture.pdf]]
 
+A l'Université, le chahut provoqué par les étudiants pour empêcher la tenue de conférences qu'ils jugent réactionnaires ([[deplatforming]]) sont le fait la plupart de temps d'associations ou de groupes ayant une représentativité très limitée.
+
 
 # négation du politique
 

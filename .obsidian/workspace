@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d89f34de4a23c815",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Savoirs.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "d4fbb521b2148caf",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Savoirs.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
         "id": "65c448477df87f8e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Savoirs.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -73,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:savoirs",
+                "query": "file:cancel",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Savoirs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Savoirs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Savoirs.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -205,15 +164,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
+    "deplatforming.md",
+    "Cancel culture.md",
+    "Raspberry Pi 4.md",
+    "ERRIE.md",
     "Savoirs.md",
     "Mode d'emploi d'Obsidian.md",
     "Astroturfing.md",
     "Installer Debian.md",
     "texte simple.md",
-    "consignes formation URFIST.md",
-    "Argument du colibri.md",
-    "Bilan carbone.md",
-    "consommation énergitique du numérique.md",
-    "neutralité axiologique.md"
+    "consignes formation URFIST.md"
   ]
 }

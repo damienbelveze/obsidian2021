@@ -10,6 +10,11 @@ aliases: []
 tags: []
 ---
 
+
+# Kit (achat décembre 2020)
+
+![[cout_raspberrypi4.pdf]]
+
 # configuration
 fichier config 
 
