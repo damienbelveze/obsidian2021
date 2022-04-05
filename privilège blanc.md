@@ -18,7 +18,7 @@ En tant qu'hypothèse de recherche, le concept de privilège blanc, devrait donc
 
 On peut observer aussi du côté des personnes blanches une incapacité à observer le racisme là où il est parce que précisément ces personnes n'en seront pas les victimes. D'où pour ces personnes la nécessité de ne pas évaluer la portée d'un fait social à leur seule expérience.
 
-Le concept de privilège blanc n'est pas fondé sur une essence (on est blanc ou noir), mais sur une construction sociale (on apprend à se conduire en personne blanche ou personne de couleur). De même, à la base, la blanchité n'est pas un concept essentialiste mais une construction sociale qu'il s'agit de déconstruire avec les outils de la méthode sociologique ou le savoir historique. Toutefois, l'emploi de ces termes dans la société des années 2020, et notamment sous la plume d'essayistes comme [[Robin di Angelo]], auteur de Fragilité Blanche, remettent en cause ce postulat déconstructioniste et attache ces termes à des essences : en tant que personne blanche, on devra se repentir toute sa vie des privilèges attachés à sa couleur de peau. 
+Le concept de privilège blanc n'est pas fondé sur une essence (on est blanc ou noir), mais sur une construction sociale (on apprend à se conduire en personne blanche ou personne de couleur). De même, à la base, la blanchité n'est pas un concept essentialiste mais une construction sociale qu'il s'agit de [[Déconstruction|déconstruire]] avec les outils de la méthode sociologique ou le savoir historique. Toutefois, l'emploi de ces termes dans la société des années 2020, et notamment sous la plume d'essayistes comme [[Robin di Angelo]], auteur de Fragilité Blanche, remettent en cause ce postulat déconstructioniste et attache ces termes à des essences : en tant que personne blanche, on devra se repentir toute sa vie des privilèges attachés à sa couleur de peau. 
 
 Selon le sociologue Ary Gordien (voir ci-dessous), l'usage actuel du concept par un grand nombre de militants [[antiracisme|antiracistes]] a le tort également de considérer que s'il y a des blancs (dominants), il y a en face des noirs (dominés). 
 
@@ -32,7 +32,7 @@ Cette binarité est aveugle à la question du contexte. Par exemple, une personn
 
 - De même certains privilèges pourtant documentés par la littérature sociologique ne font jamais l'objet d'attention comme celui de la beauté. Jean-François Amadieu a pourtant mis en évidence que les personnes au physique avenant avaient plus de facilité à être recrutés puis promus que les personnes au physique plus passe-partout. 
 
-Enfin cette binarité a tendance à figer les acteurs dans des groupes constitués à partir de caractères visibles comme la couleur de peau et à sédimenter et pétrifier ces catégories que la notion de privilège blanc entendait au départ déconstruire. 
+Enfin cette binarité a tendance à figer les acteurs dans des groupes constitués à partir de caractères visibles comme la couleur de peau et à sédimenter et pétrifier ces catégories que la notion de privilège blanc entendait au départ [[Déconstruction|déconstruire]]. 
 
 Pour l'écrivain Thomas Chatwill, certaines personnes noires ont de la nostalgie pour la ségrégation parce que le fait de se définir par sa race permet de ne pas avoir à se chercher une [[identité]] plus complexe et d'autres valeurs. Cela fige la quête identitaire à des attributs simples et surtout réducteurs : 
 

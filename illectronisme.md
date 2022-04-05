@@ -35,5 +35,10 @@ Monica Chin décrit le comportement d'un étudiant type qui envoie tous ses fich
 Les personnes étant dans une situation d'illectronisme sont victimes d'une transition à marche forcée de l'administration vers le tout numérique, transition motivée essentiellement par la réduction des coûts mais prenant prétexte de la simplification. 
 Dans ce cadre, alors que l'adaptation au public a toujours été un principe des fonctionnaires d'Etat, on demande à ces derniers de faire en sorte que les citoyens s'adaptent à leurs procédures plutôt que le contraire. Ce changement de culture professionnelle opéré contre les valeurs des agents du service public et au détriment des populations mal formées au numérique est régulièrement dénoncée par les Défenseurs des Droits ([source](https://twitter.com/Defenseurdroits/status/1494953497887977473))
 
+# Le rôle des aidants numériques
+
+Pour aider les personnes en difficulté face à la marche forcée des services vers le tout numérique, l'Etat compte sur un réseau de professionels et de bénévoles qui travaillent à venir en aide par la formation aux personnes sujettes à l'illectronisme et en particulier aux aidants. C'est notamment le cas de la l'association Les [[Astroliens]]. Archimag-Serda a publié en avril 2022 un guide qui recense 10 outils ou ressources utiles pour les aidants numériques[[@jost10OutilsRessources2022]]
+
+
 # bibliographie
 

@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
+        "id": "4976fcc4c76441d2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Plan de gestion des données.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d1b6c8dec9670107",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Plan de gestion des données.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
         "id": "65c448477df87f8e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Plan de gestion des données.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:cancel",
+                "query": "RDA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Plan de gestion des données.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Plan de gestion des données.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Plan de gestion des données.md"
+              }
             }
           }
         ],
@@ -164,15 +205,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "deplatforming.md",
-    "Cancel culture.md",
-    "Raspberry Pi 4.md",
+    "Plan de gestion des données.md",
     "ERRIE.md",
-    "Savoirs.md",
-    "Mode d'emploi d'Obsidian.md",
-    "Astroturfing.md",
-    "Installer Debian.md",
-    "texte simple.md",
-    "consignes formation URFIST.md"
+    "axe de substitution.md",
+    "rationalisation.md",
+    "BGP.md",
+    "AIS (Automatic Identification System (AIS).md",
+    "recherche de diversion.md",
+    "Agnotologie.md",
+    "autorité.md",
+    "illectronisme.md"
   ]
 }

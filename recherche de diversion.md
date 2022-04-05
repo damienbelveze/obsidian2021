@@ -1,6 +1,19 @@
+---
+title: recherche de diversion
+subtitle:
+author: Damien Belvèze
+date: 22-03-2022
+link_citations: true
+bibliography: mylibrary.bib
+biblio_style: csl\ieee.csl
+aliases: []
+tags: [désinformation]
+---
+
+
 La recherche de diversion est née dans les années 50 à une époque où la presse médicale commençait à faire paraître un nombre grandissant d'articles montrant comment le tabac est à l'origine de cancers, notamment des poumons et des voies aériennes. 
 
-En 1954, les 7 principales firmes productrices de tabac américaines ont entrepris de se lancer elle même dans la recherche et de financer des labos afin de construire méthodiquement un doute en apparence rationnel sur le rôle du tabac dans l'apparition des cancers. La même logique a été mise en oeuvre à partir de 1992 pour retarder les législations interdisant l'usage du tabac dans les lieux publics fermés pour protéger la population du tabagisme passif. 
+En 1954, les 7 principales firmes productrices de tabac américaines ont entrepris de se lancer elle même dans la recherche et de financer des labos afin de construire méthodiquement un doute en apparence rationnel sur le rôle du tabac dans l'apparition des cancers. La même logique a été mise en oeuvre à partir de 1992 pour retarder les législations interdisant l'usage du tabac dans les lieux publics fermés pour protéger la population du tabagisme passif (voir article sur l'[[agnotologie]]). 
 
 Aujourd'hui encore des journalistes apportent la preuve que certaines associations censées lutter contre la fausse science sont en réalité subventionnées de façon occulte par l'industrie pour garantir l'écoulement de certains produits dangereux. C'est le cas par exemple de l'ACSH dont il a été prouvé que la plupart de ses fonds provenait non de dons de particuliers mais d'industries ([58%](https://www.motherjones.com/politics/2013/10/american-council-science-health-leaked-documents-fundraising/)) qui produisent les substances effectivement défendues par l'ACSH au nom de la *sound science*
 
@@ -30,3 +43,7 @@ Bruno Latour
 La recherche de diversion va de pair également avec une autre stratégie qui consiste à stipendier des chercheurs ou à les manipuler pour les passer eux-mêmes à critiquer les méthodes fondatrices de leur science comme dans le cas de l'[[études épidémiologiques|épidémiologie]].
 Des maisons d'édition scientifique se montent également pour permettre à des écrits négationnistes de ne pas dépendre des revues scientifiques cotées pour éditer ces travaux. Beaucoup d'écrits [[climato-scepticisme|climatosceptiques]] paraissent sous forme de livres parce qu'ils seraient refusés par ces revues (cf. par exemple **The catastrophe that never happened**
 de Susan Janet Crockford)
+
+# Quand la recherche de diversion trouve des débouchés médiatiques et institutionnels
+
+Des entreprises financées par l'Etat mais servant principalement les industriels permettent à certains scientifiques de promouvoir médiatiquement leurs études (quand elles servent des intérêts industriels) tout en disqualifiant d'autres études quand elles ne vont pas dans le même sens. C'est déjà le rôle joué en Grande-Bretagne par le Science Media Center. Dans un article de septembre 2020, Stéphane Horel et Stéphane Foucart  craignent qu'un centre de nature équivalente sous la direction de [[Gérald Bronner]] se mette en place en France[[@foucartInformationScientifiqueSous2020]]

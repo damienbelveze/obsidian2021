@@ -87,6 +87,7 @@ outils pour rédiger des plans de gestion des données :
 exemple de description de données, voir présentation de Cécile Arènes (DMP one tool with many applications[[@HuserDatamanagementplans2022]])
 
 ## plan de gestion de données structuré pour une lecture artificielle
+
 PGD structuré = machine actionable
 
 Intérêts du PDG structuré : 
@@ -105,6 +106,70 @@ Opidor : machine actionable DMP : export du PGD en Json (en complément de la ve
 [instructions pour trouver et remplir un DMP structuré](https://github.com/OPIDoR/DMPOPIDoR/blob/dmpopidor-master/public/files/DMPOPIDoR/DMPOPIDoRV3_Guide_Utilisateur.pdf)
 
 Voir [contenu d'une formation de l'INIST](https://www.inist.fr/wp-content/uploads/2022/01/Inist-CNRS_DMP-OPIDoR_Modele-plus-structure_2022-01-27_PDF.pdf) (février 2022) sur les DMP structurés
+
+
+![[Inist-CNRS_DMP-OPIDoR_Modele-plus-structure_2022-04-05_PDF.pdf]] : version avril 2022 de la présentation d'Yvette Lafosse et Laurent Rassinoux (INIST-CNRS, intervenants OPIDOR)
+
+
+La partie rédigée est plus complète dans le modèle structuré (lien avec les référenciels, les langages de métadonnées)
+référentiels communs au modèle classique et modèles spécifiques au modèle structuré.
+
+[Liste des référentiels](https://dmp.opidor.fr/static/about_registries)
+
+![](DMP_struc1.PNG)
+
+
+Modèle structuré de Sciences Europe (choisir la version française ou anglaise de Sciences Europe)
+Organisé en 12 questions - respect des principes FAIR
+
+Dans la partie information générale, commune avec le modèle classique, sélectionner le nom du projet ANR dans le formulaire pour les faire entrer dans le DMP
+Dans l'anglais contributeurs on peut rajouter une autre personne ou organisation qui contribue à la gestion des données. Les rôles seront attribués automatiquement
+
+onglet concernant les produits de recherche (images, jeu de données, logiciels, corpus de textes, etc.).
+entrer chaque produit de recherche.
+
+Dans l'onglet Rédiger, on va répondre aux mêmes questions pour chaque produit de recherches
+ajouter des mots-clé libres et des mots-clé issus de thésaurus comme celui du thesaurus de l'INRAE
+
+attribut sujet lié au thésaurus INRAE
+indiquer la personne contact pour la description des données
+
+indiquer l'identifiant pérenne du produit de recherches
+indiquer s'il s'agit de données personnelles ou des données sensibles il faut l'indiquer.
+
+indiquer si les données qu'on réutilise ont un coût (par exemple coût de stockage de données anciennes).
+sélectionner le plateau technique qu'on veut utiliser
+sélectionner dans la liste la personne qui va être responsable de la collecte de données. 
+Indiquer le standard de métadonnées qui va être utilisé (Darwin Core, Dublin Core)
+
+pas de référentiel à ce jour pour le code éthique. on peut rajouter par exemple le nom du DPO, personne ressource pour la protection des données. 
+
+choix dans une liste fermée de l'entrepôt dans lequel on va déposer ses données et choix de la licence du dépôt. Indiquer l'URL. 
+Liste des services d'archivage pérenne. 
+
+Les contributeurs vont voir leur rôle augmenté de la fonction qu'on a sélectionnée dans la rédaction du PGD.
+
+Le DMP structuré permet de visualiser très vite les contributeurs avec leur rôle et les éléments de coût. 
+
+possibilité d'exporter le PGD en Json pour faciliter les échanges entre machines. 
+Format par défaut (format plus riche mais moins interopérable que le format RDA)
+On échange plus facilement en [[format RDA]] avec d'autres systèmes d'information. 
+On pourra bientôt importer des PGD d'une plateforme étrangère à OPIDOR, grâce au format RDA
+Json permet d'intégrer le DMP dans une base de données en SQL
+
+On ne peut pas avoir plusieurs personnes contact pour un même produit de recherche, mais l'ensemble des personnes contributrices peuvent être mentionnées dans la description du produit de recherche.
+
+Dans le DMP, il faut planfier les coûts de conservation des données à venir. 
+
+Le propriétaire et les éventuels co-propriétaires peuvent ajouter des contributeurs
+3 rôles (au sens informatique) : 
+- propriétaire
+- co-propriétaire
+- éditeur
+ne pas confondre les collaborateurs du projet et les contributeurs du DMP. 
+
+Plus d'infos sur la FAQ d'Opidor https://opidor.fr/category/dmp-faq/
+
 
 
 # Accompagner les chercheurs à la rédaction d'un PGD

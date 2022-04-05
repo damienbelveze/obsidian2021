@@ -1,11 +1,12 @@
 en anglais *[[motivated reasoning]]* ou *rationalization*
 tendance à évaluer l'information de telle sorte que cette évaluation soit conforme à une opinion déjà existante, cette opinion fût-elle erronée et contredite par de nombreuses preuves.
 
+
 information créée pour apporter un soutien épistémique à une croyance qui a été choisie pour des raisons non-épistémiques[[@Williamsmarketplacerationalizations2022]]
 
 > namely, information created or selected to provide epistemic support for beliefs that agents want to hold for non-epistemic reasons
 
-La rationalisation nous permet d'échapper à la [[Dissonance cognitive]]
+La rationalisation nous permet d'échapper à la [[Dissonance cognitive]] et donne l'illusion de l'objectivité à un raisonnement qui pourtant est biaisé.
 
 >"L'information brute est dès lors souvent inutile pour infléchir l'opinion des personnes convaincues, parce que l'information brute ne tient pas compte de ce qui fait de nous des humains : nos émotions, nos désirs et surtout nos convictions préalables"[[@Gauvrittetesbienfaites2019]](p115)
 
