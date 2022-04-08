@@ -191,6 +191,7 @@ Le *pipe* (\|) qui sert à faire des tableaux peut aussi permettre de prendre en
 | \*\*| **gras** | \<b\> |
 | \~\~ | ~~barré~~ | \<s\> |
 | \` | `code` | \<code\> |
+| \=\= | ==surlignage== | \<mark> |
 
 Pour "échapper" un caractère qui fait partie de la syntaxe du markdown (\*,\#, \~ par exemple), il faut faire précéder le caractère en question d'un antislash (\\) 
 

@@ -34,6 +34,32 @@ Diapason
 
 
 
+
+
+# présentation2
+
+University Librarians have always been involved in training students to find reliable sources and assess information, particularly since this information come to them across social networks or websites[[@ACRLFrameworkInformationLiteracy2015]].
+Soon after the Trump election, the "Fake news" issue became central in the public debate, and Universities decided to oppose good science against an alledged rise of rumors on the internet and fake news. 
+Now we are all conscious that rumors and fake news have been spreading long ago before Facebook and Twitter, and that thanks to works like Dominique Cardon's, the amount of disinformation is not as spectacular as what one can read in the news, but we know also that information wars can cost an election and social networks can be weaponized in an international conflict as the one which opposes Russia to Ukraine.
+
+In courses where we used to teach undergraduates students to distinguish different shades of science (from the academic paper to the amateur's opinion, through disputes on Wikipedia or pubpeer), we tried to incorporate contents about mis or dis-information in the non-scientific media.
+
+Focusing on social networks is the easiest part, because disinformation is traceable and we usually do not have enough time to explain how main media outlets are often economical biased. 
+We usually present fragmented information to our students (a tweet for instance) and ask them to reframe and contextualize the claim.
+We teach students to practice what it's called "lateral reading" : do not focus too much on the website, but make queries about the source & and the event to check if it has been covered by other sources, or if other sources we consider as reliable say something usefull about the author of the claim. This pedagogy is adapted to the hypertextual nature of the web and derived from constructivist tools.
+
+Sometimes, when the claim is too recent to have been covered (or the source mostly unknown), we have to focus our attention on what is presented to us as evidence supporting a claim. Most of the time, it is an image, a photograph post on Facebook or Twitter. 
+The most successful tweets contain emotionnal content such as pictures causing anger and indignation. 
+Information literacy includes skill but also habits and soft skills such as stopping before sharing and checking one's emotions. 
+
+
+
+
+
+
+
+
+
 # présentation
 
 I train graduate and undergraduate students to assess information. Until recently, my colleagues and I have spend much time teaching students how to distinguish a paper written by a science journalist from a peer reviewed article. We have been insisting on formal characteristics such as inline citations, bibliography, footnotes, graphic plots. 

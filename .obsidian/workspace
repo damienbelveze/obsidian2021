@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4976fcc4c76441d2",
+        "id": "9f14c80b630b30a3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Plan de gestion des données.md",
+            "file": "Bibliothèque universitaire de Pérouse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "d1b6c8dec9670107",
+        "id": "533a41b2ac0c87ef",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Plan de gestion des données.md",
+            "file": "Bibliothèque universitaire de Pérouse.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Plan de gestion des données.md",
+            "file": "Bibliothèque universitaire de Pérouse.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "RDA",
+                "query": "ERRIE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan de gestion des données.md",
+                "file": "Bibliothèque universitaire de Pérouse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan de gestion des données.md",
+                "file": "Bibliothèque universitaire de Pérouse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan de gestion des données.md"
+                "file": "Bibliothèque universitaire de Pérouse.md"
               }
             }
           }
@@ -205,15 +204,15 @@
   },
   "active": "65c448477df87f8e",
   "lastOpenFiles": [
-    "Plan de gestion des données.md",
+    "Bibliothèque universitaire de Pérouse.md",
     "ERRIE.md",
-    "axe de substitution.md",
-    "rationalisation.md",
-    "BGP.md",
-    "AIS (Automatic Identification System (AIS).md",
-    "recherche de diversion.md",
-    "Agnotologie.md",
-    "autorité.md",
-    "illectronisme.md"
+    "preprint.md",
+    "Science ouverte.md",
+    "article processing charges.md",
+    "Editeurs prédateurs en open access.md",
+    "Compléter une revue de littérature.md",
+    "references/@TayKnowtroCitationGecko2018.md",
+    "CitationGecko.md",
+    "Mode d'emploi d'Obsidian.md"
   ]
 }

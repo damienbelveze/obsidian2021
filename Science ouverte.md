@@ -38,7 +38,7 @@ Données : "aussi ouvertes que possible, aussi fermées que nécessaire"
 
 ## Plan S
 Initiative de financeurs (dont ANR) pour un OA immédiat des publications
-refus des APC dans les revues hybrides
+refus des [[APC]] dans les revues hybrides
 Financement des APC dans les revues Full OA
 Obligation de dépôt en archive ouverte et stratégie de rétention des droits
 

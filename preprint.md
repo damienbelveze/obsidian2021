@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 20210531
 link_citations: true
 aliases: [pré-publications, prépublications, preprints, prépublication]
-tags: communication scientifique
+tags: [communication scientifique, publication scientifique]
 ---
 
 Etude déposée sur un serveur de pré-publications en attente d'être [[Révision par les pairs|revue par les pairs]] et publiée par une revue scientifique. 
@@ -13,6 +13,21 @@ Etude déposée sur un serveur de pré-publications en attente d'être [[Révisi
 Le premier serveur de prépublication est [Arxiv](https://arxiv.org) et a été mis en place à l'Université de Los alamos en 1990 pour recueillir des preprints dans les domaines des mathématiques et de la Physique.
 
 # statut et rôle du préprint dans la [[communication scientifique]]
+
+## encouragements institutionnels
+
+Les institutions de recherche encouragent leurs chercheurs à déposer des preprints : 
+- pour attester précocémment de la paternité de leur découverte (et éviter l'abus de propriété intellectuelle)
+- pour accélérer la communication scientifique
+
+Moyennant en quoi, elles recommandent :
+- d'aider à évaluer les preprints
+- de bien manifester qu'il s'agit d'un preprint et non d'une publication.
+- de soumettre les preprints à la révision d'autrui, par exemple à travers la communauté de [peercommunityin](https://peercommunityin.org/)[[@bassinetArticleProcessingCharges2022]]
+
+
+## de la prépublication à la publication : quelle réelle plus-value ?
+
 
 Déposer un preprint sur un serveur comme ArXiv, MedRxiv, BioRxiv, Cogprints, etc. permet d'accélérer la [[communication scientifique]]quand l'évaluation par les pairs organisée par les éditeurs scientifiques peut prendre plusieurs mois (en moyenne 6 mois en Sciences Dures).
 Le preprint peu à peu prend une place de plus importante à mesure que les réticences des éditeurs -au départ restrictives- cèdent (cf. politiques des éditeurs sur Sherpa Romeo) face aux besoins de communication rapide des résultats de la science qui nourrissent l'avancée de l'open access.

@@ -11,6 +11,11 @@ aliases: [citationGecko, cocitations, cocites, Cocites, Citation Gecko]
 
 
 # Introduction
+Pour élargir leur découverte de nouveaux articles sur leur sujet, les chercheurs ont tendance à envoyer des requêtes basées sur des mots-clé dans des moteurs de recherche comme Google Scholar. 
+Dans la mesure où Google Scholar ne dispose pas d'un thesaurus et que la recherche par mot-clé est toujours sujette à des approximations liées à la gestion de ces mots-clé, cette méthode n'apporte pas toujours les résultats escomptés. 
+Par ailleurs, même si le contenu de l'article correspond aux mots-clé, cela n'empêche pas que beaucoup d'articles ne soient pas pertinents par rapport à la problématique de ces chercheurs[[@jiaAnalysisCitationRecommender2017]]. 
+
+
 
 L'essor des citations ouvertes depuis 2017 ([[OpenCitations]]) auquel même des grands éditeurs, par ailleurs producteurs de bases citationnelles, comme Elsevier ont contribué) ont rendu possible l'apparition de nouveaux outils permettant de compléter une [[revue de littérature]] fondée au préalable sur la **recherche d'articles par mots-clé** par une recherche sur les réseaux de citation constituées à partir de ces citations ouvertes. C'est le cas de deux produits qu'on va présenter dans cet atelier : **[[CitationGecko]]** et **[Cocites](https://www.cocites.com/**
 
