@@ -12,12 +12,21 @@ tags: [culture numérique]
 
 Le [[numérique]] n'est pas un département de nos vies. L'ensemble de nos vies (réflexions, émotions, [[amitié|amitiés]], habitudes) se présentent désormais sous une forme numérique. 
 
+En s'intéressant aux [[objet technique|objets numériques]] en tant qu'objets support d'imaginaires, la culture numérique permet à la personne de se déprendre de ces imaginaires et d'adapter les usages de ces objets à ses véritables besoins, y compris en les utilisant pour [[Emancipation sociale|s'émanciper]]
+
+# les utopies numériques
+
+traits commun des utopies technologiques : 
+
+- naturalisation (ordinateur = cerveau)
+- révolution technologique : le numérique entraîne une révoution sociale
+- paix : la technique amène la paix
+- prospérité : la technologie amène la richesse
+- orientation libertaire : "les réseaux technologiques inscrivent en dur des choix politiques dans leur infrastructure même"[[@plantard2015a]], P27. - note : ces choix ne sont pas forcément libertaires mais peuvent être autoritaires ou totalitaires"
+- déterminisme technique : le numérique détermine les relations économiques et sociales
 
 
-
-# bibliographie
-
-# Filmographie
+# La culture numérique dans les films
 
 Liste de films et de documentaires permettant d'accroître sa culture numérique : 
 

@@ -34,6 +34,8 @@ Source : https://twitter.com/WriteThatPhD/status/1382631067069382658
 ## auteurs et affiliations
 
 ## introduction
+![](intro_conclusion.jpg)
+
 
 ## protocole et méthodes
 

@@ -93,6 +93,112 @@ data<-data.frame(x1=rnorm(100), x2=rnorm(100), x3=rnorm(100))
 
 ```
 
+### Faire une présentation avec Rmarkdown
+
+avec le package [Xaringan](https://bookdown.org/yihui/rmarkdown/xaringan-format.html#slides-and-properties)
+Installer le package depuis le site du CRAN
+
+#### YAML : 
+
+````yaml
+title: "gérer, diffuser et partager ses données de recherche"
+subtitle: 
+author: "Damien Belvèze"
+date: "13/04/2022"
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      ratio : "16:9"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+	  
+````
+
+#### diapositives
+
+les diapositives se succèdent avec un titre de niveau 2 (h2) ou \#\# et séparées par des \-\-\-
+
+sauf la diapositive de titre (titre 1)
+
+
+avant le titre de la diapositive, possibilité de changer la couleur de fond ou la classe
+
+````
+background-color: #bebebe
+class: middle
+````
+
+par exemple pour les diapos de titres ou titres intermédiaires : 
+
+````
+class: center, inverse, middle
+````
+
+Notes de la diapo, 
+
+elles peuvent être placées sous ??? et apparaître dans la présentation en tapant sur la touche p
+
+
+
+#### ajout d'une image
+
+##### taille de l'image
+
+`````r 
+.center[
+```{r echo=FALSE, out.height=300, out.width=600}
+knitr::include_graphics("img/types-donnees.png")
+```
+]
+``````
+
+si pas nécessaire de retailler les images, pas besoin de mentionner les images dans un chunk : 
+
+````r
+.center[![](./img/opengov.png)]
+````
+
+##### emplacement des images
+
+image à gauche, légende à droite
+
+````r
+.pull-left[
+```{r echo=FALSE, out.height=400, out.width=300}
+knitr::include_graphics("img/ocde.png")
+```
+]
+
+.pull-right[
+2007 : Parution du rapport de l’OCDE, « Principes et lignes directrices de l’OCDE pour l’accès aux données de la recherche financée sur fonds publics ». http://www.oecd.org/fr/science/inno/38500823.pdf 
+]
+````
+
+
+#### polices
+
+petits caractères entre balises \<small>\</small>
+
+
+#### bibliographie
+
+insérer un appel au package knitrcitations. Si knitr ne donne pas le résultat escompté, cela permettra à l'utilisateur de le charger en tapant dans la console : 
+````
+install.packages(knitrcitations)
+````
+
+A l'endroit où on mobilise les packages nécessaires, appeler knitrcitations
+
+```{r, echo = FALSE}
+library(knitcitations)
+```
+
+A l'endroit où on insère l'appel de citation :
+
+`r citep("https://www.oecd.org/fr/science/inno/38500823.pdf")`
+
 
 ## Base de programmation en R/Rstudio
 

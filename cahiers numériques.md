@@ -121,7 +121,7 @@ La première génération d'outils n'était pas mature ce qui a découragé les 
 
 # conclusion
 
-tensions entre les usages : 
+tensions entre les [[usages]] : 
 - explication ou documentation
 - exploration individuelle ou communication
 - assez peu d'aspect narratif dans ces cahiers.

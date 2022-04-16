@@ -32,7 +32,7 @@ connaissance de base du langage machine et des formats du web
 Ce n'est jamais un pré-requis à l'utilisation d'un moteur de recherche, mais si on ne se satisfait pas des premiers résultats venus, il est important de maîtriser cette syntaxe (booléens, opérateurs de proximité, opérateurs géographiques)
 
 Une connaissance de ce que le web a à nous offrir comme silo d'information
-savoir qu'il existe un site qui permet d'accéder à des pages désormais hors ligne (internet archive), un site qui permet de savoir qui a déposé un nom de domaine (Whois), à quel réseau appartient l'IP d'un objet connecté (Shodan), une base de données qui recense les immeubles de grande hauteur (emporis)
+savoir qu'il existe un site qui permet d'accéder à des pages désormais hors ligne (internet archive), un site qui permet de savoir qui a déposé un nom de domaine (Whois), à quel réseau appartient l'IP d'un objet connecté (Shodan), une [[base de données]] qui recense les immeubles de grande hauteur (emporis)
 
 On constate aussi que des  commandes très simples sous la forme de raccourcis clavier qui aident à lire rapidement l'information, à la comparer à la contextualiser ne sont pas connues par les étudiants. 
 
@@ -50,7 +50,7 @@ Pour les étudiants, le web se présente sous la forme d'un immense hypertexte, 
 Un premier travail va consister à rétablir une typologie de ces documents pour en mesurer la fiabilité et la portée. 
 Un second travail va consister à réutiliser cette matière en contrôlant le reyclage (propriété intellectuelle)
 
-# la gestion personnelle des connaissances issues du web : un socle pour une multitude d'usages.
+# la gestion personnelle des connaissances issues du web : un socle pour une multitude d'[[usages]].
 
 apprendre à thésauriser l'information qui nous a été utile. 
 gestionnaire de signets (bookmarks du navigateur) : pas suffisant, parce qu'on change de navigateur ou quand il y a trop de signets on ne s'y retrouve plus Utilisation de services de signets en ligne : fermeture de deliicio.us, on peut utiliser diigo pour cela. Dans un cadre académique, on aura avantage à utiliser plutôt Zotero. 

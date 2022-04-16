@@ -1,11 +1,9 @@
 [
-  "obsidian-pandoc-plugin",
   "mrj-backlinks-in-document",
   "obsidian-citation-plugin",
+  "cycle-through-panes",
   "cm-editor-syntax-highlight-obsidian",
-  "obsidian-latex-environments",
-  "obsidian-pandoc",
-  "obsidian-extract-pdf-highlights",
   "templater-obsidian",
-  "obsidian-excalidraw-plugin"
+  "nldates-obsidian",
+  "obsidian-latex-environments"
 ]

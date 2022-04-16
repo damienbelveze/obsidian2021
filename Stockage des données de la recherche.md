@@ -20,6 +20,16 @@ L'[[archivage]] de ces données consiste à rendre ces données accessibles et u
 
 ![[diffusion_donnees.pdf]]
 
+- vérifier quelles données accepte l'entrepôt (certains entrepôts n'acceptent que les données issues des publicatons)
+
+- vérifier que les données sont en format libre, sinon les convertir de leur format propriétaire natif vers un format libre. 
+
+- Penser à la réutilisation de ces données : adopter un nom clair et un descriptif complet. 
+
+- réfléchir aux métadonnées avec lesquelles on va décrire la ressource
+
+- réfléchir à la licence qu'on va appliquer à ces données.
+
 # Quel entrepôt de données utiliser
 
 La question de l'entrepôt s'impose très vite, au moins au cours de la rédaction d'un [[Plan de gestion des données|Plan de gestion de données]]

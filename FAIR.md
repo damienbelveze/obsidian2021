@@ -31,7 +31,7 @@ format informatique interopérable (format CIF)
 défis : formats peu usités JCAMP, mzML, nmrML
 multiplicité des identifiants de molécules (CAS, SMILES, Inchi, Inchikey)
 
-Dans les entrepôts on va plutôt utiliser inchi que CAS car pour accéder aux identifiants CAS il faut disposer de la base de données CAS Sci-Finder
+Dans les entrepôts on va plutôt utiliser inchi que CAS car pour accéder aux identifiants CAS il faut disposer de la [[base de données]] CAS Sci-Finder
 
 2 journaux d'ACS demandent les données en format FID (format de données déjà travaillées)
 

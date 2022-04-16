@@ -1,8 +1,8 @@
 ---
-title: 
+title: Linux commandes de base
 subtitle:
 author: Damien Belvèze
-date: 
+date: 11/04/2022
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
@@ -277,7 +277,20 @@ mettre à jour les paquets pouvant être mis à jour
 `sudo apt upgrade`
 
 
+# installer des packages
 
+Les packages pour Linux arrivent assez souvent sous la forme d'archives (tar.gz)
+Pour extraire les dossiers d'une archive : 
+
+````shell
+tar -xvf nomdufichier.tar.gz
+````
+
+Si l'application se présente directement sous l'apparence d'un paquet debian (.deb)
+
+````shell
+deb -i nomdufichier.deb
+````
 
 
 # Bibliographie

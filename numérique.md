@@ -24,7 +24,7 @@ Le numérique est pervasif, c'est le fait social total du XXIème siècle ([[Dom
 
 (Elie Allouche, cité par Michel Guillou[[@Guillounumeriquecommepaysage2018]])
 
-Les usages numériques développent une [[culture numérique]]
+Les [[usages numériques]] développent une [[culture numérique]]
 
 
 # bibliographie

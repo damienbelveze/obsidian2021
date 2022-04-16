@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "34f4a5c14f64fbae",
+    "id": "778e7c9f32849657",
     "type": "split",
     "children": [
       {
-        "id": "9f14c80b630b30a3",
+        "id": "0848c3d2a3f1e075",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bibliothèque universitaire de Pérouse.md",
+            "file": "culture numérique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "533a41b2ac0c87ef",
+        "id": "10cf54bffaee1761",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bibliothèque universitaire de Pérouse.md",
+            "file": "culture numérique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "65c448477df87f8e",
+        "id": "188693a8b8b2508d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bibliothèque universitaire de Pérouse.md",
+            "file": "culture numérique.md",
             "mode": "source"
           }
         }
@@ -52,15 +52,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9e8ccabff5d2646",
+    "id": "278d4e47738f0b2d",
     "type": "split",
     "children": [
       {
-        "id": "366f3578dd67a828",
+        "id": "fe92bfd0ca208b55",
         "type": "tabs",
         "children": [
           {
-            "id": "f40cd6c433ce80d7",
+            "id": "c6c426f787464aed",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,12 +68,12 @@
             }
           },
           {
-            "id": "350f15ddd2768d50",
+            "id": "19f2d5860fb037b8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "ERRIE",
+                "query": "file:culture numériqu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,138 +81,57 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "right": {
+    "id": "391a50e34cff4860",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfcb00fc3c3e1284",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b40919b55102730c",
+            "id": "a75a4b0af9dd3ba4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "eab0f1ee7cf1579e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
+              "type": "backlink",
+              "state": {
+                "file": "culture numérique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 287
-  },
-  "right": {
-    "id": "7f36bb58d7e8a0b7",
-    "type": "split",
-    "children": [
-      {
-        "id": "4d91cc458a21b377",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "afc48893f65508ce",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c436fc3a67b0e5da",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Bibliothèque universitaire de Pérouse.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "156ef011adecd04f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0934aa39ec1d3fd1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "2477ec0c1dd8cd82",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "da90c0537e4eded4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Bibliothèque universitaire de Pérouse.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d6ecb0e86c42c2dc",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "916e49b920a4e17a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Bibliothèque universitaire de Pérouse.md"
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      }
-    ],
-    "direction": "horizontal",
-    "width": 100,
+    "width": 300,
     "collapsed": true
   },
-  "active": "65c448477df87f8e",
+  "active": "188693a8b8b2508d",
   "lastOpenFiles": [
-    "Bibliothèque universitaire de Pérouse.md",
-    "ERRIE.md",
-    "preprint.md",
-    "Science ouverte.md",
-    "article processing charges.md",
-    "Editeurs prédateurs en open access.md",
-    "Compléter une revue de littérature.md",
-    "references/@TayKnowtroCitationGecko2018.md",
-    "CitationGecko.md",
-    "Mode d'emploi d'Obsidian.md"
+    "culture numérique.md",
+    "Emancipation sociale.md",
+    "objet technique.md",
+    "culture technique.md",
+    "numérique.md",
+    "Consommation médiatique.md",
+    "usages.md",
+    "cahiers numériques.md",
+    "Article ASTED.md",
+    "apprendre le web.md"
   ]
 }

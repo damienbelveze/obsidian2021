@@ -155,7 +155,7 @@ possibilité d'exporter le PGD en Json pour faciliter les échanges entre machin
 Format par défaut (format plus riche mais moins interopérable que le format RDA)
 On échange plus facilement en [[format RDA]] avec d'autres systèmes d'information. 
 On pourra bientôt importer des PGD d'une plateforme étrangère à OPIDOR, grâce au format RDA
-Json permet d'intégrer le DMP dans une base de données en SQL
+Json permet d'intégrer le DMP dans une [[base de données]] en SQL
 
 On ne peut pas avoir plusieurs personnes contact pour un même produit de recherche, mais l'ensemble des personnes contributrices peuvent être mentionnées dans la description du produit de recherche.
 
@@ -170,7 +170,7 @@ ne pas confondre les collaborateurs du projet et les contributeurs du DMP.
 
 Plus d'infos sur la FAQ d'Opidor https://opidor.fr/category/dmp-faq/
 
-
+exemple de DMP machine actionable conçu pour les projets OpenAire : [argos](https://argos.openaire.eu)
 
 # Accompagner les chercheurs à la rédaction d'un PGD
 

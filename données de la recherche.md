@@ -111,9 +111,13 @@ Cet aspect n'est pas de nature à motiver le chercheur à publier ses données.
 
 ## valeur économique des données : 
 
-coût associé à leur production (un séqençage de génome = 1500 euros) mais aussi rentabilité de leur monétisation
+coût associé à leur production (un séquençage de génome = 1500 euros) mais aussi rentabilité de leur monétisation
 
 Les financeurs insistent sur le levier de [[croissance]] que représenterait un accès facilité aux données de la recherche (concept [[libéralisme#Néo-libéralisme|néo-libéral]] d'économie de la connaissance).
+
+Pour les plateformes de publication, les données constituent une valeur commerciale importante : l'hébergement de ces données permet de compléter le workflow de la publication en dehors duquel il sera de plus en plus difficile aux chercheurs de se tenir ([[@brembsReplacingAcademicJournals2021]]. 
+Ne pas choisir des solutions propriétaires pour héberger ses données dans la mesure du possible. 
+L'importance pour les chercheurs de maintenir des standards en matière de partage et de diffusion des données réside dans la capacité qu'ils se réservent de substituer un acteur plus éthique à une firme qui s'avèrerait trop cupide ou trop intrusive (typiquement Elsevier), voir à ce sujet l'article [[stratégie de publication]]
 
 # la conservation et le partage des données. 
 

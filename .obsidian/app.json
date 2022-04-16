@@ -1,18 +1,1 @@
-{
-  "obsidianCss": true,
-  "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "pdfExportSettings": {
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
-  },
-  "attachmentFolderPath": "Untitled",
-  "foldHeading": true,
-  "showFrontmatter": true,
-  "foldIndent": true,
-  "legacyEditor": true,
-  "livePreview": false,
-  "autoConvertHtml": false
-}
+{}

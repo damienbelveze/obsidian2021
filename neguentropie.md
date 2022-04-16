@@ -17,7 +17,7 @@ Les activités humaines peuvent être classées dans deux catégories selon qu'e
 
 entropie : 
 désordre informationnel, désinformation
-extractivisme
+[[extractivisme]]
 production de biens générant beaucoup de CO2
 conditionnement par les écrans
 

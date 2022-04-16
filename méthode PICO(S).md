@@ -7,4 +7,4 @@ Méthode permettant de délimiter le sujet d'une [[Etude clinique]]
 On ajoute parfois aussi : 
 **S**tudy design : type d'étude clinique retenu dans le cas d'une [[revue systématique]] : traitement d'un seul patient, [[RCT]], revue systématique, étude de cohorte, étude de groupe...
 
-la base de données [Tripdatabase](https://www.tripdatabase.com) et [Pubmed](https://pubmedhh.nlm.nih.gov/nlmd/pico/piconew.php) permettent d'interroger leur corpus avec la méthode PICO 
+la [[base de données]][Tripdatabase](https://www.tripdatabase.com) et [Pubmed](https://pubmedhh.nlm.nih.gov/nlmd/pico/piconew.php) permettent d'interroger leur corpus avec la méthode PICO 

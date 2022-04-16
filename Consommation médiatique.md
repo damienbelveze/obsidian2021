@@ -1,7 +1,7 @@
 
 # diversité de l'offre ou [[Bulle de filtre|bulle de filtrage]]
 
-Les personnes sujettes aux fake news ne sont pas celles qui ont les [[numérique|usages numériques]] les plus avancées, au contraire, les électeurs de Trump s'informent majoritairement par la télévision sur Fox News. 
+Les personnes sujettes aux fake news ne sont pas celles qui ont les [[usages numériques]] les plus avancées, au contraire, les électeurs de Trump s'informent majoritairement par la télévision sur Fox News. 
 
 La plupart des consommateurs de médias ne substituent pas leur usage des réseaux sociaux à la consultation des journaux en ligne mais cumulent ces deux usages. Ainsi une étude américaine rapportée par [[Dominique Cardon]], montrait que seulement 14% des Américains interrogés s'informaient prioritairemment sur les réseaux sociaux[[@CardonPourquoiavonsnoussi2019]]. 
 

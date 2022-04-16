@@ -31,6 +31,11 @@ Réponse : 504/(120+132) =2
 Quel est le facteur d’impact de Plos medicine ? (faire une recherche sur wikipédia)
 
 
+## facteurs d'impact frauduleux
+
+voir Cosmos Impact Factor[[@FraudulentFalseMetric]] qui entre autres indexe des revues prédatrices comme le polish journal of science
+
+
 # classements français
 
 [Le classement des revues du CNRS n'existe plus](https://twitter.com/Enroweb/status/1494085045254037506), mais des revues continuent de s'en prévaloir en 2022

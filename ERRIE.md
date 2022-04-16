@@ -49,9 +49,24 @@ We usually present fragmented information to our students (a tweet for instance)
 We teach students to practice what it's called "lateral reading" : do not focus too much on the website, but make queries about the source & and the event to check if it has been covered by other sources, or if other sources we consider as reliable say something usefull about the author of the claim. This pedagogy is adapted to the hypertextual nature of the web and derived from constructivist tools.
 
 Sometimes, when the claim is too recent to have been covered (or the source mostly unknown), we have to focus our attention on what is presented to us as evidence supporting a claim. Most of the time, it is an image, a photograph post on Facebook or Twitter. 
-The most successful tweets contain emotionnal content such as pictures causing anger and indignation. 
+The most successful tweets contain emotional content such as pictures causing anger and indignation. 
 Information literacy includes skill but also habits and soft skills such as stopping before sharing and checking one's emotions. 
+with simple tests, such as the Wason test, we aim at making students aware of the heuristics they mobilize to solve problems and focus on the confirmation bias that can lead to rationalization and motivated reasoning.
 
+As opposed to "deep fakes" which demand programming skills that are still rare in the society, we study with our students how iconographic documents (sometimes videos but mostly photographs) are separated from their original context of publication to be reframed and spread on social networks as "cheep fake", disinformation content, easily edited and posted, for the benefit of quacks, firms, political leagues or authorities.
+
+The notion of expertise (and authority) is a problematic concept. The ALA framework states that "authority is constructed and contextual", which means that it has few intrinsic characteristics, but we try to link a degree of expertise between a field of knowledge (delimited by the topic on which an author has written) while taking into account that in some disciplines, academic papers, especially published in impact factor journals inspire more confidence than books. Most of the time, "Merchants of doubts"(Conway, Oreskes) publish in channels that are not fully recognized by authentic experts in a field.
+
+One question to Vincent Clavaud : 
+
+does he think that fake labs (workshops in which students would try to forge fake pics or deep fakes) would be a good idea to make them aware of the problem of fake news (how it has become easy to forge thorough fake news) ?
+
+Are there already tools, not reserved to savvy users, that can be used to detect deep fakes ?
+
+
+One question to Julien Giry
+
+journalists and politicians who comment the news talk a lot about conspirationism. There are obvious signs that a lot of people on social network have adopted, during the pandemic, a conspirationnist mindset, but there is a danger to let a partisan use of the term conspirationnism spread among the public to disqualify relevant critics of the power system. Where are the safeguards in the handling of this concept?
 
 
 

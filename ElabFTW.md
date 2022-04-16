@@ -28,7 +28,7 @@ page expérience : liste des expériences avec les noms des administrateurs de l
 statut de l'expérience (à venir, en cours, terminée)
 eLabView est un outil générique pas d'application métier.
 
-Possibilité de lier des objets de la base de données. 
+Possibilité de lier des objets de la [[base de données]]. 
 Dans la base de données, on peut créer une grande quantité de type d'objets
 possibilité de joindre un fichier (image, graphique : spectre, jeu de données déjà traité)
 

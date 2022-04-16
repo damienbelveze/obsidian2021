@@ -4,6 +4,7 @@ subtitle:
 author: Damien Belvèze
 date: 20210211
 link_citations: true
+tags: [publication scientifique]
 aliases: [predatory open access journals, highjacking journals]
 ---
 
@@ -21,6 +22,9 @@ Raisons de l'apparition du phénomène :
 
 # controverses politiques sur la notion d'éditeur prédateur
 
+## un concept destiné à renforcer les positions dominantes ?
+
+
 > high fees in eminent journals may be criticised, but they would never be labelled as ‘predatory’, even if their business models may be economically exploitative. 
 
 ([[@Therenoblack2020]])
@@ -33,6 +37,17 @@ Le terme est-il forgé pour disqualifier des journaux auxquels contribuent des c
 
 intérêt des gros éditeurs à élever le niveau de qualité d'un journal pour le mettre au dessus des capacités financières d'un nouvel acteur sur le marché (tous les critères de qualité ne se valent pas dans ce contrôle qualité)
 
+
+## au moins, les prédateurs publient tout ce que vous leur soumettez
+
+au moins, les prédateurs publient tout ce que vous leur soumettez, y incluant les articles comportant des résultats négatifs et des [[Negative data|données négatives]]
+En revanche, les éditeurs sérieux, sont très réticents à publier des travaux qui ne confirment pas l'hypothèse testée et ce [[biais de publication]] peut considérablement entraver l'avancée de la science.
+
+> "Predatory" publishers have some problems, including intransparent and excessive fees, unclear commitments to archiving etc. But they do (probably mostly) publish the work they get sent, without demanding that authors hide inconvenient results or make things up etc.
+
+(source[[@nilsonneGustavNilsonneTwitter]])
+
+Si on peut toujours soumettre ces résultats négatifs sur un serveur de prépublications, il n'est pas si courant que les revues de littérature prennent en compte les prépublications.
 
 # Les conséquences de cette prédation
 
