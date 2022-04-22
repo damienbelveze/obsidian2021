@@ -20,7 +20,7 @@ Les caractéristiques du discours conspirationniste comporte les caractéristiqu
 
 ![](layperson.jpg)
 
-- **un discours qui présente un fort [[biais d'intentionnalité]]** et néglige la part de hasard ou d'enchaînements non maîtrisés ou qui dépassent les volontés des agents individuels (cf Lordon : "il y a bien un système mais pas d'ingénieur-système ([source](https://www.youtube.com/watch?v=xDjKjxQpsuo))")
+- **un discours qui présente un fort [[biais d'intentionnalité]]** et néglige la part de hasard ou d'enchaînements non maîtrisés ou qui dépassent les volontés des agents individuels (cf [[Frédéric Lordon]] : "il y a bien un système mais pas d'ingénieur-système ([source](https://www.youtube.com/watch?v=xDjKjxQpsuo))")
 
 D'après Richard Hofstadter (1964), la mentalité conspirationiste ne se définit pas par une croyance à tel ou tel complot mais à la vision de l'Histoire comme étant essentiellement menée sous la forme d'un complot
 

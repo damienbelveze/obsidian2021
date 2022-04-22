@@ -30,7 +30,7 @@ L'artificialité ou la naturalité d'un produit est une question inépuisable. D
 	
 # Dans le domaine des faits sociaux
 
-D'après Frédéric Lordon, la naturalisation des faits sociaux est un recours habituel des [[économie néo-libérale|néo-libéraux]] pour imposer les normes du [[Capitalisme|capitalisme]] à la société, notamment en dépeignant d'elle un tableau peu flatteur (guerre de tous contre tous) ou en stipulant que les hommes sont uniquement guidés par leur l'optimisation de leur intérêt personnel.
+D'après [[Frédéric Lordon]], la naturalisation des faits sociaux est un recours habituel des [[économie néo-libérale|néo-libéraux]] pour imposer les normes du [[Capitalisme|capitalisme]] à la société, notamment en dépeignant d'elle un tableau peu flatteur (guerre de tous contre tous) ou en stipulant que les hommes sont uniquement guidés par leur l'optimisation de leur intérêt personnel.
 
 L'économie [[économie néo-libérale|néo-libérale]] est ainsi présentée par des théoriciens et des politiques comme une loi semblable à celle de la gravité, à laquelle on ne pourrait pas espérer s'échapper : 
 

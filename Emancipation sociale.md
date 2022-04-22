@@ -25,7 +25,7 @@ Si ces récits nourrissent un imaginaire qui peut aider à se projeter, il faut 
 
 >Ces “rêves de liberté” où l’avènement de la liberté prend la forme du Jugement dernier (à l’instar de ce “jour” qui verra, d’après Martin Luther King Jr., “tous les enfants de Dieu […] se donner la main et chanter les paroles du vieux negro spiritual : ‘Enfin libres, enfin libres, grâce en soit rendue au Dieu tout-puissant, nous sommes enfin libres !’”) peuvent effectivement nous aider à imaginer le futur que l’on souhaite. Mais ils peuvent aussi nous conditionner à penser la liberté comme un accomplissement futur plutôt que comme une pratique continue au présent, une chose déjà à l’œuvre 
 
-Voir aussi Frédéric Lordon : le meilleur moyen de sauver l'idée d'émancipation est d'arrêter d'attendre le Grand Soir
+Voir aussi [[Frédéric Lordon]] : le meilleur moyen de sauver l'idée d'émancipation est d'arrêter d'attendre le Grand Soir
 
 Définition de la Liberté : "processus par lequel on développe un ensemble de pratiques par lesquelles on parvient à se rendre  indisponible pour la servitude" (Avery F. Gordon)
 
