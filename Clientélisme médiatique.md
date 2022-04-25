@@ -8,7 +8,7 @@ aliases: []
 ---
 
 #objectivité
-#bulle_de_filtre
+#bulle_filtre
 
 Monde Diplomatique : 
 

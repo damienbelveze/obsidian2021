@@ -30,5 +30,10 @@ On est soi dans le relativisme, soit dans la reconnaissance d'une hiérarchie de
 
 nécessité d'inclure l'université comme productrice de l'autorité dans l'analyse de la production de l'autorité. Réfléchir avec les apprenants à la manière dont l'autorité est produite à l'université et aux autres source de production de l'autorité
 
+# expertise et expérience
+
+
+![](expertise_medicine.jpg)
+
 # bibliographie
 

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [identitariste, identitaristes, identitaires, identitaire]
-tags: [philosophie politique]
+tags: [philosophie_politique]
 ---
 
 assignation d'un individu à une identité le plus souvent réduite à un attribut comme une orientation sexuelle ou une couleur de peau. 

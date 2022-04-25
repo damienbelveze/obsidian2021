@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [évaluation d'une formation]
-tags: [user experience, évaluation]
+tags: [user_experience, évaluation]
 ---
 
 

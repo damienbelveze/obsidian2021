@@ -5,13 +5,26 @@ author: Damien Belvèze
 date: 20210525
 link_citations: true
 aliases: [stockage de données]
-tags: [données de recherche]
+tags: [données_recherche]
 ---
 
-
+# L'enjeu du stockage des données
 
 Le stockage de données consiste à enregistrer des [[données de la recherche|données de recherche]] sur un support physique La sauvegarde de données consiste à créer une copie de ces données stockées
 L'[[archivage]] de ces données consiste à rendre ces données accessibles et utilisables sur le long terme en en faisant la [[curation]] (lutte contre l'[[obsolescence des formats]] par des conversions successives dans le temps, [[règles de nommage]] et description permettant leur réutilisation dans le temps)
+
+# Pourquoi ne pas confier cette charge aux éditeurs ?
+
+généralement les éditeurs proposent d'héberger les jeux de données en même temps que les articles (en lien étroit avec ceux-ci) sous la forme de supplementary material, il est préférable de choisir un autre répertoire de données tiers pour trois raisons :
+
+- les répertoires de données, vous donnent plus de latitude pour commenter les données
+- l'hébergement de vos données par l'éditeur peut nuire à l'ouverture de ces données ou aux réutilisations possibles
+- les multinationales de l'édition scientifique peuvent avoir un usage de ces données qui est contraire à l'esprit de la [[Science ouverte]]
+
+Ces trois raisons sont exprimées ici [[@ouvrirlasciencePartageDonneesLiees2022]]
+
+> Il est recommandé de ne pas confier les données à partager aux éditeurs des revues qui proposent de les publier sous forme de « supplementary data » ou de « supplementary materials» associés à l’article. Une telle publication se fait encore souvent dans un format et un environnement qui ne permettent pas de documenter correctement les données et rendent difficile leur réutilisation. Elle peut aussi s’accompagner d’une demande de transfert exclusif de droits contraire à la loi française et à l’esprit de la science ouverte. Enfin, dans certains cas, elle contribue à rendre les utilisateurs captifs au sein d’environnements maîtrisés par de grands acteurs commerciaux de l’édition scientifique.
+
 
 ![[20210525_stockage_donnees_recherche.pdf]]
 
@@ -87,4 +100,11 @@ Pour comprendre à quoi correspondent licences permissives et licences à récip
 Voir aussi le [niveau de propriété intellectuelle](https://hal.archives-ouvertes.fr/hal-02399517/file/20191202_plaquette_pi_licences_V1.1.pdf) du code en fonction du statut du créateur.
 Pour choisir une licence sous laquelle diffuser le logiciel, voir la présentation de Teresa Gomez-Diaz [[@Gomez-Diazlogicielsrechercheleurs2019]]
 
+# comment faire référence à ces données
 
+il est recommandé de déposer ses données dans un entrepôt avant de publier, car une fois l'article publié, il n'est plus possible de faire un lien de l'article vers le jeu de données sur le site de l'éditeur comme on peut le faire en revanche sur l'entrepôt de données vers le site de l'éditeur. 
+Le seul moyen qui nous reste est de faire un lien dans le MAA qu'on dépose sur l'archive ouverte.
+
+On peut aussi réserver un emplacement (ID) sur un entrepôt de données avant de déposer les données et faire mention de cet ID (un [[DOI|Direct Objetc Identifier]]) dans l'article qu'on rédige, même si l'emplacement est encore vide des données qu'on va y verser après publication. 
+
+Si le jeu de données est original, prévoir avant la bibliographie un espace "disponibilité des données", s'il s'agit d'un jeu de données qu'on réutilise, le mentionner dans la bibliographie. [[@ouvrirlasciencePartageDonneesLiees2022]]

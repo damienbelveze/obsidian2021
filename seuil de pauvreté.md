@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [indicateurs économiques]
+tags: [indicateurs_économiques]
 ---
 
 les personnes vivants sous le seuil de pauvreté sont celles qui touchent moins de 60% du salaire médian. 

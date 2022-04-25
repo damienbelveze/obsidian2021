@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [désinformation, fake news]
+tags: [désinformation, fake_news]
 ---
 
 [jeu sérieux](https://www.getbadnews.com) inventé par Roozenbeek, Vosoughi et Roy sur la désinformation. Le jeu est conçu pour sensibiliser les internautes aux fausses informations en les mettant en position d'en créer (et de mesurer en nombre de followers le succès ou l'insuccès de chaque publication ou tweet)

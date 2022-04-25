@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [pages de recherche de Google, SERP]
-tags: [Google Search, référencement]
+tags: [Google_Search, référencement]
 ---
 
 Apparaître sur la première page de Google Search après une recherche pertinente de l'usager est un défi pour toute entreprise qui se lance dans le commerce en ligne. Pour y arriver, elle a besoin d'une bonne stratégie de [référencement web] (SEO) et de savoir comment se présentent les SERP, les pages de résultats de Google. 

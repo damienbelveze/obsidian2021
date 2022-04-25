@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [intégrité scientifique]
+tags: [intégrité_scientifique]
 ---
 
 mot remis au goût du jour par [[Etienne Klein]] dans [[@Kleingoutvrai2020]]

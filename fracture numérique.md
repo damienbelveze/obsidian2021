@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [compétences informationnelles]
+tags: [compétences_informationnelles]
 ---
 
 # Fracture numérique : une question d'équipement ou de compétences

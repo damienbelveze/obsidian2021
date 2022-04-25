@@ -7,8 +7,11 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [APC]
-tags: [publication scientifique]
+tags: [publication_scientifique]
 ---
+
+# APC et voie dorée
+La voie dorée tend de plus en plus à être confondue avec le paiement d'APC. La publication sans frais de publication sur des plateformes gérées par des chercheurs est aujourd'hui plutôt qualifiée de [[voie diamant]]
 
 Les APC (article processing charges) sont des frais de publication demandés par certaines revues en open access. 
 Ces frais sont censés couvrir le coût de la publication, mais leur montant est en général bien au delà de ces coûts. 
@@ -20,9 +23,18 @@ La [[stratégie de publication#voie dorée|voie dorée]] (publication en open ac
 En majorité, ce sont des éditeurs hybrides qui font verser des APC ce qui revient à faire payer l'institution de recherche (université, organisme de recherche) deux fois, une fois pour accéder aux textes qui ne sont pas en open access (abonnements), une fois pour publier un article. 
 Sur le site Lorrain, le coût moyen des APC était en 2020 de 2041 euros [[@bassinetArticleProcessingCharges2022]]
 
+# les critiques à l'égart du modèle auteur-payeur
+
 L'université de Lorraine a fait savoir le 27 mars 2022 qu'elle déconseillait le versement d'APC et qu'elle proscrivait le versement d'APC dans des revues hybrides[[@bassinetArticleProcessingCharges2022]].
 
+Le CNRS à travers son directeur Alain Schuhl fait les mêmes préconisations. Les publications dans des journaux hybrides sont fortement déconseillées aux chercheurs du CNRS, mais au delà de l'hybride, la direction du CNRS pointe les problèmes inhérents à la généralisation de ce modèle : 
 
+- ce modèle ne fait tomber les barrières à l'accès aux résultats de la science que pour en ériger de nouvelles à la publication de ces résultats
+- cela nuit à la [[crédibilité de la science]] dans la mesure où cela donne l'impression qu'il suffit désormais de payer pour être publié
+- cela nourrit le marché douteux des [[Editeurs prédateurs en open access|predatory_open_access_journals]]
+- cela provoque une inflation des coûts qui sont de plus en plus sans rapport avec le service effectivement rendu par l'éditeur ([[@cnrsinfoCNRSEncourageSes2022]]) : 
+
+> les montants d’APC décorrélés du coût du service rendu par l’éditeur ne cessent d’augmenter, année après année, chez la plupart des éditeurs, en particulier ceux qui sont réputés « prestigieux » et ceux qui ont pour objectif principal de faire des profits. En conclusion, il n’y a pas de raison de payer des APC, que l’on pourrait aussi nommer « article prestige charges », pour être publié.
 
 
 

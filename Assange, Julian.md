@@ -1,5 +1,5 @@
 ---
-tags: [surveillance de masse]
+tags: [surveillance_masse]
 ---
 
 Fondateur de Wikileaks en 2010. L'année suivante il publie sur ce site plusieurs cables diplomatiques ainsi qu' une vidéo intitulée *Collateral dommage* dans laquelle un pilote d'hélicoptère américain s'amuse de tirer à la mitrailleuse sur des civils Irakiens. Officiellement poursuivi pour une affaire d'aggression sexuelle par la Suède et oar les Etats-Unis pour divulgation de secrets militaires, Assange trouve refuge à l'ambassade équatorienne à Londres, où il reste confiné pendant des années.

@@ -3,7 +3,7 @@ title: index
 author: 
 date: 09/01/2022
 aliases: []
-tags: [culture numérique, bases de données]
+tags: [culture_numérique, bases_données]
 ---
 
 L'index désigne d'abord le doigt (mise à l'index : passage montré du doigt (sens négatif : l'ouvrage rejoint l'Enfer) ou au contraire passage signalé comme intéressant)

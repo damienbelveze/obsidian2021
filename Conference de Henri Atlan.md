@@ -2,7 +2,7 @@ Conférence et table ronde Intégrité Scientifique   | 26 novembre 2019
 :-----------------------|--------------------:
 Pôle Doctoral Rennais                      |             Intégrité scientifique
 
-#intégritéscientifique 
+#intégrité_scientifique 
 
 Sylvie Hennion (Prof. Droit Rennes 1, ancienne médiatrice) Louis Cellier
 (Conseiller juridique et DPD de Rennes 2) Alexandre Serres (référent

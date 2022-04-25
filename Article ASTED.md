@@ -206,7 +206,7 @@ Le terme ici n'est pas seulement à entendre comme un équivalent de faire sorti
 Expliquer un fragment (ou le recontextualiser) consiste à passer d'un lien (celui de la page où se trouve l'énoncé ou le fragment) à plusieurs. Dans le cas présent, on va pouvoir retenir le tweet de Nolan, celui de The Politics of Health. Pour faire le tour de la question, les étudiants devront en plus trouver et conserver une page sur les traitements effectivement recommandés par le Ministère de la Santé contre le COVID-19 (l'ivermectine n'en fait pas partie). Il leur faudra ajouter la page relative aux traitements du COVID effectivement recommandés ou du moins mentionnés par le NIH, la page d'accueil de Pubmed, éventuellement la page de Wikipedia consacré à ce moteur de recherche, la page de l'étude sur l'ivermectine et la source mentionnée par The Politics of Health. Cela commence à faire beaucoup.
 
 La recherche et l'évaluation de l'information à partir de fragments fonctionne un peu sur le mode de l'élucidation d'une affaire. 
-Il s'agit d'annoter des pages, de les conserver, de les citer et de les organiser sous la forme de cartes mentales pour les présenter ensuite à l'ensemble de la classe. 
+Il s'agit d'annoter des pages, de les conserver, de les citer et de les organiser sous la forme de [[cartes mentales]] pour les présenter ensuite à l'ensemble de la classe. 
 
 
 

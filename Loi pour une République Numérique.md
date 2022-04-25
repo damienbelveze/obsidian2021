@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Loi open access, Loi Lemaire]
-tags: [open access]
+tags: [open_access]
 ---
 
 Loi présentée en 2016 par Axelle Lemaire, alors ministre du numérique, sous la Présidence de François Hollande dont l'un des enjeux était de faire progresser le dépôt ou la publication des articles en [[open access]]. 

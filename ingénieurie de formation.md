@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [ingénierie de formation]
+tags: [ingénierie_formation, VAE]
 ---
 
 

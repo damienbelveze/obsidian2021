@@ -17,7 +17,7 @@ On connaît bien sûr les frictions liées à la sécurité et à la sauvegarde 
 
 Sur Twitter : le fait de retweeter un article sans l'avoir accédé suscite à certains moments-clé (périodes pré-électorales) le message suivant : "vous n'avez pas lu cet article, voulez-vous le lire avant de le partager"
 
-L'authentification biométrique (par empreinte digitale ou reconnaissance faciale) enlève la friction générée auparavant par la demande de mots de passe. Selon le principe du "No pain, no trust", cette absence de friction fait que les usagers ont l'impression que ce système n'est pas sûr (de fait il n'est pas sûr)[[@MartinBiometricAuthenticationNo2019]]. 
+L'[[authentification biométrique]] (par empreinte digitale ou reconnaissance faciale) enlève la friction générée auparavant par la demande de mots de passe. Selon le principe du "No pain, no trust", cette absence de friction fait que les usagers ont l'impression que ce système n'est pas sûr (de fait il n'est pas sûr)[[@MartinBiometricAuthenticationNo2019]]. 
 Dans un certain nombre de cas similaires, l'usager demande des contraintes supplémentaires pour le rendre plus conscient de ce qu'il fait. 
 
 Les frictions sont aussi d'origine légale : les bandeaux d'acceptation des cookies. Certains font porter le poids de cette gêne sur la loi ([[RGPD]]) alors que c'est l'industrie du marketing et de la publicité qui en est en réalité responsable.

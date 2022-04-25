@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [zotero, revue de littérature]
+tags: [zotero, revue_littérature]
 ---
 
 après avoir testé [Buhos](https://www.buhos.org/manual/en/), [Cadima](https://www.cadima.info/) et [Rayyan](rayyan.ai/), je n'ai pas trouvé d'outil qui me paraissait assez fiable pour mener une [revue systématique de littérature](agnotologie.md). 

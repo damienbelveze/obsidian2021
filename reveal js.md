@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Reveal, reveal js, reveal.js]
-tags: [outil de présentation, programmation]
+tags: [outil_présentation, programmation]
 ---
 
 outil de présentation reposant sur du javascript et du HTML

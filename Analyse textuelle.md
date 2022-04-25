@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [analyse de corpus]
+tags: [analyse_corpus]
 ---
 
 Des auteurs veulent prouver que la question décoloniale ne pèse pour rien ou presque dans la production des [[Savoirs]] en sociologie et font une analyse textuelle de la production scientiifique à partir de l'occurence des mots clé suivants *décolonial* , *intersectionalité*, *racisé.e* pour parvenir à un chiffre de 0,038% autrement dit ces termes sont très peu représentés. 

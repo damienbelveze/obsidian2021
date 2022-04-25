@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [tracking wall, cookie wall]
-tags: [vie privée]
+tags: [vie_privée]
 ---
 
 page web proposant à l'utilisateur, soit de payer pour accéder au site sans publicité, soit d'accepter les publicités et les cookies. 

@@ -15,8 +15,13 @@ tags: [édition, programmation]
 
 un aspect négligé parce que [non rentable](https://www.arthurperret.fr/veille/2022-02-09-de-l-importance-de-vendre-le-format-texte.html)
 
+![](plain_text.png)
 
+applications : 
 
+[[cartes mentales]] : markdown + mindmap = [markmap](https://markmap.js.org/) , voir par exemple ce [modèle](https://gist.github.com/eyssette/11cfb40e0a9a52804c6c5528121ada25)
+
+texte > quiz = text2quiz
 
 
 # bibliographie

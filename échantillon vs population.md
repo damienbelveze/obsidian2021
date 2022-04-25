@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [échantillon]
-tags: [méthode scientifique]
+tags: [méthode_scientifique]
 ---
 
 

@@ -9,7 +9,7 @@ bibliography: biblio/mylibrary.bib
 biblio_style: csl/ieee.csl
 toc: true
 toc-title: table des matières
-tags: [prise de notes, méthode de travail]
+tags: [prise_notes, méthode_travail]
 aliases: [Obsidian, obsidian, programmation]
 ---
 
@@ -248,11 +248,36 @@ ou
 
 possibilité, comme pour un PDF de faire un glisser déposer du document dans la note. 
 
-\#tag 
-Le dièse sans espace après = tag
-Possibilité de faire une recherche sur les tags uniquement.
-Possibilité d'afficher le volet des tags à droite (plugin principal *tag pane* : mettre en on et choisir un raccourci clavier. Les tags y apparaissent par défaut rangés par ordre de fréquence d'apparition dans les notes)
-On peut aussi définir ces tags dans le pavé YAML (voir plus bas), ce qui a l'avantage de ne pas les laisser apparaître dans le document quand celui-ci est exporté dans un format de publication (wiki, html, pdf, etc. )
+### les tags
+
+Avec les rétroliens, les marqueurs sont une grande richesse de ces outils de gestion de notes. 
+Comme ailleurs, le tag peut apparaître dans le texte précédé (sans espace) d'un dièze ou hashtag (\#) ou bien dans l'entête YAML après (ce qui a l'avantage de ne pas les laisser apparaître dans le document quand celui-ci est exporté dans un format de publication comme wiki, html, pdf, etc. ) : 
+
+````yaml
+tags: [tag1, tag2, tag3/tag4]
+````
+
+ici le tag4 est un tag fils de tag3. On peut donc prévoir dans Obsidian, une arborescence de tags.
+
+Attention si on laisse un espace entre le dièze et le mot-clé qui constitue le tag, Obsidian va l'interpréter comme un titre 1 selon la syntaxe Markdown.
+
+Il ne peut y avoir d'espaces dans les tags : 
+
+````yaml
+tags: [sciences politiques]
+````
+va générer deux tags : \#sciences et \#politiques
+il faut veiller à prévoir des liaisons entre les mots constitutifs d'un tag, par exemple l'underscore : 
+
+````yaml
+tags: [sciences_politiques]
+````
+
+On peut mener une recherche sur les tags uniquement.
+Dans les plugins standards, il est intéressant d'autoriser l'apparition du volet des tags (tag pane) à droite. Les tags y apparaissent par défaut rangés par ordre de fréquence d'apparition dans les notes)
+
+Si on charge et active le plugin communautaire [Tag Wrangler](https://github.com/pjeby/tag-wrangler) et que le plugin standard "volet des tags" est également activé, il est possible de renommer des tags : toutes les notes où ce tag apparaît arboreront le tag avec son nouveau nom. 
+Ce plugin permet aussi d'affiner la recheche en incluant ou excluant certains tags. 
 
 ## 3.5  autres langages (html, LaTeX)
 

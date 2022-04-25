@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [collapsologues, collapsologue, effondrisme]
-tags: [déréglement climatique, écologie]
+tags: [changement_climatique, écologie]
 ---
 
 De collapsus (latin : effondrement) et logos : raison, discours

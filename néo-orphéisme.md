@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [politique]
+tags: [sciences_politiques]
 ---
 
 Le néo-orphéisme désigne la tentation moderne de Vivre Sans, sans institutions, sans argent, sans travail, sans Etat. Le néo-orphéisme est l'acte de faire défection, de se retirer du monde politique, c'est un refus du politique (contraire en cela au pythagorisme qui est une tentative d'ordonner la société selon des règles raisonnables)

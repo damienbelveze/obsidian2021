@@ -2,7 +2,7 @@
 title: Entretien épistémique
 date: 7 novembre 2021
 aliases: street epistemology, entretien épistémologique
-tag: normes du débat, épistémologie
+tag: normes_débat, épistémologie
 ---
 
 > "placer un caillou dans les chaussures des certitudes d'une personne"

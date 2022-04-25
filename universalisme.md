@@ -3,7 +3,7 @@ title: universalisme
 author: 
 date: 20211108
 aliases: [universaliste, universalistes, universalismes, universaliser]
-tags: [philosophie politique, universalisme]
+tags: [philosophie_politique, universalisme]
 ---
 
 # universalité de la morale

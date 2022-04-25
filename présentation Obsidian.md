@@ -82,9 +82,9 @@ exemple avec PRISM
 
 titres 1 et 2 en couleur (dans un fichier .css à la racine du Vault / répertoire Obsidian)
 
-h1 { color: #fe801a; }  
-h2 { color: #d79920; }
-h3 { color: #689d6a; }
+h1 { color: \#fe801a; }  
+h2 { color: \#d79920; }
+h3 { color: \#689d6a; }
 
 Plus de code dispo sur [ce github](https://github.com/Dmitriy-Shulha/obsidian-css-snippets/tree/develop/Snippets)
 

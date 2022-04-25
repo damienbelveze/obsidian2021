@@ -6,7 +6,7 @@ date:
 link_citations: true
 aliases: []
 ---
-#intégritéscientifique 
+#intégrité_scientifique 
 
 respect des règles des bonnes pratiques scientifiques mais aussi cela implique de repenser les moyens de faire de la bonne recherche
 

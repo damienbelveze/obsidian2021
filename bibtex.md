@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [bibex, BibTex]
-tags: [programmation, édition de textes]
+tags: [programmation, édition_textes]
 ---
 
 # LaTeX et BibTeX

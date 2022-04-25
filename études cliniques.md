@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [random control trials, random control trial, RCT, étude clinique, essai clinique, essais cliniques]
-tags: [revue de littérature, information scientifique]
+tags: [revue_littérature, information_scientifique]
 ---
 
 # obligation de publication

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [protocole expérimental, protocole d'expérimentation, protocole de recherche]
-tags: [écriture scientifique]
+tags: [écriture_scientifique]
 ---
 
 ![](protocole_depot.jpg)

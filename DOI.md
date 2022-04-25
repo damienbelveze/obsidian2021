@@ -6,8 +6,8 @@ date:
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [Direct Objetc Identifier, doi, DOI]
-tags: [écriture académique, information scientifique]
+aliases: [Direct Object Identifier, doi, DOI]
+tags: [écriture_scientifique, information_scientifique]
 ---
 
 identifiant unique d'un document scientifique (chapitre d'ouvrage, ouvrage, article, jeu de données)

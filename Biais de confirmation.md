@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [biais de confirmation, confirmation bias]
-tags: [biais cognitifs]
+tags: [biais_cognitifs]
 ---
 
 

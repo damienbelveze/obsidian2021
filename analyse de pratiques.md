@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [analyse des pratiques]
-tags: [formation, formation continue]
+tags: [formation, formation_continue, analyse_pratiques]
 ---
 
 # principe de l'analyse de pratiques

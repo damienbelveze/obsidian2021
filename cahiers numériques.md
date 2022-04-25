@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [carnets de laboratoire, cahiers de laboratoire, bloc-code, block-codes]
-tags: [méthode scientifique, programmation]
+tags: [méthode_scientifique, programmation]
 ---
 
 A partir de la présentation d'Aurélien Tabard [[@TabardOSW2021Cahiersnumeriques2021]]

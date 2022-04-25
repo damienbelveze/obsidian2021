@@ -7,7 +7,7 @@ author: Damien Belvèze
 date: 20210505
 link_citations: true
 aliases: [research data, données de recherche, données de la recherche, données issues de la recherche]
-tags: [données de recherche]
+tags: [données_recherche]
 ---
 
 <!-- header-includes : |

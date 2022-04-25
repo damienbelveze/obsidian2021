@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [données de recherche]
+tags: [données_recherche, docker, commandes]
 ---
 
 
@@ -81,6 +81,20 @@ possible de lancer l'outil Python avec Docker
 ![](CSIC10.PNG)
 
 ça fonctionne en localhost (localhost:5000)
+
+Autres modes de fonctionnement (cf plus bas, mail reçu de l'auteur le 18 avril 2022) : 
+
+"The tool has two different and main parts: the API and the web interface. You are running the API, so you can try to access using the URL ["http://localhost:9090/v1.0"](http://localhost:9090/v1.0). Otherwise, you can also run the web interface (web.py), which connects directly with the API.
+
+If you want to run the docker container, you I'd suggest you to use the following command:
+
+````shell
+docker run --name=fair_eva -dit --network host ferag/fair_eva:latest
+````
+
+There is a version of the config.ini by default, but it probably need to be customized.""
+
+
 on envoie le DOI de l'entrepôt
 
 ![](CSIC11.PNG)

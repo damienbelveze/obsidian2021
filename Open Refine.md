@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [données de la recherche, traitement des données]
+tags: [données_recherche, traitement_données]
 ---
 
 conçu au départ par Google, le code est désormais ouvert et disponible à tous sous la forme d'un programme à exécuter. 

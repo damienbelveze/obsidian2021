@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Simondon]
-tags: [culture scientifique et technique, biographie]
+tags: [culture_scientifique, culture_technique, VAE, biographie]
 ---
 
 

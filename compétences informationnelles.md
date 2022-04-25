@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [compétences informationnelles]
+tags: [compétences_informationnelles]
 ---
 
 Les compétences informationnelles sont des aptitudes nécessaires à la réussite universitaire ainsi qu'à l'apprentissage tout au long de la vie. Ces compétences sont valorisées sur le marché du travail mais favorise aussi l’autonomie et l’esprit critique des étudiants. Ces aptitudes peuvent se décliner sous trois axes : trouver de l’information, l’évaluer et l’utiliser.

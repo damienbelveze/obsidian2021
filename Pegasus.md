@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [Pegasus software]
-tags: [surveillance de masse]
+tags: [surveillance_masse]
 ---
 
 

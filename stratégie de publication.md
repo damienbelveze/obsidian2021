@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [publication scientifique]
+tags: [publication_scientifique]
 ---
 
 # voie verte

@@ -8,7 +8,7 @@ bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
 ---
-#intégritéscientifique 
+#intégrité_scientifique 
 
 Correspond au "nègre" dans l'écriture de mémoire commanditée par une personnalité politique. 
 Dans le domaine scientifique, le ghostwriting consiste dans le fait de confier l'écriture d'un article à une firme chargée de la promotion d'un produit ou d'une marque en faisant croire que des scientifiques sont à l'origine de cet article. 

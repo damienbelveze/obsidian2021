@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 20210506
 link_citations: true
 aliases: [DMP, PGD, Plan de gestion de données, data management plan]
-tags: [données de recherche]
+tags: [données_recherche]
 ---
 
 Document [[formaliser|formalisant]] la manière dont les [[données de la recherche|données de la recherche]] recueillies à la faveur d'un projet de recherche vont être décrites, conservées (traitées = curated), ([[Anonymat|anonymisation]]), diffusées ou protégées. 
@@ -79,7 +79,7 @@ outils pour rédiger des plans de gestion des données :
 
 - Décrire le jeu de données
 - Documenter (fournir les info qui gravitent autour du jeu de données)
-- stockage : 3/2/1 trois back-ups sur 2 supports différents don 1 à distance
+- stockage : 3/2/1 trois back-ups sur 2 supports différents dont 1 à distance
 - exigences légales et éthiques : licences, RGPD
 - Partage es données et conservation à long terme : ne pas confondre l'archivage et le stockage ([[archivage]] = migration des formats) - identifier l'entrepôt de données en fonction de la découvrabilité (un entrepôt disciplinaire est plus riche en métadonnées pertinentes)
 - responsabilités

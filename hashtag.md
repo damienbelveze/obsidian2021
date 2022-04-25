@@ -3,7 +3,7 @@ title:
 author: 
 date: 
 aliases: [mots-dièses, hashtages]
-tags: [culture numérique]
+tags: [culture_numérique]
 ---
 
 ou mot-dièse, 

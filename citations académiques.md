@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [intégrité scientifique]
+tags: [intégrité_scientifique]
 ---
 
 # aspect rhétorique de la citation

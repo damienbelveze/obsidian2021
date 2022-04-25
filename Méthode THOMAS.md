@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [méthode universitaire, fiches de lecture]
+tags: [méthode_travail, fiches_lecture]
 ---
 
 Méthode mise au point par Danna Agmond pour faire une fiche de lecture qui soit en même intéressante sur le plan de l'esprit critique.

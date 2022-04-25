@@ -1,5 +1,5 @@
 ---
-tags: [formes du discours, rhétorique]
+tags: [formes_discours, rhétorique]
 ---
 
 organisation du discours chez un même sujet. 

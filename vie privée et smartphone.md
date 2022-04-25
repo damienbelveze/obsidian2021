@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [vie privée]
+tags: [vie_privée]
 ---
 
 ![](privacy_smartphone.jpg)

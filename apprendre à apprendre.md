@@ -41,4 +41,4 @@ D'autres souhaitent plutôt traiter avec les étudiants les questions qui en mat
 - conserver et indexer des pages web qui ont un intérêt pour ses travaux
 - prendre des notes sur un outil de gestion de notes numériques (cf. méthode Zettelkasten)
 - faire des résumés de lecture, paraphraser, reformuler la pensée d'un auteur avec ses propres mots.
-- faire des cartes mentales et des diagrammes de GANTT pour organiser sa pensée dans l'espace et dans le temps.
+- faire des [[cartes mentales]] et des diagrammes de GANTT pour organiser sa pensée dans l'espace et dans le temps.

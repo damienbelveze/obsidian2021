@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [meme]
-tags: [culture numérique]
+tags: [culture_numérique]
 ---
 
 image détournée qui tourne en boucle sur les réseaux sociaux avec différentes variations appliquées à différents contextes. 

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [sciences politiques]
+tags: [sciences_politiques]
 ---
 
 Les 14 signes pour reconnaître un mouvement ou une proposition fasciste selon Umberto Eco

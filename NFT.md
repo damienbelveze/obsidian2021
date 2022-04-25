@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [non fongible tokens, jetons non fongibles]
-tags: [art numérique]
+tags: [art_numérique]
 ---
 
 # principe du NFT

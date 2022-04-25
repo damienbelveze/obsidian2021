@@ -5,7 +5,7 @@ author: Damien Belvèze
 date: 20210531
 link_citations: true
 aliases: [pré-publications, prépublications, preprints, prépublication]
-tags: [communication scientifique, publication scientifique]
+tags: [communication_scientifique, publication_scientifique]
 ---
 
 Etude déposée sur un serveur de pré-publications en attente d'être [[Révision par les pairs|revue par les pairs]] et publiée par une revue scientifique. 

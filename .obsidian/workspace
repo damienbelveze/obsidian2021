@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "188693a8b8b2508d",
+        "id": "5fb55f578dd62168",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "backlink",
+          "state": {
+            "file": "DOI.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bf04cec1c483d2d9",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DOI.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cc038296a044c7dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DOI.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Lordon",
+                "query": "stockage",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310
+    "width": 413
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -66,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DOI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,25 +113,37 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "30f8df0045866bbe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 388,
     "collapsed": true
   },
-  "active": "188693a8b8b2508d",
+  "active": "cc038296a044c7dc",
   "lastOpenFiles": [
-    "zone critique.md",
-    "théorie complotiste.md",
-    "sophisme de l'appel à la nature.md",
-    "productivisme.md",
-    "luxe et communisme.md",
-    "Emancipation sociale.md",
-    "économie.md",
-    "division du travail.md",
-    "Capitalocène.md",
-    "styles de vie.md"
+    "DOI.md",
+    "Stockage des données de la recherche.md",
+    "Plan de gestion des données.md",
+    "ERRIE.md",
+    "vie privée et smartphone.md",
+    "authentification biométrique.md",
+    "friction.md",
+    "article processing charges.md",
+    "Mode d'emploi d'Obsidian.md",
+    "apprendre à apprendre.md"
   ]
 }

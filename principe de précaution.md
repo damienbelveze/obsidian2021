@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [principe de précaution, précautionnisme, précautionniste, précautionnistes]
-tags: [biais cognitifs, économie néo-libérale]
+tags: [biais_cognitifs, économie_néo-libérale]
 ---
 
 Devant l'augmentation du risque industriel (Bhopal, Soweso, marées noires), et les bouleversements induits par l'activité humaine sur l'environnement (trou dans la couche d'ozone puis changement climatique), le sommet des nations unies de Rio ont adopté en 1992 le principe de précaution qui est entré dans la loi française en 1995. Le principe de précaution à l'origine consistait à s'abstenir de prendre une décision (de commercialisation d'un produit) tant qu'une incertitude demeure sur l'innocuité du produit. 

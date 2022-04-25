@@ -4,7 +4,7 @@ subtitle:
 author: Damien Belvèze
 date: 13/04/2022 
 link_citations: true
-tags: [publication scientifique]
+tags: [publication_scientifique]
 aliases: [code reproductible, reproductible, reproducibility, reproducible]
 ---
 

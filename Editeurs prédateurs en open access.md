@@ -4,11 +4,11 @@ subtitle:
 author: Damien Belvèze
 date: 20210211
 link_citations: true
-tags: [publication scientifique]
-aliases: [predatory open access journals, highjacking journals]
+tags: [publication_scientifique]
+aliases: [predatory_open_access_journals, highjacking journals]
 ---
 
-#intégritéscientifique
+#intégrité_scientifique
 
 
 définition provisoire de l'éditeur prédateur : les caractéristiques seront développées ultérieurement

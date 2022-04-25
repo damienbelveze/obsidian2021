@@ -3,7 +3,7 @@ title: document
 author: Damien Belvèze
 date: 13 janvier 2022
 aliases: [documents, documentation, documenter, documentaire, documentaires]
-tags: [culture documentaire]
+tags: [culture_documentaire]
 ---
 
 # document vs information

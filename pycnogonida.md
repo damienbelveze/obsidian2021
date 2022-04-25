@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [pycnogonides]
-tags: [zoologie, exemple de recherche web, google scholar]
+tags: [zoologie, exemple_recherche_web, google scholar]
 ---
 
 article de l'encyclopédie universalis

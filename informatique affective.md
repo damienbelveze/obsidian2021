@@ -11,7 +11,7 @@ aliases: [affective computing]
 
 
 
-#surveillance_de_masse 
+#surveillance_masse 
 
 entraînement d'algorithmes pour percevoir les émotions de l'utilisateur d'un terminal numérique, par l'image (caméra) ou la voix. 
 

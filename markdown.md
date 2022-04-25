@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [MD]
-tags: [programmation, css, édition de texte, stretching_numérique]
+tags: [programmation, css, édition_textes, stretching_numérique]
 ---
 
 # avantages du markdown

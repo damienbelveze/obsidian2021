@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [sciences participantes]
-tags: [open access]
+tags: [open_access]
 ---
 
 

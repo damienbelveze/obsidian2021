@@ -1,4 +1,4 @@
-#surveillance_de_masse
+#surveillance_masse
 
 Usage du numérique pour faciliter le contrôle des organismes. Cette perspective est arrivée au devant de la scène à la faveur de la pandémie [[COVID-19]] sous la forme d'un article publié par philosophe israélien [[Yuval Noah Harari]] : 
 

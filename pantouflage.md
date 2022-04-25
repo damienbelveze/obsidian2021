@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [pantoufler, pantouflages]
-tags: [finances, services publics]
+tags: [finances, services_publics]
 ---
 
 passage d'une charge publique élevée à un poste dans une grande entreprise en faisant bénéficier à cette entreprise des contacts établis lors de son activité publique. 

@@ -2,7 +2,7 @@
 title: droitisation
 author: 
 date: 10 janvier 2022
-tags: [sciences politiques]
+tags: [sciences_politiques]
 aliases: []
 ---
 

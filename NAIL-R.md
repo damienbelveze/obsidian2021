@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [données de recherche]
+tags: [données_recherche]
 ---
 
 [Projet ANR](https://anr.fr/ProjetIA-20-AMRA-0006)

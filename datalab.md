@@ -6,8 +6,8 @@ date: 15-11-2021
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [laboratoire de données]
-tags: [données de la recherche]
+aliases: [laboratoire_données]
+tags: [données_recherche]
 ---
 
 définition proposée dans le cadre du CPER 2021 breton (Rennes, Lorient, Brest)

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [désinformation, rumeur, fake news, rumeurs]
+tags: [désinformation, rumeur, fake_news, rumeurs]
 ---
 
 La vitesse de propagation des fake news (comparée à celle des messages correctifs) est en question

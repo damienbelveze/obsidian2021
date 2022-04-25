@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [reverse engineering]
-tags: [sécurité informatique, cryptographie]
+tags: [sécurité_informatique, cryptographie]
 ---
 
 Consiste à reconstituer une  partie du code d'un logiciel propriétaire à partir des résultats de son exécution. 
