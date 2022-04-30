@@ -139,5 +139,15 @@ Pour Eric Sadin, la théorie du complot est une manière de se réapproprier un 
 
 En butte à une accusation de conspirer contre les Etats-Unis pendant la [[guerre]] du Viet-Nam, Andy Warhol rappelait que l'étymologie du mot *conspiracy* était *cum-spirare* : respirer ensemble. D'après Peter Szendy, dans la Rome de Cicéron, le verbe conspirare pouvait aussi bien qualifier une aspiration générale (en l'occurrence à une libération collective) qu'une tentative de sédition. L'individu conspirationniste prétend agir pour libérer le collectif, même s'il commence par se désolidariser de collectif[[@SzendyPneumatopolitiqueceque2022]].
 
+# Le complotisme est-il intrinsèquement réactionnaire ?
+
+idées rances et argent font-elles le nid des théories complotistes ?([[@schepmanChamanEstMort2022]])
+
+![](carte_complotisme.jpg)
+
+En 2022, les mouvements antivax ont convergé pour dénoncer la propagande antirusse après l'agression de la Russie par l'Ukraine qui a commencé le 24 février 2022. Par ailleurs, les mêmes figures qui se sont "distinguées" dans la lutte contre le passe-sanitaire ont pris ensuite fait et cause pour Marine Le Pen avant même le second tour des élections présidentielles de 2022. 
+
+voir la présence des [[confusionnisme|confusionnistes]] à gauche du diagramme de L'extracteur. L'[[antisémitisme]] est un également un élément unificateur de ces théories.
+
 # Références
 

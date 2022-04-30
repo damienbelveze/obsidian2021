@@ -12,7 +12,7 @@ aliases: [paradoxe de la vie privée]
 
 On retrouve dans le public en 2021 deux grandes tendances en apparence contradictoires : la première est une attention accrue depuis le [[RGPD]] à la manière dont nos données personnelles sont récupérées et traitées, la seconde, c'est une publication peu raisonnée d'un grand nombre de données personnelles sur les réseaux sociaux. 
 
-Les politiques se servent notamment de ce paradoxe pour montrer l'incohérence des associations qui militent pour la préservation de la [[Vie privée|vie privée]] en ligne et avancer leur agenda de surveillance électronique. 
+Les politiques se servent notamment de ce paradoxe pour montrer l'incohérence des associations qui militent pour la préservation de la [[Vie privée|vie privée]] en ligne et avancer leur [[agenda politique]] de surveillance électronique. 
 
 L'exposition de soi n'est pas un phénomène homogène. En grande partie, la nécessité de laisser des données personnelles est liée à l'écosystème commercial qui les exploite et rend leur cession de plus en plus difficile à éviter. 
 

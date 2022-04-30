@@ -12,7 +12,7 @@ tags: []
 
 Les vendeurs de technologie (en particulier de technologies qui renforcent la surveillance de masse, par exemple à base de reconnaissance faciale) ne cessent de se justifier en disant que ces innovations sont inéluctables, inévitables, et en se référant à une forme de [[darwinisme]] consumériste selon lequel ils sont justifiés à fournir les besoins que la société a sélectionnés comme importants et qu'il n'est pas de leur ressort de juger ces besoins.
 
-Pourtant, cette vue de l'esprit sert l'argumentaire de groupes industriels qui profitent d'un climat politique de défiance à l'égard des populations et de droits comme celui d'avoir une vie privée. Il ne s'agit pas du tout d'un quelconque déterminisme, mais d'un agenda politique qui nous est imposé. 
+Pourtant, cette vue de l'esprit sert l'argumentaire de groupes industriels qui profitent d'un climat politique de défiance à l'égard des populations et de droits comme celui d'avoir une vie privée. Il ne s'agit pas du tout d'un quelconque déterminisme, mais d'un [[agenda politique]] qui nous est imposé. 
 L'innovation, dont se pare chaque innovation particulière y compris celles qui vont à rebours du progrès social, n'est nullement déterministe et son orientation n'a rien d'inéluctable. 
 
 Ce discours de l'innovation est dans le domaine de la technologie fortement connecté avec le TINA (There Is No Alternative) du [[Capitalisme|capitalisme]] et le mantra du "il faut s'adapter" des néo-libéraux, sans qu'il ne soit jamais précisé à quoi il faut s'adapter ni pourquoi il le faudrait. 
