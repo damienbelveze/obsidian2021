@@ -1,5 +1,5 @@
 auteurs: Florian Cafiero, 
-titre: Qui se cache derrière QAnon
+titre: Qui se cache derrière [[QAnon]]
 publication:, 
 année: 2022, 
 p.,

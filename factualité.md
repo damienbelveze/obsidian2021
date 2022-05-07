@@ -48,5 +48,14 @@ Si l'on veut rompre avec cette tendance, l'erreur inverse consiste à dépolitis
 (source[[@Kuafmanngeometriepolitiqueretour2021]])
 
 
+# désinformation : un alliage de faux et de vrai
+
+effet de réel : 
+
+> il y a plus faux que le faux, c'est le mélange du vrai et du faux 
+
+(attribué à Paul Valéry - [[@audureauDansTeteComplotistes2021]], p66)
+
+
 # bibliographie
 

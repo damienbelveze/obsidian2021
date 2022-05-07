@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "cc038296a044c7dc",
+        "id": "bc4129867ff7502e",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "backlink",
+          "state": {
+            "file": "DYOR (Do Your Own Research).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "afd2d29579e7c79c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "DYOR (Do Your Own Research).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8cf1b70e077b1053",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "DYOR (Do Your Own Research).md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fingerp",
+                "query": "DYOR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DYOR (Do Your Own Research).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +133,17 @@
     "width": 388,
     "collapsed": true
   },
-  "active": "cc038296a044c7dc",
+  "active": "8cf1b70e077b1053",
   "lastOpenFiles": [
-    "smartphone et vie privée.md",
-    "agenda politique.md",
-    "Privacy paradox.md",
-    "Néo-libéralisme et COVID.md",
-    "inévitabilité de la technologie.md",
-    "Plan de gestion des données.md",
-    "Anonymat.md",
-    "Stockage des données de la recherche.md",
-    "données de la recherche.md",
-    "ERRIE2.md"
+    "DYOR (Do Your Own Research).md",
+    "consensus gap.md",
+    "Cours médiation scientifique.md",
+    "styles CSL.md",
+    "Sparql.md",
+    "OSINT.md",
+    "Formation_doctorale_obsidian.md",
+    "references/@SinghWhatyouneed2021.md",
+    "Editeurs prédateurs en open access.md",
+    "references/@FraudulentFalseMetric.md"
   ]
 }

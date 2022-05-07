@@ -1,4 +1,4 @@
----
+tn---
 title: article processing charges
 subtitle:
 author: Damien Belvèze
@@ -13,10 +13,12 @@ tags: [publication_scientifique]
 # APC et voie dorée
 La voie dorée tend de plus en plus à être confondue avec le paiement d'APC. La publication sans frais de publication sur des plateformes gérées par des chercheurs est aujourd'hui plutôt qualifiée de [[voie diamant]]
 
-Les APC (article processing charges) sont des frais de publication demandés par certaines revues en open access. 
+Les APC (article processing charges) sont des frais de publication demandés par un nombre grandissant de revues en [[open access]]. 
 Ces frais sont censés couvrir le coût de la publication, mais leur montant est en général bien au delà de ces coûts. 
 
 Ces coûts de publication sont estimés au maximum à 1000 $ pour les journaux les plus influents qui ont un taux de sélection de 10%. En moyenne les coûts de publication représentent 400 $ par article.
+D'après une étude récente, ils augmentent 3 fois plus vite que l'inflation. L'augmentation du montant des APC est corrélée avec l'augmentation du nombre de publications. Le marché des APC est inélastique dans la mesure où ni le choix des auteurs, ni la compétition entre les acteurs de l'édition scientifique ne parviennent à faire baisser ces coûts de publication. En cela, le marché de la publication scientifique ressemble à celui des produits de première nécessité, ou au contraire des produits de luxe : quelque soit leur prix, les acteurs continueront de payer, quitte à se priver de budgets importants pour d'autres fonctions (enseignement par exemple). 
+Il est donc important que les décideurs mettent un frein à cette dépense pour limiter cette hyperinflation des APC ([[@khooArticleProcessingCharge2019]]). 
 
 La [[stratégie de publication#voie dorée|voie dorée]] (publication en open access) est majoritairement pratiquée sans dépense d'APC, notamment dans le cas des éditeurs institutionnels (voir Diamant). Les gros éditeurs privés en revanche facturent des APC qui en moyenne **ont augmenté de 57% entre 2012 et 2022**([[@bassinetArticleProcessingCharges2022]]. )
 

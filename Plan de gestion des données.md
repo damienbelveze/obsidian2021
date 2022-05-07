@@ -36,6 +36,10 @@ Ces chiffres montrent à quel point il est urgent de "convertir" les chercheurs 
 
 (source : Cécile Arènes[[@ArenesRedigerplangestion2021]])
 
+## quel outil (template) pour rédiger un PGD ?
+
+benchmark réalisé par Laetitia Bracco (intérêts et limites de DMPOpidor, Argos, )
+
 
 # Accès aux données, les avantages pour l'auteur : 
 

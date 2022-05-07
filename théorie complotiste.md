@@ -30,6 +30,12 @@ considérer l’histoire elle-même comme une vaste conspiration
 Hofstadter cité par Nicolas Guilhot [[@Guilhotchamanautretheories]]
 
 
+# le complotisme comme pilier de la construction identitaire
+
+esprit [[contrarien]] : opposition précoce à l'autorité et au discours d'autorité. la recherche de la vérité ne passerait que par une confrontation avec la "vérité officielle".
+l'adhésion à des thèses complotistes renforce le narcissisme et le sentiment de sécurité de la personne. Le conspirationnisme leur permet d'aller mieux ([[@audureauDansTeteComplotistes2021]], p74)
+
+
 # Controverse sur la réalité d'une recrudescence du complotisme à l'âge d'internet. 
 
 Cette théorie d'une déferlante complotiste suscitée par Internet et en particulier par les réseaux sociaux est sujete à caution. 
@@ -64,17 +70,17 @@ pour autant, bcp de rédactions se servent des *trending topics* sur Twitter (d�
 
 Si en nombre de visites, l'augmentation de l'audience des sites de désinformation a augmenté, c'est le cas aussi des sites web qui diffusent de l'information fiable. Par ailleurs l'étude de Grinberg, Joseph et Friedland montrent que 1% seulement des comptes Twitter ont été exposés pendant la campagne présidentielle américaine de 2016 à 80% des tweets publiés et pouvant être classés comme complotistes[[@GrinbergFakenewsTwitter2019]].  
 
-# Répéter n'est pas croire
+## Répéter n'est pas croire
 
 
-## effet d'exposition à une fausse information
+### effet d'exposition à une fausse information
 
 Une expérience a montré que lorsqu'on exposait à deux groupes (groupe A et groupe B) dans un cas une brochure expliquant l'avantage de la vaccination et les risques de la non-vaccination (groupe A) et dans l'autre groupe un exposé des vérités relatives à la vaccination et en regard des mythes qui circulent à son sujet (Groupe B), le groupe A avait tendance à opter plus facilement pour le vaccin que le groupe B. L'exposition à des théories présentées comme fausses peut avoir un effet contraire à celui qui était escompté. [[@MAZETAutodefenseintellectuelle2020]](p194)
 
 Cela rejoint le concept de [[biais d'exposition]]
 
 
-## Difficulté à distinguer les types de citation de la théorie complotiste
+### Difficulté à distinguer les types de citation de la théorie complotiste
 
 A ce titre elles attirent même lorsqu'elles n'entraînent pas la conviction. On peut partager une [[théorie complotiste|théorie du complot]], non pas parce qu'on y croit mais parce qu'on la trouve originale, amusante, ou représentative de son époque. 
 
@@ -133,11 +139,17 @@ le discours conspirationniste se présente comme un discours non-officiel par ra
 
 # La théorie du complot comme réaction face à l'isolement collectif et à la dépossession du monde
 
+![](upside_down.jpg)
+
 Pour Eric Sadin, la théorie du complot est une manière de se réapproprier un contrôle sur le monde fût-ce au moyen de théories simplistes et sans rapport avec la réalité : 
 
 > l'essor du complotisme, comme la sensation, illusoire, de reprendre les rênes de sa vie via des récits extravagants. 
 
 En butte à une accusation de conspirer contre les Etats-Unis pendant la [[guerre]] du Viet-Nam, Andy Warhol rappelait que l'étymologie du mot *conspiracy* était *cum-spirare* : respirer ensemble. D'après Peter Szendy, dans la Rome de Cicéron, le verbe conspirare pouvait aussi bien qualifier une aspiration générale (en l'occurrence à une libération collective) qu'une tentative de sédition. L'individu conspirationniste prétend agir pour libérer le collectif, même s'il commence par se désolidariser de collectif[[@SzendyPneumatopolitiqueceque2022]].
+
+L'adhésion aux théories conspirationnistes passe souvent par une désolidarisation d'avec l'entourage proche, accusé d'être aveugle sur la réalité et dogmatique, mais aussi par la constitution d'un réseaux d'inconnus proches par les idées sur Internet. Les confinements qui ont aggravé l'isolement collectif a soudé aussi ce genre de communautés avant même qu'elle puisse se rencontrer effectivement lors de manifestations anti-masques ou anti-vaxx. cf le slogan de [[QAnon]] : "la où va l'un de nous, nous y allons tous ensemble" ([[@audureauDansTeteComplotistes2021]], p109)
+La vie de groupe, même à l'état virtuel (pendant les confinements) participe à la radicalisation et à la [[polarisation]] de ses membres.
+
 
 # Le complotisme est-il intrinsèquement réactionnaire ?
 
