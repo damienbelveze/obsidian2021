@@ -77,11 +77,9 @@ prendre en compte les limites des données, avant de les exploiter.
 \end{figure}
 
 
+# partage des données
 
-
-# Partage et valeur des données
-
-Dans le cadre de la loi sur la République Numérique, le législateur a inscrit le fait de préempter les données de la recherche issues de financements publics pour éviter la captation de ces données par des opérateurs privés (comme ça a été le cas avec les publications) 
+Dans le cadre de la loi sur la République Numérique, le législateur a inscrit le fait de préempter les données de la recherche issues de financements publics pour éviter la captation de ces données par des opérateurs privés (comme ça a été le cas avec les publications). Le chercheur qui collecte des données n'a donc pas de propriétés sur elles. Le partage des données n'engage donc pas cette propriété. 
 
 ## données et perceptions
 
@@ -118,6 +116,19 @@ Les financeurs insistent sur le levier de [[croissance]] que représenterait un 
 Pour les plateformes de publication, les données constituent une valeur commerciale importante : l'hébergement de ces données permet de compléter le workflow de la publication en dehors duquel il sera de plus en plus difficile aux chercheurs de se tenir ([[@brembsReplacingAcademicJournals2021]]. 
 Ne pas choisir des solutions propriétaires pour héberger ses données dans la mesure du possible. 
 L'importance pour les chercheurs de maintenir des standards en matière de partage et de diffusion des données réside dans la capacité qu'ils se réservent de substituer un acteur plus éthique à une firme qui s'avèrerait trop cupide ou trop intrusive (typiquement Elsevier), voir à ce sujet l'article [[stratégie de publication]]
+
+Pour en savoir plus voir [[partage des données de recherche]]
+
+
+## l'enjeu scientifique du partage des données
+
+Réutiliser des données anciennes permet d'agrandir son [[échantillon vs population|échantillon|échantillon]], particulièrement faire des analyses de données à partir de données compilées augmenter la force statistique de l'étude[[@wilsonSharingBiologicalData2021]]. 
+
+> Researchers can build on previous studies to corroborate or falsify their findings rather than repeating the same experiment
+
+
+
+
 
 # la conservation et le partage des données. 
 

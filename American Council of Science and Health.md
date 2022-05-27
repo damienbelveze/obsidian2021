@@ -10,7 +10,13 @@ aliases: []
 tags: [fake_science]
 ---
 
-Association "à but non lucratif" prétendant dénoncer les méfaits de "fake science" au nom d'une version rigoureuse de la science. 
+
+
+
+
+
+
+Association "à but non lucratif" prétendant dénoncer les méfaits de "[[Junk science]] au nom d'une version rigoureuse de la science. 
 En réalité, ce site attaque les résultats de la science qui pointent des risques sanitaires dans certains produits industriels. 
 Les donateurs d'ailleurs ne sont pas pour l'essentiel des particuliers mais des industriels qui ont intérêt à faire admettre l'innocuité de leurs produits parfois contre l'évidence. 
 

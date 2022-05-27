@@ -18,6 +18,10 @@ Elle a pour contraires et ennemis :
 - les différents modes de [[domination]] (racisme, sexisme, hétérosexisme, [[identitarisme]])
 - la [[prolétarisation]] des savoirs (le transfert des savoirs des individus vers les machines)
 
+# feeling empowered or having power
+Catherine Liu critique l'empowerment comme une façon pour la classe professionnelle manageriale d'exacerber les différents groupes d'intérêt dans leurs luttes sectorielles afin de maintenir une division dans la société et d'empêcher les classes populaires de s'unir pour une redéfinition des rapports sociaux dans un cadre anti-capitaliste. 
+
+
 # émancipation et temporalité
 
 Ne pas considérer que la liberté viendra demain comme nous y ont habitué des récits téléologiques comme le marxisme-léninisme ou les Gospels américains. 

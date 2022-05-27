@@ -16,3 +16,7 @@ Le fait de porter l'accent sur les différences de races (en réhabilitant le se
 
 Dans un article paru sur TK News ([[@TaibbiWhiteFragility2020]], Matt Taibi raconte comment un écrivain canadien, Hal Niedzviecki a été exclu du Syndicat des auteurs Canadiens au prétexte qu'il avait donné comme conseil aux futurs écrivains : tout le monde partout devrait être encouragé à imaginer d'autres peuples, d'autres cultures, d'autres [[identité|identités]]. 
 Un poète du nom de Gwen Benaway a taxé cela d'appropriation culturelle au motif que Niedzviecki ne voit pas l'humanité des personnes indigènes. Gwen Benaway a peu après été accusée d'usurper l'[[identité]] d'une personne indigène ce qu'elle n'était pas.  Les accusateurs se retrouvent toujours au même banc que les personnes qu'lls ont accusées dans ce type de chasse aux réputations dignes des purges staliniennes.
+
+# Science et guerres culturelles
+
+Les résultats de la science sont très fréquemment invoqués par les camps opposés souvent en en caricaturant ou dénaturant le contenu réel. Souvent à leur corps défendant, les chercheurs dans un premier temps, les journalistes scientifiques qui médiatisent la parole des premiers dans un second temps, sont soumis à des pressions importantes provenant d'un public très polarisé. Les attaques se multiplient sur les réseaux sociaux contre ces vulgarisateurs et passeurs de science, créant une angoisse et un réflexe d'[[auto-censure]] face auxquelles leurs rédactions sont peu armées ou peu enclines à répondre [[@palmerPolarisationNetworkHarassment2022]]. 

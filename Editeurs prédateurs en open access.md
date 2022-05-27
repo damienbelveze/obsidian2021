@@ -22,6 +22,16 @@ Raisons de l'apparition du phénomène :
 
 # controverses politiques sur la notion d'éditeur prédateur
 
+## une définition souvent binaire et inadéquate
+
+la perspective d'une division des conférences et des journaux scientifiques entre d'un côté les bons journaux/conférences, et d'un autre côté la liste des acteurs malveillants est obsolète. On est plutôt sur un continuum qui va de l'excellent journal à la proposition intégralement malveillante mais en passant par tout un nuancier d'acteurs qui ont des process de publication et de qualité assez faibles ou pas encore au point. 
+
+Un grand nombre de journaux dits "prédateurs" sont en général des journaux dont les auteurs ne sont pas malveillants (journaux tenus par des chercheurs par exempel) mais qui n'ont pas les reins assez solides pour garantir un travail de reviewing suffisant aux yeux des standards actuels. 
+Le rapport de l'IAP insiste sur l'idée de voir la question sous l'angle d'un spectre avec à un bout le journal qui a une réputation et dispose d'un contrôle qualité suffisant et à l'autre , le journal malveillant qui n'existe que comme ressource lucrative[[@CombattingPredatoryAcademic2022]] : 
+
+>This spectrum approach is a stimulus for starting a new, more nuanced conversation that avoids the binary classification of good and bad, safe and watch, in and out journals. It is not perfect but is fundamentally about transparency rather than making value judgements, as the value of certain traits may differ in different geographic contexts. The spectrum supplements the “international consensus” definition published in Nature (2019) as a tool for user communities to better understand and navigate their way around them
+
+
 ## un concept destiné à renforcer les positions dominantes ?
 
 

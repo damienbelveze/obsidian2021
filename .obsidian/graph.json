@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 14701264
       }
+    },
+    {
+      "query": "tag:#données_recherche",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,

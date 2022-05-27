@@ -16,7 +16,9 @@ La voie dorée tend de plus en plus à être confondue avec le paiement d'APC. L
 Les APC (article processing charges) sont des frais de publication demandés par un nombre grandissant de revues en [[open access]]. 
 Ces frais sont censés couvrir le coût de la publication, mais leur montant est en général bien au delà de ces coûts. 
 
-Ces coûts de publication sont estimés au maximum à 1000 $ pour les journaux les plus influents qui ont un taux de sélection de 10%. En moyenne les coûts de publication représentent 400 $ par article.
+Ces coûts de publication sont estimés au maximum à 1000 $ pour les journaux les plus influents qui ont un taux de sélection de 10%. En moyenne les coûts de publication représentent 400 $ par article. On estime que les frais annuels pour l'hébergement et le support technique d'une revue est de 1000 euros ([[@audreydufourCreerSaRevue2022]]). 
+
+Nature va jusqu'à faire payer la publication d'articles dans ses colonnes à hauteur de 9500 dollars ([[@audreydufourCreerSaRevue2022]] )
 D'après une étude récente, ils augmentent 3 fois plus vite que l'inflation. L'augmentation du montant des APC est corrélée avec l'augmentation du nombre de publications. Le marché des APC est inélastique dans la mesure où ni le choix des auteurs, ni la compétition entre les acteurs de l'édition scientifique ne parviennent à faire baisser ces coûts de publication. En cela, le marché de la publication scientifique ressemble à celui des produits de première nécessité, ou au contraire des produits de luxe : quelque soit leur prix, les acteurs continueront de payer, quitte à se priver de budgets importants pour d'autres fonctions (enseignement par exemple). 
 Il est donc important que les décideurs mettent un frein à cette dépense pour limiter cette hyperinflation des APC ([[@khooArticleProcessingCharge2019]]). 
 

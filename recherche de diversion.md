@@ -41,7 +41,7 @@ De manière générale, la recherche de diversion va retarder artificiellement l
 Bruno Latour
 
 La recherche de diversion va de pair également avec une autre stratégie qui consiste à stipendier des chercheurs ou à les manipuler pour les passer eux-mêmes à critiquer les méthodes fondatrices de leur science comme dans le cas de l'[[études épidémiologiques|épidémiologie]].
-Des maisons d'édition scientifique se montent également pour permettre à des écrits négationnistes de ne pas dépendre des revues scientifiques cotées pour éditer ces travaux. Beaucoup d'écrits [[climato-scepticisme|climatosceptiques]] paraissent sous forme de livres parce qu'ils seraient refusés par ces revues (cf. par exemple **The catastrophe that never happened**
+Des maisons d'édition scientifique se montent également pour permettre à des écrits [[négationnisme|négationnistes]] de ne pas dépendre des revues scientifiques cotées pour éditer ces travaux. Beaucoup d'écrits [[climato-scepticisme|climatosceptiques]] paraissent sous forme de livres parce qu'ils seraient refusés par ces revues (cf. par exemple **The catastrophe that never happened**
 de Susan Janet Crockford)
 
 # Quand la recherche de diversion trouve des débouchés médiatiques et institutionnels

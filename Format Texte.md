@@ -1,12 +1,12 @@
 ---
-title: texte simple
+title: Format Texte
 subtitle:
 author: Damien Belvèze
 date: 28-03-2022
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [plain text]
+aliases: [plain text, format texte]
 tags: [édition, programmation]
 ---
 
@@ -14,6 +14,9 @@ tags: [édition, programmation]
 # La promotion du texte simple
 
 un aspect négligé parce que [non rentable](https://www.arthurperret.fr/veille/2022-02-09-de-l-importance-de-vendre-le-format-texte.html)
+
+>Mais alors, s’il est si utile, pourquoi est-ce qu’il est si peu connu ? Eh bien le problème, c’est qu’il est difficile de faire de l’argent avec. Le format texte fait partie de ces choses en informatique qui sont à la fois simples, efficaces et peu coûteuses. Or c’est précisément parce que ça ne coûte rien de l’utiliser que peu de gens sont susceptibles d’investir du temps et des moyens pour le « vendre »
+
 
 ![](plain_text.png)
 

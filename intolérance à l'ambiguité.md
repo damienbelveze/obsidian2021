@@ -16,7 +16,7 @@ Cette expérience permet de prendre conscience que tout le monde n'est pas égal
 
 Certaines personnes supportent mal cette situation d'incertitude et préfèrent opter pour un énoncé fragile sur un fait plutôt que d'attendre un énoncé plus solide. Une fois ce choix fait, ces personnes s'y tiennent au point de nier l'évidence des faits, comme on a pu s'en rendre compte lors du débat sur l'hydroxychloroquine en 2020 (pendant le [[Covid-19]]) ([[@audureauDansTeteComplotistes2021]], p22): 
 
-> Autrement dit si certains -poètes, artistes, chercheurs - s'accommodent parfaitement d'une forme d'insaisissabilité du chaos du monde, d'autres ont un besoin intime d'ordre, de stabilité et de clarté, et d'accrochent à des certitudes, fussent-elles erronées. Plus que l'erreur, ils craignent le doute. Celui-ci est pour eux source d'angoisse, de dépense psychique et d'épuisement, explique le psychiatre français Patrick Clervoy, qui relève que "jusqu'à un certain point, le mensonge protège de l'anxiété et de la dépression"
+> Autrement dit si certains -poètes, artistes, chercheurs - s'accommodent parfaitement d'une forme d'insaisissabilité du chaos du monde, d'autres ont un besoin intime d'ordre, de stabilité et de clarté, et s'accrochent à des certitudes, fussent-elles erronées. Plus que l'erreur, ils craignent le doute. Celui-ci est pour eux source d'angoisse, de dépense psychique et d'épuisement, explique le psychiatre français Patrick Clervoy, qui relève que "jusqu'à un certain point, le mensonge protège de l'anxiété et de la dépression"
 
 Cette intolérance à l'ambiguité ou à l'incertitude est un carburant important pour le [[théorie complotiste|complotisme]]
 

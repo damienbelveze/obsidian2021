@@ -18,6 +18,11 @@ Ce principe a été promu à partir des années 70 à une époque où le discour
 
 Il est aujourd'hui mis en exergue par des personnalités qui cherchent à séparer recherche et pratiques militantes (en réalité à dépolitiser la science soit à la rapprocher de la norme néo-libérale, comme [[Nathalie Heinich]]) ou bien à saper les fondements critiques de la sociologie comme [[Gérald Bronner]]. 
 
+Selon David Hume, la science étudie ce qui est et il n'est pas possible d'en retirer une morale particulière. De façon générale, l'existant ne saurait fournir le socle d'une morale ou bien, ce qui permet de répondre au [[sophisme de l'appel à la nature]],
+
+> we cannot derive an "ought" from an "is" (on ne peut pas inférer un devoir à partir d'un être)
+
+
 
 # Journalisme
 

@@ -19,29 +19,70 @@ Le fond varie en fonction du message
 
 > les phrases sur la vie sont plus sobres [...], les phrases qui célèbrent l'amour familial et tout particulièrement le culte de la mère sont entourées de fleurs
 
-![](citation_Pasquier.PNG)
+![](images/citation_Pasquier.PNG)
 
 La citation est très similaires aux chaînes de mails et veulent entraîner le partage 
 
 # dans le contexte académique
 
+## les fonctions de la citation dans un texte
 
-La citation est intégrée aux usages numériques et correspond à trois nécessités : 
+Du point de vue de celui qui cite, la citation a trois fonctions : 
 - donner au lecteur l'accès au texte qui soutient le propos (ou en tout cas lui permettre d'identifier ce texte)
 - rendre hommage à l'auteur du texte antérieur (et respecter les règles de [[propriété intellectuelle]])
 - permettre à cet auteur de réaliser un profil de citations et d'obtenir un score en la matière ([[bibliométrie]])
 
-Si le recours aux citations est exigé de tous les chercheurs (un peu moins des plus anciens mais beaucoup plus des plus jeunes), les raisons pour lesquelles on cite ici et pas là restent obscure et échappent à la rationalisatione autant qu'à la standardisation. 
+## le rôle de la citation dans le système d'évaluation de la science
+
+Ce système valorise les travaux les plus cités et cette omniprésence de la citation comporte quelques biais : 
+
+1. La citation ne couvre pas toutes les réutilisations possibles d'un texte académique : 
+
+le chirurgien qui ne publie pas mais s'inspire de publications dans sa pratique utilise la littérature scientifique sans la citer
+
+2. La citation couvre de fausses réutilisations :
+
+on peut citer des textes qu'on n'a pas lu pour complaire à un auteur ou au journal dans lequel on veut soumettre un article. ([[citations de complaisance]]).
+
+3. La focalisation sur les citations empêche la publication d'études négatives ou non-concluantes. 
+
+Ce sont les études concluantes qui drainent les citations, mais les études négatives et leur [[Negative data]] ont également de l'importance et peuvent faire gagner beaucoup de temps et de moyens à la communauté scientifique. Toutefois, comme personne ne les cite, elles ne sont pas publiées, comme elles ne sont pas publiées, elles sont ignorées. 
+
+
+Si le recours aux citations dans chaque texte est exigé de tous les chercheurs (un peu moins des plus anciens mais beaucoup plus des plus jeunes), les raisons pour lesquelles on cite ici et pas là restent obscure et échappent à la rationalisatione autant qu'à la standardisation. 
 
 >"The use of citations as a basis for value judgements implies that there is a universally recognized convention [on why to cite] among publishing scientists, but this convention is one which displays a marked resistance to standardization." 
 
 
 
-![](citation.jpg)
+![](images/citation.jpg)
 
 >Metaphorically speaking, citations are frozen footprints in the landscape of scholarly achievement; footprints which bear witness to the passage of ideas. From footprints it is possible to deduce direction; from the configuration and depth of the imprint it should be possible to construct a picture of those who have passed by, whilst the distribution and variety furnish clues as to whether the advance was orderly and purposive
 
 Source : Blaise Cronin, 1981  [[@CRONINNEEDTHEORYCITING1981]]
+
+
+## aspects rhétoriques de la citation
+
+Les personnes citées deviennent des alliés dans l'entreprise d'un auteur pour paraître compétente sur son sujet. 
+Si on remet en cause le bien fondé d'une assertion, la citation induit le lecteur à penser qu'il faudra en plus remettre en cause les travaux de toutes les personnes citées : 
+
+>Correct or not, an author can adopt a number of tactics to make her claims unassailable by her readers—who in turn strive not to be duped. For example, the author can line up a phalanx of allies by citing other writers who support her point, or whose work she builds upon. If you question me, she implies, you have to question all of us
+
+(Carl Bertrom[[@BergstromCallingBullshitArt2020]] citant un travail de Bruno Latour)
+
+
+
+## manipulation des citations
+
+Différentes manipulations peuvent affecter les citations d'un texte scientifique [[@KaraSimpleGuideEthical2021]] : 
+
+- **on se cite trop soi-même** pour gonfler le poids de ses citations. Selon John Ioannidis, 25% des citations de Didier Raoult sont des citations de ses propres travaux ou de ceux de ses co-auteurs[[@larousserieLancetgatePublierBeaucoup2020]].
+- **on cite trop ses co-auteurs** en espérant un retour d'ascenceur (voir exemple plus haut)
+- **on cite trop souvent des articles du journal dans lequel on souhaite être publié** en espérant que cela facilitera l'adoption du texte
+
+Bien qu'on ne soit plus dans le domaine de la manipulation de la citation mais de la diversité des points de vue, il est important de citer des textes qui adoptent un autre point de vue ou une autre méthodologie que la sienne, afin que l'étude fasse preuve de diversité dans son approche. 
+
 
 
 ## obsolescence de la littérature scientifique

@@ -4,7 +4,7 @@ subtitle:
 author: Damien Belvèze
 date:
 link_citations: true
-aliases: [peer review, revu par les pairs, revue par les pairs, peer reviewed, peer reviewing, reviewers, reviewer]
+aliases: [peer review, revu par les pairs, revus par les pairs, revue par les pairs, peer reviewed, peer reviewing, reviewers, reviewer]
 ---
 
 La révision par les pairs fait partie des méthodes scientifiques qui permettent de réduire les erreurs présents dans une communication scientifique notamment en soustrayant l'écrit scientifique à la subjectivité de celui, celle ou ceux qui l'ont écrit. 

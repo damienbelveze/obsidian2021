@@ -10,6 +10,7 @@ aliases: []
 tags: [linux, programmation]
 ---
 
+![](images/linux_basic_commands.jpg)
 
 # gérer les dossiers et les fichiers
 

@@ -14,7 +14,7 @@ Qui êtes vous ? qu'est-ce que vous pensez qu'Obsidian peut vous apporter ?
 Obsidian permet de gérer des notes, des notes de lecture.
 
 - l'un des objectifs de cette session est d'apprendre à s'en servir pour prendre des notes
-- l'autre objectif est de s'initier au *[[texte simple|plain text]]* et à la syntaxe markdown.
+- l'autre objectif est de s'initier au *[[Format Texte|plain text]]* et à la syntaxe markdown.
 - enfin on terminera en parlant de pandoc et de l'écriture scientifique (comportant des références bibliographiques notamment)
 - Zotero et LaTeX sont libres et gratuits. Obsidian n'est pas libre mais il fonctionne bien avec les deux premiers. L'un des objectifs de la session est de vous faire prendre conscience de travailler avec des formats ouverts et interopérables.
 
@@ -233,20 +233,22 @@ La conversion devrait cette fois prendre en compte la citation et la référence
 bracket-eraser est un petit script qui vous permet deux choses :
 - vous débarrasser des liens sous la forme [[liens]] (=wikiliens) qui restent dans le document en pdf après conversion avec Pandoc dans les exemples précédents
 - utiliser pandoc de façon guidée avec une interface graphique très basique (menus). Pour ajouter de nouvelles fonctionnalités, il faudra modifier le script.
-Si l'exécutable (bracket-eraser.exe) ne fonctionne pas à cause d'un parefeu, testez le script dans une fenêtre powershell
+Si l'exécutable (bracket-eraser.exe) ne fonctionne pas à cause d'un parefeu, testez le script dans une fenêtre powershell (voir [ici](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/get-executionpolicy?view=powershell-7.2))
 
-~~~
+````powershell
 ./script.ps1
-~~~
+````
 
 Si la console ne vous permet pas d'exécuter un script, changer les permissions de powershell:
-Dans Powershell:
+Dans Powershell (ouvrir Powershelle en mode administrateur):
 
-~~~
-Get-ExecutionPolicy
-~~~
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
+```
 
-Sélectionner remotesigned
+Entrer O pour O\[Oui\]
+
+Si vous n'avez pas les droits d'administrateur sur la machine, ouvrez powershell et remplacez -Scope LocalMachine par -Scope CurrentUser
 
 N'hésitez pas à me solliciter à tous les moments du cours afin que je vous vienne en aide.
 

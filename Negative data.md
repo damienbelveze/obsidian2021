@@ -16,3 +16,7 @@ Des initiatives pour publier ces données négatives commencent à voir le jour 
 >Lles bibliothèques peuvent jouer un rôle incitatif, en aidant les chercheurs à identifier les gisements d’information dédiés aux résultats négatifs. Il s’agit de « normaliser » le recours aux résultats négatifs en les présentant comme des sources d’information parmi d’autres (#NoDrama)
 
 On peut  voir une parenté de l'*effet tiroir* au niveau des données avec le [[Biais de publication]] au niveau des études (biais selon lequel les publications qui ne montrent pas l'efficacité d'un traitement ont moins de chances d'être publiées, ce biais crée une distorsion dans la perception de l'efficacité d'un médicament ou d'une thérapie)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xyJyfVLTTNM?start=603" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Cet effet tiroir est délétère en termes de perte de temps, d'argent mais aussi de bien-être animal. Un grand nombre d'études faites sur des animaux ne sont pas publiées car leurs résultats sont négatifs, la conséquence est que d'autres laboratoires vont formuler la même hypothèse et refaire ces expériences pour rien au détriment de nouvelles vies animales.

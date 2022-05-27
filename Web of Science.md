@@ -125,6 +125,33 @@ un article a été rétracté
 
 ![](retracted_zotero.png)
 
+# catégorisation des références
+
+Depuis mai 2022, WOS catégorise les citations d'un article donné en fonction de leur emplacement dans le texte et leur contexte linguistique pour déterminer si l'article cité constitue : 
+
+- un élément permettant d'appréhender un champ de recherche
+- un élément auquel on emprunte un protocole, une méthodologie, des concepts, des jeux de données
+- un article dont les conclusions vont dans le sens de l'article qui le cite
+- un article dont les conclusions ou les méthodes ou la taille de l'échantillon diffèrent
+- un article qui est cité dans la discussion
+
+aide de WOS:
+
+> What is Citing Items Breakdown?
+
+>This analysis helps describe why an article has been cited by using citation classifications assigned to newly published articles to aggregate mentions to this article based on the author’s intent.
+
+> -   **Background**—previously published research that orients the current study within a scholarly area.
+
+> -   **Basis**—references that report the data sets, methods, concepts and ideas that the author is using for her work directly or on which the author bases her work.
+
+> -   **Support**–references which the current study reports to have similar results to. This may also refer to similarities in methodology or in some cases replication of results.
+
+> -   **Differ**–references which the current study reports to have differing results to. This may also refer to differences in methodology or differences in sample sizes, affecting results.
+
+> -   **Discuss**—references mentioned because the current study is going into a more detailed discussion.)
+
+
 # facteur d'impact d'une revue
 
 cliquer sur le nom d'une revue pour connaître son [[bibliométrie#facteurs d'impact|facteur d'impact]]
