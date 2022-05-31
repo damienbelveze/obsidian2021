@@ -40,7 +40,11 @@ polémique sur le glyphosate ([[institutionnalisation de l'EMI#commission Bronne
 voir l'evopsy (évolutionnisme psychologique ([[@ballastBALLASTEvopsyScience2020]]) thoérie soutenue par les libertariens américains et présente dans les grandes écoles françaises.
 
 L'évolution psychologique est une reprise du spencerisme qui consiste à appliquer la théorie de Charles Darwin aux sociétés : les sociétés humaines sont en compétition pour la survie. 
-
+Elle s'inspire du travail d'Osborne Wilson sur les fourmis. 
+L'ambassadrice de l'evopsy en France, Peggy Sastre affirme que:
+- le viol est une stratégie de reproduction qui inscrite dans la génétique a informé les stratégies de survie des deux sexes : l'homme pressé de transmettre ses gênes est amené à recourir au viol si besoin, la femme sélectionne son partenaire en fonction de son patrimoine génétique. Elle n'a d'autre choix pour survivre dans un monde marqué par la violence du plus fort que de se soumettre.
+- la morale ne proviendrait pas de rapport de forces entre classes sociales, de rencontres, des circonstances de la vie, mais de l'évolution. Les individus ayant adopté une morale des règles de conduite impliquant quand il le faut de la coopération auraient mieux réussi que les autres
+- la domination masculine n'existe pas au sens sociologique (bourdeusien) du terme.
 
 
 

@@ -126,7 +126,7 @@ La théorie du complot substitue aux causalités propres à l'affrontement des c
 L'hypercriticisme propre au conspirationnisme est une simplification, car même si des complots existent ils ne suffisent pas en général à expliquer seuls l'avènement de certaines transformations. Les Sciences sociales montrent au contraire comme une transformation est le produit d'une pluralité de causes qui s'enchevètrent. Elles intègrent dans leur schéma explicatif les intentions cachées de certains acteurs mais aussi : 
 
 - le poids des structures sociales de domination
-- les habitus
+- les [[habitus]]
 - les conséquences non intentionnelles de l'action (conséquences imprévisibles des interactions entre miliers ou millions de personnes)
 
 Plutôt que l'oeuvre d'un complot capitaliste orchestré par des hommes d'affaire, des multinationales et des politiques, la société néolibéral est le produit d'un ensemble de dynamiques qui dépassent l'individu (Capital, Préface à la première édition du livre) : 

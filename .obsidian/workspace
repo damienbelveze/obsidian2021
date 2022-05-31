@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "332e942c0c95e63e",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Fake science.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "c61a480c08ca085e",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Fake science.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
         "id": "101e17a2ef9359a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fake science.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -73,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "evopsy",
+                "query": "EOSC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fake science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,15 +97,15 @@
   },
   "active": "101e17a2ef9359a7",
   "lastOpenFiles": [
-    "Fake science.md",
-    "institutionnalisation de l'EMI.md",
-    "Révision par les pairs.md",
-    "American Council of Science and Health.md",
-    "neutralité axiologique.md",
-    "négationnistes.md",
-    "recherche de diversion.md",
-    "libéralisme.md",
-    "négationnisme.md",
-    "Capitalisme.md"
+    "Pyramide de Maslow.md",
+    "Mode d'emploi d'Obsidian.md",
+    "diagramme de Kano.md",
+    "Curation et partage.md",
+    "Editeurs prédateurs en open access.md",
+    "CLEMI.md",
+    "De Facto.md",
+    "references/DanisClusterCoronavirusDisease2020 - Annotations extraites (05042021 à 174656).md",
+    "Astroturfing.md",
+    "references/@KarayanFauxavisInternet2022.md"
   ]
 }

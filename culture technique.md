@@ -36,7 +36,7 @@ Le temps des usages
 
 ce cycle est itératif : des inventions répondant à une problématique individuelle ou restreinte rencontre un besoin collectif, crée un usage de masse qui en partie va être détourné vers d'autres usages qui à leur tour vont conforter différents imaginaires : 
 
-Exemple : rupture amoureuse de Zuckerberg > création de Facebook > massification de l'usage de Facebook > récupération des données de Facebook par Cambridge Analytica > vulnérabilité des processus électoraux aux [[guerres informationnelles]][[@plantard2015a]]
+Exemple : rupture amoureuse de Zuckerberg > création de Facebook > massification de l'usage de Facebook > récupération des données de Facebook par [[Cambridge Analytica]] > vulnérabilité des processus électoraux aux [[guerres informationnelles]][[@plantard2015a]]
 
 
 

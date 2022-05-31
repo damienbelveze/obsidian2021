@@ -7,8 +7,9 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [théorie de la motivation]
+tags: [management, marketing]
 ---
-#management #marketing
+
 
 Cette pyramide élaborée par Maslow en 1943 (a theory of human motivation) hiérarchise nos besoins en 5 classe de besoins. 
 

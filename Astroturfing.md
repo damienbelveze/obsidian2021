@@ -35,7 +35,7 @@ Cf. campagne Twitter faisant parler des pseudo-comptes tenants de l'idéologie [
 
 D'après David Chavalarias, fondateur du Tweetoscope, la multiplication des faux comptes sur Twitter en période pré-electorale aurait un effet plus important que la circulation de fausses nouvelles entre des comptes authentiques([[@GiryPaniquemoraleElysee2022]]).
 
-voir le joué par le [[bots|bot]] aux 70 000 followers "Jane Abrams" pendant les élections US de 2016 
+voir le rôle joué par le [[bots|bot]] aux 70 000 followers "Jane Abrams" pendant les élections US de 2016 
 
 
 

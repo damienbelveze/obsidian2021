@@ -10,7 +10,7 @@ aliases: []
 tags: [désinformation, EMI]
 ---
 
-Steven Pinker (psychologue cognitif)
+[[Steven Pinker]] (psychologue cognitif)
 
 d'un côté, l'homme est une espèce très rationnelle, cet aspect lui a permis de marcher sur la lune et en même temps beaucoup de gens pensent qu'on peut être guéri par des cristaux et que les trainées des avions sont des produits chimiques projetés dans l'atmosphère pour réguler notre fertilité ou régir nos pensées (théorie des chemtrails)
 

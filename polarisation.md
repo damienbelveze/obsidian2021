@@ -6,8 +6,8 @@ date:
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: []
-tags: []
+aliases: [polarisation, polariser, polarise, polarisent, polarisé, polarized, polarize, polarizing]
+tags: [sociologie_politique, désinformation]
 ---
 
 # pôles et orientations politiques
@@ -17,6 +17,13 @@ tags: []
 source : Politiscales, voir article de Libération sur le sujet ci-dessous :
 ![[politiscales.pdf]]
 
+# polarisation des médias au cours de l'élection de Donald Trump
+
+Alors qu'auparavant les informations passaient de journaux de centre gauche vers des journaux de centre-droit et inversement, avec la candidature Trump, une polarisation des journaux entre gauche et centre d'une part et ultra-droite d'autre part est apparue (cette dernière menée par des médias comme Breitbart News ou Fox News qui n'hésite plus à recycler des fake news au détriment de la déontologie journalistique)[[@cardonPourquoiAvonsnousSi2019]]
+
+> Alors que la polarité traditionnelle entre médias de centre droit et de centre gauche s’exerçait au sein d’un espace professionnel commun régi par des règles et un système de contrôle croisé, le paysage médiatique américain s’est clivé d’une manière particulièrement brutale lors de la campagne électorale de 2016. Autrefois considérés comme des médias du centre (_The Hill_) ou de centre droit, le _Washington Post_, ABC News, _Business Week_ ou _USA Today_ se retrouvent désormais dans le même espace de proximité que les médias libéraux de centre-gauche (_The New York Times_, CNN) ou de gauche (_The Nation_, _Huffington Post_, MSNBC).
+
+> Ce déplacement est la conséquence de l’émergence d’une nouvelle galaxie de média qui a évincé les publications du centre droit qui inclinaient vers le Grand-Old-Party. Tout comme le Parti Républicain a été littéralement kidnappé par Donald Trump reléguant vers le centre ses membres les plus modérés, la droite médiatique américaine est désormais dominée par un nouveau pôle constitué de Fox News, du Daily Caller et de Breitbart News entouré par une importante galaxie de sites d’ultra-droite dont l’audience est faible et la visibilité périphérique.
 # polarisation des débats et des modes de vie
 
 extrémisation des opinions dans une population donnée. 

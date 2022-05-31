@@ -105,6 +105,8 @@ demander aux doctorants d'analyser des journaux avec l'aide de COMPASS
 ## Les détournements de marque
 
 Les journaux qui usurpent le titre et les caractéristiques d'une revue qui jouit d'une certaine notoriété ("highjacking journals") pour attirer les soumissions sont les plus susceptibles de tromper les publiants[[@SinghWhatyouneed2021]]. 
+Voir la base de données sur les ["journaux piratés"](https://docs.google.com/spreadsheets/d/1ak985WGOgGbJRJbZFanoktAN_UFeExpE/edit#gid=364865985)
+et présentation sur le site Retractation Watch
 
 
 
