@@ -6,7 +6,7 @@ date:
 link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
-aliases: [carnets de laboratoire, cahiers de laboratoire, bloc-code, block-codes]
+aliases: [carnets de laboratoire, cahiers de laboratoire, bloc-code, block-codes, ELN, electronic laboratory notebook]
 tags: [méthode_scientifique, programmation]
 ---
 
@@ -32,6 +32,10 @@ Une solution libre [[ElabFTW]] installée par exemple sur un serveur de Lyon ([p
 
 Le CNRS pourrait fournir des lignes budgétaires aux labos pour qu'ils puissent se doter de cahiers numériques. 
 Le CNRS fournira une liste de critères pour choisir sa solution mais ne fera pas de recommandation (chaque discipline a ses propres besoins) 
+
+Les solutions libres, très minoritaires sur le marché ([[@higginsConsiderationsImplementingElectronic2022]])
+
+![](ELN_libres.jpg)
 
 # cahiers hybrides
 

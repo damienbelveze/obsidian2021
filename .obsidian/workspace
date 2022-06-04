@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "EOSC",
+                "query": "[[data paper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -50,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413
+    "width": 255
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -97,15 +97,15 @@
   },
   "active": "101e17a2ef9359a7",
   "lastOpenFiles": [
-    "Pyramide de Maslow.md",
-    "Mode d'emploi d'Obsidian.md",
-    "diagramme de Kano.md",
-    "Curation et partage.md",
+    "data paper.md",
+    "partage des données de recherche.md",
+    "Données de recherche INRAE.md",
+    "Formation aux enjeux de la transition écologique.md",
+    "Biais de publication.md",
+    "bibliométrie.md",
     "Editeurs prédateurs en open access.md",
-    "CLEMI.md",
-    "De Facto.md",
-    "references/DanisClusterCoronavirusDisease2020 - Annotations extraites (05042021 à 174656).md",
-    "Astroturfing.md",
-    "references/@KarayanFauxavisInternet2022.md"
+    "cahiers numériques.md",
+    "FAIR.md",
+    "FAIR EVA.md"
   ]
 }

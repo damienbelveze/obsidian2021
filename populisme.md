@@ -23,7 +23,7 @@ Johannes Schulz observe que le populisme comporte fondamentalement deux matéria
 
 D'un côté l'autoritarisme, l'homme providentiel, le ressentiment, l'essentialisation du peuple-nation
 
-De l'autre, une demande de dignitité, de justice sociale et de démocratie
+De l'autre, une demande de dignitité, de [[justice sociale]] et de démocratie
 
 
 
