@@ -13,7 +13,7 @@ tags: []
 Dans une optique libérale et [[agorathéisme|agorathéocratique]], la gratuité soustrait un bien à l'ensemble des transactions qui constituent un marché, ce qui la rend dangereuse pour la pérennité du marché. 
 C'est ainsi que jusqu'à 2015 en France (c'est encore le cas dans les autres pays européens), les grandes surfaces avaient coutume d'arroser d'eau de javel les invendus. 
 
-A l'inverse, certains commerces de quartiers populaires n'hésitent pas à mettre à disposition gratuitement après l'heure de la fermeture les invendus de la journée. 
+A l'inverse, certains commerces de [[quartiers populaires]] n'hésitent pas à mettre à disposition gratuitement après l'heure de la fermeture les invendus de la journée. 
 Cette pratique ne menace en aucun cas la pérennité de ces commerces implantés dans des zones marquées par la pauvreté. A fortiori, les supermarchés ne devraient pas craindre pour leur subsistance de mettre à disposition leurs surplus. 
 
 Dans le même ordre d'idée, Stéphane Foucart revient sur une controverse entre économistes au sujet des moyens de protection contre l'anophèle, espèce de moustique responsable de l'extension du paludisme. 

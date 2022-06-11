@@ -32,6 +32,12 @@ Du point de vue de celui qui cite, la citation a trois fonctions :
 - rendre hommage à l'auteur du texte antérieur (et respecter les règles de [[propriété intellectuelle]])
 - permettre à cet auteur de réaliser un profil de citations et d'obtenir un score en la matière ([[bibliométrie]])
 
+## conventions typographiques
+
+guillemets (courte citation), indentation (citation d'un paragraphe), appel de citation, référence en note de bas de page ou en bibliographie (fin de document)
+
+![Joshua Cohen, Les Nétanyahou, traduction de Stéphane Vanderhaeghe, Paris, Grasset, 2022 [2021], p. 34](guillemets.jpg)
+
 ## le rôle de la citation dans le système d'évaluation de la science
 
 Ce système valorise les travaux les plus cités et cette omniprésence de la citation comporte quelques biais : 

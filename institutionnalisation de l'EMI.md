@@ -33,7 +33,7 @@ Cette propagation est aisément quantifiable sur Twitter ou Tik-Tok (même s'il 
 L'inquiétude relative aux fausses nouvelles sur les réseaux sociaux est nourrie aussi par les journalistes qui veulent retrouver une légitimité face au discrédit dont leur profession fait l'objet dans la population. 
 
 Cela nourrit une commande institutionnelle qui s'établit en terme de : 
-"décrypter les informations", "boîte à outils contre les fausses informations" et qui mélangent parfois (dans le cas de l'éducation nationale deux agendas, celui de l'EMI et celui de la déradicalisation (cf. Sophie Eustache [[@EustacheQuandmediasreeduquent2020]] et Amandine Kervella, dans Education aux Medias faire face aux risques de récupération[[@BeillouinPetitmanuelcritique2021]] qui évoque le *saupoudrage* des ateliers AMI dans les quartiers populaires dans le contexte post-attentat de 2015))
+"décrypter les informations", "boîte à outils contre les fausses informations" et qui mélangent parfois (dans le cas de l'éducation nationale deux agendas, celui de l'EMI et celui de la déradicalisation (cf. Sophie Eustache [[@EustacheQuandmediasreeduquent2020]] et Amandine Kervella, dans Education aux Medias faire face aux risques de récupération[[@BeillouinPetitmanuelcritique2021]] qui évoque le *saupoudrage* des ateliers AMI dans les [[quartiers populaires]] dans le contexte post-attentat de 2015))
 
 L'inflation du discours sur les fake news a permis à des opérateurs de retrouver des subventions en intervenant auprès des classes, mais ces nouveaux opérateurs ne sont pas pour autant liés à l'éducation populaire et leur discours n'est pas forcément orienté vers l'émancipation individuelle et sociale qui est celle de l'éducation populaire. 
 

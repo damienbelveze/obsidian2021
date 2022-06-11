@@ -43,7 +43,7 @@ Les néo-libéraux s'attachent donc à insister sur l'exceptionnalité des mesur
 # estimer la chute dans la pauvreté et l'effet du quoiqu'il en coûte. 
 
 une étude de l'INSEE parue le 3 novembre et [relayée par le journal Le Monde du 5 novembre 2021](20211105_COVID_INSEE.pdf) [[@BeatriceMadelineCovid19selonInsee2021]]semble montrer qu'il n'y a pas eu la chute dans la pauvreté d'un million de français redoutée par l'association Alertes à l'automne 2020, sans doute aussi parce que le travail de cette association et d'autres ont permis la prise de mesures au niveau de la menace. 
-D'après cette étude, il n'y a pas plus de personnes sous le [[seuil de pauvreté]] qu'en 2019. D'après cette étude les inégalités n'auraient pas non plus augmenté. 
+D'après cette étude, il n'y a pas plus de personnes sous le [[seuil de pauvreté et seuil de richesse]] qu'en 2019. D'après cette étude les inégalités n'auraient pas non plus augmenté. 
 
 [[biais de l'étude]]
 L'étude porte toutefois sur des ménages ordinaires (95%) de la population et exclut les personnes vivant en collectivité ou en communauté (EHPAD, étudiants, casernes, prisons) ainsi que les personnes sans domicile fixe (1,4 millions de personnes au total)

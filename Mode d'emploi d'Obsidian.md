@@ -25,25 +25,25 @@ Obsidian n'est pas vraiment un second cerveau (cette phrase marketing [n'a guèr
 Obsidian présente les avantages de la nouvelle génération d'outils de PKM (personal knowledge management / Gestion personnelle des connaissances)
 
 - des notes liées les unes aux autres par des liens **et des rétroliens** (backlinks)
-- des fichiers de notes pouvant contenir d'autres fichiers (par exemple des PDF ou des scripts) selon le principe de la [transclusion](https://forum.obsidian.md/t/transclusion-embedding-for-searches/3348/2)
-- une structure par défaut horizontale (les notes n'ont pas besoin d'être rangées dans des fichiers séparés cf. [[Zettelkasten]]). C'est possible de le faire si on le souhaite dans Obsidian, cela dit. 
-- des graphes de notes (cela plaît toujours, même si l'utilité réelle de ces graphes est un sujet débattu depuis que ces outils existent, voir [[Mode d'emploi d'Obsidian#Vue graphique globale|la partie consacrée aux graphes]])
+- des fichiers de notes pouvant contenir d'autres fichiers (par exemple des PDF ou des scripts) selon le principe de la [transclusion](https://forum.obsidian.md/t/transclusion-embedding-for-searches/3348/2)  
+- une structure par défaut horizontale (les notes n'ont pas besoin d'être rangées dans des fichiers séparés cf. [[Zettelkasten]]). C'est possible de le faire si on le souhaite dans Obsidian, cela dit.   
+- des graphes de notes (cela plaît toujours, même si l'utilité réelle de ces graphes est un sujet débattu depuis que ces outils existent, voir [[Mode d'emploi d'Obsidian#Vue graphique globale|la partie consacrée aux graphes]])  
 - des modèles de note peuvent être produits par l'utilisateur et partagés avec d'autres. 
-- hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".
-- format ouvert des notes ([[markdown]] = format universel, contrairement à  Evernote)
+- hébergement en local (pas nécessaire de souscrire à un compte contrairement à Notion ou à Roam, ce dernier étant en plus payant). Tous vos fichiers - plugins, css, images, sons, fichiers en markdown ou en PDF-  sont dans un coffre (*Vault*, dans le langage d'Obsidian) que vous hébergez sur votre ordinateur et que vous pouvez synchroniser avec un serveur distant (Github par exemple). Dans ce tutoriel nous traduirons sytématiquement "Vault" par "coffre".  
+- format ouvert des notes ([[markdown]] = format universel, contrairement à  Evernote)  
 - les notes sont hébergées sur notre ordinateur : on en a la maîtrise.
-- Pas dépendant d'un éditeur (contrairement à Org-roam pour emacs). On peut éditer depuis Obsidian ou bien depuis n'importe quel éditeur qui supporte le markdown (emacs, atom, panwriter, etc.)
-- version disponible sur les différentes familles de systèmes d'exploitation (GNU/Linux, Windows, Mac)
-- Nombreuses possibilités de recherche dans les notes (par fichier, par mot dans la note, par mot dans la section de la note, par tag...) (voir [[@CaseObsidiananswernotetaking2021]])
-- Importance des rétroliens (combien de notes citent une même note). Cela permet de faire des associations d'idées et des graphes
-- possibilité d'avoir dans un même endroit des notes et des fichiers divers (code, images, vidéos) et de pouvoir lier ces notes et ces fichiers entre eux.
-- le nombre de plugins avec lesquels on peut étendre les capacités d'obsidian est en croissance constante.
+- Pas dépendant d'un éditeur (contrairement à Org-roam pour emacs). On peut éditer depuis Obsidian ou bien depuis n'importe quel éditeur qui supporte le markdown (emacs, atom, panwriter, etc.)  
+- version disponible sur les différentes familles de systèmes d'exploitation (GNU/Linux, Windows, Mac)  
+- Nombreuses possibilités de recherche dans les notes (par fichier, par mot dans la note, par mot dans la section de la note, par tag...) (voir [[@CaseObsidiananswernotetaking2021]])  
+- Importance des rétroliens (combien de notes citent une même note). Cela permet de faire des associations d'idées et des graphes  
+- possibilité d'avoir dans un même endroit des notes et des fichiers divers (code, images, vidéos) et de pouvoir lier ces notes et ces fichiers entre eux.  
+- le nombre de plugins avec lesquels on peut étendre les capacités d'obsidian est en croissance constante.  
 
 ## 1.2 limites 
 
-- logiciel propriétaire, mais une bonne partie du code est en opensource et surtout la communauté des utilisateurs développe un grand nombre de codes en open source. Toutefois, si on veut se tourner vers une alternative entièrement libre comparable à Obsidian, le logiciel [Cosma](https://cosma.graphlab.fr/) mis au point par Arthur Perret (actuellement disponible sur Mac et Windows et bientôt sur Linux) offre une alternative très convaincante. 
-- l'affichage des images **dans** l'application n'est pas encore au point. Si la conversion avec pandoc fonctionne sur la taille des images, à l'intérieur d'Obsidian la taille de celles-ci est difficilement modulable. [[@Abd-ElsalamClinicalstudyevaluating2021]]tt
-- Obsidian ne dispose pas de répétiteur (spaced repetition), c'est à dire qu'on ne peut pas programmer à l'avance l'apparition de notes à mémoriser (une fontion aléatoire d'affichage de notes existe pourtant sous la forme d'un plugin coeur). Pour l'apprentissage et la répétition, Obsidian peut cependant être connecté à Anki au moyen d'un plugin communautaire. 
+- logiciel propriétaire, mais une bonne partie du code est en opensource et surtout la communauté des utilisateurs développe un grand nombre de codes en open source. Toutefois, si on veut se tourner vers une alternative entièrement libre comparable à Obsidian, le logiciel [Cosma](https://cosma.graphlab.fr/) mis au point par Arthur Perret (actuellement disponible sur Mac et Windows et bientôt sur Linux) offre une alternative très convaincante.   
+- l'affichage des images **dans** l'application n'est pas encore au point. Si la conversion avec pandoc fonctionne sur la taille des images, à l'intérieur d'Obsidian la taille de celles-ci est difficilement modulable. [[@Abd-ElsalamClinicalstudyevaluating2021]]  
+- Obsidian ne dispose pas de répétiteur (spaced repetition), c'est à dire qu'on ne peut pas programmer à l'avance l'apparition de notes à mémoriser (une fontion aléatoire d'affichage de notes existe pourtant sous la forme d'un plugin coeur). Pour l'apprentissage et la répétition, Obsidian peut cependant être connecté à Anki au moyen d'un plugin communautaire.   
 
 
 ## 1.3 intérêt cognitif
@@ -125,7 +125,9 @@ Le principe de Gruber était d'inciter l'utilisateur à avoir recours directemen
 Pourtant, comme le rappelle Knut Malvaer, les éditeurs ont eu tendance à adapter Markdown et à augmenter ses capacités pour satisfaire leurs usagers parmi lesquels la proportion des auteurs non développeurs n'a cessé de croître, ce qui fait que la syntaxe Markdown n'est plus entièrement unifiée d'un éditeur à l'autre[[@MelvaerThoughtsMarkdown2022]]. 
 [Commonmark](https://commonmark.org/) a été créé pour fixer une syntaxe en markdown minimale, transposable d'un outil à l'autre, ce qui aide dans une certaine mesure les développeurs à gérer cette hétérogénéité dans le formatage en markdown (car le markdown est devenu depuis 2004 la *lingua franca* de l'écriture web). Cela n'empêche toujours pas un éditeur d'ajouter les fonctionnalités qu'il souhaite à cette base que constitue Commonmark. Ainsi Rmarkdown continue d'avoir une syntaxe markdown un peu différente de github sur des fonctions spécifiques même si à la base ces deux services utilisent Commonmark.
 
-## 3.2 niveaux de titre
+## 3.2 niveaux de titre, listes à puces
+
+### niveaux de titre
 
 Le titre de la note est distinct du nom du fichier. Le nom du fichier est la première chose qui est créée de la note. 
 Dans une note, entourer un mot avec un double crochet (\[\[mot\]\]) crée automatiquement une note comportant mot.md dans le coffre. 
@@ -139,6 +141,28 @@ Si on configure un titre dans le pavé Yaml, celui-ci apparaîtra comme titre du
 | \#\# titre 2 | titre de niveau 2 | \<h2\> |
 | \#\#\# titre 3 | titre de niveau 3 | \<h3\> |
 | \#\#\#\# titre 4 | titre de niveau 4 | \<h4\> |
+
+### liste à puces
+
+le tiret ( - ) en début de phrase permet de faire une liste à puces : 
+
+\- pommes  
+\- poires  
+\- bananes  
+
+permet d'éditer
+
+- pommes  
+- poires  
+- bananes  
+
+Attention : la conversion de la note en markdown vers un autre format (ODT ou PDF notamment) peut mettre à mal les listes à puces si chaque élément qui les constitue n'est pas suivi de deux espaces en fin de ligne. 
+
+Pour éviter d'obtenir :
+
+\- pommes \- poires \- bananes
+
+dans le texte convertir en open document ou en PDF, ajouter systématiquement deux espaces dans le texte en markdown après pommes, poires et bananes.
 
 ## 3.3 tableaux, indentation, épigraphes
 

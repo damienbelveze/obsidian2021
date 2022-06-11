@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
+        "id": "27e8c7434dda722f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mode d'emploi d'Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7bb32d5992922c65",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mode d'emploi d'Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
         "id": "101e17a2ef9359a7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mode d'emploi d'Obsidian.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[data paper",
+                "query": "file:mode d'emploi d'obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mode d'emploi d'Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +135,15 @@
   },
   "active": "101e17a2ef9359a7",
   "lastOpenFiles": [
-    "data paper.md",
-    "partage des données de recherche.md",
-    "Données de recherche INRAE.md",
-    "Formation aux enjeux de la transition écologique.md",
-    "Biais de publication.md",
-    "bibliométrie.md",
-    "Editeurs prédateurs en open access.md",
-    "cahiers numériques.md",
-    "FAIR.md",
-    "FAIR EVA.md"
+    "Mode d'emploi d'Obsidian.md",
+    "DARVO.md",
+    "Vie privée.md",
+    "smartphone et vie privée.md",
+    "Cybersécurité et impact sociétal.md",
+    "references/@Colavizzacitationadvantagelinking2020.md",
+    "Caméras de surveillance.md",
+    "Web of Science.md",
+    "preprint.md",
+    "Citation.md"
   ]
 }

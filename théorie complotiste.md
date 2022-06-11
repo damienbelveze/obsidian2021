@@ -35,6 +35,8 @@ Hofstadter cité par Nicolas Guilhot [[@Guilhotchamanautretheories]]
 esprit [[contrarien]] : opposition précoce à l'autorité et au discours d'autorité. la recherche de la vérité ne passerait que par une confrontation avec la "vérité officielle".
 l'adhésion à des thèses complotistes renforce le narcissisme et le sentiment de sécurité de la personne. Le conspirationnisme leur permet d'aller mieux ([[@audureauDansTeteComplotistes2021]], p74)
 
+![](lion_noir.png)
+
 
 # Controverse sur la réalité d'une recrudescence du complotisme à l'âge d'internet. 
 

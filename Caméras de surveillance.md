@@ -43,11 +43,13 @@ Leur contribution à l'élucidation des enquêtes serait quasiment nulle, d'apr�
 Leur prolifération est donc du à un usage politique : en installant des caméras partout, les édiles municipaux veulent montrer qu'ils sont actifs face à un problème qu'en réalité ils ne contrôlent pas, la délinquance. 
 La caméra de surveillance urbaine relève donc du [[solutionnisme technologique]] technologique.
 
-# usage uni-latéral des caméras de surveillance
+# usage unilatéral des caméras de surveillance
 Il est des cas pourtant où la présence de caméras permettent de mettre en évidence des violences policières et disqualifier des faux témoignages émanant des forces de l'ordre (cf. cas [Adnane Nassih](https://www.franceinter.fr/emissions/affaires-sensibles/affaires-sensibles-du-jeudi-06-janvier-2022), éborgné par un tir de LBD en février 2020 alors qu'il ne présentait aucune menace, bien que la légitime défense du tireur et de ses collègues ait été invoquée)
 Le seul point positif est que cela pourrait permettre de manifester les violences policières comme dans ce cas, d'où l'enjeu pour les forces de l'ordre de maîtriser les flux de ces caméras et de pouvoir pré-empter des enregistrements ou bien de manière paradoxale de pouvoir compter sur certains espaces sans caméra pour agir impunément, comme le font valoir Sophie Simpere et Pierre Januel ([[@SimpereCommentEtatattaque2022]])
 
 ![](cam_surveillance.png)
+
+toutefois quand les images captées par la vidéosurveillance permettent de mettre en évidence un manquement des forces de l'ordre ou un abus de pouvoir on les laisse opportunément disparaître comme dans [le cas du fiasco des FDO au stade de France en mai 2022 (match Real vs Liverpool)](https://www.lefigaro.fr/faits-divers/stade-de-france-les-images-de-videosurveillance-ont-ete-detruites-car-elles-n-ont-pas-ete-reclamees-par-la-justice-20220609)
 
 
 # La caméra de surveillance en tant qu'objet connecté.
@@ -66,7 +68,7 @@ Si certaines villes comme San Francisco et Portland ont interdit les caméras à
 
 ([source](https://amnesty-crisis-evidence-lab.github.io/decode-surveillance-heatmap/))
 
-Surveillance des quartiers populaires
+Surveillance des [[Quartiers prioritaires de la politique de la ville|quartiers populaires]]
 
 Surveillance des populations dissidentes (Charlie-Hebdo, n°1536, janvier 2022)
 
