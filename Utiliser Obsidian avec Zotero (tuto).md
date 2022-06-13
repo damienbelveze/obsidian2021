@@ -18,7 +18,7 @@ Si la version de Pandoc dont on dispose n'inclue pas le plugin pandoc-citeproc, 
     - créer un dossier (intitulé Article)
     - créer une note (qui deviendra le futur article à publier)
     
- 4. Dans Zotero exporter la collection qui correspond aux références de l'article en la tenant à jour (appelons ce fichier references.bib). Enregistrer le fichier dans le dossier article sous un répertoire qu'on crée à l'occasion (par exemple en l'intitulant 'references')
+ 4. Dans [[Zotero]] exporter la collection qui correspond aux références de l'article en la tenant à jour (appelons ce fichier references.bib). Enregistrer le fichier dans le dossier article sous un répertoire qu'on crée à l'occasion (par exemple en l'intitulant 'references')
  
  5. Dans les options du plugin, indiquer le nom du répertoire ('références') qui contient le fichier .bib provenant de Zotero. Indiquer le chemin relatif vers le fichier bib : /espacedetravail/references/references.bib
      Si le chemin est le bon, le nombre d'enregistrements du fichier bib devrait apparaître. 

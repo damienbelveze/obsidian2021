@@ -7,8 +7,17 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [populiste, populistes, populismes]
-tags: []
+tags: [sciences_politiques]
 ---
+
+# une conséquence de la disparition du peuple de la scène publique
+
+Bronislaw Geremek disait que 
+
+> le populisme exploite l'absence du peuple sur la scène politique 
+
+(propos cité par Danièle Sallenave[[@sallenaveJojoGiletJaune2019]], p11)
+
 
 # un terme polysémique
 
@@ -21,7 +30,7 @@ En cela, les mouvements populistes combinent souvent deux orientations, l'une co
 
 Johannes Schulz observe que le populisme comporte fondamentalement deux matériaux ( [[@Corcuffgrandeconfusioncomment2021]], p205 ): 
 
-D'un côté l'autoritarisme, l'homme providentiel, le ressentiment, l'essentialisation du peuple-nation
+D'un côté l'[[autoritarisme]], l'homme providentiel, le ressentiment, l'essentialisation du peuple-nation
 
 De l'autre, une demande de dignitité, de [[justice sociale]] et de démocratie
 

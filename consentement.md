@@ -7,10 +7,20 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [données_personnelles, libéralisme]
+tags: [données_personnelles, libéralisme, sciences_politiques]
 ---
 
 # consentement et [[libéralisme]]
+
+## le consentement à l'Etat : une fiction politique
+
+Pour [[Hobbes]], le consentement à la République se fait dans un cadre spontané - des individus s'unissent pour former une communauté politique et déléguer leur pouvoir d'agir à des représentants ou un monarque - c'est la République d'institution ou bien dans un cadre contraint -suite à une invasion d'une puissance étrangère-, c'est la République d'acquisition. 
+Dans les deux cas, le contrat social repose sur le sentiment de peur : le citoyen aliène une partie de sa liberté pour diminuer la peur qu'il a de l'agressivité d'autrui. 
+Dans aucun des cas, ce contrat social ne repose sur un réel consentement du citoyen. Dans la réalité des faits, le citoyen ne consent pas à faire partie d'un Etat. Dès qu'il naît, il appartient à l'Etat, il subit l'Etat tel qu'il est. Le consentement est donc pour Geoffroy Lagasnerie une fiction politique utile pour pérenniser les régimes en place[[@lagasnerieConsciencePolitique2021]]. 
+
+
+
+## le consentement comme règle unique et universelle de jugement des actes
 
 L'éthique du [[libéralisme]], c'est une éthique du consentement. Dans une perspective libérale, on peut consentir à son propre avilissement (cf. l'affaire des nains-projectiles), ce qui impossible pour les tenants d'une morale humaniste. 
 

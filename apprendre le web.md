@@ -53,7 +53,7 @@ Un second travail va consister à réutiliser cette matière en contrôlant le r
 # la gestion personnelle des connaissances issues du web : un socle pour une multitude d'[[usages]].
 
 apprendre à thésauriser l'information qui nous a été utile. 
-gestionnaire de signets (bookmarks du navigateur) : pas suffisant, parce qu'on change de navigateur ou quand il y a trop de signets on ne s'y retrouve plus Utilisation de services de signets en ligne : fermeture de deliicio.us, on peut utiliser diigo pour cela. Dans un cadre académique, on aura avantage à utiliser plutôt Zotero. 
+gestionnaire de signets (bookmarks du navigateur) : pas suffisant, parce qu'on change de navigateur ou quand il y a trop de signets on ne s'y retrouve plus Utilisation de services de signets en ligne : fermeture de deliicio.us, on peut utiliser diigo pour cela. Dans un cadre académique, on aura avantage à utiliser plutôt [[Zotero]]. 
 
 Se constituer une base de connaissance personnelle à partir de ce qui a été lu avec profit sur le web et lier cette base de connaissance avec d'autres outils (dont zotero mentionné plus haut). se constituer un réseau web hors ligne : cf. obsidian, ce n'est pas exactement du web, mais c'est de l'hypertexte.
 

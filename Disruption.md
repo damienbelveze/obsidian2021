@@ -11,7 +11,7 @@ Ce flou juridique peut aussi être une aubaine pour l'Etat qui va en profiter po
 La Disruption vise à prendre les anciennes forces politiques économiques et juridiques de court pour substituer à l'aide de la technologie et au moyen d'une ubérisation de nos existences une liberté de façade qui sert surtout les intérêts de la classe dominante à des règles qui mitigent le libre jeu des forces du marché. La Disruption est la manifestation d'une pensée [[anarcho-capitalisme|anarcho-capitaliste]] qui accompagne le développement du capitalisme de plateforme : 
 Faute de jouer un rôle éminent dans le développement de ces forces puisqu'il les accompagne en se démettant lui-même, l'Etat assume sa persistance en s'appuyant sur ses pouvoir régaliens de coercition : 
 
->L’autoritarisme ne contredit pas la disparition de l’État, il en est le messager, en assumant sa fonction de masque de cette économie dite collaborative qui, en mettant en contact professionnels et usagers de manière directe par le biais de plateformes technologiques, pulvérise chaque jour un peu plus toute fixité régulée.
+>L[[’autoritarisme]] ne contredit pas la disparition de l’État, il en est le messager, en assumant sa fonction de masque de cette économie dite collaborative qui, en mettant en contact professionnels et usagers de manière directe par le biais de plateformes technologiques, pulvérise chaque jour un peu plus toute fixité régulée.
 
 
 (Catherine Malabou [article AOC](https://aoc.media/opinion/2022/01/20/la-voie-anarchiste-est-la-seule-qui-reste-encore-ouverte/) )

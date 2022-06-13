@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [luxe communal]
-tags: []
+tags: [sciences_politiques]
 ---
 
 # Du luxe communal...

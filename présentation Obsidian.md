@@ -94,7 +94,7 @@ Plus de code dispo sur [ce github](https://github.com/Dmitriy-Shulha/obsidian-cs
 
 Il faut autoriser dans les paramètres l'utilisation de Plugins qui viennent de la communauté. 
 Le plugin Citations est l'un de ces plugins. 
-Il permet d'importer des références de Zotero dans un texte sur Obsidian (définir un raccourci clavier)[[@SnowdenPermanentrecord2019]]
+Il permet d'importer des références de [[Zotero]] dans un texte sur Obsidian (définir un raccourci clavier)[[@SnowdenPermanentrecord2019]]
 
 Cela suppose :  
 1. d'avoir chargé le plugin BetterBibTex dans Zotero

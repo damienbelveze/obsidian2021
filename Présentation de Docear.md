@@ -11,7 +11,7 @@ télécharger et installer Docear depuis le site [https://docear.org](https://do
 
 ## export de références depuis Zotero
 
-On peut bien sûr enregistrer des PDF dans Jabref où y créer les références à la main (elles sont conservées en format bibtex), toutefois il est plus utile quand on utilise Zotero d'exporter une collection de références directement dans Docear. 
+On peut bien sûr enregistrer des PDF dans Jabref où y créer les références à la main (elles sont conservées en format bibtex), toutefois il est plus utile quand on utilise [[Zotero]] d'exporter une collection de références directement dans Docear. 
 
 Pour importer une collection de références dans Docear, il nous faut : 
 

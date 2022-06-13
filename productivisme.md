@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [productiviste, productivistes]
-tags: []
+tags: [sciences_économiques, sciences_politiques]
 ---
 
 "développement intransitif des forces de production, développement pour le développement, en réalité développement pas aussi intransitif que cela , toujours justifié en dernière instance par l'accroissement du capital". ([[Frédéric Lordon]])[[@LeMediaCOMMUNISMEVRAIEST2021]], 43min. 

@@ -802,7 +802,7 @@ header-includes: |
 
 - les champs bibliography et biblio-style règlent les aspects bibliographiques. 
 
-* *bibliography*: spécifier le chemin absolu (C:/..../fichier.bib) ou relatif (references/fichier.bib) vers le document qui contient les références bibliographiques (un fichier .bib exporté de Zotero par exemple)
+* *bibliography*: spécifier le chemin absolu (C:/..../fichier.bib) ou relatif (references/fichier.bib) vers le document qui contient les références bibliographiques (un fichier .bib exporté de [[Zotero]] par exemple)
 
 * *biblio-style*: lien vers le fichier csl qui contient les règles de présentation de la bibliographie (par exemple [nature.csl](https://www.zotero.org/styles/nature?source=1))
 

@@ -98,7 +98,7 @@ Des articles qui citent un grand nombre de nos seed papers ? (comme pour cet uti
 
 ## enregistrement
 
-Lorsqu'on estime avoir une biblio complète, on peut sauvegarder l'ensemble des références en .bib et l'envoyer vers un éditeur de texte en Latex ou vers Zotero.
+Lorsqu'on estime avoir une biblio complète, on peut sauvegarder l'ensemble des références en .bib et l'envoyer vers un éditeur de texte en Latex ou vers [[Zotero]].
 (cliquer sur Save)
 
 ## Différentes méthodes d'import

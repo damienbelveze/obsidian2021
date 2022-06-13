@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [sciences_politiques]
 ---
 
 docctrine héritée des Lumières puis de la révolution de 1789 instituant la liberté des acteurs politiques et économiques en matière de transactions, d'écrits, de comportements et de pensée. 

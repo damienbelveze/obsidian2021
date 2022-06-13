@@ -13,7 +13,7 @@ tags: [zotero, revue_littérature]
 après avoir testé [Buhos](https://www.buhos.org/manual/en/), [Cadima](https://www.cadima.info/) et [Rayyan](rayyan.ai/), je n'ai pas trouvé d'outil qui me paraissait assez fiable pour mener une [revue systématique de littérature](agnotologie.md). 
 Notamment, j'ai trouvé difficile de mener de passer l'étape du screening : une fois que le filtrage a été fait, ces outils ne permettent pas facilement de passer à l'étape suivante (éligibilité). Comme tous ces outils reposent de toute façon sur l'usage de Zotero pour importer les corpus à analyser, je me suis demandé s'il serait possible d'utiliser Zotero, son système de tags et de sous-collections, pour mener à bien cette tâche. 
 J'ai testé la méthode ci-dessous. 
-Zotero n'est pas un outil conçu pour mener des [[revue de littérature|revues de littérature]] (en dehors de son efficacité en matière de collecte d'information pour lequel il est mentionné par les outils mentionnés ci-dessus comme étant un préliminaire indispensable, on peut néanmoins l'utiliser à cette fin avec son sytème de marqueurs et d'annotations.
+[[Zotero]] n'est pas un outil conçu pour mener des [[revue de littérature|revues de littérature]] (en dehors de son efficacité en matière de collecte d'information pour lequel il est mentionné par les outils mentionnés ci-dessus comme étant un préliminaire indispensable, on peut néanmoins l'utiliser à cette fin avec son sytème de marqueurs et d'annotations.
 
 
 

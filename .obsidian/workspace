@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27e8c7434dda722f",
+        "id": "e4785bd71eb09c3a",
         "type": "leaf",
         "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "7bb32d5992922c65",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "101e17a2ef9359a7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mode d'emploi d'Obsidian.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -73,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:mode d'emploi d'obsidian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +50,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 412
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -103,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode d'emploi d'Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,20 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388,
-    "collapsed": true
+    "width": 100
   },
-  "active": "101e17a2ef9359a7",
+  "active": "e4785bd71eb09c3a",
   "lastOpenFiles": [
+    "consentement.md",
+    "Description des données de la recherche.md",
+    "Utiliser Obsidian avec Zotero (tuto).md",
+    "styles CSL.md",
+    "Spécificité vs sensibilité.md",
+    "Python.md",
+    "présentation Obsidian.md",
+    "Présentation de Docear.md",
     "Mode d'emploi d'Obsidian.md",
-    "DARVO.md",
-    "Vie privée.md",
-    "smartphone et vie privée.md",
-    "Cybersécurité et impact sociétal.md",
-    "references/@Colavizzacitationadvantagelinking2020.md",
-    "Caméras de surveillance.md",
-    "Web of Science.md",
-    "preprint.md",
-    "Citation.md"
+    "ingénieurie de formation.md"
   ]
 }

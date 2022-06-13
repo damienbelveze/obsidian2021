@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [néo-libéralisme]
+tags: [néo-libéralisme, sciences_politiques]
 ---
 
 

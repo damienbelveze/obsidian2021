@@ -8,7 +8,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: [libéralisme]
+tags: [libéralisme, sciences_politiques]
 ---
 
 croyance religieuse dans l'efficacité des marchés. Le terme est forgé par Stéphane Foucart dans son ouvrage "Comment l'[[économie]] est devenue religion". La notion d'agoratheisme forgée par Stéphane Foucart renoue avec la notion de "religion séculière" mise en oeuvre par Raymond Aron pour qualifier les différentes trancendances nées après la "mort de Dieu". Aron pensait notamment au communisme et au nazisme, Michael Walser dans un ouvrage de 1997 (_Sphères de justice. Une défense du pluralisme et de l’égalité_) avait déjà fait du marché, l'une de ces *religions séculières*, montrant à quel point le refus de réguler le marché détruisant emploi, portant un préjudice grandissant à certaines classes sociales, poussant les individus à la faillite ou au suicide, relevait d'une croyance religieuse dans l'impérialisme du marché : 

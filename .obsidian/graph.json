@@ -32,7 +32,7 @@
       "query": "tag:#VAE",
       "color": {
         "a": 1,
-        "rgb": 14701264
+        "rgb": 16257611
       }
     },
     {
@@ -40,6 +40,13 @@
       "color": {
         "a": 1,
         "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:sciences_politiques",
+      "color": {
+        "a": 1,
+        "rgb": 14111456
       }
     }
   ],
@@ -54,5 +61,5 @@
   "linkStrength": 0.998039215686275,
   "linkDistance": 252,
   "scale": 0.06911982037818719,
-  "close": true
+  "close": false
 }

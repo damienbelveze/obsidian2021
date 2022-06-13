@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [capitaliste, capitalisme, capitalismes, capitalistes, capitalistique, capitalistiques]
-tags: [économie_politique]
+tags: [économie_politique, sciences_politiques]
 ---
 
 

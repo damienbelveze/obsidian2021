@@ -54,7 +54,7 @@ concernant les IPA (APRN en anglais), il est conseillé de développer le sigle 
 
 en anglais nurs* permet d'avoir des résultats avec nurse, nurses, ou nursing
 
-Conserver les références des pages de résultats en format RIS si possible (pour les envoyer ensuite dans Zotero qui est l'outil qui permettra de dédoublonner ces références)
+Conserver les références des pages de résultats en format RIS si possible (pour les envoyer ensuite dans [[Zotero]] qui est l'outil qui permettra de dédoublonner ces références)
 
 
 ## types d'équation possibles

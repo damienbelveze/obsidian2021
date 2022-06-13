@@ -16,7 +16,7 @@ tags: [vie_privée]
 Le présent document trace les grandes lignes de la forme que pourrait prendre un cours hybride de 20 heures comportant 5 heures de cours en face à face.
 Ce cours est à destination de 60 étudiants de troisième année de licence en informatique. 
 
-# Compétences visées :
+# 1. Compétences visées
 
 - rédiger des notes de lecture  
 - réaliser un travail collaboratif à deux niveaux (sous-groupe et groupe entier)  
@@ -24,26 +24,27 @@ Ce cours est à destination de 60 étudiants de troisième année de licence en 
 - utiliser des formats ouverts, interopérables  
 - utiliser des outils collaboratifs respectueux de la vie privée  
 
-# Connaissances : 
+# 2. Connaissances 
 
 Le cours porte sur l'enjeu que représente la préservation de la vie privée en ligne et la réception des outils conçus pour protéger cette vie privée par le grand public.
 
-# Objectifs du cours : 
+# 3. Objectifs du cours
 
 Réaliser un site sur la thématique sous la forme d'un graphe public de notes de lecture. 
 Pour ce faire, n'utiliser que du logiciel libre -y compris pour le travail collaboratif-
 - Gestion des références bibliographiques : [Zotero](https://zotero.org)  
-- Edition des notes : Zotero et [Zettlr](zettlr.com/)  
-- outil de travail collaboratif et de sauvegarde : git (et gitlab ou [framagit](https://framagit.org))  
+- Edition des notes : [Zettlr](zettlr.com/) ou [CodiMD](https://codimd.math.cnrs.fr)  
+- outil de travail collaboratif et de sauvegarde : git (et gitlab installé sur un serveur de l'université ou à défaut [framagit](https://framagit.org))  
 - édition du graphe de notes : [Cosma](https://cosma.graphlab.fr/)  
 
 
-# Etapes : 
+# 4. Etapes du cours 
 
 - Exposé de la thématique (cybersécurité, [[Vie privée|vie privée]])  
 - carte mentale avec les étudiants sur les concepts principaux  
 - constitution de groupes thématiques  
-- téléchargement d'un nombre déterminé de textes depuis une bibliothèque en ligne par chaque groupe  
+- téléchargement d'un nombre déterminé de textes depuis une bibliothèque en ligne par chaque groupe
+- vérification des métadonnées présentes dans les références proposées  
 - lecture et annotation des textes  
 - rédaction à partir des notes prises d'une fiche de lecture selon la méthode THOMAS (voir ci-dessous)  
 - recherche de nouveaux textes sur l'un des sujets retenus  
@@ -51,8 +52,25 @@ Pour ce faire, n'utiliser que du logiciel libre -y compris pour le travail colla
 - ajout de liens vers d'autres fiches de lecture en cours de construction  
 - ajout de commentaires sur d'autres fiches de lecture (pour intégration ou non selon le jugement de l'autre groupe)  
 
+# 5. Répartition des heures
 
-# Descriptif du cours
+on compte ici le nombre d'heures par étudiants. 
+Quand les sous-groupes sont convoqués pour la séance intermédiaire, cela représente en réalité entre 3h et 4h et demie selon le nombre d'enseignants qu'on arrive à mobiliser sur cette séance (chaque enseignant mobilisé oriente plusieurs sous-groupes).
+
+| heures | activité |
+|:---:|:---:|
+| 1,5 | découverte de Zotero |
+| 1,5 | Rédaction de notes dans Zotero, découverte du markdown |
+| 1,5 | recherche documentaire guidée |
+| 1,5 | retour sur Git et Gitlab |
+| 4 | travail en autonomie et en sous-groupes |
+| 1,5 | séance intermédiaire avec les différents sous-groupes |
+| 7 | Rédaction des fiches et liens entre les fiches (travail en automie) |
+| 1,5 | Bilan, évaluation du dispositif, présentation du graphe |
+
+L'UE implique au moins deux enseignants ou un enseignant et un bibliothécaire qui suivent l'ensemble du développement. D'autres enseignants peuvent proposer des textes et être sollicités pour aider les différents sous-groupes lors de la séance intermédiaire. 
+
+# 6. Descriptif du cours
 
 La pandémie de COVID-19 a accéléré la production de cours hybrides au sein de l'université. Ces cours toutefois ont la plupart du temps pour caractéristique commune de proposer aux étudiants des synthèses suivies d'activités ou d'exercices. 
 Les dispositifs dans lesquels les étudiants sont les principaux producteurs de contenu et où les enseignants jouent le rôle d'accompagnants et de vérification scientifique de ces contenus. 
@@ -90,6 +108,15 @@ L'étudiant est invité non seulement à résumer un texte mais à évaluer son 
 L'écriture réflexive à plusieurs aide en outre les étudiants à s'habituer à ce que des pairs relisent, commentent et au besoin critiquent leurs propres écrits [[@pudelkoConcevoirEncadrerWiki2019]] : 
 
 >Il s’agit tout d’abord d’aider les étudiants à reconnaître que leurs idées, une fois externalisées, peuvent être améliorées, synthétisées, transformées, critiquées, etc., autrement dit, que leurs idées, tout comme celles des autres, peuvent et doivent faire objet d’un travail de transformation continue, à la fois individuel et social
+
+### Une sélection de textes destinés à susciter l'esprit critique
+
+Nous conservons volontairement une grande diversité de textes à lire et analyser. Les textes proposés sont de plusieurs niveaux : il peut s'agit de textes de vulgarisation ou bien d'articles de recherches. 
+Nous choisissons aussi des textes rédigés par des spécialistes mais aussi des textes dont le but est implicitement publicitaire (qui font par exemple de la sécurité informatique un produit alors que celle-ci repose en réalité sur un process impliquant tous les acteurs d'un organisme ou d'une institution).
+Les étudiants seront donc confrontés à des textes de difficulté inégale mais équitablement répartis entre les différents groupes, ainsi que des textes entrant parfois en contradiction les uns avec les autres ou présentant différents biais qu'il leur faudra déceler. 
+
+La séance de mi-parcours permettra aux enseignants de juger de la capacité de chaque sous-groupes à dépasser ces contradictions, à adopter une posture critique face aux textes présentés ainsi qu'à y repérer un agenda politique ou une vocation commerciale.
+
 
 ### Fiches rédigées en suivant la méthode THOMAS
 
@@ -134,6 +161,8 @@ Chaque étudiant étudie un texte et est l'auteur d'une fiche, mais collabore en
 
 ### Quel outil pour susciter la collaboration entre les sous-groupes
 
+#### Git et Gitlab
+
 On peut aussi parler de collaboration entre étudiants au niveau de l'ensemble du groupe. 
 L'outil de collaboration éditoriale doit être libre et faciliter cette collaboration à plusieurs niveaux (entre sous-groupes et au niveau du groupe entier). 
 D'après Bourbeillon et Martel [[@bourbeillonAgirEnsembleDans2022]], pour gérer le travail collaboratif, les étudiants ont majoritairement recours à des outils qu'ils maîtrisent déjà et qui assez généralement sont propriétaires, et par dessus le marché, particulièrement mal adaptés au sujet du cours. Google notamment, qui édite l'outil de travail collaboratif Google Drive, un outil plébiscité par les étudiants pour leurs travaux de groupe, s'est à maintes reprises distingué comme une ressource très peu respectueuse des données personnelles de ses utilisateurs.
@@ -142,19 +171,28 @@ Le choix de Git comme outil de versionnage et de travail collaboratif pose trois
 La seconde question concerne la structuration de l'entrepôt : faut-il prévoir un *branch* par sous-groupe ou bien partir d'emblée sur une architecture la plus  horizontale possible, censée favoriser davantage de collaboration (lecture, révision, commentaires) au delà des frontières des sous-groupes ?
 Une troisième question interroge la place de Git dans le cursus de ces étudiants : sachant que ce module s'adresse à des étudiants de troisième année de licence : auront-ils déjà été formés à l'outil ou bien faudra t-il leur apprendre les commandes de base pour gérer Git (add, commit, push, branch, merge...) ?
 
+#### CodiMD
+
+Les étudiants auront donc besoin d'un éditeur de texte pour éditer les notes en markdown et d'un entrepôt pour sauvegarder ces notes. 
+Nous avons mentionné l'intérêt de Zettlr comme éditeur et de Gitlab comme entrepôt (à la condition que la fonctionnalité pages publiques de Gitlab soit bien activée).
+Pour l'écriture collaborative (et afin de contrer le recours spontané à Google Drive), on peut vouloir privilégier à un éditeur téléchargeable sur sa machine, un éditeur collaboratif en ligne permettant -comme le Drive de Google- l'édition simultanée par plusieurs rédacteurs d'une même note. 
+[CodiMD](https://codimd.math.cnrs.fr) est un éditeur en ligne en markdown qui est disponible à tous les établissements du réseau RENATER. Sa prise en main est très simple. La seule contrainte est de penser à sauvegarder le document édité sur CodiMD en local (en le téléchargeant depuis CodiMD)
+
 ### la maîtrise des outils de gestion de notes et de références : un objectif important du cours. 
 
 Zotero est un gestionnaire de référence libres qui permet de disposer à la fois sur un site distant et en local des références bibliographiques. Celles-ci peuvent être partagées au groupe-classe par l'enseignant. Une action préalable consistera pour les étudiants qui ne l'utilisent pas encore à télécharger cet outil et à importer les références bibliographiques promues par les enseignants du cours dans leur environnement de travail en local.
 La sixième version de Zotero (parue en février 2022) permet d'annoter chaque texte conservé et d'envoyer les notes prises dans un format interopérable (markdown) vers un autre éditeur. 
 Les étudiants peuvent se former seuls à Zotero en utilisant le guide mis à disposition par la bibliothèque (focus.univ-rennes1.fr/zotero)
 Les bibliothécaires sont à leur disposition pour résoudre les problèmes éventuels survenus au moment de l'installation du logiciel sur les ordinateurs des étudiants.
-La même méthode peut être suivie pour Zettlr et pour Cosma (auto-formation au moyen d'un tutoriel, réponses à distance des enseignants)
+La même méthode peut être suivie pour Zettlr/CodiMD et pour Cosma (auto-formation au moyen d'un tutoriel, réponses à distance des enseignants)
 
 
-## Déterminer un livrable pour ce travail collaboratif
+# 7.  Déterminer un livrable pour ce travail collaboratif
 
 Le travail collaboratif doit prendre la forme d'un site permettant d'articuler de façon hypertextuelle, un ensemble de fiches et de documents. 
-Cet hypertexte peut prendre la forme d'un wiki ([[@bourbeillonAgirEnsembleDans2022]], [[@pudelkoConcevoirEncadrerWiki2019]]) ou bien d'un graphe de notes
+Cet hypertexte peut prendre la forme d'un wiki ([[@bourbeillonAgirEnsembleDans2022]], [[@pudelkoConcevoirEncadrerWiki2019]]) ou bien d'un graphe de notes. Le logiciel libre Cosma permet de générer à partir de plusieurs notes liées entre elles un réseau exportable sous la forme d'une page web[[@perretCosmaFicheAu2021]]. Cette page web sera rendue accessible à partir des pages liées au projet comportant les notes dans Gitlab.
+
+### Wiki ou réseau de notes ?
 
 Le problème du wiki est qu'une fois la table des matières fixée, les étudiants ne s'occupent que de leur partie et ne s'intéressent pas du tout à ce que font leurs condisciples. 
 Dans le graphe de notes, les notes sont disposées de manière horizontale, sans lien hiérarchique entre elles. Cette disposition permet de compléter l'heuristique d'une écriture dialectique (ce que dit le texte, ce que j'en pense) par une autre heuristique, celle qui consiste à relier entre eux par des liens hypertextes éventuellement qualifiés (ce que permet Cosma) différentes fiches et donc différentes lectures. 
@@ -162,7 +200,7 @@ A priori, n'importe quelle note ou fiche peut être reliée sémantiquement à n
 La recherche de mots-clé proches de sa thématique (pour savoir si celle-ci a été traitée dans une autre fiche) à l'intérieur de l'outil de rédaction (Zettlr) devrait permettre aux étudiants de prendre davantage en considération le travail que les autres sous-groupes font. 
 
 
-
 # Références
+
 
 

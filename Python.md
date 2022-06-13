@@ -47,7 +47,7 @@ with open('file.txt', 'w') as file:
 
 Programme utilisé et testé dans le cadre de la [[faire une revue de littérature avec Zotero|revue de littérature avec Zotero]]
 
-Contexte : les exports en RIS des bases de données comme Cochrane ou WOS contiennent des descripteurs qui sont indésirables (KW) lors de l'import des fichiers dans Zotero. Pour plus de clarté, aucun marqueur ne doit être hérité au cours de l'import. 
+Contexte : les exports en RIS des bases de données comme Cochrane ou WOS contiennent des descripteurs qui sont indésirables (KW) lors de l'import des fichiers dans [[Zotero]]. Pour plus de clarté, aucun marqueur ne doit être hérité au cours de l'import. 
 Il s'agit donc d'effacer ces descripteurs qui se présentent comme suit dans les fichiers d'import : 
 
 KW   - descripteurs

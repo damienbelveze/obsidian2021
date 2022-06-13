@@ -2,7 +2,7 @@
 title: mondialisme
 author: 
 date: 5 novembre 2021
-tags: libéralisme
+tags: [libéralisme, sciences_politiques]
 aliases: globalisme, globaliste, globalistes, mondialiste, mondialistes, mondialisation, globalisation, globalization
 ---
 

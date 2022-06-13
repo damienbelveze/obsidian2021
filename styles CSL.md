@@ -69,7 +69,7 @@ mettre en gras le numéro
 
 macro volume : mettre en gras
 
-Exporter et tester dans Zotero.
+Exporter et tester dans [[Zotero]].
 
 [voir le style produit](nature_modified.csl)
 

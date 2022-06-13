@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [intellectuelle, intellectuels, intelligentsia]
-tags: []
+tags: [sciences_politiques]
 ---
 
 Intellectuel total : en raison d'une idéologie transversale (communisme dans les années 60 à 80), prend la parole sur tous les sujets, y compris ceux ne relevant pas de sa compétence (cf. Sartre à Billancourt)

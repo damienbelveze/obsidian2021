@@ -20,7 +20,7 @@ Télécharger les f
 # annexe
 
 configuration des ordis de la salle de formation au 5 mai
-Si vous ne choisissez pas d'utiliser un ordinateur de la salle de formation, mettez à jour vos logiciels (Zotero, TexLive) et privilégiez le téléchargement des dernières versions des logiciels et des plugins mentionnés ci-dessous: 
+Si vous ne choisissez pas d'utiliser un ordinateur de la salle de formation, mettez à jour vos logiciels ([[Zotero]], TexLive) et privilégiez le téléchargement des dernières versions des logiciels et des plugins mentionnés ci-dessous: 
 
 
 | **logiciel** | **version classe mobile** | **dernière version disponible au 5 mai 2022** |

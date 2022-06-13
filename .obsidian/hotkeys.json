@@ -15,5 +15,14 @@
       ],
       "key": "G"
     }
+  ],
+  "obsidian-latex-environments:insert-latex-env": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }

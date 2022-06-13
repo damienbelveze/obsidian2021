@@ -36,7 +36,7 @@ Ces compétences spécifiques du responsable de formation ne sont pas pensées.
 ## modèle tayloriste
 
 ce qui précède l'élaboration du support du formateur et cette élaboration elle-même sont faits par d'autres personnes que celles qui vont "exécuter" des formations. La clé du dispositif repose dans la passassation de la première équipe à la seconde. 
-Intéressant pour former à des outils (par exemple Zotero)
+Intéressant pour former à des outils (par exemple [[Zotero]])
 
 ## modèle coopératif
 
