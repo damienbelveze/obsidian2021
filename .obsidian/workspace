@@ -4,11 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "e4785bd71eb09c3a",
+        "id": "843c46f639cdeeb6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "backlink",
+          "state": {
+            "file": "stratégie de publication.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0ea4a7c0ce3556ef",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "stratégie de publication.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6f950d3cd2ca2296",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "stratégie de publication.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"stratégie de publication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "stratégie de publication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 322
   },
-  "active": "e4785bd71eb09c3a",
+  "active": "6f950d3cd2ca2296",
   "lastOpenFiles": [
-    "consentement.md",
-    "Description des données de la recherche.md",
-    "Utiliser Obsidian avec Zotero (tuto).md",
-    "styles CSL.md",
-    "Spécificité vs sensibilité.md",
-    "Python.md",
-    "présentation Obsidian.md",
-    "Présentation de Docear.md",
-    "Mode d'emploi d'Obsidian.md",
-    "ingénieurie de formation.md"
+    "stratégie de publication.md",
+    "étape2.md",
+    "R1-3.md",
+    "datagame intro.md",
+    "R1-2.md",
+    "R1-1.md",
+    "Cybersécurité et impact sociétal.md",
+    "autonomie du politique.md",
+    "antagonisme vs agonisme.md",
+    "populisme.md"
   ]
 }

@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [sciences_politiques]
 ---
 
 D'après [[Chantal Mouffe]], l'antagonisme représente une vision de la politique où un nous s'oppose à un eux (opposition entre le peuple et les élites par exemple). 

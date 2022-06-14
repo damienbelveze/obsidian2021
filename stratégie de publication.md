@@ -41,6 +41,24 @@ Dans la mesure où Thomson-Reuters prélève de cette manière des données pers
 conflits d'intérêt au sein d'Elsevier sur le changement climatique : l'entreprise a des liens forts avec l'industrie gazière et pétrolière, certains cadres de cette industrie travaillent dans des comités de lecture de journaux sur le changement climatique.
 (cf. enquête du Guardian[[@westerveltRevealedLeadingClimate2022]])
 
+## Les exigences des financeurs
+
+Les financeurs comme l'ANR, membres de la CoalitionS, exigent que les résultats de la science soient immédiatement accessibles. 
+Pour y parvenir, le chercheur peut publier selon le mode traditionnel mais en envoyant une demande de rétention des droits lui permettant de placer une copie de l'article immédiatement disponible en open access sur un serveur institutionnel (stratégie de rétention des droits liés à l'open access)
+Le chercheur peut aussi être tenté de publier en open access, soit dans le cadre de la voie Diamond OA, soit en payant des [[APC]]. 
+Pour autant, il faut éviter de publier chez des éditeurs hybrides (qui publient des journaux en partie en open access, en partie sous souscription). 
+Le Plan S proscrit toute publication chez un éditeur hybride à moins que la revue ne soit couverte par un accord transformant (*transformative agreement*). 
+Pour savoir à quel type de publication il a affaire et comment gérer cette publication en conformité avec le Plan S, le doctorant peut utiliser l'outil [journalcheckertool]([https://journalcheckertool.org](https://journalcheckertool.org/))
+
+Voir question suivante : où publier mon article en éthique médicale si je suis financé par l'ANR (et que je travaille à Rennes 1) : 
+
+- journal of law medicine & ethics -> TJ (2 possibilités)
+
+- Philosophy, Ethics, and Humanities in Medicine -> OA (une possibilité)
+
+- Ethics, medicine & public health -> hybride sans accord transformant (voir description de la revue sur le site d'Elsevier)
+
+
 ## Eviter de renforcer les monopoles existants
 
 ![](scientific_workflow.PNG)
