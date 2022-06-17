@@ -62,6 +62,6 @@ Serge Portelli, avocat engagé pour la reconnaissance de l'irresponsabilité pou
 
 Par ailleurs, il dénonce une tentative d'inscrire dans la loi une variété de cas qu'il convient au juge seul d'apprécier : 
 
->La loi est générale, la justice particulière. Le jugement ne se contente pas de viser un texte. Il entre dans des détails, dans les circonstances d’une vie à nulle autre pareille qui échappent par nature à une loi impersonnelle.
+>La [[loi]] est générale, la justice particulière. Le jugement ne se contente pas de viser un texte. Il entre dans des détails, dans les circonstances d’une vie à nulle autre pareille qui échappent par nature à une loi impersonnelle.
   En prétendant entrer dans les arcanes des causes de folie, la loi se perdrait à tout coup. Elle serait soit ridicule, soit inutile, mais de toute façon dangereuse, risquant de pénaliser encore plus la maladie mentale
 

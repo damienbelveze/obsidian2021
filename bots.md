@@ -40,9 +40,12 @@ Coefficient de manipulation du trafic (CMT) - combinaison de plusieurs métrique
 
 Pour un nombre de tweets comportant le même hashtag
 
-- pourcentage de retweets
-- nombre moyen de tweets par utilisateur
-- proportion du trafic généré par les 50 utilisateurs les plus actifs
+- pourcentage de retweets  
+
+- nombre moyen de tweets par utilisateur  
+
+- proportion du trafic généré par les 50 utilisateurs les plus actifs  
+
 
 (source [[@marangeGuerresInformationEre2021]], p101)
 
@@ -69,27 +72,28 @@ la capacité de personnifiier des bots avec des photos pour les rendre plus cré
 Pour s'entraîner à les reconnaître, on peut se tester sur https://www.whichfaceisreal.com
 Quels trucs permettent d'identifier une photo de profil issue de ThisPersonDoesNotExist : https://twitter.com/_Le_Nain_/status/1491471922114220036
 
-Le visage est toujours :
-- en plan serré
-- de face
-- sans aucun élément qui le cache (pas de main sur la joue, de foulard, de masque...)
-- arrière-plan flou ou neutre
-- Un truc assez peu connu c'est que le générateur met toujours les yeux au même endroit. Exemple ici avec encore des fausses photos (les ronds rouges ne bougent pas) 
- ![](bot2.png)
+Le visage est toujours : 
+
+- en plan serré  
+
+- de face  
+
+- sans aucun élément qui le cache (pas de main sur la joue, de foulard, de masque...)  
+
+- arrière-plan flou ou neutre  
+
+- Un truc assez peu connu c'est que le générateur met toujours les yeux au même endroit. Exemple ici avec encore des fausses photos (les ronds rouges ne bougent pas)  
+
+ ![](images/bot2.png)
  Les yeux sont toujours strictement alignés de façon horizontale
  
--  les accessoires, lunettes, boucles d'oreille... sont rarement symétriques
--  l'arrière-plan est souvent raté, surtout s'il y a un deuxième visage.
-- lunettes asymétriques
-- horizon pas cohérent à gauche et à droite, terrain dans une texture cheloue, épaules bizarres, ligne inidentifiable à gauche
-
-
-
-
-
-
-
+-  les accessoires, lunettes, boucles d'oreille... sont rarement symétriques  
+-  l'arrière-plan est souvent raté, surtout s'il y a un deuxième visage.  
+- lunettes asymétriques  
+- horizon pas cohérent à gauche et à droite, terrain dans une texture cheloue, épaules bizarres, ligne inidentifiable à gauche  
 
 
 # bibliographie
+
+
 

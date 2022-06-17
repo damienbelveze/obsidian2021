@@ -20,7 +20,7 @@ aliases: [Obsidian, obsidian, programmation]
 
 Obsidian n'est pas vraiment un second cerveau (cette phrase marketing [n'a guère de sens appliquée à une application](https://www.obsidianroundup.org/ite-not-second-brain/)), mais il nous fournit un excellent environnement de travail.
 
-## 1.1 avantages
+## 1.1 points forts de l'outil
 
 Obsidian présente les avantages de la nouvelle génération d'outils de PKM (personal knowledge management / Gestion personnelle des connaissances)
 
@@ -41,8 +41,13 @@ Obsidian présente les avantages de la nouvelle génération d'outils de PKM (pe
 
 ## 1.2 limites 
 
-- logiciel propriétaire, mais une bonne partie du code est en opensource et surtout la communauté des utilisateurs développe un grand nombre de codes en open source. Toutefois, si on veut se tourner vers une alternative entièrement libre comparable à Obsidian, le logiciel [Cosma](https://cosma.graphlab.fr/) mis au point par Arthur Perret (actuellement disponible sur Mac et Windows et bientôt sur Linux) offre une alternative très convaincante.   
+- Obsidian est un logiciel propriétaire, même si la communauté des utilisateurs développe un grand nombre de plugins dont le code est en open source. Si Obsidian décide demain de changer les modes d'accès à son logiciel (par exemple en en faisant un service accessible sur abonnement comme pour Roam, les utilisateurs devront trouver un autre outil libre dont le fonctionnement sera compatible avec le format de leurs notes. Si on veut se tourner vers une alternative entièrement libre comparable à Obsidian, on peut se tourner vers un logiciel de prise de notes comme Zettlr et pour obtenir un graphe de ses notes prises sur Zettlr, utiliser le logiciel [Cosma](https://cosma.graphlab.fr/) mis au point par Arthur Perret (actuellement disponible sur Mac et Windows et bientôt sur Linux).   
+
+- Obsidian ne donne pas d'identifiant unique et pérenne à chaque note et ne lie pas ces notes entre elles au moyen de ces identifiants. Selon Arthur Perret, les identifiants uniques et pérennes sont un gage de durabilité. Pour lui, les notes doivent distinguer l'id (identifiant unique), le titre de la note et le nom du fichier. Ce n'est pas le cas avec Obsidian. La méthode Zettelkasten, par ailleurs, utilise par définition ces identifiants uniques et pérennes. Si on se sert de préfixeur Zettelkasten comme identifiant unique, les liens entre fiches ne se baseront pas sur cet identifiant. Plusieurs experts considèrent que c'est une fragilité dans la mesure où les titres et les noms de fichiers peuvent changer, pas les identifiants pérennes. Une solution qui ne comporte pas d'identifiant pérenne par note ne peut pas assurer l'utilisateur que celui-ci pourra réutiliser son système de notes dans la durée, ou bien appliquer une autre solution à son système de notes[[@perretLiensWikiIdentifiants2022]]. 
+
+
 - l'affichage des images **dans** l'application n'est pas encore au point. Si la conversion avec pandoc fonctionne sur la taille des images, à l'intérieur d'Obsidian la taille de celles-ci est difficilement modulable. [[@Abd-ElsalamClinicalstudyevaluating2021]]  
+ 
 - Obsidian ne dispose pas de répétiteur (spaced repetition), c'est à dire qu'on ne peut pas programmer à l'avance l'apparition de notes à mémoriser (une fontion aléatoire d'affichage de notes existe pourtant sous la forme d'un plugin coeur). Pour l'apprentissage et la répétition, Obsidian peut cependant être connecté à Anki au moyen d'un plugin communautaire.   
 
 
@@ -66,7 +71,7 @@ Obsidian est un outil qui favorise le *jardinage* des notes[[@CollignonIntegrati
 
 Obsidian devient rapidement un outil personnel incontournable et nous développons au fur er à mesure que notre usage se déploit de nouvelles compétences pour le maintenir et le rendre encore plus productif
 
-![](khafagy.png)
+![](images/khafagy.png)
 
 Certains utilisent Obsidian pour se lancer dans l'apprentissage du code par essai et erreur (puisqu'une note peut embarquer du code)[[@KhafagyTwitterPublish2022]]
 
@@ -682,7 +687,7 @@ la centralité de degré : la note qui a le plus de liens avec des notes qui ont
 la centralité de proximité : la note à partir de laquelle les chemins sont les plus courts vers l'ensemble des notes du graphe
 la centralité d'intermédiarité : la note qui relie  entre elles le plus de pôles (ypiquement une note orange pourrait relier un pôle de notes fruits et un pôle de notes objets de couleur orange)
 
-![cerf-volant de Krackhardt ](graph_theory.png)
+![cerf-volant de Krackhardt ](images/graph_theory.png)
 
 ### vue graphique locale
 

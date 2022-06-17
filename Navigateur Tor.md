@@ -118,6 +118,14 @@ Activité :
 
 # Les limites de Tor
 
+## Des éditeurs et des hébergeurs hostiles à Tor
+Ce n'est pas à proprement parler une limite de l'outil lui-même mais un effet de la résistance qui lui opposent un certain nombre de fournisseurs d'information dont une partie du business repose sur la monétisation des données de navigation, ou bien des hébergeurs qui utilisent des produits de mitigation du traffic pour se protéger d'éventuelles attaques (par exemple [[DDoS]])
+
+L'utilisateur de Tor doit s'attendre à remplir des [[captchas]] et dans certains cas à ne pas pouvoir accéder à l'information (cf. cas d'Elsevier)
+
+![](Tor_ScienceDirect.png)
+
+
 ## Le FAI sait qu'on utilise Tor
 
 Le Fournisseur d'Accès à Internet ([[FAI]]) sait qu'on utilise Tor (il peut avoir l'IP du noeud de sortie, la liste des IP de ces noeuds est disponible sur le net)

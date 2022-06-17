@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "843c46f639cdeeb6",
+        "id": "25bd290e301a9ed0",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "stratégie de publication.md",
+            "file": "loi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "0ea4a7c0ce3556ef",
+        "id": "7c9173a43d41d17f",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "stratégie de publication.md",
+            "file": "loi.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stratégie de publication.md",
+            "file": "loi.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"stratégie de publication",
+                "query": "\"loi\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412
+    "width": 295
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stratégie de publication.md",
+                "file": "loi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 102
   },
   "active": "6f950d3cd2ca2296",
   "lastOpenFiles": [
-    "stratégie de publication.md",
-    "étape2.md",
-    "R1-3.md",
-    "datagame intro.md",
-    "R1-2.md",
-    "R1-1.md",
-    "Cybersécurité et impact sociétal.md",
-    "autonomie du politique.md",
-    "antagonisme vs agonisme.md",
-    "populisme.md"
+    "loi.md",
+    "Irresponsabilité pénale.md",
+    "Conférence de Frédéric Worms.md",
+    "Article ASTED.md",
+    "Signifiant vide.md",
+    "Biais cognitifs.md",
+    "culture numérique.md",
+    "intolérance à l'ambiguité.md",
+    "bots.md",
+    "Astroturfing.md"
   ]
 }

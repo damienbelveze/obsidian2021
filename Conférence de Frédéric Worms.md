@@ -72,7 +72,7 @@ Au moins ce que cela reconnaît, c'est la dimension relationnelle de toutes les 
 Pourquoi on est surpris par l'irruption de l'[[intégrité scientifique]](IS) dans la science ; c'est parce qu'on pense surtout la science dans sa relation avec la réalité et moins dans la relation avec les humains
 La science n'est pas seulement au service d'une volonté de connaissance, mais aussi au service d'une volonté de pouvoir.
 Dans la question de l'IS, il ne faut pas seulement s'intéresser aux manquements des savants en la matière, mais il faut aussi protéger les savants contre les tentatives d'abus et de manipulation dont ils peuvent être les objets
-Cette déontologie communique de plus en plus avec la Loi ; ça préserve la notion de vérité.
+Cette déontologie communique de plus en plus avec la [[Loi]] ; ça préserve la notion de vérité.
 La vérité a besoin de la preuve objective mais aussi de l'oeil humain sur les procédures qui ont permis d'aboutir à cette preuve
 
 ## Déontologie policière
