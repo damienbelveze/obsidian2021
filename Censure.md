@@ -1,4 +1,4 @@
-La censure est traiditonnellement le fait d'un pouvoir étatique, mais de à mesure que la censure étatique a reculé depuis la fin de la deuxième guerre mondiale, le monopole de l'Etat par la censure a été progressivement perdu, permettant à de nouveaux groupes de pression (par exemple des groupes militants) d'exercer à leur tour des formes de censure (voir tenants de la  [[Cancel culture]]).
+La censure est traiditonnellement le fait d'un pouvoir étatique, mais de à mesure que la censure étatique a reculé depuis la fin de la deuxième guerre mondiale, le monopole de l'[[Etat]] par la censure a été progressivement perdu, permettant à de nouveaux groupes de pression (par exemple des groupes militants) d'exercer à leur tour des formes de censure (voir tenants de la  [[Cancel culture]]).
 
 # Censure répressive et censure structurale
 

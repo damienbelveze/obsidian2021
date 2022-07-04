@@ -12,7 +12,7 @@ tags: [anarchisme, sciences_politiques]
 
 Dans une distinction entre l'[[anarchisme]] de fait et l'anarchisme d'éveil ou de conscience, Catherine Malabout théorise que l'anarcho-capitalisme occupe une place éminente dans l'anarchisme de fait qui parcourt la société. 
 
-Cet anarcho-capitalisme précipite selon elle la fin de l'Etat à travers la disparition progressive de l'Etat Providence depuis les années 1980 sous l'apparence paradoxale d'un sursaut d'[[autoritarisme]] (y compris dans les démocraties dites libérales)
+Cet anarcho-capitalisme précipite selon elle la fin de l'[[Etat]] à travers la disparition progressive de l'Etat Providence depuis les années 1980 sous l'apparence paradoxale d'un sursaut d'[[autoritarisme]] (y compris dans les démocraties dites libérales)
 L'Etat ne peut plus soutenir la fiction selon laquelle il est le garant des libertés et du bien commun puisqu'en réalité il organise la domination des acteurs de l'économie capitaliste. Recroquevillé sur ses fonctions régaliennes de service d'ordre, s'il apparaît autoritaire, c'est parce qu'il laisse libre cours au rachat par des entreprises ultra-libérales de pans entiers de ce qui relevait autrefois de l'action publique exclusivement (Santé, Education, Universités). 
 
 César de Paepe en 1874 faisait déjà remarquer que la doctrine du laisser-faire promue par les Bourgeois de son époque confinait d'une certaine manière et poussée à ses extrémités à une situation d'anarchie profitant à quelques uns (et à une tyrannie pour les autres) : 

@@ -12,7 +12,7 @@ tags: [désinformation]
 
 théorie complotiste mettant en scène des hommes et femmes politiques américains qui s'adonneraient à des parties fines pédocriminelles dans des réseaux constitués autour de pizzerias (cf. [[pizzagate]])
 
-L'aspect le moins échevelé de cette [[théorie complotiste|théorie du complot]] consiste à imaginer dans l'administration de Trump un "Etat profond" (deep state) qui s'opposerait en coulisses à la bonne volonté du 45ème président des USA pour améliorer le sort des Américains. 
+L'aspect le moins échevelé de cette [[théorie complotiste|théorie du complot]] consiste à imaginer dans l'administration de Trump un "[[Etat profond]]" (deep state) qui s'opposerait en coulisses à la bonne volonté du 45ème président des USA pour améliorer le sort des Américains. 
 
 L'initiateur de QAnon a été identifié au moyen d'une analyse [[stylométrie|stylométrique]]
 

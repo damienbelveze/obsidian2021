@@ -9,7 +9,7 @@ aliases: []
 tags: []
 ---
 
-Mode de gestion d'une ressource qui, dans les travaux d'[[Elinor Ostrom]] se distingue de celui de la propriété ou bien de la gestion publique par un Etat  [[@Coriatbiencommunclimat2021]]. 
+Mode de gestion d'une ressource qui, dans les travaux d'[[Elinor Ostrom]] se distingue de celui de la propriété ou bien de la gestion publique par un [[Etat]]  [[@Coriatbiencommunclimat2021]]. 
 
 Un bien commun fait l'objet d'un *droit inclusif* (par opposition au droit exclusif de la propriété privée).
 Ce droit doit être garanti par la loi. 

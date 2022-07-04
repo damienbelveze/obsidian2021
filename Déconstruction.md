@@ -8,7 +8,7 @@ tag: [pensée critique]
 aliases: [déconstruire, déconstructions, déconstruction, déconstruis, déconstruisent, déconstruit]
 ---
 
-# naissance du concept avec Heidegger et Derrida
+# naissance du concept avec Heidegger et  [[Jacques Derrida]]
 
 Alors que le structuralisme et le panlinguisme ("tout est langage, l'inconscient est structuré comme un langage") ou le pantextualisme (littérature autéréférencielle, Gérard Genette,...) dominaient dans la philosophie, Derrida a voulu opposer à ce courant une autre vision de la philosophie, en reposant la question qui selon Heidegger structure la philosophie : *Was ist das ?*
 ce corpus théorique a d'ailleurs à pour origine le concept heideggerien d'*Abbau* (distinct de *Zerstörung*(destruction)) qu'Heidegger définissait comme[[@taguieffPierreAndreTaguieffPedantisme2022]] :

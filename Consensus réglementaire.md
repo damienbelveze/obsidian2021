@@ -25,13 +25,9 @@ Pour autant, Stéphane Foucart n'accuse pas ces labos privés de manquements à 
 
 > Historiquement, toutes les grandes familles de pesticides ont été autorisées grâce à des tests réglementaires, puis invariablement retirées du marché grâce à des études académiques. Ce qui se produit ces derniers temps avec le glyphosate est donc, en réalité, une norme !
 
-Stéphane Foucart, et avant lui Jean-Noël Jouzel montrent par ailleurs que le consensus réglementaire dessine en creux une [[science réglementaire]] dont les méthodes s'éloignent de celles qui prévalent dans les sciences reposant sur la connaissance des processus fondamentaux relatifs aux produits impliqués. 
+Stéphane Foucart, et avant lui Jean Jouzel montrent par ailleurs que le consensus réglementaire dessine en creux une [[science réglementaire]] dont les méthodes s'éloignent de celles qui prévalent dans les sciences reposant sur la connaissance des processus fondamentaux relatifs aux produits impliqués. 
 
-
-
-
-
-
+La presse grand public maintient une pression constante sur le CIRC pour obtenir la déclassification du glyphosate comme cancérigène probable en utilisant des plumes mercenaires (journalistes écrivant sous pseudo et se faisant passer pour des spécialistes) comme l'a révélé un article de Julien Fomentat-Rosa paru dans Fakir le 22 juin 2022[[@fomentat-rosaMoiJournalisteFantome]]
 
 
 # Bibliographie

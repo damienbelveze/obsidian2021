@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "25bd290e301a9ed0",
+        "id": "1d3bdc1fc3a371b3",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "loi.md",
+            "file": "Ludification.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "7c9173a43d41d17f",
+        "id": "8d6cee2088c12bab",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "loi.md",
+            "file": "Ludification.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -38,12 +38,12 @@
         }
       },
       {
-        "id": "6f950d3cd2ca2296",
+        "id": "6e005a247eb07512",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "loi.md",
+            "file": "Ludification.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"loi\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295
+    "width": 284
   },
   "right": {
     "id": "391a50e34cff4860",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "loi.md",
+                "file": "Ludification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 102
+    "width": 150
   },
-  "active": "6f950d3cd2ca2296",
+  "active": "6e005a247eb07512",
   "lastOpenFiles": [
-    "loi.md",
-    "Irresponsabilité pénale.md",
-    "Conférence de Frédéric Worms.md",
-    "Article ASTED.md",
-    "Signifiant vide.md",
-    "Biais cognitifs.md",
-    "culture numérique.md",
-    "intolérance à l'ambiguité.md",
-    "bots.md",
-    "Astroturfing.md"
+    "Ludification.md",
+    "formation_doctorale_PGD_Angers.md",
+    "Sans titre 7.md",
+    "Sans titre 6.md",
+    "Sans titre 5.md",
+    "Sans titre 4.md",
+    "partage des données de recherche.md",
+    "Formations doctorales.md",
+    "obsidian charts.md",
+    "Mode d'emploi d'Obsidian.md"
   ]
 }

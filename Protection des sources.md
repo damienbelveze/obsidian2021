@@ -19,6 +19,6 @@ John Croley, rapporteur SHS pour l'Unesco :
 
 ## société sous-surveillance : les chercheurs en sciences sociales également concernés
 
-la société sous tension sécuritaire a tendance à juger comme suspecte toute investigation parmi des acteurs sociaux suspectés de terrorisme ou d'incitation à la haine (musulmans [[salafistes]], militants Corses, suprémacistes, Gilets Jaunes). 
+la société sous tension sécuritaire a tendance à juger comme suspecte toute investigation parmi des acteurs sociaux suspectés de [[terrorisme]] ou d'incitation à la haine (musulmans [[salafistes]], militants Corses, suprémacistes, Gilets Jaunes). 
 
 Dans les domaines de l'écologie des [[procédure-bâillon|procédures bâillon]] visent les chercheurs qui n'alignent pas leurs vues sur certaines industries polluantes. 

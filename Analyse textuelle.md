@@ -10,7 +10,7 @@ aliases: []
 tags: [analyse_corpus]
 ---
 
-Des auteurs veulent prouver que la question décoloniale ne pèse pour rien ou presque dans la production des [[Savoirs]] en sociologie et font une analyse textuelle de la production scientiifique à partir de l'occurence des mots clé suivants *décolonial* , *intersectionalité*, *racisé.e* pour parvenir à un chiffre de 0,038% autrement dit ces termes sont très peu représentés. 
+Des auteurs veulent prouver que la question [[Décolonialisme-indigénisme|décoloniale]] ne pèse pour rien ou presque dans la production des [[Savoirs]] en sociologie et font une analyse textuelle de la production scientiifique à partir de l'occurence des mots clé suivants *décolonial* , *intersectionalité*, *racisé.e* pour parvenir à un chiffre de 0,038% autrement dit ces termes sont très peu représentés. 
 
 Contestant cette vision, [[Nathalie Heinich]] cite un article d'Albin Wagener qui propose d'y ajoute les termes *genre* et *discriminatiion* et là cela touche 50% du corpus (OpenEditions, HAL, ) [[@HeinichCequemilitantisme2021]]. 
 

@@ -4,9 +4,8 @@ subtitle: 20210503
 author: Damien Belvèze
 date: 
 link_citations: true
-aliases: [droit de manifester, droit de manifestation]
+aliases: [droit de manifester, droit de manifestation, luttes_sociales]
 ---
-#luttes_sociales
 
 Le droit de manifester a été protégé par les lois constitutionnelles de 1881
 Suite à des heurts entre police et manifestants, il est assez vite encadré. 

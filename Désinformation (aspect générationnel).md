@@ -2,8 +2,9 @@
 title: Aspect générationnel des fake news
 subtitle:
 author: Damien Belvèze
-date: 
+date: 20220618
 link_citations: true
+tags: [désinformation]
 aliases: []
 ---
 

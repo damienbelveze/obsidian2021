@@ -7,7 +7,7 @@ author: Damien Belvèze
 date: 20210505
 link_citations: true
 aliases: [research data, données de recherche, données de la recherche, données issues de la recherche]
-tags: [données_recherche]
+tags: [données_recherche, vie_privée]
 ---
 
 <!-- header-includes : |
@@ -90,6 +90,17 @@ Les données ne parlent pas toutes seules. Ce sont des humains, avec leurs biais
 
 ![[Pasted image 20211008101737.png]]
 
+"data are the new oil"
+
+Si une voiture dépend d'une infrastructure comme un téléphone (pour la voiture : extraction, convoyage, raffinage et distribution du pétrole / pour le téléphone : opérateur, antennes ou réseau internet, applications, serveurs), dans le cas de la voiture, le pétrole est nécessaire au fonctionnement de la machine, dans le cas du téléphone, les données personnelles ne sont pas nécessaires au fonctionnement de la machine. Les applications les plus populaires captent beaucoup plus de données qu'elles n'en demandent pour rendre le service qu'on attend d'elles. 
+
+Par ailleurs, dans le cas de la voiture, l'usage consiste à vider un réservoir de pétrole ou bien une batterie, dans le cas du téléphone portale, l'usage consiste à remplir des réservoirs de données. 
+
+Quand on utilise une voiture, on consomme consciemment du pétrole, quand on utilise un smartphone on envoie inconsciemment des données. 
+
+Ces données ne sont donc pas vraiment données mais captées (data / capta)[[@huygheServiceNumeriqueSa2022]]
+
+> Étant donné cette situation, que pouvons-nous nous proposer pour être davantage au fait de ce qui se produit dans les services ou, cela revient au même, pour être moins joués que nous ne le sommes par l’économie de ces services ? Une partie du travail tient au langage avec lequel nous pensons ou, pour être plus juste, croyons penser. Il nous serait utile de re-formuler ce qui a lieu désormais à grande échelle. Je pense en particulier à la notion de « donnée ». Le mot convient-il tout à fait ? Plus juste, me semble-t-il, serait de parler en termes de « prises » ou de « retenues » puisqu’en effet ce que la machine globale prend ou retient de ce que je fais avec elle à chaque fois que je m’en sers, je ne le lui donne que malgré moi, sans savoir ce que je donne.
 
 ##  valeur scientifique des données : 
 

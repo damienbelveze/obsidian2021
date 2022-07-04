@@ -16,7 +16,7 @@ L'ouvrage de Keko et Altarriba, Moi, menteur, qui raconte l'itinéraire d'un cha
 
 > Le [[populisme]] se nourrit davantage de discours que d'actions. L'unique action possible est dictée par les [[marché|marchés]]... la politique n'est qu'un récit... un récit invérifiable... on peut donc introduire ce que l'on veut dans l'histoire... Or notre histoire possède tous les ingrédients pour attirer l'électeur... A l'ère de la communication, le rôle du langage a changé...**ce n'est plus la chose qui a besoin d'être nommée... c'est le nom qui fabrique la chose...** [[@KekoMoimenteur2021]]
 
-On voit ici tout le parti que l'alt-right tire de [[Signifiant vide|signifiants vides]] comme la sécurité publique ou le terrorisme
+On voit ici tout le parti que l'alt-right tire de [[Signifiant vide|signifiants vides]] comme la sécurité publique ou le [[terrorisme]]
 Un peu plus loin, le narrateur amplifie cette vision du politique comme étant fondamentalement un conteur ou un menteur, uniquement mu par ses intérêts et la vision corrolaire d'un citoyen désirant avant tout croire à des mythes dont il souhaiterait faire partie. 
 
 Le discours de l'alt-right est également basé sur la victimisation (fantasme d'une majorité agressée ou menacée par des minorités agissantes) et la séparation entre les cultures et les ethnies sur un même sol. La non-mixité est un des objectifs de ces mouvements : 

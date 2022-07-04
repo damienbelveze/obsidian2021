@@ -16,7 +16,7 @@ Une démocratie met en oeuvre et garantit en son sein la pérennité de trois gr
 
 - souveraineté populaire : le peuple choisit ses gouvernants / représentants
 - respect des droits humains et en particulier du droit des minorités
-- préservation de l'Etat de droit au travers d'institutions dédiées (en France par exemple, Conseil d'Etat, conseil constitutionnel, en Europe : cour de justice européenne et cour des droits de l'homme)
+- préservation de l'[[Etat de droit]] au travers d'institutions dédiées (en France par exemple, Conseil d'Etat, conseil constitutionnel, en Europe : cour de justice européenne et cour des droits de l'homme)
 
 Les anti-démocrates ont tendance à respecter formellement (au moins au début) le premier principe mais s'attaquent systématiquement au second (au nom de la [[majorité silencieuse]] et au troisième)
 

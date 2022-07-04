@@ -21,7 +21,7 @@ A propos de ces coïcidences foireuses :
 
 ![](apophenie.jpg)
 
-cette "info" provient du compte d'un avocat engagé[[@brusaBrusaCarloAlberto]] auprès du collectif antivaxx [reaction19](https://reaction19.fr/)
+cette "info" provient du compte d'un avocat engagé[[@brusaBrusaCarloAlberto]] auprès du collectif [[Anti-vaxx|antivaxx]] [reaction19](https://reaction19.fr/)
 
 Le nom de domaine [Elysee.fr n'a pas été déposé en 2014 mais en 1997](https://whois.domaintools.com/elysee.fr), en ce qui concerne Pfizer, [c'est en 1992](https://whois.domaintools.com/pfizer.com)
 

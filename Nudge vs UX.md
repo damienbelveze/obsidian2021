@@ -10,4 +10,4 @@ aliases: []
 ---
 
 
-Nudge vs UX. [[UX]] : on favorise dans le système le chemin qui convient le mieux à l'utilisateur. [[nudges|nudge]] : on favorise dans le système le chemin qui nous convient le mieux en tant qu'administrateur du système (l'Etat est un système), mais la pluralité des chemins possibles est conservée.
+Nudge vs UX. [[UX]] : on favorise dans le système le chemin qui convient le mieux à l'utilisateur. [[nudges|nudge]] : on favorise dans le système le chemin qui nous convient le mieux en tant qu'administrateur du système (l'[[Etat]] est un système), mais la pluralité des chemins possibles est conservée.

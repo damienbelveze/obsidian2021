@@ -14,7 +14,7 @@ Présents : Fiona Edmond, Thierry Fournier, Anne-Sophie Bage (INRAE lait/oeuf), 
 
 Anne-Sophie Bage aide à la rédaction des [[Plan de gestion des données|Plan de gestion de données]], membre du groupe référent données de l'INRAE, respect du [[RGPD]]. 
 
-Ateliers de la donnée : accompagnement de premier niveau et orientation des chercheurs sur toute action en rapport avec le cycle de vie de la donnée. 
+Ateliers de la donnée : accompagnement de premier niveau et orientation des chercheurs sur toute action en rapport avec le [[cycle de vie de la donnée]]. 
 
 Dépôt d'un projet Ardoise, porté par Fiona Edmond qui vient de se faire retoquer à cause de la concurrence du projet de la MSHB. 
 

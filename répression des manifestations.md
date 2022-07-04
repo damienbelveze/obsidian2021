@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: [répression des manifestants]
-tags: [répression]
+tags: [répression, luttes_sociales]
 ---
 
 Devant l'augmentation régulière de la contestation sociale sous la forme de manifestations, le pouvoir macronien réagit par un surcroît de violences pour assoir sa domination policière sur l'espace public et limiter parfois drastiquement le [[Droit de manifestation|droit de manifester]]

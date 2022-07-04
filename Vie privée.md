@@ -9,7 +9,7 @@ aliases: [privacy, vie privée]
 
 * the right to be left alone* (Warren & Brandeis, 1890 [[@WarrenRightPrivacy1890]])
 
-Le respect de la vie privée est un droit garanti par la constitution, menacé aujourd'hui par la [[surveillance de masse électronique]] perpétrée par les grands opérateurs d'internet et les Etats dont les services de renseignement captent les données de navigation et de communication récupérés par les premiers à des fins de contrôle de la population et au prétexte de la lutte contre le terrorisme
+Le respect de la vie privée est un droit garanti par la constitution, menacé aujourd'hui par la [[surveillance de masse électronique]] perpétrée par les grands opérateurs d'internet et les Etats dont les services de renseignement captent les données de navigation et de communication récupérés par les premiers à des fins de contrôle de la population et au prétexte de la lutte contre le [[terrorisme]]
 
 # L'argument du rien à cacher (nothing to hide)
 

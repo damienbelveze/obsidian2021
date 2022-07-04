@@ -7,7 +7,7 @@ link_citations: true
 bibliography: mylibrary.bib
 biblio_style: csl\ieee.csl
 aliases: []
-tags: []
+tags: [luttes_sociales]
 ---
 
 # Le "Nous de la manifestation"
@@ -27,6 +27,11 @@ En témoignent les manifestations contre la dictature en Egypte qui ont réuni d
 > Le pari est qu'au cours d'une lutte, des expériences communes permettront de transcender les différences au profit d'une solidarité entre les corps rendue concrète par le simple fait de se rassembler
 
 (Michaël Foessel[[@FoesselQuartierrougeplaisir2022]], p99)
+
+A l'inverse de Foessel et de Judith Butler, Geoffroy de Lagasnerie conteste que les individus qui se rendent à une manifestation puissent incarner le peuple, puissent se saisir comme un "nous" qui peut prétendre incarner la souveraineté populaire, non entièrement cédée aux représentants élus lors du vote. 
+Pour Lagasnerie, le focus sur les manifestants masquent les "voix absentes", les gens qui ne vont pas manifester parce que cela ne les intéresse pas, ou bien ceux qui sont contre les slogans, ou bien ceux qui ne peuvent pas se déplacer ou bien ceux qui ne savent pas qu'il y a une manifestation : ceux-là aussi peuvent prétendre incarner le peuple aussi bien que les personnes qui battent le pavé [[@lagasnerieConsciencePolitique2021]], p99. 
+
+> Si on se demande "qui n'est pas là", et donc "qui est là", qui cherche à s'imposer à qui, qui veut imposer quoi à qui, on est conduit à transformer notre perception d'une manifestation non pas comme un moment où un peuple se constitue, mais où certains individus et groupes se moblisent pour s'approprier l'appareil d'[[Etat]] au détriment d'autres individus ou d'autres groupes, afin de leur imposer, via la police, leur volonté.  
 
 
 

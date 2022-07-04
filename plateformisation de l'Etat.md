@@ -11,7 +11,7 @@ tags: [dématérialisation]
 ---
 
 numéros verts ouverts pour traiter tous les problèmes sociaux
-remplacement des fonctionnaires par des [[algorithme|algorithmes]] qui prennent des décisions aveugles sur nos vies, telle est l'avenir des administrations de l'Etat esquissé par Macron et LREM. 
+remplacement des fonctionnaires par des [[algorithme|algorithmes]] qui prennent des décisions aveugles sur nos vies, telle est l'avenir des administrations de l'[[Etat]] esquissé par Macron et LREM. 
 La déshumanisation de la bureaucratie ne va faire que renforcer l'aspect oppressif et autoritaire souvent reproché à la bureaucratie. 
 Les fonctionnaires naguère au contact avec les usages des services publics ne pourront plus adapter les règles aux situations particulières des personnes. 
 

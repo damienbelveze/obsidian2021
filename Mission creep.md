@@ -4,4 +4,4 @@ glissement fonctionnel d'un logiciel d'une fonction banale d'organisation, vers 
 
 Le terme a été popularisé lors de l'invasion de la Somalie par les troupes américaines en 1993: cette intervention au départ humanitaire (Restore Hope) a viré au conflit armé et finalement au fiasco.
 
-Olivier Tesquet prend l'exemple des [[keyloggers]] qui depuis le Loi Perben 2 en France sont utilisés par la Police pour inflitrer les milieux terroristes et qui à la faveur du [[COVID-19]] se sont banalisés sous la forme de logiciels destinés à contrôler les [[Télétravail|télétravailleurs]].
+Olivier Tesquet prend l'exemple des [[keyloggers]] qui depuis le Loi Perben 2 en France sont utilisés par la Police pour inflitrer les milieux [[terrorisme|terroristes]] et qui à la faveur du [[COVID-19]] se sont banalisés sous la forme de logiciels destinés à contrôler les [[Télétravail|télétravailleurs]].

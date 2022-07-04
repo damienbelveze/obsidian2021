@@ -26,7 +26,7 @@ Le capitalisme ne serait qu'une variation d'une forme de coopération hiérarchi
 
 ## les deux régimes de la domination : colonisation et capitalisme
 
-Dans les Damnés de la Terre, Frantz Fanon oppose deux formes de domination, la première, celle de la colonisation assigne à chacun sa place de façon brutale et sans autre médiation que le fait accompli et la violence (coups de crosse et napalm). 
+Dans les Damnés de la Terre, Frantz Fanon oppose deux formes de domination, la première, celle de la [[colonisation]] assigne à chacun sa place de façon brutale et sans autre médiation que le fait accompli et la violence (coups de crosse et napalm). 
 Dans le monde capitaliste, la domination est imposé au dominé à travers toute une série de médiations politiques, intellecturelles, religieuses et sociales.
 Cette emprise permet au dominé d'assentir au rapport de soumission que lui impose le capital sans avoir véritablement conscience d'y être soumis.
 On peut donc être de fait dominé sans en avoir véritablement conscience. Pour Geoffroy de Lagasnerie, cette situation est emblématique d'une conscience politique inachevée : le vocabulaire politique que nous utilisons faute de mieux trahit notre propre expériences des rapports sociaux ([[@lagasnerieConsciencePolitique2021]], p. 43). 

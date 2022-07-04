@@ -48,7 +48,7 @@ Le principe de précaution repose sur l'exploitation de failles dans notre raiso
 
 2. **le mettre en bulle**
 
-Dans leur ouvrage "L'inquiétant principe de précaution[[@BronnerChapitreIIprincipe2010]]" (2010) Gérald Bronner et Etienne Géhin s'attachent à montrer que l'esprit humain surestime les risques de faible probabilité et s'appuie sur ce constat pour remettre en cause l'utilité publique du Principe de précaution  
+Dans leur ouvrage "L'inquiétant principe de précaution[[@BronnerChapitreIIprincipe2010]]" (2010) Gérald Bronner et Etienne Géhin s'attachent à montrer que l'esprit humain surestime les [[risques]] de faible probabilité et s'appuie sur ce constat pour remettre en cause l'utilité publique du Principe de précaution  
 
 3. **lui trouver un locuteur**
 

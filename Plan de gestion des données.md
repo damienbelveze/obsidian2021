@@ -79,6 +79,11 @@ outils pour rédiger des plans de gestion des données :
 - [DMP Opidor](https://dmp.opidor.fr/plans/new) France
 - [DMP tools](https://dmptool.org/) USA
 
+templates disciplinaires : 
+
+- archéo : [modèle MASA](https://dmp.opidor.fr/template_export/942300517.pdf)
+- Géographie : [modèle PRODIG](https://dmp.opidor.fr/template_export/942300517.pdf)
+(source : Doranum[[@PGDOutilRedaction2020]])
 ## structure de base d'un DMP
 
 - Décrire le jeu de données
@@ -133,7 +138,7 @@ onglet concernant les produits de recherche (images, jeu de données, logiciels,
 entrer chaque produit de recherche.
 
 Dans l'onglet Rédiger, on va répondre aux mêmes questions pour chaque produit de recherches
-ajouter des mots-clé libres et des mots-clé issus de thésaurus comme celui du thesaurus de l'INRAE
+ajouter des mots-clé libres et des mots-clé issus de thésaurus comme celui du thesaurus de l'INRAE ou le thésaurus [HyperRéseau](https://imu.universite-lyon.fr/projet/hypertheseau-hyper-thesaurus-et-lacs-de-donnees-fouiller-la-ville-et-ses-archives-archeologiques-2018/) pour l'archéologie
 
 attribut sujet lié au thésaurus INRAE
 indiquer la personne contact pour la description des données
