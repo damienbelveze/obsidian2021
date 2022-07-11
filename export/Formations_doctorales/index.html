@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <title>Bilan des formations doctorales</title>
+    <link rel="stylesheet" href="dist/reveal.css" />
+    <link rel="stylesheet" href="dist/theme/sky.css" id="theme" />
+    <link rel="stylesheet" href="plugin/highlight/zenburn.css" />
+	<link rel="stylesheet" href="css/layout.css" />
+	<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+    <script defer src="dist/fontawesome/all.min.js"></script>
+
+	<script type="text/javascript">
+		var forgetPop = true;
+		function onPopState(event) {
+			if(forgetPop){
+				forgetPop = false;
+			} else {
+				parent.postMessage(event.target.location.href, "app://obsidian.md");
+			}
+        }
+		window.onpopstate = onPopState;
+		window.onmessage = event => {
+			if(event.data == "reload"){
+				window.document.location.reload();
+			}
+			forgetPop = true;
+		}
+
+		function fitElements(){
+			const itemsToFit = document.getElementsByClassName('fitText');
+			for (const item in itemsToFit) {
+				if (Object.hasOwnProperty.call(itemsToFit, item)) {
+					var element = itemsToFit[item];
+					fitElement(element,1, 1000);
+					element.classList.remove('fitText');
+				}
+			}
+		}
+
+		function fitElement(element, start, end){
+
+			let size = (end + start) / 2;
+			element.style.fontSize = `${size}px`;
+
+			if(Math.abs(start - end) < 1){
+				while(element.scrollHeight > element.offsetHeight){
+					size--;
+					element.style.fontSize = `${size}px`;
+				}
+				return;
+			}
+
+			if(element.scrollHeight > element.offsetHeight){
+				fitElement(element, start, size);
+			} else {
+				fitElement(element, size, end);
+			}		
+		}
+
+
+		document.onreadystatechange = () => {
+			fitElements();
+			if (document.readyState === 'complete') {
+				if (window.location.href.indexOf("?export") != -1){
+					parent.postMessage(event.target.location.href, "app://obsidian.md");
+				}
+				if (window.location.href.indexOf("print-pdf") != -1){
+					let stateCheck = setInterval(() => {
+						clearInterval(stateCheck);
+						window.print();
+					}, 250);
+				}
+			}
+	};
+
+
+        </script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides"><section  data-markdown><script type="text/template">
+
+<!-- .slide: data-background-image="images/thesis2.jpg" -->
+
+
+<style>
+	.justify{
+		text-align: justify;
+	}
+</style>
+
+<style>
+
+#rouge
+
+{ color:red
+
+}
+
+</style>
+
+<style>
+
+#vert
+
+{ color:green
+
+}
+
+</style>
+
+<style>
+
+#blanc
+
+{ color: white
+
+}
+
+</style>
+
+<h2>
+<span id="blanc">
+Bilan des formations doctorales
+</span>
+</h2>
+
+<h3> 
+<span id="blanc">
+année 2021-2022 
+</h3>
+
+<h4> 
+<span id="blanc">
+	Damien Belvèze, Université de Rennes 1 </span>
+</h4>
+
+</script></section><section ><section data-markdown><script type="text/template">
+<!-- .slide: class="drop" data-background-image="https://media.giphy.com/media/IiHtE9KJTiiu6XOsEP/giphy.gif" -->	
+<div class="reset-margin stretch-column" style="position: absolute; left: 0px; top: 315px; height: 385px; min-height: 385px; width: 960px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+<h1>
+<span id="blanc">
+	Quelques chiffres </span>
+</h1>
+</div>
+
+	</script></section><section data-markdown><script type="text/template"><!-- .slide: class="has-light-background" data-background-color="#fffcf0" -->
+
+	
+- 528 étudiants formés<!-- .element: class="fragment" data-fragment-index="1" -->
+- 40 séances de formation<!-- .element: class="fragment" data-fragment-index="2" -->
+- 89 heures de formation<!-- .element: class="fragment" data-fragment-index="3" -->
+- 66% de places occupées<!-- .element: class="fragment" data-fragment-index="4" -->
+- 25% d'absentéisme<!-- .element: class="fragment" data-fragment-index="5" -->
+- 429 questionnaires de satisfaction remplis<!-- .element: class="fragment" data-fragment-index="6" -->
+	</script></section></section><section  data-markdown><script type="text/template">
+
+| Etablissement          | Somme - Nombre d'heures suivi par les présents |
+| ---------------------- | ---------------------------------------------- |
+| INSA Rennes            | 2                                              |
+| Rennes 1               | 28                                             |
+| Rennes 1 – INSA Rennes | 6                                              |
+| Rennes 1 – Rennes 2    | 15,5                                           |
+| Rennes 1 – URFIST      | 5,5                                            |
+| Rennes 2               | 18                                             |
+| Rennes 2 – URFIST      | 8                                              |
+| URFIST                 | 6                                              |
+^etablissement
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background" data-background-color="#fffcf0" -->
+## partenariats
+
+	
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/GDIR/Chart Thu Jun 30 2022.png" alt="" ></img></p>
+
+
+</script></section><section  data-markdown><script type="text/template"><!-- .slide: class="has-light-background" data-background-color="#fffcf0" -->
+## saisonnalité
+	
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/GDIR/Chart Wed Jul 06 2022.png" alt="" ></img></p>
+
+</script></section><section ><section data-markdown><script type="text/template">
+#### contenus et parcours
+	
+
+<div class="mermaid">
+	
+pie showdata
+	title Nombre d'étudiants formés
+
+    "Ethique" : 131
+
+    "IST" : 184
+
+    "Science Ouverte" : 201
+
+    "communication" : 12
+	
+
+
+</div>
+
+</script></section><section data-markdown><script type="text/template">
+
+<div class="mermaid">
+	
+pie title Etudiants par écoles doctorales
+
+   "ALL": 34
+
+   "EGAAL" : 15
+
+   "ELICC" : 59
+
+   "SML" : 11
+
+   "DSP": 36
+
+   "EDGE" : 27
+
+   "SPI" : 61
+
+   "STT" : 67
+
+   "MathSTIC" : 64
+	
+   "3M" : 62
+	
+   "BS " : 61
+	
+   "vide" : 68
+
+  
+
+
+</div>
+
+	</script></section><section data-markdown><script type="text/template">
+### Modalités
+
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/doctorants_modalite.png" alt="" ></img></p>
+
+	
+	</script></section></section><section ><section data-markdown><script type="text/template"><!-- .slide: data-background-image="https://media.giphy.com/media/3o6ZtkQBMHYV9Ncv72/giphy.gif" -->
+<h1>
+<span id="blanc">
+	Satisfaction </span>
+</h1>
+	</script></section><section data-markdown><script type="text/template">	
+### Objectifs atteints ?
+
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/LS_objectifs_atteints.png" alt="" ></img></p>
+
+	</script></section><section data-markdown><script type="text/template">	
+### globalement satisfaits ?
+
+	![](images/LS_globalement_satisfaits.png)
+	</script></section><section data-markdown><script type="text/template">	
+### Apports importants pour votre projet pro ?
+	
+	![](images/LS_apports_importants.png)
+	</script></section><section data-markdown><script type="text/template">
+### Qualités des formateurs
+	
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/LS_formateur.png" alt="" ></img></p>
+
+	</script></section></section><section  data-markdown><script type="text/template">	
+### échanges doctorants / formateurs ou doctorants / doctorants
+	
+<p style="line-height: 0" class="reset-paragraph image-paragraph"><img src="images/LS_echanges.png" alt="" ></img></p>
+
+</script></section><section  data-markdown><script type="text/template">
+<!-- .slide: data-background-image="https://media.giphy.com/media/fuKheOnd8MwvdciqHP/giphy.gif" -->
+	</script></section><section ><section data-markdown><script type="text/template"><h2>
+<div class="" style="" drag="40 30">
+
+paroles de doctorants
+</div>
+</h2>
+
+<!-- .slide: class="has-light-background drop" data-background-color="#fffcf0" -->
+<!--   text-align: justify;	-->
+
+<div class="reset-margin" style="position: absolute; left: 96px; top: 490px; height: 210px; min-height: 210px; width: 768px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+
+*Il serait intéressant que cette formation [RGPD] soit donnée en amont du doctorat (Master ou Licence) afin de toucher un plus grand public.*
+<!-- .element: class="justify" -->
+
+</div></script></section><section data-markdown><script type="text/template">
+	<h2>
+<div class="" style="" drag="40 30">
+
+paroles de doctorants
+</div>
+</h2>
+
+<!-- .slide: class="has-light-background drop" data-background-color="#fffcf0" -->
+<!--   text-align: justify;	-->
+
+<div class="reset-margin" style="position: absolute; left: 96px; top: 490px; height: 210px; min-height: 210px; width: 768px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+
+*Bonne formation permettant de penser en dehors des "conventions" de publication.*
+<!-- .element: class="justify" -->
+
+</div></script></section><section data-markdown><script type="text/template">
+	<h2>
+<div class="" style="" drag="40 30">
+
+paroles de doctorants
+</div>
+</h2>
+
+<!-- .slide: class="has-light-background drop" data-background-color="#fffcf0" -->
+<!--   text-align: justify;	-->
+
+<div class="reset-margin" style="position: absolute; left: 96px; top: 245px; height: 210px; min-height: 210px; width: 768px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+
+*Faire des dérivés plus orientées vers les différentes thématiques de thèse (science, informatique, biologie, ...). Car beaucoup de choses diffèrent dans les domaines et je ne me suis pas forcément senti concerné par la plupart des cas présentés.*
+<!-- .element: class="justify" -->
+
+</div></script></section><section data-markdown><script type="text/template">
+<h2>
+<div class="" style="" drag="40 30">
+
+paroles de doctorants
+</div>
+</h2>
+
+<!-- .slide: class="has-light-background drop" data-background-color="#fffcf0" -->
+<!--   text-align: justify;	-->
+
+<div class="reset-margin" style="position: absolute; left: 96px; top: 245px; height: 210px; min-height: 210px; width: 768px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+
+*C'est une formation [..] qui reste trop générale dans son contenu. Elle manque d'exemples concrets dans son développement.  Il serait souhaitable qu'à la prochaine occasion qu'une  telle formation se déroule en présentiel pour permettre aux participants de travailler entre eux.s.*
+<!-- .element: class="justify" -->
+
+</div>
+	</script></section><section data-markdown><script type="text/template">
+<h2>
+<div class="" style="" drag="40 30">
+
+paroles de doctorants
+</div>
+</h2>
+
+<!-- .slide: class="has-light-background drop" data-background-color="#fffcf0" -->
+<!--   text-align: justify;	-->
+
+<div class="reset-margin" style="position: absolute; left: 96px; top: 490px; height: 210px; min-height: 210px; width: 768px; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly" >
+
+
+*Très bonne formation. L'aspect ludique en première partie permet d'être plus réceptif pour les notions théoriques abordées en seconde partie.*
+<!-- .element: class="justify" -->
+
+</div>
+	
+--</script></section></section></div>
+    </div>
+
+    <script src="dist/reveal.js"></script>
+
+    <script src="plugin/markdown/markdown.js"></script>
+    <script src="plugin/highlight/highlight.js"></script>
+    <script src="plugin/zoom/zoom.js"></script>
+    <script src="plugin/notes/notes.js"></script>
+    <script src="plugin/math/math.js"></script>
+	<script src="plugin/mermaid/mermaid.js"></script>
+	<script src="plugin/chart/chart.min.js"></script>
+	<script src="plugin/chart/plugin.js"></script>
+	<script src="plugin/customcontrols/plugin.js"></script>
+
+    <script>
+      function extend() {
+        var target = {};
+        for (var i = 0; i < arguments.length; i++) {
+          var source = arguments[i];
+          for (var key in source) {
+            if (source.hasOwnProperty(key)) {
+              target[key] = source[key];
+            }
+          }
+        }
+        return target;
+      }
+
+	  function isLight(color) {
+		let hex = color.replace('#', '');
+
+		// convert #fff => #ffffff
+		if(hex.length == 3){
+			hex = `${hex[0]}${hex[0]}${hex[1]}${hex[1]}${hex[2]}${hex[2]}`;
+		}
+
+		const c_r = parseInt(hex.substr(0, 2), 16);
+		const c_g = parseInt(hex.substr(2, 2), 16);
+		const c_b = parseInt(hex.substr(4, 2), 16);
+		const brightness = ((c_r * 299) + (c_g * 587) + (c_b * 114)) / 1000;
+		return brightness > 155;
+	}
+
+	var bgColor = getComputedStyle(document.documentElement).getPropertyValue('--r-background-color').trim();
+
+	if(isLight(bgColor)){
+		document.body.classList.add('has-light-background');
+	} else {
+		document.body.classList.add('has-dark-background');
+	}
+
+      // default options to init reveal.js
+      var defaultOptions = {
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        transition: 'default', // none/fade/slide/convex/concave/zoom
+        plugins: [
+          RevealMarkdown,
+          RevealHighlight,
+          RevealZoom,
+          RevealNotes,
+          RevealMath.MathJax3,
+		  RevealMermaid,
+		  RevealChart,
+		  RevealCustomControls,
+        ],
+
+		mathjax3: {
+			mathjax: 'plugin/math/mathjax/tex-mml-chtml.js',
+		},
+
+		customcontrols: {
+			controls: [
+			]
+		},
+      };
+
+      // options from URL query string
+      var queryOptions = Reveal().getQueryHash() || {};
+
+      var options = extend(defaultOptions, {"width":960,"height":700,"margin":0.04,"controls":true,"progress":true,"slideNumber":false,"transition":"slide","transitionSpeed":"default"}, queryOptions);
+    </script>
+
+    <script>
+      Reveal.initialize(options);
+    </script>
+  </body>
+</html>

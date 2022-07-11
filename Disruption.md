@@ -24,3 +24,12 @@ Le développement de technologies permettant d'assigner des places ou vérfier d
 
 Source : Félix Tréguer
 
+# techlash ou la tentative des gouvernements et des utilisateurs de reprendre la main
+
+techlash = contraction de tech(nology) et de backlash (=retour de bâton)
+Formes prises par le techlash : 
+
+- amendes imposée par les Etats aux géants de la tech ([[VLOPs|GAFAM]])
+- menaces de démantèlement
+- critiques des algorithmes
+

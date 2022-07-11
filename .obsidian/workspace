@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1d3bdc1fc3a371b3",
+        "id": "3cf8b52405ac1e7a",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ludification.md",
+            "file": "souveraineté numérique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "8d6cee2088c12bab",
+        "id": "e0e0ad8c0fcb7fce",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ludification.md",
+            "file": "souveraineté numérique.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ludification.md",
+            "file": "souveraineté numérique.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "souveraineté numérique",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ludification.md",
+                "file": "souveraineté numérique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,15 +134,15 @@
   },
   "active": "6e005a247eb07512",
   "lastOpenFiles": [
-    "Ludification.md",
-    "formation_doctorale_PGD_Angers.md",
-    "Sans titre 7.md",
-    "Sans titre 6.md",
-    "Sans titre 5.md",
-    "Sans titre 4.md",
-    "partage des données de recherche.md",
-    "Formations doctorales.md",
-    "obsidian charts.md",
-    "Mode d'emploi d'Obsidian.md"
+    "souveraineté numérique.md",
+    "Linux commandes de base.md",
+    "ressources éducatives libres.md",
+    "Formations doctorales advanced slides.md",
+    "formations_doctorales_2.md",
+    "Panique à la rédac 1.md",
+    "panique à la rédac 2.md",
+    "Editeurs prédateurs en open access.md",
+    "Deepfake.md",
+    "Post-vérité.md"
   ]
 }

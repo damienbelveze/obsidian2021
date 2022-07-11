@@ -1,0 +1,2 @@
+﻿pandoc mypdf\$filename.md --bibliography=$biblio --csl=$style --pdf-engine=xelatex --citeproc -f markdown+smart -o 
+mypdf\$filename.pdf

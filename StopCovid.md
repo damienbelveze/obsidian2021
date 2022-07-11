@@ -118,7 +118,7 @@ Utilisée à travers l'application TousAntiCovid Verif, le pass sanitaire ferait
 
 ## Manque d'efficacité
 
-L'efficacité de cette solution est une question centrale dans la mesure où elle devrait conditionner son acceptabilité aux yeux de la [[CNIL]] au nom de la proportionnalité entre la fin recherchée et le risque que cette application fait porter sur les données des utilisateurs (dans la mesure où StopCovid ne permet pas l'anonymat notamment).  
+L'efficacité de cette solution est une question centrale dans la mesure où elle devrait conditionner son acceptabilité aux yeux de la [[CNIL]] au nom de la proportionnalité entre la fin recherchée et le risque que cette application fait porter sur les données des utilisateurs (dans la mesure où StopCovid ne permet pas l'anonymat notamment).  Avec deux années de recul, la CNIL a souligné en 2022 l'effet très marginal de cette application pour endiguer les contaminations[[@laussonTousAntiCovidPasServi2022]]. 
 
 
 ### taux d'adoption

@@ -9,6 +9,10 @@ biblio_style: csl\ieee.csl
 aliases: [post-truth, Post-truth, post-verité]
 ---
 
+> les faits objectifs ont moins d’influence pour modeler l’opinion publique que les appels à l’émotion et aux opinions personnelles
+
+(dictionnaire de l’Université d’Oxford cité par Louis Quéré dans AOC)
+
 Prolifération d'[[alternative facts]], mensonges portés par les supporteurs de [[Donald Trump]] et le camp de l'[[alt-right]] avant et après l'élection présidentielle US de 2016. 
 
 Quand la vérité des faits et la vérité tout court n'importe plus...

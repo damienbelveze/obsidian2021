@@ -13,6 +13,7 @@ tags: [souveraineté, numérique]
 La souveraineté numérique est un terme qui a connu un essor à partir de 2010 en France. Elle consiste pour cette puissance moyenne a tenter de sortir un tant soit peu de la dépendance dans laquelle elle s'est enfermée en ne concevant aucune stratégie nationale dans le domaine du numérique (et en se gardant pendant longtemps d'encourager l'Europe à se doter d'une telle stratégie). 
 Faute de cette stratégie d'indépendance numérique la France et les autres pays européens se voient contraints d'utiliser des systèmes propriétaires américains ou chinois pour des usages stratégiques comme : 
 
+- Le transport  de données (la très grande majorité des câbles ultramarins appartiennent à Google ou Amazon et constituent un angle mort de la souveraineté numérique et partant des discours sur ce sujet. "la souveraineté numérique n'est pas seulement une question d'applis" ([source](https://twitter.com/Quentin_Leconte/status/1546396713803554817/photo/1)))
 - l'hébergement des données de santé (health data hub de Microsoft - US)
 - le géopositionnement (GPS - US)
 - la 5G (Huawei - Chine)

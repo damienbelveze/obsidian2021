@@ -187,7 +187,7 @@ How do we know if a tweet has been trafficked?
 
 How do you work out if such or such content is reliable?
 
-Do you think “Deepfakes” will become ubiquitous? Will they remain detectable?
+Do you think “[[Deepfake|Deepfakes]]” will become ubiquitous? Will they remain detectable?
 
 How could language models like GPT-3 affect the generation of fake news? Do you think they will be able one day to generate a pseudo-scientific article from the existing literature that could be accepted in a peer-reviewed journal?
 

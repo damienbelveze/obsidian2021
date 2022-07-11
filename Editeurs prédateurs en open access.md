@@ -13,6 +13,13 @@ aliases: [predatory_open_access_journals, highjacking journals]
 
 définition provisoire de l'éditeur prédateur : les caractéristiques seront développées ultérieurement
 
+
+# des dérives éditoriales diverses
+Même s'ils n'éditent pas les contenus que leur cèdent les doctorants en open access, certains éditeurs parasitent le marché en proposant une publication en format imprimé de très mauvaise qualité. C'est notamment le cas des Editions Universitaires Européennes, qui démarchent principalement des doctorants sur le point de soutenir leur thèse. Les doctorants n'ont pas à payer pour ces publications, en revanche, ils cèdent leurs droits ce qui peut constituer une véritable entrave pour publier ensuite chez un éditeur sérieux (source: https://twitter.com/ThomasGeha/status/1544598685102866433)
+Prix de vente de l'exemplaire ci-dessous : 71 euros !
+
+![](PUE.jpg)
+
 # contexte de l'apparition des éditeurs prédateurs : le développement de l'accès ouvert payant
 
 Raisons de l'apparition du phénomène : 

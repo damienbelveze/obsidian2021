@@ -89,6 +89,41 @@ donne le chemin absolu du dossier dans lequel on se trouve.
 voir [[architecture des fichiers Linux]]
 
 
+### chercher des fichiers
+
+````bash
+$ find . -name "log.txt"
+````
+cherche dans le répertoire courant le fichier dont le nom est log.txt
+
+````bash
+$ find /home/linuxopsys -iname "log.txt"
+````
+Même chose que précédemment mais sans tenir compte de la casse (éviter de ne pas trouver un fichier du même nom à cause d'une majuscule)
+````bash
+$ find /home/linuxopsys/ -name "*.sh"
+````
+cherche dans le répertoire courant les fichiers qui ont pour extension *sh*
+
+Chercher des fichiers ayant plusieurs extensions dans plusieurs dossiers : 
+
+![](images/find_files_directories.jpg)
+
+ -  type f : cherche uniquement des fichiers, pas des dossiers (voir plus haut) 
+ -  \( and \)\` : nécessaire pour que le -type f soit appliqué à tous les arguments
+ -   -o : opérateur booléen OR 
+ -   -iname : comme -name, mais insensible à la casse
+ 
+### chercher des fichiers qui comportent une chaîne de caractères (avec grep)
+
+````bash
+find / -type f -exec grep -il "linux" {} \;
+````
+cherche des fichiers qui comportent le mot *linux*
+-i = pas sensible à la casse, -l = liste seulement les fichiers qui comportent la suite de caractères indiquée
+
+possibilité d'utiliser grep -r directement.
+ 
 ## Créer un fichier
 
 ``touch fichier.txt``
@@ -103,6 +138,8 @@ crée un fichier intitulé fichier.txt dans lequel on trouve la ligne *voici mon
 
 ## Créer un dossier
 
+### créer un dossier
+
 `mkdir nomdudossier`
 
 possibilité de créer plusieurs dossiers en même temps de même niveau 
@@ -112,6 +149,26 @@ possibilité de créer plusieurs dossiers en même temps de même niveau
 ou une arborescence de dossiers
 
 `mkdir -p nomdudossier1/nomdudossier2/nomdudossier3`
+
+### chercher un dossier
+
+````bash
+$ find /home/linuxopsys/ -name "linux" -type d
+````
+cherche dans le répertoire courant le dossier qui a pour nom Linux
+
+chercher les dossiers vides : 
+
+````bash
+$ find /home/linuxopsys -type d -empty
+````
+
+chercher les dossiers cachés : 
+````bash
+$ find /home/linuxopsys/ -type f -name ".*"
+````
+
+Les dossiers cachés se présentent toujours avec un point à l'initiale (.dossier)
 
 
 
@@ -139,11 +196,26 @@ déplacer des dossiers
 
 ## Supprimer des fichiers ou des dossiers
 
+### commande remove (rm)
+
 la commande `rm`permet de supprimer des fichiers ou des dossiers. Pour supprimer à la fois un dossier et son contenu, utiliser `rm -r dossier`
 
 `rm -f`: suppression de fichiers protégés en écriture : à manier avec précaution
 
 **attention la suppression avec rm est définitive**: pas de corbeille ou de possible restauration.
+
+### supprimer des fichiers volumineux
+
+````bash
+$ find /home/linuxopsys/ -type f -size +45000k -exec ls -l {} \; | awk '{ print $9 }' | xargs rm -i >/dev/null
+````
+efface dans le répertoire Linuxopsys les fichiers dont la taille excède 45000 ko
+
+### supprimer des fichiers vides
+````bash
+$ find /home/linuxopsys/ -empty -delete
+````
+efface dans le répertoire Linuxopsys les fichiers vides
 
 ## retrouver un fichier
 
