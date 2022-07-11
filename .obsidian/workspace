@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf8b52405ac1e7a",
+        "id": "4a97399827ac2b74",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "souveraineté numérique.md",
+            "file": "jeu sérieux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -21,12 +21,12 @@
         }
       },
       {
-        "id": "e0e0ad8c0fcb7fce",
+        "id": "47e515307b0ef687",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "souveraineté numérique.md",
+            "file": "jeu sérieux.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -43,7 +43,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "souveraineté numérique.md",
+            "file": "jeu sérieux.md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "souveraineté numérique",
+                "query": "ludification",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "souveraineté numérique.md",
+                "file": "jeu sérieux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +134,8 @@
   },
   "active": "6e005a247eb07512",
   "lastOpenFiles": [
+    "jeu sérieux.md",
+    "formation_doctorale_PGD_Angers.md",
     "souveraineté numérique.md",
     "Linux commandes de base.md",
     "ressources éducatives libres.md",
@@ -141,8 +143,6 @@
     "formations_doctorales_2.md",
     "Panique à la rédac 1.md",
     "panique à la rédac 2.md",
-    "Editeurs prédateurs en open access.md",
-    "Deepfake.md",
-    "Post-vérité.md"
+    "Editeurs prédateurs en open access.md"
   ]
 }

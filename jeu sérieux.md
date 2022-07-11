@@ -1,5 +1,5 @@
 ---
-title: Faut-il ludifier à tout prix
+title: Faut-il ludifier à tout prix ?
 subtitle: Gamification, ludification et impact
 author: Damien Belvèze
 date: 05-07-2022
@@ -11,18 +11,20 @@ tags: [ludification]
 ---
 
 Conférence du Dr. Isabelle Patroix (Ecole de commerce de Grenoble)
-![](isabelle_patroix.jpg)]
+![](images/isabelle_patroix.jpg)]
 
-Présentation du Playground à l'école de commerce de Grenoble
+Présentation du [Playground](https://www.grenoble-em.com/le-playground) à l'école de commerce de Grenoble
 
 # limites de la gamification
+Qu'est-ce que ludifier un dispositif ? 
 ajouter des mécanismes ludiques dans un contexte qui n'en comporte pas. 
 
 Solliciter une action (exemples de gamification urbaine assortis de nudges (mettre un papier à la poubelle, respecter les limitations de vitesse, suivre un parcours touristique))
 
-Yu-Kai Chou : 
+![](images/marelle_poubelle.jpg)
 
-Récompenses :
+
+La [gamification selon Yu-Kai Chou](https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/) comporte plusieurs types de récompenses :
 
 - Points
 - badges
@@ -30,7 +32,7 @@ Récompenses :
 - tableaux de comparaison
 - défis
 
-très utilisé dans le domaine commercial (maintien de l'effort) :
+certains de ces outils (badges, niveaux) sont très utilisés dans le domaine commercial (pour faciliter le maintien de l'effort) :
 
 - duolingo
 - application de running de Nike
@@ -38,23 +40,23 @@ très utilisé dans le domaine commercial (maintien de l'effort) :
 Voracy: jeu sérieux qui permet de rééduquer les membres supérieurs
 
 La gamification peut engendrer des effets pervers : l'enjeu (la victoire, les récompenses) l'emportent sur le but du jeu
-gamification pour inciter les chauffeurs d'Uber à faire toujours plus de courses. 
+arsenalisation du jeu pour augmenter la productivité : la gamification a été utilisée pour inciter les chauffeurs d'Uber à faire toujours plus de courses.  
 
 
 # Qu'est-ce que le jeu
 Johan Huizinga (1951) _homo Ludens_
 Roger Caillois (1967) _Les jeux et les hommes_
 
-Première caractéristique du jeu : faire entrer le joueur dans un cercle protégé où l'on accepte les règles (un peu comme au cinéma, espace clos, durée inscrite dans le temps, acceptation des codes du film)
+Première caractéristique du jeu : faire entrer le joueur dans un cercle protégé où l'on accepte les règles (un peu comme au cinéma : espace clos, durée inscrite dans le temps, acceptation des codes du film)
 
 grande popularité du morpion et du monopoly mais peu d'intérêt pour ces jeux
 Les jeux de stratégie comme Seven Wonders ou Catan sont moins populaires mais suscitent plus d'engouement. 
 
 On s'ennuie au morpion parce que c'est répétitif et les règles sont trop simples, il y a une stratégie gagnante.
-Dans le Monopoly c'est un peu plus complexe
-Quand on passe à des jeux comme les Colons de Catane ou Alhambra, les règles sont plus complexes.
+Dans le Monopoly c'est un peu plus complexe, mais les stratégies restent tout de même basiques.
+Quand on passe à des jeux comme les Colons de Catane ou Alhambra, les règles sont plus complexes et autorisent plus de stratégies différentes. C'est pour cela que ces jeux sont plus appréciés en général que le monopoly.
 
-Les trois ingrédients essentiels
+Les quatre ingrédients essentiels à un jeu:
 
 - cercle protégé
 - Créativité : équilibre entre règles et libertés
@@ -70,12 +72,12 @@ Système du feedback : possibilité de faire jouer aussi bien des néophytes et 
 ## Fun
 Les différentes formes de [[fun]] d'après Nicole Lazzaro
 
-![](fun.jpg)
+![](images/fun.jpg)
 
-- easy fun (gag de la peau de banane)
-- people fun (joies d'être en groupe)
-- hard fun (réussir un défi, mettre en place une stratégie gagnante)
-- serious fun (collections, jeux de patience, avoir tous les badges, avoir tout collecté, avoir fini toutes ses tâches)
+- *easy fun* (gag de la peau de banane)
+- *people fun* (joies d'être en groupe)
+- *hard fun* (réussir un défi, mettre en place une stratégie gagnante)
+- *serious fun* (collections, jeux de patience, avoir tous les badges, avoir tout collecté, avoir fini toutes ses tâches)
 
 Un jeu devrait combiner ces différentes formes de fun
 
@@ -112,5 +114,4 @@ insérer dans un portfolio les jeux qu'on a contribué à créer
 Q. Jeux qui reposent sur la stratégie ou la chance. 
 R. La chance intervient de manière pertinente dans un jeu pour mettre au même niveau des novices et des experts. 
 
-# bibliographie
 
