@@ -149,7 +149,7 @@ Ce thème de la reproductiblité  est très connecté à la concurrrence entre c
 
 Présentation de DATACC (2019-222)
 
-Les cahiers sont adossés à des outils de traitement de données plus performants qu'excel ou calc
+Les cahiers sont adossés à des outils de traitement de données plus performants qu'[[excel]] ou calc
 
 La bibliothèque propose trois logiciels 
 

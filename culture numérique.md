@@ -32,7 +32,7 @@ Liste de films et de documentaires permettant d'accroître sa culture numérique
 
 1.
 
-Bergère S, Altman M, Assange J, Barlow JP. Une contre-histoire de l&apos;Internet. Premières Lignes Télévision, ARTE, Centre national du cinéma et de l’image animée (CNC); 2013.
+Bergère S, Altman M, Assange J, [[John Perry Barlow]]. Une contre-histoire de l&apos;Internet. Premières Lignes Télévision, ARTE, Centre national du cinéma et de l’image animée (CNC); 2013.
 
 2.
 

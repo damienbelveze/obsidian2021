@@ -28,6 +28,12 @@ Ce concept pourtant reste pertinent quand on le déroule sur 3 axes :
 - différences d'intérprétation des informations issues de ces usages
 - socialisation inégalitaire de ces pratiques
 
+## Jen Schradie : la fracture numérique est celle de la production de contenus
+
+D'après Jen Schradie, la véritable fracture distingue ceux qui produisent des cntenus sur le web et ceux qui n'en produisent pas et ce fossé continue de se créer d'année en année[[@delaportePourquoiInternetFavorise2022]]. 
+91% des usagers français de Tiktok ne postent jamais rien. moins de 10% des usagers produisent tout le contenu, ce qui fait de TikTok moins un réseau social qu'une nouvelle forme de télévision. 
+Les gens qui ont un plus faible niveau d'éducation et moins de temps ne peuvent pas collaborer aussi facilement que des gens d'un niveau d'éducation supérieur et ayant une profession leur permettant de passer de davantage de temps à produire du contenu susceptible d'être viral (pour qu'un contenu soit viral, il faut qu'il soit travaillé, même si de notables exceptions font croire le contraire). Les classes dominées dans la vie courante le sont également sur Internet. 
+
 La fracture numérique ne cesse d'évoluer, de se déplacer, c'est un processus social dynamique. De nouveaux usages dictent de nouvelles normes qui créent de nouveaux secteurs où les compétences manquent. 
 
 - compétences procédurales : réaliser la tâche qui est demandée (par exemple remplir un questionnaire)

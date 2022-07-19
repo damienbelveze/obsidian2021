@@ -64,9 +64,12 @@ partir des problèmes pratiques et mener les doctorants vers les questions de FA
 
 faire du PGD non pas une contrainte mais une solution à des problèmes pratiques.
 
+<!-- commentaire Thierry : voir si on peut faire un lien avec l'usage d'une plateforme comme Progedo (en SHS) ou GenOuest (en STM) -->
+
 
 
 Canal UA
+
 Read.me
 
 

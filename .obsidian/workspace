@@ -4,47 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4a97399827ac2b74",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "jeu sérieux.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
-        "id": "47e515307b0ef687",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "file": "jeu sérieux.md",
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
-          }
-        }
-      },
-      {
         "id": "6e005a247eb07512",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "jeu sérieux.md",
-            "mode": "source"
+            "file": "Etat.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -73,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ludification",
+                "query": "file:Etat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jeu sérieux.md",
+                "file": "Etat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +88,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           }
@@ -130,19 +97,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150
+    "width": 137.5
   },
   "active": "6e005a247eb07512",
   "lastOpenFiles": [
-    "jeu sérieux.md",
-    "formation_doctorale_PGD_Angers.md",
-    "souveraineté numérique.md",
-    "Linux commandes de base.md",
-    "ressources éducatives libres.md",
-    "Formations doctorales advanced slides.md",
-    "formations_doctorales_2.md",
-    "Panique à la rédac 1.md",
-    "panique à la rédac 2.md",
-    "Editeurs prédateurs en open access.md"
+    "Identité et identification.md",
+    "autarcie.md",
+    "guerre.md",
+    "prêt_immobilier.md",
+    "antagonisme vs agonisme.md",
+    "fracture numérique.md",
+    "Bureaucratie numérique.md",
+    "John Perry Barlow.md",
+    "culture numérique.md",
+    "culture technique.md"
   ]
 }

@@ -10,7 +10,7 @@ aliases: []
 tags: [bibliométrie]
 ---
 
-Activité issue du *New Public Management* consistant à mesure l'efficacité de la recherche et la rentabilité de tel ou tel financement. 
+Activité issue du [[New Public Management]] consistant à mesure l'efficacité de la recherche et la rentabilité de tel ou tel financement. 
 
 La bibliométrie qui préexistait a renforcé cette quantification du pilotage de la recherche.
 Le [[facteur d'impact]] inventé par Eugène Garfield (aujourd'hui propriété de Clarivates) est longtemps resté le pivot de tout travail d'ordre bibliométrique. 

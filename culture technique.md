@@ -24,7 +24,7 @@ Les trois temps d'appropriation de l'objet technique selon Victor Scardigli, 198
 
 - **[[Innovation]] **
 
-le temps du fantasme, le temps de la promesse, de l'enchantement, de l'innovation (cf. [déclaration d'indépendance du Cyberespace](http://editions-hache.com/essais/barlow/barlow2.html) de John P. Barlow, parolier des Grateful Dead ), techno-messianisme, Internet permettant d'accéder à une démocratie parfaite.
+le temps du fantasme, le temps de la promesse, de l'enchantement, de l'innovation (cf. [déclaration d'indépendance du Cyberespace](http://editions-hache.com/essais/barlow/barlow2.html) de [[John Perry  Barlow]], parolier des Grateful Dead ), techno-messianisme, Internet permettant d'accéder à une démocratie parfaite.
 
 - **massification**
 
