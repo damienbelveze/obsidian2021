@@ -33,7 +33,7 @@ Dans les Pays en voie de développement, la croissance économique s'accompagne 
 
 Source : [[@FoucartCommenteconomieest2020]], p144)
 
-Pour les économistes Stefano Bartolini et Luigi Bonatti, le PIB en tant qu'indice de la croissance ne traduirait pas l'augementation des richesses d'une population mais la dégradation des ressources environnementales et sociales. 
+Pour les économistes Stefano Bartolini et Luigi Bonatti, le [[PIB]] en tant qu'indice de la croissance ne traduirait pas l'augementation des richesses d'une population mais la dégradation des ressources environnementales et sociales. 
 La perte de capital social (qui facilitait autrefois par exemple les rencontres amoureuses ou le prêt de matériel pour réaliser des travaux) se traduit par la souscription à des comptes en ligne et l'acquisition de ces outils. La perte de fertilité des sols due à une exploitation trop intense conduit à l'achat d'intrants pour suppléer à cette perte de fertilité. Dans ces cas, l'augmentation des transactions marchandes, que mesure le PIB, s'accompagne d'une destruction du lien social et de l'environnement.
 
 > en conclusion, nos dirigeants pourraient tranquillement nous amener à la catastrophe sans jamais en avoir conscience puisque la croissance économique, seule et unique boussole offerte par la doctrine [[agorathéisme|agorathéiste]] pourrait toujours être orientée à la hausse, quand bien même le monde deviendrait progressivement invivable.

@@ -21,7 +21,7 @@ Une certaine école [[Psychanalyse|psychanalytique]] met en avant la grande labi
 
 ## les sociétés primitives et l'identité
 
-Pierre Clastres, dans Archéologie de la Violence montre que les peuplades des forêts d'Amérique du Sud vivent de manière très dispersée et n'entretiennent pas de relations commerciales avec les peuplades voisinnes, car elles craignent que ces échanges altèrent leur identité. Cette identité est vue comme la condition de survie de la communauté[[@clastresArcheologieViolenceGuerre2005]]. 
+Pierre Clastres, dans Archéologie de la Violence montre que les peuplades des forêts d'Amérique du Sud vivent de manière très dispersée et n'entretiennent pas de relations commerciales avec les peuplades voisinnes, car elles craignent que ces [[échange|échanges]] altèrent leur identité. Cette identité est vue comme la condition de survie de la communauté[[@clastresArcheologieViolenceGuerre2005]]. 
 
 > L'échange de tous avec tous serait la destruction de la société primitive, une logique centrifuge de l'émiettement, de la dispersion, de la scission telle que chaque communauté a besoin, pour se penser comme telle (comme totalité une), de la figure opposée de l'étranger ou de l'ennemi, telle que la possibilité de la violence est inscrite d'avance dans l'être social primitif
 

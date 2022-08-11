@@ -34,7 +34,7 @@ Selon Naomi Oreskes et Eric Conway, le principal moteur de l'agnotologie depuis 
 Des travaux ont montré que les cadres de la société Exxon avaient averti leurs supérieurs de la catastrophe à venir du réchauffement climatique du aux émissions de dioxyde de carbone. 
 Ces derniers n'ont eu de cesse dans les décennies suivantes que de ralentir de toutes les manières possibles la publication de résultats défavorables aux développements de leurs marchés, et cela en utilisant l'appareil d'Etat quand celui-ci était au mains de [[climato-scepticisme|climato-sceptiques]] (Georges W. Bush, Donald Trump)
 
-> Les chercheurs en sciences du climat ont été harcelés par le biais des lois de transparence selon lesquelles les universités et les agences de recherche publiques doivent tenir l'ensemble de leur documentation à la disposition de quiconque en fait la demande 
+> Les chercheurs en sciences du climat ont été harcelés par le biais des lois de transparence selon lesquelles les universités et les agences de [[rechrecherche publique]] doivent tenir l'ensemble de leur documentation à la disposition de quiconque en fait la demande 
 
 ([[@FoucartCommenteconomieest2020]], p211)
 

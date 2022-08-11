@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Etat.md",
+            "file": "text mining avec Europresse.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Etat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Etat.md",
+                "file": "text mining avec Europresse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "direction": "horizontal",
     "width": 137.5
   },
-  "active": "6e005a247eb07512",
+  "active": "19f2d5860fb037b8",
   "lastOpenFiles": [
-    "Identité et identification.md",
-    "autarcie.md",
-    "guerre.md",
-    "prêt_immobilier.md",
-    "antagonisme vs agonisme.md",
-    "fracture numérique.md",
-    "Bureaucratie numérique.md",
-    "John Perry Barlow.md",
-    "culture numérique.md",
-    "culture technique.md"
+    "inclusion.md",
+    "Communs.md",
+    "faire une revue de littérature avec Zotero.md",
+    "Effet de vérité implicite.md",
+    "markdown.md",
+    "Twine.md",
+    "recherche publique.md",
+    "rechrecherche publique.md",
+    "Agnotologie.md",
+    "references/@Decret20211572decembre2021.md"
   ]
 }

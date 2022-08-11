@@ -10,6 +10,10 @@ aliases: [guerres, war, wars, guerrier, guerrière, guerriers, guerrières]
 tags: [sciences_politiques]
 ---
 
+> Le meilleur ennemi de l'Etat, c'est la guerre
+
+(Pierre Clastre [[@clastresArcheologieViolenceGuerre2005]]
+
 moment d'inversion complète des valeurs où tuer devient non seulement légal mais obligatoire dans une certaine mesure. Si tu ne tues pas, on te tue. 
 
 # naturalité de la guerre ?
@@ -30,13 +34,20 @@ Si les êtres humains ne se livrent pas la guerre entre eux parce que leur natur
 
 ### la guerre comme faillite de la transaction commerciale
 
-Pour Lévi-Strauss, la relation commerciale a une antériorité ontologique par rapport à la guerre. Cette dernière serait la conclusion d'une transaction commerciale qui n'aurait pas fonctionné. Toutefois, Clastres fait remarquer que dans des sociétés qui parviennent à vivre dans une forme d'abondance par rapport à leurs besoins et où l'idéal anti-commercial est celui de l'[[autarcie]], les relations commerciales avec les autres peuples sont peu recherchées. Quand il y a des relations avec des peuples voisins, elles prennent plus souvent la forme de dons et de contre-dons (échanges). Dans la vision de Levi-Strauss, la guerre n'apparaît que comme faillite d'une pratique qui constitue la société primitive : l'échange de biens (Chez Hobbes, c'est la guerre de tous contre tous, chez Lévi-Strauss, c'est l'échange qui est la base des relations entre membres de sociétés primitives). A ce titre, elle n'est pas positive en soi, mais n'est que la conséquence négative de cette relation privilégiée. Pierre Clastres montre au contraire que les sociétés primitives sont autant structurées par la violence et la guerre qu'elles le sont par l'échange. 
+Pour Lévi-Strauss, la relation commerciale a une antériorité ontologique par rapport à la guerre. Cette dernière serait la conclusion d'une transaction commerciale qui n'aurait pas fonctionné. Toutefois, Clastres fait remarquer que dans des sociétés qui parviennent à vivre dans une forme d'abondance par rapport à leurs besoins et où l'idéal anti-commercial est celui de l'[[autarcie]], les relations commerciales avec les autres peuples sont peu recherchées. Quand il y a des relations avec des peuples voisins, elles prennent plus souvent la forme de dons et de contre-dons ([[échange|échanges]]). Dans la vision de Levi-Strauss, la guerre n'apparaît que comme faillite d'une pratique qui constitue la société primitive : l'échange de biens (Chez Hobbes, c'est la guerre de tous contre tous, chez Lévi-Strauss, c'est l'échange qui est la base des relations entre membres de sociétés primitives). A ce titre, elle n'est pas positive en soi, mais n'est que la conséquence négative de cette relation privilégiée. Pierre Clastres montre au contraire que les sociétés primitives sont autant structurées par la violence et la guerre qu'elles le sont par l'échange. 
 
-### le but de la guerre : morceler,  diviser la société
+### le but de la guerre : morceler,  diviser la société, 
 
 Pour Pierre Clastres, la guerre n'a pas de fonction biologique (Leroi-Gourhan), n'a pas de fondement économique (théorie marxiste), ne se substitue pas en cas de faillite à la logique de l'échange mais a pour finalité (plutôt que pour conséquence) de morceler les peuplades primitives. 
 
 > en son être la société primitive veut la dispersion [...] En d'autres termes, la guerre primitive est le moyen d'une fin politique
+
+Elle ne présente pas un enjeu économique mais un enjeu politique d'affirmation d'une identité propre (Nous contre Eux, les autres). 
+Les étrangers sont classés immédiatement comme ennemis et alliés et les rapports peuvent aisément s'inverser au gré des circonstances : les anciens alliés peuvent facilement devenir des ennemis et les anciens ennemis devenir des alliés. 
+Pour Clastres, la guerre est première et l'alliance est une conséquence de la guerre, une nécessité tactique pour ne pas avoir à faire face à trop d'ennemis en même temps. 
+La dispersion des peuplades primitives est lié à cette hostilité fondamentale des groupes entre eux. Dès que des groupes s'agrègent, cela signifie que des [[communauté|communautés]] perdent leur identité et c'est ainsi que naissent les civilisations.
+
+La société primitive est autant rétive aux échanges qu'elle l'est à l'Etat. Chez Hobbes, l'Etat et la guerre s'excluent mutuellement (on n'est pas en guerre les uns avec les autres, parce qu'on a un Etat qui nous subjugue). 
 
 # bibliographie
 

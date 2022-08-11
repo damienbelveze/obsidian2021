@@ -11,7 +11,7 @@ tags: []
 
 Mode de gestion d'une ressource qui, dans les travaux d'[[Elinor Ostrom]] se distingue de celui de la propriété ou bien de la gestion publique par un [[Etat]]  [[@Coriatbiencommunclimat2021]]. 
 
-Un bien commun fait l'objet d'un *droit inclusif* (par opposition au droit exclusif de la propriété privée).
+Un bien commun fait l'objet d'un *droit [[inclusion]]* (par opposition au droit exclusif de la propriété privée).
 Ce droit doit être garanti par la loi. 
 L'Etat est donc responsable de la garde de ce commun (en tant que garant du respect de la loi), mais pas administrateur (c'est la commuanuté qui administre)
 si le bien peut faire l'objet d'une exploitation commerciale par dérogation, il doit être d'un accès universel (accès universel à l'eau par exemple : gratuit pour les nécessités de la vie (20 litres à Naples), payant pour les usages non nécessaires). 

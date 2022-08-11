@@ -23,6 +23,14 @@ structure, partage et ouverture des données
 ouverture du code source (mise à disposition de logiciels produits lors de la recherche, utilisation de logiciels libres)
 Open science by design
 
+
+## publication en open access
+
+la liberté d'accès aux résultats de la science est vue comme un levier de croissance important par la commission européenne qui encourage et finance la transition vers une production intégralement en open access. 
+Les grandes entreprises font un usage plus important que par le passé des publications ouvertes. D'après des chiffres publiés par Marin Dacos en 2022, l'usage de publications en open access par le Crédit Mutuel est aussi important quantitativement que le téléchargement d'articles en open access de l'ensemble des chercheurs de Lausanne
+
+![](images/open_access_impact.jpg)
+
 ## Science ouverte à l'échelle mondiale
 
 UNESCO recommendations on Open science

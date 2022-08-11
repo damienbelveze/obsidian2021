@@ -40,7 +40,7 @@ marxisme :
 - éviter de brider l'initiative privée, favoriser l'expérimentation et l'innovation, tout en encadrant la production de services et de amarchandises par des règles nécessaires à la conservation du bien-être social et environnemental : pour être subventionné chaque bien produit devra satisfaire à des critères en matière d'utilité publique, de salubrité et de non-nocivité (à l'égard du social, du climat et de l'environnement)
 
 
-[[Frédéric Lordon]] fait référence à un autre modèle : le localisme, hérité de la production et de l'échange de biens au sein des [[ZAD]] :
+[[Frédéric Lordon]] fait référence à un autre modèle : le localisme, hérité de la production et de l'[[échange]] de biens au sein des [[ZAD]] :
 Cette division du travail locale ne peut simplement pas être étendue à l'échelle d'un pays ou d'une région entière ([[@LordonFigurescommunisme2021]], 94). 
 
 > Le style. La plume du stylo, son façonnage, le métal de la plume, qui déjà appelle toute l'industrie extractive puis la sidérurgie, le façonnage appelant lui les machines-outils, mais que ne faut-il pas de moyens pour produire ces moyens eux-mêmes, et n'oublions pas l'encre et les plastiques, la chimie qui les permet, l'énergie indispensable à tous ces processus,etc. Voilà ce que c'est que la division du travail : le macrosocial d'un mode de production entier présent dans chacun de ses produits
