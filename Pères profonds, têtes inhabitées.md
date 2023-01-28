@@ -1,4 +1,3 @@
-#écriture
   
 1.
 
@@ -14,7 +13,7 @@ La question fut répétée dans un arabe approximatif.
 
 De l’ombre sortit un géant roux en kamis et chaussures de sport, le fusil en bandoulière. 
 
-- Je suis berger, répondit Abdlelhak en arabe. Je me rends au Wadi Natrun, j’ai besoin de passer s’il vous plaît. 
+-Je suis berger, répondit Abdlelhak en arabe. Je me rends au Wadi Natrun, j’ai besoin de passer s’il vous plaît. 
 
   
 
@@ -42,23 +41,23 @@ Toujours baissant les yeux, Abdelhak contourna les deux gardes, et reprit sa mar
 
 Cette fois, c’est directement en arabe qu’on lui intima l’ordre de s’arrêter. 
 
-- Attends un peu, lui dit Wissam. Tu connais le Coran ?
+-Attends un peu, lui dit Wissam. Tu connais le Coran ?
 
-- Comme tout bon musulman.
+-Comme tout bon musulman.
 
-- On va voir ça : récite nous donc une sourate ! 
+-On va voir ça : récite nous donc une sourate ! 
 
 A toute vitesse, Abdelhak chercha à rassembler les bribes qu’il avait apprises à l’école. 
 
-- De la sourate des Croyants ?
+-De la sourate des Croyants ?
 
-- Je t’écoute.
+-Je t’écoute.
 
-- “Nous avons certes créé l’homme d’un extrait d’argile”. Nous avons créé un embryon; puis de cet embryon, Nous avons créé des os et Nous avons revêtu les os de chair. Ensuite, nous l’avons transformé en une toute autre création. 
+-“Nous avons certes créé l’homme d’un extrait d’argile”. Nous avons créé un embryon; puis de cet embryon, Nous avons créé des os et Nous avons revêtu les os de chair. Ensuite, nous l’avons transformé en une toute autre création. 
 
   
 
-Gloire à Allah, le meilleur des créateurs !”ajoutèrent à l’unisson Wissam et le géant. Ce dernier lui fit signe de continuer sa route. Cette fois, Abdelhak atteignit le pont sans être rappelé.
+Gloire à Allah, l'Unique créateur de toutes choses !”ajoutèrent à l’unisson Wissam et le géant. Ce dernier lui fit signe de continuer sa route. Cette fois, Abdelhak atteignit le pont sans être rappelé.
 
   
 
